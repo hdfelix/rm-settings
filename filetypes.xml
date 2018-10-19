@@ -1,0 +1,19 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="update" type="PLAIN_TEXT" />
+      <mapping pattern=".env.mysql" type="PLAIN_TEXT" />
+      <mapping pattern="csv_reports.rb" type="PLAIN_TEXT" />
+      <mapping pattern=".keep" type="PLAIN_TEXT" />
+      <mapping pattern="yarn" type="PLAIN_TEXT" />
+      <mapping pattern="customer-support/procedure.md" type="PLAIN_TEXT" />
+      <mapping pattern="VERSION" type="PLAIN_TEXT" />
+      <mapping pattern="Procfile" type="PLAIN_TEXT" />
+      <mapping ext="cscc" type="PLAIN_TEXT" />
+      <mapping ext="enc" type="PLAIN_TEXT" />
+      <mapping pattern="jenkins-deployment-process" type="Ruby" />
+      <mapping ext="dump" type="SQL" />
+      <mapping ext="yl" type="YAML" />
+    </extensionMap>
+  </component>
+</application>

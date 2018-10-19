@@ -1,0 +1,7 @@
+<templateSet group="Ruby">
+  <template name="pryr" value="puts 'Z' * 60&#10;puts current_url&#10;puts 'Z' * 60&#10;require 'pry'; binding.pry" description="Pry for RSpec" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="RUBY" value="true" />
+    </context>
+  </template>
+</templateSet>
