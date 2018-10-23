@@ -2751,6 +2751,13 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/bullet-5.7.5/tasks" />
       </excluded>
     </library>
+    <library name="bundle (v0.0.1, rbenv: 2.4.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="bundler (v1.15.4, rbenv: 1.9.3-p374) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
