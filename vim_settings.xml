@@ -3,6 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/developers/_sample/config/settings.yml" timestamp="1539282127224">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="137" column="7" />
+        <mark key="]" line="137" column="13" />
+        <mark key="." line="137" column="13" />
+        <mark key="^" line="137" column="13" />
+      </file>
       <file name="$USER_HOME$/code/io/io-engage/app/assets/stylesheets/active_admin.scss" timestamp="1540337519397">
         <mark key="'" line="137" column="0" />
         <mark key="[" line="137" column="1" />
@@ -23,168 +30,6 @@
         <mark key="." line="69" column="62" />
         <mark key="^" line="69" column="62" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/app/admin/reproduced_reason.rb" timestamp="1540332739432">
-        <mark key="'" line="26" column="4" />
-        <mark key="[" line="5" column="21" />
-        <mark key="]" line="6" column="1" />
-        <mark key="^" line="6" column="1" />
-        <mark key="." line="8" column="14" />
-      </file>
-      <file name="$USER_HOME$/code/io/io-engage/scripts/opt_out_all.rb" timestamp="1539901247586">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/io/io-engage/app/assets/stylesheets/base/items.scss" timestamp="1539714810470">
-        <mark key="'" line="754" column="0" />
-        <mark key="[" line="754" column="0" />
-        <mark key="]" line="754" column="0" />
-        <mark key="." line="754" column="0" />
-        <mark key="^" line="754" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/developers/ashaik/config/settings.yml" timestamp="1539282205159">
-        <mark key="'" line="2" column="14" />
-        <mark key="[" line="98" column="32" />
-        <mark key="]" line="98" column="47" />
-        <mark key="." line="98" column="47" />
-        <mark key="^" line="98" column="47" />
-      </file>
-      <file name="$USER_HOME$/code/io/sop/io-engage-event/scripts/items_scripts.rb" timestamp="1539481047660">
-        <mark key="'" line="9" column="4" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="34" />
-        <mark key="^" line="0" column="26" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/io/io-engage/app/models/substrate_category.rb" timestamp="1540335643683">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/shows/config/settings.yml" timestamp="1540255102603">
-        <mark key="'" line="141" column="6" />
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="114" />
-        <mark key="^" line="60" column="112" />
-        <mark key="." line="60" column="112" />
-      </file>
-      <file name="$USER_HOME$/code/io/sop/io-engage-event/scripts/relaunching_proofs.rb" timestamp="1539481254060">
-        <mark key="'" line="46" column="0" />
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="3" />
-        <mark key="^" line="34" column="3" />
-        <mark key="." line="34" column="3" />
-      </file>
-      <file name="$USER_HOME$/code/io/io-engage/spec/models/workflows/exhibitree_spec.rb" timestamp="1539901137739">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/developers/shared/spec/models/workflows/exhibitree_new_spec.rb" timestamp="1540250875833">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="44" column="3" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/io/io-engage/app/models/event.rb" timestamp="1540325707449">
-        <mark key="[" line="11" column="70" />
-        <mark key="]" line="11" column="74" />
-        <mark key="." line="11" column="74" />
-        <mark key="^" line="11" column="74" />
-      </file>
-      <file name="$USER_HOME$/code/io/io-engage/app/admin/translation.rb" timestamp="1540334518757">
-        <mark key="'" line="53" column="0" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/io/io-engage/config/settings.yml" timestamp="1540324583522">
-        <mark key="'" line="851" column="16" />
-        <mark key="[" line="869" column="25" />
-        <mark key="]" line="870" column="21" />
-        <mark key="^" line="870" column="21" />
-        <mark key="." line="867" column="32" />
-      </file>
-      <file name="$USER_HOME$/code/io/io-engage/app/admin/inactive_reason.rb" timestamp="1540332638802">
-        <mark key="[" line="24" column="16" />
-        <mark key="]" line="24" column="15" />
-        <mark key="^" line="24" column="15" />
-        <mark key="." line="24" column="15" />
-      </file>
-      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/developers/lou/config/settings.yml" timestamp="1539809665399">
-        <mark key="'" line="102" column="11" />
-        <mark key="[" line="88" column="11" />
-        <mark key="]" line="88" column="20" />
-        <mark key="." line="88" column="20" />
-        <mark key="^" line="88" column="20" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/871b9aae-bf87-4b29-9a52-072e6e1775f0/console.sql" timestamp="1539967371634">
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="86" column="9" />
-        <mark key="^" line="86" column="9" />
-        <mark key="." line="86" column="9" />
-      </file>
-      <file name="$USER_HOME$/code/io/sop/io-engage-event/deployment/jenkins-deployment-process.md" timestamp="1539715522830">
-        <mark key="'" line="11" column="24" />
-        <mark key="[" line="11" column="29" />
-        <mark key="]" line="11" column="28" />
-        <mark key="." line="11" column="28" />
-        <mark key="^" line="11" column="28" />
-      </file>
-      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/developers/manim/config/settings.yml" timestamp="1539282547184">
-        <mark key="'" line="21" column="39" />
-        <mark key="[" line="88" column="18" />
-        <mark key="]" line="88" column="18" />
-        <mark key="." line="88" column="18" />
-        <mark key="^" line="137" column="12" />
-      </file>
-      <file name="$USER_HOME$/code/io/io-engage/app/admin/rush.rb" timestamp="1540329673359">
-        <mark key="'" line="31" column="12" />
-        <mark key="[" line="57" column="7" />
-        <mark key="]" line="59" column="21" />
-        <mark key="." line="59" column="21" />
-        <mark key="^" line="59" column="21" />
-      </file>
-      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/developers/shared/app/models/workflows/exhibitree_new.rb" timestamp="1540319797607">
-        <mark key="'" line="46" column="28" />
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/shared/spec/models/workflows/exhibitree_new_spec.rb" timestamp="1540250850793">
-        <mark key="'" line="6" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="44" column="3" />
-        <mark key="." line="33" column="40" />
-        <mark key="^" line="33" column="40" />
-      </file>
-      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/shared/spec/models/workflows/exhibitree_spec.rb" timestamp="1539731489666">
-        <mark key="'" line="38" column="0" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="5" column="43" />
-        <mark key="^" line="33" column="75" />
-      </file>
-      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/demo/master/config/settings.yml" timestamp="1539279601443">
-        <mark key="'" line="107" column="21" />
-        <mark key="[" line="21" column="39" />
-        <mark key="]" line="21" column="44" />
-        <mark key="." line="21" column="44" />
-        <mark key="^" line="21" column="44" />
-      </file>
-      <file name="$USER_HOME$/code/io/io-engage/app/admin/vendor.rb" timestamp="1540329428953">
-        <mark key="'" line="101" column="25" />
-        <mark key="[" line="26" column="23" />
-        <mark key="]" line="26" column="24" />
-        <mark key="." line="26" column="24" />
-        <mark key="^" line="94" column="13" />
-      </file>
-      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/developers/_sample/config/settings.yml" timestamp="1539282127224">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="137" column="7" />
-        <mark key="]" line="137" column="13" />
-        <mark key="." line="137" column="13" />
-        <mark key="^" line="137" column="13" />
-      </file>
       <file name="$USER_HOME$/code/io/io-engage/spec/models/graphic_type_spec.rb" timestamp="1540339213995">
         <mark key="[" line="24" column="51" />
         <mark key="]" line="24" column="59" />
@@ -197,6 +42,13 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/io/io-engage/app/admin/reproduced_reason.rb" timestamp="1540332739432">
+        <mark key="'" line="26" column="4" />
+        <mark key="[" line="5" column="21" />
+        <mark key="]" line="6" column="1" />
+        <mark key="^" line="6" column="1" />
+        <mark key="." line="8" column="14" />
       </file>
       <file name="$USER_HOME$/code/io/io-engage/app/models/graphic_type.rb" timestamp="1540339068457">
         <mark key="[" line="19" column="23" />
@@ -230,11 +82,30 @@
         <mark key="^" line="29" column="121" />
         <mark key="." line="111" column="11" />
       </file>
+      <file name="$USER_HOME$/code/io/io-engage/scripts/opt_out_all.rb" timestamp="1539901247586">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/18f2ac5a-39af-4578-8854-03936b72b2d2/console.sql" timestamp="1539967094237">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="4" />
         <mark key="^" line="20" column="4" />
         <mark key="." line="20" column="4" />
+      </file>
+      <file name="$USER_HOME$/code/io/io-engage/app/assets/stylesheets/base/items.scss" timestamp="1539714810470">
+        <mark key="'" line="754" column="0" />
+        <mark key="[" line="754" column="0" />
+        <mark key="]" line="754" column="0" />
+        <mark key="." line="754" column="0" />
+        <mark key="^" line="754" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/developers/ashaik/config/settings.yml" timestamp="1539282205159">
+        <mark key="'" line="2" column="14" />
+        <mark key="[" line="98" column="32" />
+        <mark key="]" line="98" column="47" />
+        <mark key="." line="98" column="47" />
+        <mark key="^" line="98" column="47" />
       </file>
       <file name="$USER_HOME$/code/io/io-engage/app/admin/sub_status.rb" timestamp="1540334832547">
         <mark key="'" line="52" column="4" />
@@ -250,6 +121,13 @@
         <mark key="^" line="15" column="0" />
         <mark key="." line="22" column="0" />
       </file>
+      <file name="$USER_HOME$/.kops.yaml" timestamp="1540417209398">
+        <mark key="'" line="32" column="6" />
+        <mark key="[" line="31" column="29" />
+        <mark key="]" line="31" column="33" />
+        <mark key="." line="31" column="33" />
+        <mark key="^" line="31" column="33" />
+      </file>
       <file name="$USER_HOME$/code/io/io-engage/config/database.yml" timestamp="1539737080088">
         <mark key="'" line="43" column="27" />
         <mark key="[" line="2" column="17" />
@@ -262,6 +140,37 @@
         <mark key="]" line="19" column="1" />
         <mark key="." line="19" column="1" />
         <mark key="^" line="19" column="3" />
+      </file>
+      <file name="$USER_HOME$/code/io/sop/io-engage-event/scripts/items_scripts.rb" timestamp="1539481047660">
+        <mark key="'" line="9" column="4" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="34" />
+        <mark key="^" line="0" column="26" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/io/io-engage/app/models/substrate_category.rb" timestamp="1540335643683">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/shows/config/settings.yml" timestamp="1540255102603">
+        <mark key="'" line="141" column="6" />
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="114" />
+        <mark key="^" line="60" column="112" />
+        <mark key="." line="60" column="112" />
+      </file>
+      <file name="$USER_HOME$/code/io/sop/io-engage-event/scripts/relaunching_proofs.rb" timestamp="1539481254060">
+        <mark key="'" line="46" column="0" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="3" />
+        <mark key="^" line="34" column="3" />
+        <mark key="." line="34" column="3" />
+      </file>
+      <file name="$USER_HOME$/code/io/io-engage/spec/models/workflows/exhibitree_spec.rb" timestamp="1539901137739">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/shared/app/models/workflows/exhibitree.rb" timestamp="1539731153550">
         <mark key="'" line="106" column="2" />
@@ -277,17 +186,68 @@
         <mark key="." line="77" column="0" />
         <mark key="^" line="81" column="36" />
       </file>
+      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/developers/shared/spec/models/workflows/exhibitree_new_spec.rb" timestamp="1540250875833">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="44" column="3" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/io/io-engage/app/models/event.rb" timestamp="1540325707449">
+        <mark key="[" line="11" column="70" />
+        <mark key="]" line="11" column="74" />
+        <mark key="." line="11" column="74" />
+        <mark key="^" line="11" column="74" />
+      </file>
+      <file name="$USER_HOME$/code/io/io-engage/app/admin/translation.rb" timestamp="1540334518757">
+        <mark key="'" line="53" column="0" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/io/io-engage/config/settings.yml" timestamp="1540324583522">
+        <mark key="'" line="851" column="16" />
+        <mark key="[" line="869" column="25" />
+        <mark key="]" line="870" column="21" />
+        <mark key="^" line="870" column="21" />
+        <mark key="." line="867" column="32" />
+      </file>
+      <file name="$USER_HOME$/code/io/io-engage/app/admin/inactive_reason.rb" timestamp="1540332638802">
+        <mark key="[" line="24" column="16" />
+        <mark key="]" line="24" column="15" />
+        <mark key="^" line="24" column="15" />
+        <mark key="." line="24" column="15" />
+      </file>
       <file name="$USER_HOME$/code/io/io-engage/app/admin/graphic_category.rb" timestamp="1540335314685">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="^" line="10" column="21" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io_engage_configuration/.env" timestamp="1540416058052">
+      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/developers/lou/config/settings.yml" timestamp="1539809665399">
+        <mark key="'" line="102" column="11" />
+        <mark key="[" line="88" column="11" />
+        <mark key="]" line="88" column="20" />
+        <mark key="." line="88" column="20" />
+        <mark key="^" line="88" column="20" />
+      </file>
+      <file name="$USER_HOME$/code/io/io_engage_configuration/.env" timestamp="1540416913071">
+        <mark key="'" line="5" column="31" />
         <mark key="[" line="4" column="32" />
         <mark key="]" line="4" column="36" />
         <mark key="^" line="4" column="36" />
         <mark key="." line="5" column="32" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/871b9aae-bf87-4b29-9a52-072e6e1775f0/console.sql" timestamp="1539967371634">
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="86" column="9" />
+        <mark key="^" line="86" column="9" />
+        <mark key="." line="86" column="9" />
+      </file>
+      <file name="$USER_HOME$/code/io/sop/io-engage-event/deployment/jenkins-deployment-process.md" timestamp="1539715522830">
+        <mark key="'" line="11" column="24" />
+        <mark key="[" line="11" column="29" />
+        <mark key="]" line="11" column="28" />
+        <mark key="." line="11" column="28" />
+        <mark key="^" line="11" column="28" />
       </file>
       <file name="$USER_HOME$/code/io/io-engage/Gemfile" timestamp="1540334435233">
         <mark key="'" line="105" column="7" />
@@ -302,10 +262,24 @@
         <mark key="^" line="14" column="26" />
         <mark key="." line="14" column="26" />
       </file>
+      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/developers/manim/config/settings.yml" timestamp="1539282547184">
+        <mark key="'" line="21" column="39" />
+        <mark key="[" line="88" column="18" />
+        <mark key="]" line="88" column="18" />
+        <mark key="." line="88" column="18" />
+        <mark key="^" line="137" column="12" />
+      </file>
       <file name="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/shows/config/database.yml" timestamp="1539715709494">
         <mark key="[" line="5" column="12" />
         <mark key="]" line="5" column="22" />
         <mark key="." line="5" column="22" />
+      </file>
+      <file name="$USER_HOME$/code/io/io-engage/app/admin/rush.rb" timestamp="1540329673359">
+        <mark key="'" line="31" column="12" />
+        <mark key="[" line="57" column="7" />
+        <mark key="]" line="59" column="21" />
+        <mark key="." line="59" column="21" />
+        <mark key="^" line="59" column="21" />
       </file>
       <file name="$USER_HOME$/code/io/io-engage/lib/zone_items_import.rb" timestamp="1539326791655">
         <mark key="'" line="3" column="43" />
@@ -320,10 +294,30 @@
         <mark key="." line="49" column="58" />
         <mark key="^" line="49" column="58" />
       </file>
+      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/developers/shared/app/models/workflows/exhibitree_new.rb" timestamp="1540319797607">
+        <mark key="'" line="46" column="28" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1539996432336">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/shared/spec/models/workflows/exhibitree_new_spec.rb" timestamp="1540250850793">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="44" column="3" />
+        <mark key="." line="33" column="40" />
+        <mark key="^" line="33" column="40" />
+      </file>
+      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/shared/spec/models/workflows/exhibitree_spec.rb" timestamp="1539731489666">
+        <mark key="'" line="38" column="0" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="5" column="43" />
+        <mark key="^" line="33" column="75" />
       </file>
       <file name="$USER_HOME$/code/io/io-engage/app/models/vendor_rush.rb" timestamp="1540331581922">
         <mark key="'" line="12" column="0" />
@@ -338,6 +332,13 @@
         <mark key="]" line="71" column="19" />
         <mark key="." line="71" column="19" />
         <mark key="^" line="71" column="19" />
+      </file>
+      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/demo/master/config/settings.yml" timestamp="1539279601443">
+        <mark key="'" line="107" column="21" />
+        <mark key="[" line="21" column="39" />
+        <mark key="]" line="21" column="44" />
+        <mark key="." line="21" column="44" />
+        <mark key="^" line="21" column="44" />
       </file>
       <file name="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/events/config/settings.yml" timestamp="1540255139863">
         <mark key="'" line="153" column="16" />
@@ -366,6 +367,13 @@
         <mark key="^" line="17" column="3" />
         <mark key="." line="17" column="3" />
       </file>
+      <file name="$USER_HOME$/code/io/io-engage/app/admin/vendor.rb" timestamp="1540329428953">
+        <mark key="'" line="101" column="25" />
+        <mark key="[" line="26" column="23" />
+        <mark key="]" line="26" column="24" />
+        <mark key="." line="26" column="24" />
+        <mark key="^" line="94" column="13" />
+      </file>
       <file name="$USER_HOME$/code/io/io_engage_configuration/instances/developers/hfelix/config/settings.yml" timestamp="1540401022846">
         <mark key="'" line="14" column="33" />
         <mark key="[" line="16" column="41" />
@@ -375,28 +383,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="49" filename="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/shows/config/settings.yml" />
-      <jump line="54" column="2" filename="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/shows/config/settings.yml" />
-      <jump line="39" column="20" filename="$USER_HOME$/code/io/io-engage/spec/models/copy_spec.rb" />
-      <jump line="18" column="0" filename="$USER_HOME$/code/io/io-engage/app/models/copy.rb" />
-      <jump line="21" column="6" filename="$USER_HOME$/code/io/io-engage/app/models/copy.rb" />
-      <jump line="7" column="19" filename="$USER_HOME$/code/io/io-engage/app/jobs/notification_resque_scheduler_job.rb" />
-      <jump line="3" column="1" filename="$USER_HOME$/code/io/io-engage/app/jobs/notification_resque_scheduler_job.rb" />
-      <jump line="20" column="0" filename="$USER_HOME$/code/io/io-engage/app/jobs/notification_resque_scheduler_job.rb" />
-      <jump line="132" column="4" filename="$USER_HOME$/code/io/io-engage/app/services/s3_key_copy.rb" />
-      <jump line="89" column="17" filename="$USER_HOME$/code/io/io_engage_configuration/instances/developers/hfelix/config/settings.yml" />
-      <jump line="132" column="2" filename="$USER_HOME$/code/io/io_engage_configuration/instances/developers/hfelix/config/settings.yml" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/io/io_engage_configuration/instances/developers/hfelix/config/settings.yml" />
-      <jump line="1" column="0" filename="$USER_HOME$/code/io/io_engage_configuration/instances/developers/hfelix/config/settings.yml" />
-      <jump line="7" column="6" filename="$USER_HOME$/code/io/io_engage_configuration/instances/developers/hfelix/config/settings.yml" />
-      <jump line="14" column="20" filename="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/events/config/settings.yml" />
-      <jump line="54" column="0" filename="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/events/config/settings.yml" />
-      <jump line="13" column="2" filename="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/events/config/settings.yml" />
-      <jump line="159" column="0" filename="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/events/config/settings.yml" />
-      <jump line="10" column="2" filename="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/events/config/settings.yml" />
-      <jump line="101" column="81" filename="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/events/config/settings.yml" />
-      <jump line="130" column="67" filename="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/events/config/settings.yml" />
-      <jump line="131" column="75" filename="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/events/config/settings.yml" />
       <jump line="143" column="56" filename="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/events/config/settings.yml" />
       <jump line="187" column="3" filename="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/events/config/settings.yml" />
       <jump line="189" column="0" filename="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/events/config/settings.yml" />
@@ -475,6 +461,28 @@
       <jump line="119" column="0" filename="$USER_HOME$/code/io/io-engage/app/admin/graphic_type.rb" />
       <jump line="217" column="6" filename="$USER_HOME$/code/io/io-engage/app/admin/graphic_type.rb" />
       <jump line="14" column="33" filename="$USER_HOME$/code/io/io_engage_configuration/instances/developers/hfelix/config/settings.yml" />
+      <jump line="5" column="31" filename="$USER_HOME$/code/io/io_engage_configuration/.env" />
+      <jump line="15" column="0" filename="$USER_HOME$/.kops.yaml" />
+      <jump line="57" column="27" filename="$USER_HOME$/.kops.yaml" />
+      <jump line="37" column="6" filename="$USER_HOME$/.kops.yaml" />
+      <jump line="39" column="6" filename="$USER_HOME$/.kops.yaml" />
+      <jump line="40" column="4" filename="$USER_HOME$/.kops.yaml" />
+      <jump line="43" column="6" filename="$USER_HOME$/.kops.yaml" />
+      <jump line="45" column="6" filename="$USER_HOME$/.kops.yaml" />
+      <jump line="47" column="6" filename="$USER_HOME$/.kops.yaml" />
+      <jump line="48" column="4" filename="$USER_HOME$/.kops.yaml" />
+      <jump line="66" column="4" filename="$USER_HOME$/.kops.yaml" />
+      <jump line="70" column="4" filename="$USER_HOME$/.kops.yaml" />
+      <jump line="35" column="6" filename="$USER_HOME$/.kops.yaml" />
+      <jump line="7" column="2" filename="$USER_HOME$/.kops.yaml" />
+      <jump line="6" column="0" filename="$USER_HOME$/.kops.yaml" />
+      <jump line="56" column="24" filename="$USER_HOME$/.kops.yaml" />
+      <jump line="5" column="8" filename="$USER_HOME$/.kops.yaml" />
+      <jump line="31" column="47" filename="$USER_HOME$/.kops.yaml" />
+      <jump line="55" column="35" filename="$USER_HOME$/.kops.yaml" />
+      <jump line="8" column="10" filename="$USER_HOME$/.kops.yaml" />
+      <jump line="2" column="6" filename="$USER_HOME$/.kops.yaml" />
+      <jump line="32" column="6" filename="$USER_HOME$/.kops.yaml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4179,7 +4187,7 @@
         <text />
       </register>
       <register name="/" type="4">
-        <text>9090</text>
+        <text>Cluster</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGl0IHsgaXNfZXhwZWN0ZWQudG8gZGVsZWdhdGVfbWV0aG9kKDpuYW1lKS50byg6d29ya2JhY2tfc2NoZWR1bGVfc2V0KS53aXRoX3ByZWZpeCB9Cg==</text>
@@ -4616,13 +4624,13 @@
         <text encoding="base64">ICAgIGNvbHVtbiA6Y3JlYXRlZF9hdAogICAgY29sdW1uIDp1cGRhdGVkX2F0Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>e /Users/hector/.kops.yaml</text>
       </register>
     </registers>
     <search>
-      <last-search>9090</last-search>
+      <last-search>Cluster</last-search>
       <last-offset />
-      <last-pattern>9090</last-pattern>
+      <last-pattern>Cluster</last-pattern>
       <last-replace encoding="base64">XCZkZWZhdWx0</last-replace>
       <last-substitute encoding="base64">XCZzYW1wbGU=</last-substitute>
       <last-dir>1</last-dir>
@@ -4630,12 +4638,6 @@
     </search>
     <history>
       <history-search>
-        <entry>cache</entry>
-        <entry encoding="base64">JnNhbXBsZQ==</entry>
-        <entry encoding="base64">XCZzYW1wbGU=</entry>
-        <entry>queue</entry>
-        <entry>overcommit</entry>
-        <entry>graphic</entry>
         <entry>items</entry>
         <entry>out_for_exhibitree_approval</entry>
         <entry>Workflow</entry>
@@ -4650,9 +4652,14 @@
         <entry>pre</entry>
         <entry>delegate</entry>
         <entry>9090</entry>
+        <entry>proof</entry>
+        <entry>proofreview</entry>
+        <entry>name</entry>
+        <entry>nonprod</entry>
+        <entry>io-engage.k8s</entry>
+        <entry>Cluster</entry>
       </history-search>
       <history-cmd>
-        <entry>%s:has_engineering_requirement\:\w(.*),:\1:c</entry>
         <entry>%s:has_engineering_requirement\:\s(.*),:\1:c</entry>
         <entry>%s:has_engineering_requirement\: (.*),:\1:c</entry>
         <entry>%s:has_engineering_requirement\: \(.*\),:\1:c</entry>
@@ -4672,6 +4679,7 @@
         <entry encoding="base64">JXM6JnNhbXBsZTomZGVmYXVsdDpj</entry>
         <entry encoding="base64">JXM6XCZzYW1wbGU6XCZkZWZhdWx0OmM=</entry>
         <entry>w</entry>
+        <entry>e /Users/hector/.kops.yaml</entry>
       </history-cmd>
       <history-expr />
       <history-input />
