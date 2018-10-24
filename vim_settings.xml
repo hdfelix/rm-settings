@@ -283,6 +283,12 @@
         <mark key="^" line="10" column="21" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/code/io/io_engage_configuration/.env" timestamp="1540416058052">
+        <mark key="[" line="4" column="32" />
+        <mark key="]" line="4" column="36" />
+        <mark key="^" line="4" column="36" />
+        <mark key="." line="5" column="32" />
+      </file>
       <file name="$USER_HOME$/code/io/io-engage/Gemfile" timestamp="1540334435233">
         <mark key="'" line="105" column="7" />
         <mark key="[" line="26" column="0" />
@@ -475,7 +481,7 @@
         <text>_w</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>m</text>
       </register>
       <register name="b" type="4">
         <text>kkjj</text>
@@ -4167,7 +4173,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>m</text>
       </register>
       <register name="n" type="4">
         <text />
