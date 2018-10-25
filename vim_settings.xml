@@ -64,6 +64,12 @@
         <mark key="." line="204" column="6" />
         <mark key="^" line="196" column="52" />
       </file>
+      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/shared/instance_build.sh" timestamp="1540508152538">
+        <mark key="[" line="1" column="15" />
+        <mark key="]" line="1" column="14" />
+        <mark key="." line="1" column="14" />
+        <mark key="^" line="1" column="14" />
+      </file>
       <file name="$USER_HOME$/code/io/io-engage/.rubocop.yml" timestamp="1539901112178">
         <mark key="[" line="9" column="28" />
         <mark key="]" line="9" column="28" />
@@ -347,12 +353,12 @@
         <mark key="." line="21" column="44" />
         <mark key="^" line="21" column="44" />
       </file>
-      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/events/config/settings.yml" timestamp="1540255139863">
+      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/events/config/settings.yml" timestamp="1540508198179">
         <mark key="'" line="153" column="16" />
-        <mark key="[" line="152" column="0" />
-        <mark key="]" line="152" column="10" />
-        <mark key="." line="152" column="10" />
-        <mark key="^" line="149" column="9" />
+        <mark key="[" line="23" column="45" />
+        <mark key="]" line="23" column="51" />
+        <mark key="." line="23" column="51" />
+        <mark key="^" line="23" column="51" />
       </file>
       <file name="$USER_HOME$/code/io/io-engage/spec/models/vendor_rush_spec.rb" timestamp="1540330631467">
         <mark key="'" line="17" column="30" />
@@ -496,7 +502,7 @@
         <text>_w</text>
       </register>
       <register name="&quot;" type="4">
-        <text>w</text>
+        <text>2</text>
       </register>
       <register name="b" type="4">
         <text>kkjj</text>
@@ -4188,7 +4194,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>w</text>
+        <text>2</text>
       </register>
       <register name="n" type="4">
         <text />
