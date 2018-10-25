@@ -11,11 +11,8 @@
         <mark key="^" line="137" column="13" />
       </file>
       <file name="$USER_HOME$/code/io/io-engage/app/assets/stylesheets/active_admin.scss" timestamp="1540491588106">
-        <mark key="'" line="133" column="0" />
+        <mark key="'" line="132" column="0" />
         <mark key="[" line="91" column="1" />
-        <mark key="]" line="92" column="0" />
-        <mark key="." line="92" column="0" />
-        <mark key="^" line="92" column="0" />
       </file>
       <file name="$USER_HOME$/code/io/sop/io-engage-event/scripts/postgres_commands.md" timestamp="1539737122162">
         <mark key="'" line="47" column="3" />
@@ -119,13 +116,6 @@
         <mark key="]" line="12" column="21" />
         <mark key="^" line="12" column="21" />
         <mark key="." line="12" column="21" />
-      </file>
-      <file name="$USER_HOME$/code/io/io-engage/app/admin/sub_status.rb" timestamp="1540334832547">
-        <mark key="'" line="52" column="4" />
-        <mark key="[" line="69" column="17" />
-        <mark key="]" line="71" column="21" />
-        <mark key="^" line="71" column="21" />
-        <mark key="." line="71" column="21" />
       </file>
       <file name="$USER_HOME$/code/io/io-engage/app/models/copy.rb" timestamp="1539900457514">
         <mark key="'" line="21" column="6" />
@@ -281,13 +271,6 @@
         <mark key="[" line="5" column="12" />
         <mark key="]" line="5" column="22" />
         <mark key="." line="5" column="22" />
-      </file>
-      <file name="$USER_HOME$/code/io/io-engage/app/admin/rush.rb" timestamp="1540329673359">
-        <mark key="'" line="31" column="12" />
-        <mark key="[" line="57" column="7" />
-        <mark key="]" line="59" column="21" />
-        <mark key="." line="59" column="21" />
-        <mark key="^" line="59" column="21" />
       </file>
       <file name="$USER_HOME$/code/io/io-engage/lib/zone_items_import.rb" timestamp="1539326791655">
         <mark key="'" line="3" column="43" />
