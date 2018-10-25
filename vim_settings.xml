@@ -107,6 +107,12 @@
         <mark key="." line="98" column="47" />
         <mark key="^" line="98" column="47" />
       </file>
+      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/developers/hfelix/k8s/instance-values.yaml" timestamp="1540426524963">
+        <mark key="[" line="12" column="22" />
+        <mark key="]" line="12" column="21" />
+        <mark key="^" line="12" column="21" />
+        <mark key="." line="12" column="21" />
+      </file>
       <file name="$USER_HOME$/code/io/io-engage/app/admin/sub_status.rb" timestamp="1540334832547">
         <mark key="'" line="52" column="4" />
         <mark key="[" line="69" column="17" />
