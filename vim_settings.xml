@@ -111,11 +111,11 @@
         <mark key="." line="98" column="47" />
         <mark key="^" line="98" column="47" />
       </file>
-      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/developers/hfelix/k8s/instance-values.yaml" timestamp="1540426524963">
-        <mark key="[" line="12" column="22" />
-        <mark key="]" line="12" column="21" />
+      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/developers/hfelix/k8s/instance-values.yaml" timestamp="1540511289443">
+        <mark key="[" line="12" column="21" />
+        <mark key="]" line="12" column="22" />
         <mark key="^" line="12" column="21" />
-        <mark key="." line="12" column="21" />
+        <mark key="." line="12" column="22" />
       </file>
       <file name="$USER_HOME$/code/io/io-engage/app/models/copy.rb" timestamp="1539900457514">
         <mark key="'" line="21" column="6" />
@@ -156,12 +156,12 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/shows/config/settings.yml" timestamp="1540503365724">
-        <mark key="'" line="182" column="2" />
-        <mark key="[" line="55" column="21" />
-        <mark key="]" line="55" column="21" />
+      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/shows/config/settings.yml" timestamp="1540511445033">
+        <mark key="'" line="107" column="21" />
+        <mark key="[" line="45" column="36" />
+        <mark key="]" line="45" column="36" />
         <mark key="^" line="60" column="112" />
-        <mark key="." line="55" column="21" />
+        <mark key="." line="45" column="36" />
       </file>
       <file name="$USER_HOME$/code/io/sop/io-engage-event/scripts/relaunching_proofs.rb" timestamp="1539481254060">
         <mark key="'" line="46" column="0" />
@@ -325,8 +325,8 @@
         <mark key="." line="21" column="44" />
         <mark key="^" line="21" column="44" />
       </file>
-      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/events/config/settings.yml" timestamp="1540508198179">
-        <mark key="'" line="153" column="16" />
+      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/events/config/settings.yml" timestamp="1540511474526">
+        <mark key="'" line="31" column="19" />
         <mark key="[" line="23" column="45" />
         <mark key="]" line="23" column="51" />
         <mark key="." line="23" column="51" />
@@ -374,34 +374,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="137" column="2" filename="$USER_HOME$/code/io/io_engage_configuration/instances/developers/hfelix/config/settings.yml" />
-      <jump line="17" column="81" filename="$USER_HOME$/code/io/io_engage_configuration/instances/developers/hfelix/config/settings.yml" />
-      <jump line="16" column="8" filename="$USER_HOME$/code/io/io_engage_configuration/instances/developers/hfelix/config/settings.yml" />
-      <jump line="31" column="19" filename="$USER_HOME$/code/io/io_engage_configuration/instances/developers/hfelix/config/settings.yml" />
-      <jump line="9" column="2" filename="$USER_HOME$/code/io/io_engage_configuration/instances/developers/hfelix/config/settings.yml" />
-      <jump line="265" column="7" filename="$USER_HOME$/code/io/io_engage_configuration/instances/developers/hfelix/config/settings.yml" />
-      <jump line="151" column="13" filename="$USER_HOME$/code/io/io_engage_configuration/instances/developers/hfelix/config/settings.yml" />
-      <jump line="6" column="0" filename="$USER_HOME$/code/io/io_engage_configuration/instances/developers/hfelix/config/settings.yml" />
-      <jump line="74" column="32" filename="$USER_HOME$/code/io/io_engage_configuration/instances/developers/hfelix/config/settings.yml" />
-      <jump line="238" column="2" filename="$USER_HOME$/code/io/io_engage_configuration/instances/developers/hfelix/config/settings.yml" />
-      <jump line="274" column="16" filename="$USER_HOME$/code/io/io_engage_configuration/instances/developers/hfelix/config/settings.yml" />
-      <jump line="4" column="3" filename="$USER_HOME$/code/io/io_engage_configuration/instances/developers/hfelix/config/settings.yml" />
-      <jump line="12" column="0" filename="$USER_HOME$/code/io/io_engage_configuration/instances/developers/hfelix/config/settings.yml" />
-      <jump line="13" column="37" filename="$USER_HOME$/code/io/io-engage/lib/exhibitree_item_number_generator.rb" />
-      <jump line="30" column="2" filename="$USER_HOME$/code/io/io-engage/lib/exhibitree_item_number_generator.rb" />
-      <jump line="2" column="0" filename="$USER_HOME$/code/io/io-engage/Gemfile" />
-      <jump line="26" column="5" filename="$USER_HOME$/code/io/io-engage/Gemfile" />
-      <jump line="106" column="7" filename="$USER_HOME$/code/io/io-engage/Gemfile" />
-      <jump line="247" column="15" filename="$USER_HOME$/code/io/io_engage_configuration/instances/developers/hfelix/config/settings.yml" />
-      <jump line="79" column="53" filename="$USER_HOME$/code/io/io_engage_configuration/instances/developers/shared/app/models/workflows/exhibitree_new.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/io/io_engage_configuration/instances/developers/shared/app/models/workflows/exhibitree_new.rb" />
-      <jump line="34" column="26" filename="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/shared/app/models/workflows/exhibitree_new.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/shared/app/models/workflows/exhibitree_new.rb" />
-      <jump line="30" column="28" filename="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/shared/spec/models/workflows/exhibitree_new_spec.rb" />
-      <jump line="6" column="0" filename="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/shared/spec/models/workflows/exhibitree_new_spec.rb" />
-      <jump line="45" column="28" filename="$USER_HOME$/code/io/io_engage_configuration/instances/developers/shared/app/models/workflows/exhibitree_new.rb" />
-      <jump line="141" column="6" filename="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/shows/config/settings.yml" />
-      <jump line="249" column="2" filename="$USER_HOME$/code/io/io_engage_configuration/instances/developers/hfelix/config/settings.yml" />
       <jump line="280" column="2" filename="$USER_HOME$/code/io/io_engage_configuration/instances/developers/hfelix/config/settings.yml" />
       <jump line="127" column="21" filename="$USER_HOME$/code/io/io_engage_configuration/instances/developers/hfelix/config/settings.yml" />
       <jump line="153" column="16" filename="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/events/config/settings.yml" />
@@ -474,13 +446,41 @@
       <jump line="182" column="2" filename="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/shows/config/settings.yml" />
       <jump line="62" column="28" filename="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/shared/app/models/workflows/exhibitree_old.rb" />
       <jump line="105" column="20" filename="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/shared/app/models/workflows/exhibitree.rb" />
+      <jump line="14" column="0" filename="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/shows/config/settings.yml" />
+      <jump line="119" column="15" filename="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/shows/config/settings.yml" />
+      <jump line="127" column="12" filename="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/shows/config/settings.yml" />
+      <jump line="172" column="16" filename="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/shows/config/settings.yml" />
+      <jump line="188" column="7" filename="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/shows/config/settings.yml" />
+      <jump line="0" column="19" filename="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/shows/config/settings.yml" />
+      <jump line="3" column="22" filename="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/shows/config/settings.yml" />
+      <jump line="4" column="18" filename="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/shows/config/settings.yml" />
+      <jump line="5" column="17" filename="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/shows/config/settings.yml" />
+      <jump line="45" column="25" filename="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/shows/config/settings.yml" />
+      <jump line="46" column="20" filename="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/shows/config/settings.yml" />
+      <jump line="47" column="11" filename="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/shows/config/settings.yml" />
+      <jump line="53" column="65" filename="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/shows/config/settings.yml" />
+      <jump line="56" column="41" filename="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/shows/config/settings.yml" />
+      <jump line="57" column="55" filename="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/shows/config/settings.yml" />
+      <jump line="66" column="32" filename="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/shows/config/settings.yml" />
+      <jump line="69" column="19" filename="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/shows/config/settings.yml" />
+      <jump line="70" column="21" filename="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/shows/config/settings.yml" />
+      <jump line="74" column="25" filename="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/shows/config/settings.yml" />
+      <jump line="76" column="27" filename="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/shows/config/settings.yml" />
+      <jump line="80" column="39" filename="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/shows/config/settings.yml" />
+      <jump line="107" column="21" filename="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/shows/config/settings.yml" />
+      <jump line="13" column="12" filename="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/events/config/settings.yml" />
+      <jump line="17" column="65" filename="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/events/config/settings.yml" />
+      <jump line="23" column="25" filename="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/events/config/settings.yml" />
+      <jump line="24" column="20" filename="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/events/config/settings.yml" />
+      <jump line="25" column="11" filename="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/events/config/settings.yml" />
+      <jump line="31" column="19" filename="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/events/config/settings.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>_w</text>
       </register>
       <register name="&quot;" type="4">
-        <text>2</text>
+        <text>c</text>
       </register>
       <register name="b" type="4">
         <text>kkjj</text>
@@ -4172,13 +4172,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>c</text>
       </register>
       <register name="n" type="4">
         <text />
       </register>
       <register name="/" type="4">
-        <text>New</text>
+        <text>exhibitree</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGl0IHsgaXNfZXhwZWN0ZWQudG8gZGVsZWdhdGVfbWV0aG9kKDpuYW1lKS50byg6d29ya2JhY2tfc2NoZWR1bGVfc2V0KS53aXRoX3ByZWZpeCB9Cg==</text>
@@ -4619,9 +4619,9 @@
       </register>
     </registers>
     <search>
-      <last-search>New</last-search>
+      <last-search>exhibitree</last-search>
       <last-offset />
-      <last-pattern>New</last-pattern>
+      <last-pattern>exhibitree</last-pattern>
       <last-replace encoding="base64">XCZkZWZhdWx0</last-replace>
       <last-substitute encoding="base64">XCZzYW1wbGU=</last-substitute>
       <last-dir>1</last-dir>
@@ -4629,8 +4629,6 @@
     </search>
     <history>
       <history-search>
-        <entry>out_for_exhibitree_approval</entry>
-        <entry>Workflow</entry>
         <entry>workfow</entry>
         <entry>workflow</entry>
         <entry>file_issues</entry>
@@ -4649,6 +4647,8 @@
         <entry>io-engage.k8s</entry>
         <entry>Cluster</entry>
         <entry>New</entry>
+        <entry>mail</entry>
+        <entry>exhibitree</entry>
       </history-search>
       <history-cmd>
         <entry>%s:has_engineering_requirement\:\s(.*),:\1:c</entry>
