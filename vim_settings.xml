@@ -324,6 +324,12 @@
         <mark key="." line="23" column="51" />
         <mark key="^" line="23" column="51" />
       </file>
+      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/developers/ramesh/config/secrets.yml" timestamp="1541037612022">
+        <mark key="[" line="1" column="18" />
+        <mark key="]" line="1" column="146" />
+        <mark key="." line="1" column="146" />
+        <mark key="^" line="1" column="146" />
+      </file>
       <file name="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/shared/spec/models/workflows/exhibitree_old_spec.rb" timestamp="1540509005081">
         <mark key="[" line="17" column="54" />
         <mark key="]" line="17" column="56" />
@@ -472,7 +478,7 @@
         <text>_w</text>
       </register>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>[generate-a-secret-key]</text>
       </register>
       <register name="b" type="4">
         <text>kkjj</text>
@@ -4164,7 +4170,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>[generate-a-secret-key]</text>
       </register>
       <register name="n" type="4">
         <text />
