@@ -205,13 +205,13 @@
         <mark key="." line="11" column="74" />
         <mark key="^" line="11" column="74" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/config/settings.yml" timestamp="1541171930920">
-        <mark key="'" line="673" column="23" />
+      <file name="$USER_HOME$/code/io/io-engage/config/settings.yml" timestamp="1541173457471">
+        <mark key="'" line="25" column="5" />
         <mark key="j" line="0" column="0" />
-        <mark key="[" line="802" column="51" />
-        <mark key="]" line="802" column="60" />
-        <mark key="^" line="802" column="60" />
-        <mark key="." line="802" column="60" />
+        <mark key="[" line="260" column="42" />
+        <mark key="]" line="266" column="22" />
+        <mark key="^" line="266" column="22" />
+        <mark key="." line="266" column="22" />
       </file>
       <file name="$USER_HOME$/code/io/io-engage/app/admin/inactive_reason.rb" timestamp="1540332638802">
         <mark key="[" line="24" column="16" />
@@ -373,27 +373,15 @@
         <mark key="." line="26" column="24" />
         <mark key="^" line="94" column="13" />
       </file>
-      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/developers/hfelix/config/settings.yml" timestamp="1540401022846">
-        <mark key="'" line="14" column="33" />
-        <mark key="[" line="16" column="41" />
-        <mark key="]" line="17" column="35" />
-        <mark key="." line="17" column="35" />
-        <mark key="^" line="17" column="35" />
+      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/developers/hfelix/config/settings.yml" timestamp="1541173275535">
+        <mark key="'" line="67" column="26" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="14" column="34" />
+        <mark key="." line="18" column="8" />
+        <mark key="^" line="18" column="8" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="11" filename="$USER_HOME$/code/io/io-engage/app/admin/event.rb" />
-      <jump line="27" column="13" filename="$USER_HOME$/code/io/io-engage/app/admin/event.rb" />
-      <jump line="46" column="6" filename="$USER_HOME$/code/io/io-engage/app/admin/event.rb" />
-      <jump line="63" column="0" filename="$USER_HOME$/code/io/io-engage/app/admin/event.rb" />
-      <jump line="71" column="11" filename="$USER_HOME$/code/io/io-engage/app/admin/event.rb" />
-      <jump line="77" column="0" filename="$USER_HOME$/code/io/io-engage/app/admin/event.rb" />
-      <jump line="42" column="20" filename="$USER_HOME$/code/io/io-engage/app/admin/event.rb" />
-      <jump line="50" column="0" filename="$USER_HOME$/code/io/io-engage/app/admin/event.rb" />
-      <jump line="100" column="25" filename="$USER_HOME$/code/io/io-engage/app/admin/vendor.rb" />
-      <jump line="29" column="12" filename="$USER_HOME$/code/io/io-engage/app/admin/rush.rb" />
-      <jump line="33" column="4" filename="$USER_HOME$/code/io/io-engage/app/admin/vendor_rush.rb" />
-      <jump line="12" column="0" filename="$USER_HOME$/code/io/io-engage/app/models/vendor_rush.rb" />
       <jump line="15" column="30" filename="$USER_HOME$/code/io/io-engage/spec/models/vendor_rush_spec.rb" />
       <jump line="27" column="2" filename="$USER_HOME$/code/io/io-engage/app/admin/reproduced_reason.rb" />
       <jump line="25" column="4" filename="$USER_HOME$/code/io/io-engage/app/admin/reproduced_reason.rb" />
@@ -479,16 +467,28 @@
       <jump line="68" column="2" filename="$USER_HOME$/code/io/io-engage/app/admin/permissions.rb" />
       <jump line="17" column="0" filename="$USER_HOME$/code/io/io-engage/app/admin/permissions.rb" />
       <jump line="867" column="24" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
-      <jump line="802" column="23" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
       <jump line="600" column="23" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
       <jump line="673" column="23" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
+      <jump line="802" column="23" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
+      <jump line="872" column="12" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
+      <jump line="376" column="55" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
+      <jump line="806" column="24" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
+      <jump line="852" column="8" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
+      <jump line="863" column="10" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
+      <jump line="866" column="10" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
+      <jump line="229" column="58" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
+      <jump line="247" column="11" filename="$USER_HOME$/code/io/io_engage_configuration/instances/developers/hfelix/config/settings.yml" />
+      <jump line="67" column="26" filename="$USER_HOME$/code/io/io_engage_configuration/instances/developers/hfelix/config/settings.yml" />
+      <jump line="24" column="4" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
+      <jump line="23" column="23" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
+      <jump line="25" column="5" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>_w</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>y</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHdoaXRlcGFwZXJfbmFtZTogJ0lPIEVuZ2FnZSAtIFNsdWdSZXBvcnQnCiAgICB3aGl0ZXBhcGVyX2lucHV0X25hbWU6ICdzdWJtaXQnCiAgICBwaXBlbGluZV91cmw6ICdodHRwOi8vNzAuMTY1LjQ4LjIxMDo4MDgwL3BpcGVsaW5lL21hc2h1cC9nZW5lcmF0ZUV4aGliaVRyZWVTbHVnUmVwb3J0L3NlbmQnCg==</text>
       </register>
       <register name="b" type="4">
         <text>kkjj</text>
@@ -4180,37 +4180,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text>x</text>
       </register>
       <register name="n" type="4">
         <text />
       </register>
       <register name="/" type="4">
-        <text>download</text>
+        <text>api</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHBhc3N3b3JkOiAnIUhpQnJZZCoyNTA3Jwo=</text>
+        <text encoding="base64">ICAgIHVzZXJuYW1lOiAnaW9fdmlld19hcGknCiAgICBwYXNzd29yZDogJ1Vxd3BKRW52TG51cDdYOWhBTScK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHdoaXRlcGFwZXJfbmFtZTogJ0lPIEVuZ2FnZSAtIFNsdWdSZXBvcnQnCiAgICB3aGl0ZXBhcGVyX2lucHV0X25hbWU6ICdzdWJtaXQnCiAgICBwaXBlbGluZV91cmw6ICdodHRwOi8vNzAuMTY1LjQ4LjIxMDo4MDgwL3BpcGVsaW5lL21hc2h1cC9nZW5lcmF0ZUV4aGliaVRyZWVTbHVnUmVwb3J0L3NlbmQnCg==</text>
       </register>
       <register name="q" type="4">
         <text>jdd</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHVzZXJuYW1lOiAnYWRtaW4nCiAgICBwYXNzd29yZDogJ0h5YnJpZF4zMjAxJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBlbmQK</text>
+        <text encoding="base64">ICBxdWV1ZTogJnF1ZXVlCiAgICAgc3RhdHVzX3RyYWNrZXI6ICd0ZXN0X2xvY2FsX3N5bmNfc3RhdHVzJwogICAgIHN5bmM6ICd0ZXN0X3N5bmMnCiAgICAgcHJvdG9jb2xfdmVyc2lvbjogJzEuMCcKICAgICB0aHVtYm5haWxfY29tcGxldGU6ICd0ZXN0X3RodW1ibmFpbF9jb21wbGV0ZScKICAgICBzbHVnX3JlcG9ydF9jb21wbGV0ZTogJ3Rlc3Rfc2x1Z19yZXBvcnRfY29tcGxldGUnCiAgcmFiYml0bXE6ICZkZWZhdWx0X3JhYmJpdG1xCiMgICAgYW1xcDogJ2FtcXA6Ly9ndWVzdDpndWVzdEBsb2NhbGhvc3Q6NTY3MicKICAgIGFtcXA6ICdhbXFwOi8vbml0dmhuamE6ckFWdnc4VllnQjR0aWpxV1p2ZkdXYV9EUldMYldTRldAc2hhcnAtY291Z2FyLnJtcS5jbG91ZGFtcXAuY29tL25pdHZobmphJwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHNlbGVjdGFibGVfY29sdW1uCg==</text>
+        <text encoding="base64">ICAgIGhvc3RfdXJsOiAnaHR0cHM6Ly9pby1wcm9vZi5uZXQnCg==</text>
       </register>
       <register name="t" type="4">
         <text>jdd</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGlkX2NvbHVtbgo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgICBleHBpcmVzX2luOiAnMS5kYXknCiAgICBuYW1lc3BhY2U6ICdoZmVsaXgnCiAgY2xvdWQ6ICZk</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -4611,35 +4611,32 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGVuZHxvYmplY3R8IAo=</text>
+        <text encoding="base64">ICAgIGZpbGVzdG9yZV9yb290OiAnL1ZvbHVtZXMvRmlsZXN0b3JlL3NhbXBsZS9oZGZlbGl4Jwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb2x1bW4gOmNyZWF0ZWRfYXQK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbHVtbiA6Y3JlYXRlZF9hdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>download</last-search>
+      <last-search>api</last-search>
       <last-offset />
-      <last-pattern>download</last-pattern>
-      <last-replace encoding="base64">XCZkZWZhdWx0</last-replace>
-      <last-substitute encoding="base64">XCZzYW1wbGU=</last-substitute>
+      <last-pattern>api</last-pattern>
+      <last-replace>exhibitree/events/</last-replace>
+      <last-substitute>exhibitree2</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>workback</entry>
-        <entry>users</entry>
-        <entry>translations</entry>
         <entry>trans</entry>
         <entry>table</entry>
         <entry>pre</entry>
@@ -4653,13 +4650,15 @@
         <entry>Cluster</entry>
         <entry>New</entry>
         <entry>mail</entry>
-        <entry>exhibitree</entry>
         <entry>postgres</entry>
         <entry>Download</entry>
         <entry>download</entry>
+        <entry>Exhibitree</entry>
+        <entry>exhibitree2</entry>
+        <entry>exhibitree</entry>
+        <entry>api</entry>
       </history-search>
       <history-cmd>
-        <entry>%s:has_engineering_requirement\:\s(.*),:\1:c</entry>
         <entry>%s:has_engineering_requirement\: (.*),:\1:c</entry>
         <entry>%s:has_engineering_requirement\: \(.*\),:\1:c</entry>
         <entry>%s:has_engineering_requirement\:\s\(.*\),\(.*\):\1:c</entry>
@@ -4678,6 +4677,7 @@
         <entry encoding="base64">JXM6JnNhbXBsZTomZGVmYXVsdDpj</entry>
         <entry encoding="base64">JXM6XCZzYW1wbGU6XCZkZWZhdWx0OmM=</entry>
         <entry>e /Users/hector/.kops.yaml</entry>
+        <entry>%s:exhibitree2:exhibitree/events/:c</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
