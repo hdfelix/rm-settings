@@ -16,10 +16,6 @@
         <mark key="^" line="14" column="64" />
         <mark key="." line="14" column="64" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/app/assets/stylesheets/active_admin.scss" timestamp="1540491588106">
-        <mark key="'" line="133" column="0" />
-        <mark key="[" line="91" column="1" />
-      </file>
       <file name="$USER_HOME$/code/io/sop/io-engage-event/scripts/postgres_commands.md" timestamp="1539737122162">
         <mark key="'" line="47" column="3" />
         <mark key="[" line="35" column="3" />
@@ -149,7 +145,7 @@
         <mark key="." line="31" column="33" />
         <mark key="^" line="31" column="33" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/config/database.yml" timestamp="1541132030418">
+      <file name="$USER_HOME$/code/io/io-engage/config/database.yml" timestamp="1541171125626">
         <mark key="'" line="43" column="27" />
         <mark key="[" line="2" column="17" />
         <mark key="]" line="2" column="20" />
@@ -209,12 +205,13 @@
         <mark key="." line="11" column="74" />
         <mark key="^" line="11" column="74" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/config/settings.yml" timestamp="1540324583522">
-        <mark key="'" line="851" column="16" />
-        <mark key="[" line="869" column="25" />
-        <mark key="]" line="870" column="21" />
-        <mark key="^" line="870" column="21" />
-        <mark key="." line="867" column="32" />
+      <file name="$USER_HOME$/code/io/io-engage/config/settings.yml" timestamp="1541171930920">
+        <mark key="'" line="673" column="23" />
+        <mark key="j" line="0" column="0" />
+        <mark key="[" line="802" column="51" />
+        <mark key="]" line="802" column="60" />
+        <mark key="^" line="802" column="60" />
+        <mark key="." line="802" column="60" />
       </file>
       <file name="$USER_HOME$/code/io/io-engage/app/admin/inactive_reason.rb" timestamp="1540332638802">
         <mark key="[" line="24" column="16" />
@@ -276,7 +273,6 @@
         <mark key="." line="88" column="18" />
         <mark key="^" line="137" column="12" />
       </file>
-      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/dreamforce/production/config/database.yml" timestamp="1541117490144" />
       <file name="$USER_HOME$/code/io/io-engage/lib/zone_items_import.rb" timestamp="1539326791655">
         <mark key="'" line="3" column="43" />
         <mark key="[" line="150" column="43" />
@@ -377,7 +373,6 @@
         <mark key="." line="26" column="24" />
         <mark key="^" line="94" column="13" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/db/migrate/20180630153830_remove_slug_report_url_from_item.rb" timestamp="1541131981984" />
       <file name="$USER_HOME$/code/io/io_engage_configuration/instances/developers/hfelix/config/settings.yml" timestamp="1540401022846">
         <mark key="'" line="14" column="33" />
         <mark key="[" line="16" column="41" />
@@ -387,10 +382,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="62" filename="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/shared/app/models/workflows/exhibitree_new.rb" />
-      <jump line="14" column="19" filename="$USER_HOME$/code/io/io-engage/app/admin/event.rb" />
-      <jump line="41" column="0" filename="$USER_HOME$/code/io/io-engage/app/admin/event.rb" />
-      <jump line="7" column="0" filename="$USER_HOME$/code/io/io-engage/app/admin/event.rb" />
       <jump line="37" column="11" filename="$USER_HOME$/code/io/io-engage/app/admin/event.rb" />
       <jump line="27" column="13" filename="$USER_HOME$/code/io/io-engage/app/admin/event.rb" />
       <jump line="46" column="6" filename="$USER_HOME$/code/io/io-engage/app/admin/event.rb" />
@@ -487,13 +478,17 @@
       <jump line="18" column="6" filename="$USER_HOME$/code/io/io-engage/app/admin/general_location.rb" />
       <jump line="68" column="2" filename="$USER_HOME$/code/io/io-engage/app/admin/permissions.rb" />
       <jump line="17" column="0" filename="$USER_HOME$/code/io/io-engage/app/admin/permissions.rb" />
+      <jump line="867" column="24" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
+      <jump line="802" column="23" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
+      <jump line="600" column="23" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
+      <jump line="673" column="23" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>_w</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>y</text>
       </register>
       <register name="b" type="4">
         <text>kkjj</text>
@@ -4185,16 +4180,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>[generate-a-secret-key]</text>
+        <text>y</text>
       </register>
       <register name="n" type="4">
         <text />
       </register>
       <register name="/" type="4">
-        <text>postgres</text>
+        <text>download</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbHVtbiA6cHJpb3JpdHkKICAgIGNvbHVtbiA6YWxsb3cKICAgIGNvbHVtbiA6cm9sZV90eXBlCiAgICBjb2x1bW4gOnNjb3BlCiAgICBjb2x1bW4gOmFjdGlvbgogICAgY29sdW1uIDpzdWJqZWN0X2NsYXNzCiAgICBjb2x1bW4gOnN1YmplY3RfaWQKICAgIGNvbHVtbiA6ZmllbGRfc2V0CiAgICBjb2x1bW4gOmZpZWxkcyBkbyB8cGVybWlzc2lvbnwKICAgICAgcGVybWlzc2lvbi5maWVsZHMudHIoJywnLCAnICcpCiAgICBlbmQKICAgIGNvbHVtbiA6c3RhdGVzIGRvIHxwZXJtaXNzaW9ufAogICAgICBwZXJtaXNzaW9uLnN0YXRlcy50cignLCcsICcgJykKICAgIGVuZAogICAgY29sdW1uIDpjcmVhdGVkX2F0Cg==</text>
+        <text encoding="base64">ICAgIHBhc3N3b3JkOiAnIUhpQnJZZCoyNTA3Jwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
@@ -4632,9 +4627,9 @@
       </register>
     </registers>
     <search>
-      <last-search>postgres</last-search>
+      <last-search>download</last-search>
       <last-offset />
-      <last-pattern>postgres</last-pattern>
+      <last-pattern>download</last-pattern>
       <last-replace encoding="base64">XCZkZWZhdWx0</last-replace>
       <last-substitute encoding="base64">XCZzYW1wbGU=</last-substitute>
       <last-dir>1</last-dir>
@@ -4642,8 +4637,6 @@
     </search>
     <history>
       <history-search>
-        <entry>workflow</entry>
-        <entry>file_issues</entry>
         <entry>workback</entry>
         <entry>users</entry>
         <entry>translations</entry>
@@ -4662,6 +4655,8 @@
         <entry>mail</entry>
         <entry>exhibitree</entry>
         <entry>postgres</entry>
+        <entry>Download</entry>
+        <entry>download</entry>
       </history-search>
       <history-cmd>
         <entry>%s:has_engineering_requirement\:\s(.*),:\1:c</entry>
