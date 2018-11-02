@@ -149,7 +149,7 @@
         <mark key="." line="31" column="33" />
         <mark key="^" line="31" column="33" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/config/database.yml" timestamp="1539737080088">
+      <file name="$USER_HOME$/code/io/io-engage/config/database.yml" timestamp="1541131943600">
         <mark key="'" line="43" column="27" />
         <mark key="[" line="2" column="17" />
         <mark key="]" line="2" column="20" />
@@ -377,6 +377,7 @@
         <mark key="." line="26" column="24" />
         <mark key="^" line="94" column="13" />
       </file>
+      <file name="$USER_HOME$/code/io/io-engage/db/migrate/20180630153830_remove_slug_report_url_from_item.rb" timestamp="1541131981984" />
       <file name="$USER_HOME$/code/io/io_engage_configuration/instances/developers/hfelix/config/settings.yml" timestamp="1540401022846">
         <mark key="'" line="14" column="33" />
         <mark key="[" line="16" column="41" />
