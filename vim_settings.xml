@@ -121,7 +121,7 @@
         <mark key="." line="754" column="0" />
         <mark key="^" line="754" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/developers/hfelix/config/database.yml" timestamp="1541436140596">
+      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/developers/hfelix/config/database.yml" timestamp="1541442138716">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
@@ -232,6 +232,7 @@
         <mark key="^" line="24" column="15" />
         <mark key="." line="24" column="15" />
       </file>
+      <file name="$USER_HOME$/code/io/io_engage_configuration/k8s/charts/slug-reporter/values.yaml" timestamp="1541442391465" />
       <file name="$USER_HOME$/code/io/io-engage/app/admin/graphic_category.rb" timestamp="1540335314685">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -348,7 +349,7 @@
         <mark key="." line="71" column="19" />
         <mark key="^" line="71" column="19" />
       </file>
-      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/developers/manim/k8s/instance-values.yaml" timestamp="1540934613309">
+      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/developers/manim/k8s/instance-values.yaml" timestamp="1541442175503">
         <mark key="'" line="172" column="54" />
       </file>
       <file name="$USER_HOME$/code/io/io_engage_configuration/instances/demo/master/config/settings.yml" timestamp="1539279601443">
@@ -411,7 +412,7 @@
       <file name="/hfelix_development.public.permissions [hfelix_development@localhost]" timestamp="1541436799668">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/developers/hfelix/config/settings.yml" timestamp="1540401022846">
+      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/developers/hfelix/config/settings.yml" timestamp="1541442119608">
         <mark key="'" line="14" column="33" />
         <mark key="[" line="16" column="41" />
         <mark key="]" line="17" column="35" />
