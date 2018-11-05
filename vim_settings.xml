@@ -145,6 +145,13 @@
         <mark key="^" line="12" column="21" />
         <mark key="." line="12" column="22" />
       </file>
+      <file name="$USER_HOME$/code/io/io-engage/spec/controllers/admin/add_on_type_spec.rb" timestamp="1541457762487">
+        <mark key="'" line="18" column="37" />
+        <mark key="[" line="3" column="22" />
+        <mark key="]" line="3" column="40" />
+        <mark key="." line="3" column="40" />
+        <mark key="^" line="3" column="40" />
+      </file>
       <file name="$USER_HOME$/code/io/io-engage/app/models/copy.rb" timestamp="1539900457514">
         <mark key="'" line="21" column="6" />
         <mark key="[" line="22" column="0" />
@@ -192,6 +199,7 @@
         <mark key="^" line="60" column="112" />
         <mark key="." line="45" column="36" />
       </file>
+      <file name="$USER_HOME$/code/io/io-engage/spec/controllers/admin/add_on_type_controller_spec.rb" timestamp="1541457926327" />
       <file name="$USER_HOME$/code/io/sop/io-engage-event/scripts/relaunching_proofs.rb" timestamp="1539481254060">
         <mark key="'" line="46" column="0" />
         <mark key="[" line="34" column="0" />
@@ -352,6 +360,9 @@
       <file name="$USER_HOME$/code/io/io_engage_configuration/instances/developers/manim/k8s/instance-values.yaml" timestamp="1541442175503">
         <mark key="'" line="172" column="54" />
       </file>
+      <file name="$USER_HOME$/code/io/io-engage/spec/controllers/admin/add_on_types_controller_spec.rb" timestamp="1541458090316">
+        <mark key="'" line="29" column="0" />
+      </file>
       <file name="$USER_HOME$/code/io/io_engage_configuration/instances/demo/master/config/settings.yml" timestamp="1539279601443">
         <mark key="'" line="107" column="21" />
         <mark key="[" line="21" column="39" />
@@ -426,8 +437,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="12" filename="$USER_HOME$/code/io/io-engage/app/admin/rush.rb" />
-      <jump line="33" column="4" filename="$USER_HOME$/code/io/io-engage/app/admin/vendor_rush.rb" />
       <jump line="12" column="0" filename="$USER_HOME$/code/io/io-engage/app/models/vendor_rush.rb" />
       <jump line="15" column="30" filename="$USER_HOME$/code/io/io-engage/spec/models/vendor_rush_spec.rb" />
       <jump line="27" column="2" filename="$USER_HOME$/code/io/io-engage/app/admin/reproduced_reason.rb" />
@@ -526,13 +535,15 @@
       <jump line="16" column="5" filename="$USER_HOME$/code/io/io-engage/.eslintrc" />
       <jump line="135" column="2" filename="$USER_HOME$/code/io/io-engage/.eslintrc" />
       <jump line="8" column="1" filename="$USER_HOME$/code/io/io-engage/.eslintrc" />
+      <jump line="18" column="37" filename="$USER_HOME$/code/io/io-engage/spec/controllers/admin/add_on_type_spec.rb" />
+      <jump line="29" column="0" filename="$USER_HOME$/code/io/io-engage/spec/controllers/admin/add_on_types_controller_spec.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>_w</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">dXNlcnMg</text>
+        <text>FieldSetsController</text>
       </register>
       <register name="b" type="4">
         <text>kkjj</text>
@@ -4224,7 +4235,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dXNlcnMg</text>
+        <text>FieldSetsController</text>
       </register>
       <register name="n" type="4">
         <text />
