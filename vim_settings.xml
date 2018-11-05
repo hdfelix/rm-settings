@@ -48,8 +48,12 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/.eslintrc" timestamp="1541283725706">
-        <mark key="'" line="85" column="2" />
+      <file name="$USER_HOME$/code/io/io-engage/.eslintrc" timestamp="1541286070098">
+        <mark key="'" line="17" column="1" />
+        <mark key="[" line="12" column="1" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/code/io/io-engage/cypress/integration/items_grid.spec.js" timestamp="1541283654169">
         <mark key="[" line="7" column="35" />
@@ -224,8 +228,8 @@
         <mark key="^" line="24" column="15" />
         <mark key="." line="24" column="15" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/package.json" timestamp="1541217597011">
-        <mark key="'" line="23" column="2" />
+      <file name="$USER_HOME$/code/io/io-engage/package.json" timestamp="1541285644884">
+        <mark key="'" line="18" column="19" />
         <mark key="[" line="10" column="23" />
         <mark key="]" line="10" column="22" />
         <mark key="^" line="10" column="22" />
@@ -411,10 +415,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="77" column="0" filename="$USER_HOME$/code/io/io-engage/app/admin/event.rb" />
-      <jump line="42" column="20" filename="$USER_HOME$/code/io/io-engage/app/admin/event.rb" />
-      <jump line="50" column="0" filename="$USER_HOME$/code/io/io-engage/app/admin/event.rb" />
-      <jump line="100" column="25" filename="$USER_HOME$/code/io/io-engage/app/admin/vendor.rb" />
       <jump line="29" column="12" filename="$USER_HOME$/code/io/io-engage/app/admin/rush.rb" />
       <jump line="33" column="4" filename="$USER_HOME$/code/io/io-engage/app/admin/vendor_rush.rb" />
       <jump line="12" column="0" filename="$USER_HOME$/code/io/io-engage/app/models/vendor_rush.rb" />
@@ -511,13 +511,17 @@
       <jump line="4" column="0" filename="$USER_HOME$/code/io/io-engage/.eslintrc" />
       <jump line="85" column="2" filename="$USER_HOME$/code/io/io-engage/.eslintrc" />
       <jump line="0" column="0" filename="$USER_HOME$/code/io/io-engage/cypress/.eslintrc.json" />
+      <jump line="18" column="19" filename="$USER_HOME$/code/io/io-engage/package.json" />
+      <jump line="16" column="5" filename="$USER_HOME$/code/io/io-engage/.eslintrc" />
+      <jump line="135" column="2" filename="$USER_HOME$/code/io/io-engage/.eslintrc" />
+      <jump line="8" column="1" filename="$USER_HOME$/code/io/io-engage/.eslintrc" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>_w</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">Pg==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="b" type="4">
         <text>kkjj</text>
@@ -4209,13 +4213,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="n" type="4">
         <text />
       </register>
       <register name="/" type="4">
-        <text>extedns</text>
+        <text>parser</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbHVtbiA6Y3JlYXRlZF9hdAo=</text>
@@ -4656,9 +4660,9 @@
       </register>
     </registers>
     <search>
-      <last-search>extedns</last-search>
+      <last-search>parser</last-search>
       <last-offset />
-      <last-pattern>extedns</last-pattern>
+      <last-pattern>parser</last-pattern>
       <last-replace encoding="base64">XCZkZWZhdWx0</last-replace>
       <last-substitute encoding="base64">XCZzYW1wbGU=</last-substitute>
       <last-dir>1</last-dir>
@@ -4666,7 +4670,6 @@
     </search>
     <history>
       <history-search>
-        <entry>translations</entry>
         <entry>trans</entry>
         <entry>table</entry>
         <entry>pre</entry>
@@ -4686,6 +4689,7 @@
         <entry>no-labels</entry>
         <entry>plugin</entry>
         <entry>extedns</entry>
+        <entry>parser</entry>
       </history-search>
       <history-cmd>
         <entry>%s:has_engineering_requirement\:\s(.*),:\1:c</entry>
