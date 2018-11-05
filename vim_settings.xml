@@ -48,12 +48,11 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/.eslintrc" timestamp="1541286070098">
-        <mark key="'" line="17" column="1" />
-        <mark key="[" line="12" column="1" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/code/io/io-engage/.eslintrc" timestamp="1541435209979">
+        <mark key="[" line="5" column="3" />
+        <mark key="]" line="16" column="21" />
+        <mark key="." line="16" column="21" />
+        <mark key="^" line="16" column="21" />
       </file>
       <file name="$USER_HOME$/code/io/io-engage/cypress/integration/items_grid.spec.js" timestamp="1541283654169">
         <mark key="[" line="7" column="35" />
@@ -121,6 +120,11 @@
         <mark key="]" line="754" column="0" />
         <mark key="." line="754" column="0" />
         <mark key="^" line="754" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/developers/hfelix/config/database.yml" timestamp="1541436140596">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/code/io/io-engage/app/admin/general_location.rb" timestamp="1540936136344">
         <mark key="[" line="8" column="15" />
@@ -228,13 +232,6 @@
         <mark key="^" line="24" column="15" />
         <mark key="." line="24" column="15" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/package.json" timestamp="1541285644884">
-        <mark key="'" line="18" column="19" />
-        <mark key="[" line="10" column="23" />
-        <mark key="]" line="10" column="22" />
-        <mark key="^" line="10" column="22" />
-        <mark key="." line="6" column="26" />
-      </file>
       <file name="$USER_HOME$/code/io/io-engage/app/admin/graphic_category.rb" timestamp="1540335314685">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -302,8 +299,13 @@
         <mark key="." line="49" column="58" />
         <mark key="^" line="49" column="58" />
       </file>
-      <file name="/dummy.sql" timestamp="1541214807360">
+      <file name="/dummy.sql" timestamp="1541436801176">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1541436774316">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/shared/spec/models/workflows/exhibitree_new_spec.rb" timestamp="1540250850793">
         <mark key="'" line="6" column="0" />
@@ -405,6 +407,9 @@
         <mark key="]" line="26" column="24" />
         <mark key="." line="26" column="24" />
         <mark key="^" line="94" column="13" />
+      </file>
+      <file name="/hfelix_development.public.permissions [hfelix_development@localhost]" timestamp="1541436799668">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/io/io_engage_configuration/instances/developers/hfelix/config/settings.yml" timestamp="1540401022846">
         <mark key="'" line="14" column="33" />
@@ -520,8 +525,8 @@
       <register name="a" type="4">
         <text>_w</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="8">
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIAogICAgICAgICAgICAKICAgICAgICAgICAgCiAgICAgICAgICAgIAogICAgICAgICAgICAKICAgICAgICAgICAg</text>
       </register>
       <register name="b" type="4">
         <text>kkjj</text>
@@ -4213,7 +4218,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>postgres</text>
       </register>
       <register name="n" type="4">
         <text />
@@ -4224,26 +4229,26 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbHVtbiA6Y3JlYXRlZF9hdAo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">IHsK</text>
+      <register name="1" type="8">
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIAogICAgICAgICAgICAKICAgICAgICAgICAgCiAgICAgICAgICAgIAogICAgICAgICAgICAKICAgICAgICAgICAg</text>
       </register>
       <register name="q" type="4">
         <text>jdd</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">IHsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBlbmQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <text>jdd</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHNlbGVjdGFibGVfY29sdW1uCg==</text>
+        <text encoding="base64">ICBlbmQK</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -4644,16 +4649,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlkX2NvbHVtbgo=</text>
+        <text encoding="base64">ICAgIHNlbGVjdGFibGVfY29sdW1uCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGlkX2NvbHVtbgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGVuZHxvYmplY3R8IAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb2x1bW4gOmNyZWF0ZWRfYXQK</text>
+        <text encoding="base64">ICAgIGVuZHxvYmplY3R8IAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
