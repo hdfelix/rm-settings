@@ -121,11 +121,6 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/app/admin/general_location.rb" timestamp="1541508544665">
-        <mark key="[" line="35" column="40" />
-        <mark key="]" line="35" column="40" />
-        <mark key="." line="35" column="40" />
-      </file>
       <file name="$USER_HOME$/code/io/io_engage_configuration/instances/developers/ashaik/config/settings.yml" timestamp="1539282205159">
         <mark key="'" line="2" column="14" />
         <mark key="[" line="98" column="32" />
@@ -166,12 +161,6 @@
         <mark key="]" line="2" column="20" />
         <mark key="." line="2" column="49" />
         <mark key="^" line="2" column="20" />
-      </file>
-      <file name="$USER_HOME$/code/io/io-engage/app/admin/floor_plan.rb" timestamp="1540934583752">
-        <mark key="[" line="80" column="11" />
-        <mark key="]" line="80" column="25" />
-        <mark key="^" line="80" column="25" />
-        <mark key="." line="80" column="25" />
       </file>
       <file name="$USER_HOME$/code/io/io-engage/app/admin/non_chargeable_reason.rb" timestamp="1540331531384">
         <mark key="[" line="19" column="1" />
