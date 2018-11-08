@@ -181,12 +181,12 @@
         <mark key="^" line="0" column="26" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/shows/config/settings.yml" timestamp="1540511445033">
+      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/shows/config/settings.yml" timestamp="1541703251672">
         <mark key="'" line="107" column="21" />
-        <mark key="[" line="45" column="36" />
-        <mark key="]" line="45" column="36" />
-        <mark key="^" line="60" column="112" />
-        <mark key="." line="45" column="36" />
+        <mark key="[" line="135" column="9" />
+        <mark key="]" line="135" column="10" />
+        <mark key="^" line="135" column="10" />
+        <mark key="." line="135" column="10" />
       </file>
       <file name="$USER_HOME$/code/io/sop/io-engage-event/scripts/relaunching_proofs.rb" timestamp="1539481254060">
         <mark key="'" line="46" column="0" />
@@ -558,7 +558,7 @@
         <text>_w</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">Y2FwaXRhbGl6ZSA=</text>
+        <text>:</text>
       </register>
       <register name="b" type="4">
         <text>kkjj</text>
@@ -4250,7 +4250,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y2FwaXRhbGl6ZSA=</text>
+        <text>:</text>
       </register>
       <register name="n" type="4">
         <text />
