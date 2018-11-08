@@ -384,14 +384,6 @@
         <mark key="." line="13" column="36" />
         <mark key="^" line="13" column="36" />
       </file>
-      <file name="$USER_HOME$/code/io/io_engage_configuration/build.sh" timestamp="1541513836261" />
-      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/demo/master/config/settings.yml" timestamp="1541513509963">
-        <mark key="'" line="19" column="16" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="5" column="34" />
-        <mark key="^" line="21" column="44" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/events/config/settings.yml" timestamp="1540511474526">
         <mark key="'" line="31" column="19" />
         <mark key="[" line="23" column="45" />
