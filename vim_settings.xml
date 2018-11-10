@@ -284,6 +284,7 @@
         <mark key="." line="88" column="18" />
         <mark key="^" line="137" column="12" />
       </file>
+      <file name="$USER_HOME$/code/io/io-engage/Dockerfile" timestamp="1541816515072" />
       <file name="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/production2/config/settings.yml" timestamp="1541513422376">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="37" column="0" />
@@ -296,12 +297,6 @@
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/io/io-engage/app/admin/rush.rb" timestamp="1541558359463">
-        <mark key="[" line="57" column="42" />
-        <mark key="]" line="57" column="42" />
-        <mark key="^" line="57" column="42" />
-        <mark key="." line="57" column="42" />
       </file>
       <file name="$USER_HOME$/code/io/io-engage/lib/zone_items_import.rb" timestamp="1539326791655">
         <mark key="'" line="3" column="43" />
