@@ -10,12 +10,6 @@
         <mark key="." line="137" column="13" />
         <mark key="^" line="137" column="13" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/app/models/general_location.rb" timestamp="1541508628619">
-        <mark key="'" line="19" column="9" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
       <file name="$USER_HOME$/code/io/sop/io-engage-event/scripts/postgres_commands.md" timestamp="1539737122162">
         <mark key="'" line="47" column="3" />
         <mark key="[" line="35" column="3" />
@@ -167,11 +161,11 @@
         <mark key="." line="31" column="33" />
         <mark key="^" line="31" column="33" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/config/database.yml" timestamp="1539737080088">
-        <mark key="'" line="43" column="27" />
-        <mark key="[" line="2" column="17" />
-        <mark key="]" line="2" column="20" />
-        <mark key="." line="2" column="49" />
+      <file name="$USER_HOME$/code/io/io-engage/config/database.yml" timestamp="1542134704525">
+        <mark key="'" line="44" column="23" />
+        <mark key="[" line="40" column="23" />
+        <mark key="]" line="40" column="24" />
+        <mark key="." line="40" column="24" />
         <mark key="^" line="2" column="20" />
       </file>
       <file name="$USER_HOME$/code/io/io-engage/app/admin/non_chargeable_reason.rb" timestamp="1540331531384">
@@ -190,8 +184,8 @@
         <mark key="^" line="0" column="26" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/shows/config/settings.yml" timestamp="1541703251672">
-        <mark key="'" line="107" column="21" />
+      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/shows/config/settings.yml" timestamp="1542134933244">
+        <mark key="'" line="56" column="4" />
         <mark key="[" line="135" column="9" />
         <mark key="]" line="135" column="10" />
         <mark key="^" line="135" column="10" />
@@ -230,11 +224,12 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/config/settings.yml" timestamp="1541556933061">
-        <mark key="'" line="851" column="16" />
-        <mark key="[" line="852" column="0" />
-        <mark key="]" line="852" column="0" />
-        <mark key="." line="852" column="0" />
+      <file name="$USER_HOME$/code/io/io-engage/config/settings.yml" timestamp="1542135204233">
+        <mark key="'" line="858" column="0" />
+        <mark key="[" line="855" column="12" />
+        <mark key="]" line="856" column="9" />
+        <mark key="." line="856" column="9" />
+        <mark key="^" line="856" column="9" />
       </file>
       <file name="$USER_HOME$/code/io/io-engage/app/admin/inactive_reason.rb" timestamp="1540332638802">
         <mark key="[" line="24" column="16" />
@@ -318,12 +313,6 @@
       <file name="/e1_test.public.items [postgres@localhost]" timestamp="1542042231284">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/spec/controllers/admin/general_locations_controller_spec.rb" timestamp="1541484416564">
-        <mark key="'" line="17" column="6" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-      </file>
       <file name="$USER_HOME$/code/io/io-engage/lib/zone_items_import.rb" timestamp="1539326791655">
         <mark key="'" line="3" column="43" />
         <mark key="[" line="150" column="43" />
@@ -406,8 +395,8 @@
         <mark key="." line="13" column="36" />
         <mark key="^" line="13" column="36" />
       </file>
-      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/events/config/settings.yml" timestamp="1540511474526">
-        <mark key="'" line="31" column="19" />
+      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/events/config/settings.yml" timestamp="1542134946541">
+        <mark key="'" line="184" column="4" />
         <mark key="[" line="23" column="45" />
         <mark key="]" line="23" column="51" />
         <mark key="." line="23" column="51" />
@@ -479,49 +468,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="6" filename="$USER_HOME$/code/io/io-engage/app/admin/translation.rb" />
-      <jump line="14" column="1" filename="$USER_HOME$/code/io/io-engage/app/admin/translation.rb" />
-      <jump line="50" column="0" filename="$USER_HOME$/code/io/io-engage/app/admin/translation.rb" />
-      <jump line="54" column="0" filename="$USER_HOME$/code/io/io-engage/app/admin/translation.rb" />
-      <jump line="48" column="4" filename="$USER_HOME$/code/io/io-engage/app/admin/sub_status.rb" />
-      <jump line="9" column="21" filename="$USER_HOME$/code/io/io-engage/app/admin/substrate_category.rb" />
-      <jump line="60" column="0" filename="$USER_HOME$/code/io/io-engage/app/assets/stylesheets/active_admin.scss" />
-      <jump line="89" column="7" filename="$USER_HOME$/code/io/io-engage/app/assets/stylesheets/active_admin.scss" />
-      <jump line="24" column="41" filename="$USER_HOME$/code/io/io-engage/app/admin/substrate.rb" />
-      <jump line="137" column="0" filename="$USER_HOME$/code/io/io-engage/app/assets/stylesheets/active_admin.scss" />
-      <jump line="46" column="28" filename="$USER_HOME$/code/io/io-engage/app/admin/substrate.rb" />
-      <jump line="43" column="4" filename="$USER_HOME$/code/io/io-engage/app/admin/graphic_type.rb" />
-      <jump line="167" column="0" filename="$USER_HOME$/code/io/io-engage/app/admin/graphic_type.rb" />
-      <jump line="119" column="0" filename="$USER_HOME$/code/io/io-engage/app/admin/graphic_type.rb" />
-      <jump line="217" column="6" filename="$USER_HOME$/code/io/io-engage/app/admin/graphic_type.rb" />
-      <jump line="14" column="33" filename="$USER_HOME$/code/io/io_engage_configuration/instances/developers/hfelix/config/settings.yml" />
-      <jump line="5" column="31" filename="$USER_HOME$/code/io/io_engage_configuration/.env" />
-      <jump line="15" column="0" filename="$USER_HOME$/.kops.yaml" />
-      <jump line="57" column="27" filename="$USER_HOME$/.kops.yaml" />
-      <jump line="37" column="6" filename="$USER_HOME$/.kops.yaml" />
-      <jump line="39" column="6" filename="$USER_HOME$/.kops.yaml" />
-      <jump line="40" column="4" filename="$USER_HOME$/.kops.yaml" />
-      <jump line="43" column="6" filename="$USER_HOME$/.kops.yaml" />
-      <jump line="45" column="6" filename="$USER_HOME$/.kops.yaml" />
-      <jump line="47" column="6" filename="$USER_HOME$/.kops.yaml" />
-      <jump line="48" column="4" filename="$USER_HOME$/.kops.yaml" />
-      <jump line="66" column="4" filename="$USER_HOME$/.kops.yaml" />
-      <jump line="70" column="4" filename="$USER_HOME$/.kops.yaml" />
-      <jump line="35" column="6" filename="$USER_HOME$/.kops.yaml" />
-      <jump line="7" column="2" filename="$USER_HOME$/.kops.yaml" />
-      <jump line="6" column="0" filename="$USER_HOME$/.kops.yaml" />
-      <jump line="56" column="24" filename="$USER_HOME$/.kops.yaml" />
-      <jump line="5" column="8" filename="$USER_HOME$/.kops.yaml" />
-      <jump line="31" column="47" filename="$USER_HOME$/.kops.yaml" />
-      <jump line="55" column="35" filename="$USER_HOME$/.kops.yaml" />
-      <jump line="8" column="10" filename="$USER_HOME$/.kops.yaml" />
-      <jump line="2" column="6" filename="$USER_HOME$/.kops.yaml" />
-      <jump line="32" column="6" filename="$USER_HOME$/.kops.yaml" />
-      <jump line="72" column="8" filename="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/shared/app/models/workflows/exhibitree.rb" />
-      <jump line="59" column="21" filename="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/shows/config/settings.yml" />
-      <jump line="182" column="2" filename="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/shows/config/settings.yml" />
-      <jump line="62" column="28" filename="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/shared/app/models/workflows/exhibitree_old.rb" />
-      <jump line="105" column="20" filename="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/shared/app/models/workflows/exhibitree.rb" />
       <jump line="14" column="0" filename="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/shows/config/settings.yml" />
       <jump line="119" column="15" filename="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/shows/config/settings.yml" />
       <jump line="127" column="12" filename="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/shows/config/settings.yml" />
@@ -535,8 +481,6 @@
       <jump line="46" column="20" filename="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/shows/config/settings.yml" />
       <jump line="47" column="11" filename="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/shows/config/settings.yml" />
       <jump line="53" column="65" filename="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/shows/config/settings.yml" />
-      <jump line="56" column="41" filename="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/shows/config/settings.yml" />
-      <jump line="57" column="55" filename="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/shows/config/settings.yml" />
       <jump line="66" column="32" filename="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/shows/config/settings.yml" />
       <jump line="69" column="19" filename="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/shows/config/settings.yml" />
       <jump line="70" column="21" filename="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/shows/config/settings.yml" />
@@ -545,8 +489,6 @@
       <jump line="80" column="39" filename="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/shows/config/settings.yml" />
       <jump line="107" column="21" filename="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/shows/config/settings.yml" />
       <jump line="13" column="12" filename="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/events/config/settings.yml" />
-      <jump line="17" column="65" filename="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/events/config/settings.yml" />
-      <jump line="23" column="25" filename="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/events/config/settings.yml" />
       <jump line="24" column="20" filename="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/events/config/settings.yml" />
       <jump line="25" column="11" filename="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/events/config/settings.yml" />
       <jump line="31" column="19" filename="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/events/config/settings.yml" />
@@ -579,13 +521,60 @@
       <jump line="0" column="0" filename="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/production2/config/settings.yml" />
       <jump line="19" column="16" filename="$USER_HOME$/code/io/io_engage_configuration/instances/demo/master/config/settings.yml" />
       <jump line="40" column="6" filename="$USER_HOME$/code/io/io-engage/config/routes.rb" />
+      <jump line="44" column="23" filename="$USER_HOME$/code/io/io-engage/config/database.yml" />
+      <jump line="863" column="0" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
+      <jump line="3" column="0" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
+      <jump line="252" column="11" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
+      <jump line="275" column="55" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
+      <jump line="320" column="0" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
+      <jump line="451" column="23" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
+      <jump line="364" column="26" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
+      <jump line="225" column="4" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
+      <jump line="366" column="4" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
+      <jump line="449" column="4" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
+      <jump line="524" column="4" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
+      <jump line="621" column="4" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
+      <jump line="780" column="4" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
+      <jump line="22" column="4" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
+      <jump line="125" column="4" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
+      <jump line="274" column="19" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
+      <jump line="374" column="19" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
+      <jump line="516" column="19" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
+      <jump line="851" column="7" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
+      <jump line="862" column="9" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
+      <jump line="865" column="9" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
+      <jump line="229" column="4" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
+      <jump line="230" column="5" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
+      <jump line="370" column="4" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
+      <jump line="371" column="5" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
+      <jump line="453" column="4" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
+      <jump line="454" column="5" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
+      <jump line="528" column="4" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
+      <jump line="529" column="5" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
+      <jump line="625" column="4" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
+      <jump line="626" column="5" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
+      <jump line="784" column="4" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
+      <jump line="858" column="4" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
+      <jump line="26" column="4" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
+      <jump line="14" column="23" filename="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/events/config/settings.yml" />
+      <jump line="17" column="4" filename="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/events/config/settings.yml" />
+      <jump line="57" column="42" filename="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/shows/config/settings.yml" />
+      <jump line="56" column="4" filename="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/shows/config/settings.yml" />
+      <jump line="23" column="36" filename="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/events/config/settings.yml" />
+      <jump line="184" column="4" filename="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/events/config/settings.yml" />
+      <jump line="131" column="19" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
+      <jump line="217" column="4" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
+      <jump line="223" column="0" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
+      <jump line="325" column="0" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
+      <jump line="857" column="0" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>_w</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXhoaWJpdHJlZV9ub25fY2xvdWQ6ICZlbmMKICA8PDogKmV4aGliaXRyZWUKICB3b3JrZmxvdzoKICAgIDw8OiAqZS13b3JrZmxvdwogICAgY2xvdWRmbG93X3Jvb3Q6ICdjbG91ZGZsb3c6Ly9QUF9GSUxFX1NUT1JFL2NsaWVudHMvZXhoaWJpdHJlZS9zaG93cy9wcm9kdWN0aW9uJwo=</text>
       </register>
       <register name="b" type="4">
         <text>kkjj</text>
@@ -4277,28 +4266,28 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>postgres</text>
+        <text>production</text>
       </register>
       <register name="n" type="4">
         <text />
       </register>
       <register name="/" type="4">
-        <text>thumbnail</text>
+        <text>exhibitree</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHVzZXJuYW1lOiAnaW9fdmlld19hcGknCiAgICBwYXNzd29yZDogJ1Vxd3BKRW52TG51cDdYOWhBTScK</text>
+        <text encoding="base64">ZXhoaWJpdHJlZV9ub25fY2xvdWQ6ICZlbmMKICA8PDogKmV4aGliaXRyZWUKICB3b3JrZmxvdzoKICAgIDw8OiAqZS13b3JrZmxvdwogICAgY2xvdWRmbG93X3Jvb3Q6ICdjbG91ZGZsb3c6Ly9QUF9GSUxFX1NUT1JFL2NsaWVudHMvZXhoaWJpdHJlZS9zaG93cy9wcm9kdWN0aW9uJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXhoaWJpdHJlZV9ub25fY2xvdWQ6ICZlbmMKICA8PDogKmV4aGliaXRyZWUKICB3b3JrZmxvdzoKICAgIDw8OiAqZS13b3JrZmxvdwogICAgY2xvdWRmbG93X3Jvb3Q6ICdjbG91ZGZsb3c6Ly9QUF9GSUxFX1NUT1JFL2NsaWVudHMvZXhoaWJpdHJlZS9zaG93cy9wcm9kdWN0aW9uJwo=</text>
       </register>
       <register name="q" type="4">
         <text>jdd</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNsb3VkZmxvd19yb290OiAnY2xvdWRmbG93Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICA8PDoK</text>
+        <text encoding="base64">ICAgIHVzZXJuYW1lOiAnYWRtaW4nCiAgICBwYXNzd29yZDogJyFIaUJyWWQqMjUwNycK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgIHVzZXJuYW1lOiAnYWRtaW4nCiAgICBwYXNzd29yZDogJ0h5YnJpZF4zMjAxJwo=</text>
@@ -4708,7 +4697,7 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHVzZXJuYW1lOiAnYWRtaW4nCiAgICBwYXNzd29yZDogJ0h5YnJpZF4zMjAxJwo=</text>
+        <text encoding="base64">ICAgIHVzZXJuYW1lOiAnaW9fdmlld19hcGknCiAgICBwYXNzd29yZDogJ1Vxd3BKRW52TG51cDdYOWhBTScK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgIHVzZXJuYW1lOiAnYWRtaW4nCiAgICBwYXNzd29yZDogJ0h5YnJpZF4zMjAxJwo=</text>
@@ -4717,16 +4706,16 @@
         <text encoding="base64">ICAgIHVzZXJuYW1lOiAnYWRtaW4nCiAgICBwYXNzd29yZDogJ0h5YnJpZF4zMjAxJwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAjIGRlbGVnYXRlIDpmbG9vcl9wbGFuLCB0bzogOnZlbnVlLCBwcmVmaXg6IGZhbHNlLCBhbGxvd19uaWw6IHRydWUK</text>
+        <text encoding="base64">ICAgIHVzZXJuYW1lOiAnYWRtaW4nCiAgICBwYXNzd29yZDogJ0h5YnJpZF4zMjAxJwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>thumbnail</last-search>
+      <last-search>exhibitree</last-search>
       <last-offset />
-      <last-pattern>thumbnail</last-pattern>
+      <last-pattern>exhibitree</last-pattern>
       <last-replace encoding="base64">XCZkZWZhdWx0</last-replace>
       <last-substitute encoding="base64">XCZzYW1wbGU=</last-substitute>
       <last-dir>1</last-dir>
@@ -4734,9 +4723,6 @@
     </search>
     <history>
       <history-search>
-        <entry>pre</entry>
-        <entry>9090</entry>
-        <entry>proof</entry>
         <entry>proofreview</entry>
         <entry>name</entry>
         <entry>nonprod</entry>
@@ -4744,7 +4730,6 @@
         <entry>Cluster</entry>
         <entry>New</entry>
         <entry>mail</entry>
-        <entry>exhibitree</entry>
         <entry>postgres</entry>
         <entry>cypress</entry>
         <entry>no-labels</entry>
@@ -4752,8 +4737,12 @@
         <entry>extedns</entry>
         <entry>parser</entry>
         <entry>delegate</entry>
-        <entry>username</entry>
         <entry>thumbnail</entry>
+        <entry>username</entry>
+        <entry>mnt</entry>
+        <entry>filestore_root</entry>
+        <entry>upload_root</entry>
+        <entry>exhibitree</entry>
       </history-search>
       <history-cmd>
         <entry>%s:has_engineering_requirement\: \(.*\),:\1:c</entry>
