@@ -78,18 +78,24 @@
       <file name="/hfelix_development.public.proof_urls [hfelix_development@localhost]" timestamp="1542072466469">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/exhibitree_shows.public.version_associations [postgres@localhost]" timestamp="1542149842356">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree_noncloud/production/config/database.yml" timestamp="1542141352233" />
+      <file name="/exhibitree_shows.public.versions [postgres@localhost]" timestamp="1542149846259">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/e1_non_prod.public.graphic_types [postgres@localhost]" timestamp="1542139463782">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/dreamforce_production.public.proof_urls [Dreamforce 2018]" timestamp="1542072485883">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/18f2ac5a-39af-4578-8854-03936b72b2d2/console_2.sql" timestamp="1542147600741">
-        <mark key="[" line="4" column="97" />
-        <mark key="]" line="4" column="108" />
-        <mark key="^" line="4" column="108" />
-        <mark key="." line="4" column="108" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/18f2ac5a-39af-4578-8854-03936b72b2d2/console_2.sql" timestamp="1542149985821">
+        <mark key="[" line="4" column="94" />
+        <mark key="]" line="4" column="100" />
+        <mark key="^" line="4" column="100" />
+        <mark key="." line="4" column="100" />
       </file>
       <file name="/exhibitree-shows_production.public.items [postgres@localhost]" timestamp="1542142657971">
         <mark key="[" line="0" column="0" />
@@ -115,7 +121,7 @@
       <file name="/exhibitree_shows.public.milestones [postgres@localhost]" timestamp="1542143723203">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1542147824478">
+      <file name="/dummy.sql" timestamp="1542150158965">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1542147833493">
@@ -247,7 +253,7 @@
         <text>_w</text>
       </register>
       <register name="&quot;" type="4">
-        <text>zone_brands</text>
+        <text>enues_zones</text>
       </register>
       <register name="b" type="4">
         <text>kkjj</text>
@@ -3939,7 +3945,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>zone_brands</text>
+        <text>enues_zones</text>
       </register>
       <register name="n" type="4">
         <text />
