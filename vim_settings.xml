@@ -6,6 +6,11 @@
       <file name="/exhibitree_shows.public.venues_zones [postgres@localhost]" timestamp="1542146941391">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/io/io-engage/VERSION" timestamp="1542137999385">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="/exhibitree_shows.public.item_groups [postgres@localhost]" timestamp="1542143637296">
         <mark key="[" line="0" column="0" />
       </file>
@@ -80,11 +85,11 @@
       <file name="/dreamforce_production.public.proof_urls [Dreamforce 2018]" timestamp="1542072485883">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/18f2ac5a-39af-4578-8854-03936b72b2d2/console_2.sql" timestamp="1542146613581">
-        <mark key="[" line="5" column="78" />
-        <mark key="]" line="5" column="78" />
-        <mark key="." line="5" column="78" />
-        <mark key="^" line="5" column="48" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/18f2ac5a-39af-4578-8854-03936b72b2d2/console_2.sql" timestamp="1542147600741">
+        <mark key="[" line="4" column="97" />
+        <mark key="]" line="4" column="108" />
+        <mark key="^" line="4" column="108" />
+        <mark key="." line="4" column="108" />
       </file>
       <file name="/exhibitree-shows_production.public.items [postgres@localhost]" timestamp="1542142657971">
         <mark key="[" line="0" column="0" />
@@ -104,17 +109,25 @@
       <file name="/exhibitree_shows.public.item_update_errors [postgres@localhost]" timestamp="1542143647590">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/exhibitree_shows.public.events [postgres@localhost]" timestamp="1542147627415">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/exhibitree_shows.public.milestones [postgres@localhost]" timestamp="1542143723203">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1542147011008">
+      <file name="/dummy.sql" timestamp="1542147824478">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1542147833493">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/exhibitree_shows.public.pins [postgres@localhost]" timestamp="1542143731699">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree_noncloud/production2/config/database.yml" timestamp="1542072250407" />
-      <file name="/exhibitree_shows.public.brands [postgres@localhost]" timestamp="1542143601701">
+      <file name="/exhibitree_shows.public.brands [postgres@localhost]" timestamp="1542147824384">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/exhibitree_shows.public.zone_brands [postgres@localhost]" timestamp="1542146931760">
@@ -234,7 +247,7 @@
         <text>_w</text>
       </register>
       <register name="&quot;" type="4">
-        <text>venues_zones</text>
+        <text>zone_brands</text>
       </register>
       <register name="b" type="4">
         <text>kkjj</text>
@@ -3926,7 +3939,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>venues_zones</text>
+        <text>zone_brands</text>
       </register>
       <register name="n" type="4">
         <text />
@@ -3938,25 +3951,25 @@
         <text encoding="base64">U0VMRUNUIHNldHZhbChwZ19nZXRfc2VyaWFsX3NlcXVlbmNlKCdtaWxlc3RvbmVzJywgJ2lkJyksIGNvYWxlc2NlKG1heChpZCksMCkgKyAxLCBmYWxzZSkgRlJPTSBtaWxlc3RvbmVzOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">XHNldCB0YWJsZV9uYW1lICdtaWxlc3RvbmVzJwo=</text>
+        <text encoding="base64">U0VMRUNUIHNldHZhbChwZ19nZXRfc2VyaWFsX3NlcXVlbmNlKCd6b25lcycsICdpZCcpLCAwICsgMSwgZmFsc2UpIEZST00gem9uZXM7Cg==</text>
       </register>
       <register name="q" type="4">
         <text>jdd</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBFTkQKJCQ7CgpTRUxFQ1QgKiBGUk9NIHRtcF90YWJsZTsKCg==</text>
+        <text encoding="base64">XHNldCB0YWJsZV9uYW1lICdtaWxlc3RvbmVzJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">RE8gJCQKREVDTEFSRSB0YWJsZV9uYW1lIHZhcmNoYXIoMjApID0gJ21pbGVzdG9uZXMnOwogIEJFR0lOCiAgICAgIENSRUFURSBURU1QIFRBQkxFIHRtcF90YWJsZSBPTiBDT01NSVQgRFJPUCBBUwo=</text>
+        <text encoding="base64">ICBFTkQKJCQ7CgpTRUxFQ1QgKiBGUk9NIHRtcF90YWJsZTsKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">RE8gJCQKREVDTEFSRSB0YWJsZV9uYW1lIHZhcmNoYXIoMjApID0gJ21pbGVzdG9uZXMnOwogIEJFR0lOCiAgICAgIENSRUFURSBURU1QIFRBQkxFIHRtcF90YWJsZSBPTiBDT01NSVQgRFJPUCBBUwo=</text>
       </register>
       <register name="t" type="4">
         <text>jdd</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">U0VMRUNUIHNldHZhbChwZ19nZXRfc2VyaWFsX3NlcXVlbmNlKDp0YWJsZV9uYW1lLCAnaWQnKSwgY29hbGVzY2UobWF4KGlkKSwwKSArIDEsIGZhbHNlKSBGUk9NIDp0YWJsZV9uYW1lOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -4357,16 +4370,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">XHNldCB0YWJsZV9uYW1lICdtaWxlc3RvbmVzJzsK</text>
+        <text encoding="base64">U0VMRUNUIHNldHZhbChwZ19nZXRfc2VyaWFsX3NlcXVlbmNlKDp0YWJsZV9uYW1lLCAnaWQnKSwgY29hbGVzY2UobWF4KGlkKSwwKSArIDEsIGZhbHNlKSBGUk9NIDp0YWJsZV9uYW1lOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">V0lUSCBjb25zdGFudHMgKHRhYmxlX25hbWUpIGFzICgKICAgICB2YWx1ZXMgKCdtaWxlc3RvbmVzJykKICAgICkK</text>
+        <text encoding="base64">XHNldCB0YWJsZV9uYW1lICdtaWxlc3RvbmVzJzsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">U0VUIEB0YWJsZSA9ICdtaWxlc3RvbmVzJzsK</text>
+        <text encoding="base64">V0lUSCBjb25zdGFudHMgKHRhYmxlX25hbWUpIGFzICgKICAgICB2YWx1ZXMgKCdtaWxlc3RvbmVzJykKICAgICkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">REVDTEFSRSBAdGFibGUgVkFSQ0hBUjsK</text>
+        <text encoding="base64">U0VUIEB0YWJsZSA9ICdtaWxlc3RvbmVzJzsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
