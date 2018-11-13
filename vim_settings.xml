@@ -57,6 +57,9 @@
       <file name="/exhibitree_shows.public.resources [postgres@localhost]" timestamp="1542143764503">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/exhibitree_shows.public.users [postgres@localhost]" timestamp="1542150880715">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/e1_non_prod.public.zones [postgres@localhost]" timestamp="1542142012175">
         <mark key="[" line="0" column="0" />
       </file>
@@ -64,6 +67,9 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/exhibitree_shows.public.items_roles [postgres@localhost]" timestamp="1542143659504">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/exhibitree_shows.public.user_widgets [postgres@localhost]" timestamp="1542150925819">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/exhibitree_shows.public.roles_zones [postgres@localhost]" timestamp="1542146977751">
@@ -103,6 +109,9 @@
       <file name="/Ruby Console" timestamp="1541483938539">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/exhibitree_shows.public.roles [postgres@localhost]" timestamp="1542150961717">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/exhibitree_shows.public.layout_files [postgres@localhost]" timestamp="1542143420071">
         <mark key="[" line="0" column="0" />
       </file>
@@ -121,7 +130,7 @@
       <file name="/exhibitree_shows.public.milestones [postgres@localhost]" timestamp="1542143723203">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1542150158965">
+      <file name="/dummy.sql" timestamp="1542150989071">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1542147833493">
