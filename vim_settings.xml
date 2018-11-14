@@ -72,7 +72,7 @@
       <file name="/exhibitree_shows.public.user_widgets [postgres@localhost]" timestamp="1542150925819">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/exhibitree_shows.public.roles_zones [postgres@localhost]" timestamp="1542146977751">
+      <file name="/exhibitree_shows.public.roles_zones [postgres@localhost]" timestamp="1542153082525">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/exhibitree_shows.public.packing_reports [postgres@localhost]" timestamp="1542143728221">
@@ -97,11 +97,11 @@
       <file name="/dreamforce_production.public.proof_urls [Dreamforce 2018]" timestamp="1542072485883">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/18f2ac5a-39af-4578-8854-03936b72b2d2/console_2.sql" timestamp="1542149985821">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/18f2ac5a-39af-4578-8854-03936b72b2d2/console_2.sql" timestamp="1542153215695">
         <mark key="[" line="4" column="94" />
-        <mark key="]" line="4" column="100" />
-        <mark key="^" line="4" column="100" />
-        <mark key="." line="4" column="100" />
+        <mark key="]" line="4" column="94" />
+        <mark key="^" line="4" column="104" />
+        <mark key="." line="4" column="94" />
       </file>
       <file name="/exhibitree-shows_production.public.items [postgres@localhost]" timestamp="1542142657971">
         <mark key="[" line="0" column="0" />
@@ -109,7 +109,7 @@
       <file name="/Ruby Console" timestamp="1541483938539">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/exhibitree_shows.public.roles [postgres@localhost]" timestamp="1542150961717">
+      <file name="/exhibitree_shows.public.roles [postgres@localhost]" timestamp="1542153071960">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/exhibitree_shows.public.layout_files [postgres@localhost]" timestamp="1542143420071">
@@ -130,7 +130,7 @@
       <file name="/exhibitree_shows.public.milestones [postgres@localhost]" timestamp="1542143723203">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1542152663334">
+      <file name="/dummy.sql" timestamp="1542153137399">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1542147833493">
@@ -149,6 +149,9 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/exhibitree_shows.public.attachments [postgres@localhost]" timestamp="1542143583735">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/exhibitree_shows.public.role_types [postgres@localhost]" timestamp="1542153084909">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/hfelix_development.public.permissions [hfelix_development@localhost]" timestamp="1541436799668">
@@ -262,7 +265,7 @@
         <text>_w</text>
       </register>
       <register name="&quot;" type="4">
-        <text>enues_zones</text>
+        <text>e</text>
       </register>
       <register name="b" type="4">
         <text>kkjj</text>
@@ -3954,7 +3957,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>enues_zones</text>
+        <text>e</text>
       </register>
       <register name="n" type="4">
         <text />
