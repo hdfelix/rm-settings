@@ -182,6 +182,9 @@
       <file name="/exhibitree_shows.public.versions [postgres@localhost]" timestamp="1542149846259">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/exhibitree_shows.public.proof_urls [Exhibitree Cloud]" timestamp="1542322310612">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/exhibitree_shows_db_for_migration.public.milestones [postgres@localhost]" timestamp="1542312721976">
         <mark key="[" line="0" column="0" />
       </file>
@@ -279,7 +282,7 @@
       <file name="/exhibitree_shows.public.milestones [postgres@localhost]" timestamp="1542143723203">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1542318873813">
+      <file name="/dummy.sql" timestamp="1542322311264">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/exhibitree_shows.public.clients_users [postgres@localhost]" timestamp="1542301931638">
