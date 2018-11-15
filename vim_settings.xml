@@ -12,13 +12,16 @@
       <file name="/exhibitree_shows.public.venues_zones [postgres@localhost]" timestamp="1542146941391">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/exhibitree_shows.public.zone_brands [Exhibitree Cloud]" timestamp="1542323639709">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/exhibitree_shows.public.item_groups [postgres@localhost]" timestamp="1542243350968">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/exhibitree_shows.public.items_roles [Exhibitree Cloud]" timestamp="1542228179060">
+      <file name="/exhibitree_shows.public.items_roles [Exhibitree Cloud]" timestamp="1542323225302">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/exhibitree_shows_db_for_migration.public.zone_brands [postgres@localhost]" timestamp="1542314218467">
+      <file name="/exhibitree_shows_db_for_migration.public.zone_brands [postgres@localhost]" timestamp="1542323872382">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/exhibitree_shows.public.proof_urls [postgres@localhost]" timestamp="1542243085779">
@@ -90,13 +93,16 @@
       <file name="/exhibitree_shows.public.assessments [postgres@localhost]" timestamp="1542143563753">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/exhibitree_shows.public.venues_zones [Exhibitree Cloud]" timestamp="1542228194830">
+      <file name="/exhibitree_shows.public.venues_zones [Exhibitree Cloud]" timestamp="1542323579700">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/exhibitree_shows.public.sub_statuses [postgres@localhost]" timestamp="1542160450034">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.rb" timestamp="1541483679263">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/exhibitree_shows.public.pins [Exhibitree Cloud]" timestamp="1542323217674">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/exhibitree_shows.public.resources [postgres@localhost]" timestamp="1542143764503">
@@ -126,7 +132,7 @@
       <file name="/exhibitree_shows.public.items [Exhibitree Cloud]" timestamp="1542316038115">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/exhibitree_shows_db_for_migration.public.roles_zones [postgres@localhost]" timestamp="1542314016392">
+      <file name="/exhibitree_shows_db_for_migration.public.roles_zones [postgres@localhost]" timestamp="1542323850987">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/exhibitree_shows.public.general_locations [postgres@localhost]" timestamp="1542165463520">
@@ -145,7 +151,7 @@
       <file name="/exhibitree_shows_15.public.pins [postgres@localhost]" timestamp="1542306501104">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/exhibitree_shows_db_for_migration.public.layout_files [postgres@localhost]" timestamp="1542313320338">
+      <file name="/exhibitree_shows_db_for_migration.public.layout_files [postgres@localhost]" timestamp="1542323815243">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/exhibitree_shows.public.vendors [Exhibitree Cloud]" timestamp="1542228196020">
@@ -185,7 +191,7 @@
       <file name="/exhibitree_shows.public.proof_urls [Exhibitree Cloud]" timestamp="1542322310612">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/exhibitree_shows_db_for_migration.public.milestones [postgres@localhost]" timestamp="1542312721976">
+      <file name="/exhibitree_shows_db_for_migration.public.milestones [postgres@localhost]" timestamp="1542323805929">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/exhibitree_shows.public.clients [postgres@localhost]" timestamp="1542243397813">
@@ -194,13 +200,13 @@
       <file name="/exhibitree_shows.public.floor_plans [postgres@localhost]" timestamp="1542167330061">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/exhibitree_shows_db_for_migration.public.proof_urls [postgres@localhost]" timestamp="1542314868660">
+      <file name="/exhibitree_shows_db_for_migration.public.proof_urls [postgres@localhost]" timestamp="1542323786803">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/exhibitree_shows_db_for_migration.public.assessments [postgres@localhost]" timestamp="1542312282966">
+      <file name="/exhibitree_shows_db_for_migration.public.assessments [postgres@localhost]" timestamp="1542323828158">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/exhibitree_shows_db_for_migration.public.items_roles [postgres@localhost]" timestamp="1542312316178">
+      <file name="/exhibitree_shows_db_for_migration.public.items_roles [postgres@localhost]" timestamp="1542323835954">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/e1_non_prod.public.graphic_types [postgres@localhost]" timestamp="1542139463782">
@@ -282,7 +288,7 @@
       <file name="/exhibitree_shows.public.milestones [postgres@localhost]" timestamp="1542143723203">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1542322311264">
+      <file name="/dummy.sql" timestamp="1542323872467">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/exhibitree_shows.public.clients_users [postgres@localhost]" timestamp="1542301931638">
@@ -297,7 +303,7 @@
       <file name="/exhibitree_shows.public.pins [postgres@localhost]" timestamp="1542301908541">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/exhibitree_shows.public.assessments [Exhibitree Cloud]" timestamp="1542228157779">
+      <file name="/exhibitree_shows.public.assessments [Exhibitree Cloud]" timestamp="1542323208674">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/exhibitree_shows.public.workback_schedules [postgres@localhost]" timestamp="1542301852741">
@@ -306,7 +312,7 @@
       <file name="/exhibitree_shows.public.brands [postgres@localhost]" timestamp="1542166788271">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/exhibitree_shows_db_for_migration.public.venues_zones [postgres@localhost]" timestamp="1542314202618">
+      <file name="/exhibitree_shows_db_for_migration.public.venues_zones [postgres@localhost]" timestamp="1542323862910">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/exhibitree_shows.public.zone_brands [postgres@localhost]" timestamp="1542245954131">
