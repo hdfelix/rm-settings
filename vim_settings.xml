@@ -15,10 +15,10 @@
       <file name="/exhibitree_shows.public.vendors [Exhibitree Cloud]" timestamp="1542228196020">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/exhibitree_shows.public.roles_zones [postgres@localhost]" timestamp="1542153082525">
+      <file name="/exhibitree_shows.public.roles_zones [postgres@localhost]" timestamp="1542243616532">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/exhibitree_shows.public.item_groups [postgres@localhost]" timestamp="1542165900706">
+      <file name="/exhibitree_shows.public.item_groups [postgres@localhost]" timestamp="1542243350968">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/exhibitree_shows.public.items_roles [Exhibitree Cloud]" timestamp="1542228179060">
@@ -27,7 +27,7 @@
       <file name="/exhibitree_shows.public.packing_reports [postgres@localhost]" timestamp="1542143728221">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/exhibitree_shows.public.proof_urls [postgres@localhost]" timestamp="1542143758452">
+      <file name="/exhibitree_shows.public.proof_urls [postgres@localhost]" timestamp="1542243085779">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/exhibitree_shows.public.job_statuses [postgres@localhost]" timestamp="1542143669797">
@@ -51,7 +51,7 @@
       <file name="/exhibitree_shows.public.versions [postgres@localhost]" timestamp="1542149846259">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/exhibitree_shows.public.clients [postgres@localhost]" timestamp="1542166367261">
+      <file name="/exhibitree_shows.public.clients [postgres@localhost]" timestamp="1542243397813">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/shows/config/settings.yml" timestamp="1542236326241">
@@ -90,6 +90,9 @@
       <file name="/dreamforce_production.public.proof_urls [Dreamforce 2018]" timestamp="1542072485883">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/18f2ac5a-39af-4578-8854-03936b72b2d2/console_2.sql" timestamp="1542242658929">
+        <mark key="[" line="17" column="37" />
+      </file>
       <file name="/exhibitree_shows.public.milestones [Exhibitree Cloud]" timestamp="1542228114651">
         <mark key="[" line="0" column="0" />
       </file>
@@ -120,7 +123,7 @@
       <file name="/exhibitree_shows.public.roles [Exhibitree Cloud]" timestamp="1542228228286">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/exhibitree_shows.public.layout_files [postgres@localhost]" timestamp="1542143420071">
+      <file name="/exhibitree_shows.public.layout_files [postgres@localhost]" timestamp="1542242535863">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/io/io-engage/app/assets/stylesheets/base/floor_plans.scss" timestamp="1542137896100">
@@ -169,10 +172,13 @@
       <file name="/exhibitree_shows.public.milestones [postgres@localhost]" timestamp="1542143723203">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1542228244138">
+      <file name="/dummy.sql" timestamp="1542243616655">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/exhibitree_shows.public.sub_statuses [postgres@localhost]" timestamp="1542160450034">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/exhibitree_shows.public.clients_users [postgres@localhost]" timestamp="1542243369363">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.rb" timestamp="1541483679263">
@@ -212,10 +218,10 @@
       <file name="/dreamforce_production.public.role_types [postgres@localhost]" timestamp="1541214805415">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/exhibitree_shows.public.items_roles [postgres@localhost]" timestamp="1542143659504">
+      <file name="/exhibitree_shows.public.items_roles [postgres@localhost]" timestamp="1542243064661">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/exhibitree_shows.public.attachments [postgres@localhost]" timestamp="1542143583735">
+      <file name="/exhibitree_shows.public.attachments [postgres@localhost]" timestamp="1542243449082">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/exhibitree_shows.public.role_types [postgres@localhost]" timestamp="1542161830226">
