@@ -206,6 +206,9 @@
       <file name="/exhibitree_shows.public.milestones [Exhibitree Cloud]" timestamp="1542228114651">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/exhibitree1_production.public.items [io_prod]" timestamp="1542394949109">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/exhibitree-shows_production.public.items [postgres@localhost]" timestamp="1542142657971">
         <mark key="[" line="0" column="0" />
       </file>
@@ -255,7 +258,7 @@
       <file name="/exhibitree_shows.public.milestones [postgres@localhost]" timestamp="1542143723203">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1542394337185">
+      <file name="/dummy.sql" timestamp="1542394988798">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/exhibitree_shows.public.clients_users [postgres@localhost]" timestamp="1542301931638">
