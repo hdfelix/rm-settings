@@ -30,6 +30,7 @@
       <file name="/hfelix_development.public.layout_files [hfelix_development@localhost]" timestamp="1542072773169">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/io/io-engage/app/models/attachment.rb" timestamp="1542473071343" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/18f2ac5a-39af-4578-8854-03936b72b2d2/console_3.sql" timestamp="1542332978627" />
       <file name="/exhibitree_shows.public.specific_locations [postgres@localhost]" timestamp="1542143799256">
         <mark key="[" line="0" column="0" />
@@ -343,9 +344,6 @@
       </file>
       <file name="$USER_HOME$/code/io/io-engage/spec/spec_helper.rb" timestamp="1542409130156" />
       <file name="/exhibitree_shows.public.workflows_workflows [postgres@localhost]" timestamp="1542301843750">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1542394209194">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/exhibitree_shows.public.pins [postgres@localhost]" timestamp="1542301908541">
