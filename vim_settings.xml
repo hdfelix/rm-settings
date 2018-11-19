@@ -77,6 +77,7 @@
       <file name="/e1_non_prod.public.items [postgres@localhost]" timestamp="1542162844953">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/io/io-engage/app/workers/layout_files/slug_report_worker.rb" timestamp="1542651797048" />
       <file name="/exhibitree_shows.public.workflows_events [postgres@localhost]" timestamp="1542301850119">
         <mark key="[" line="0" column="0" />
       </file>
@@ -147,7 +148,12 @@
       <file name="/exhibitree_shows.public.workflows_states [postgres@localhost]" timestamp="1542301846676">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/demo/master/config/settings.yml" timestamp="1542650869146" />
+      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/demo/master/config/settings.yml" timestamp="1542652300971">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
       <file name="/exhibitree_shows.public.graphic_types [postgres@localhost]" timestamp="1542168550766">
         <mark key="[" line="0" column="0" />
       </file>
