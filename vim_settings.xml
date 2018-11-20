@@ -3936,7 +3936,7 @@
         <text />
       </register>
       <register name="/" type="4">
-        <text>queue</text>
+        <text>start</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGxldCg6bGF5b3V0X2ZpbGUpIHsgY3JlYXRlKDpsYXlvdXRfZmlsZSwgOndpdGhfdGh1bWJuYWlsLCA6d2l0aF9zbHVnX3JlcG9ydCkgfQo=</text>
@@ -4377,9 +4377,9 @@
       </register>
     </registers>
     <search>
-      <last-search>queue</last-search>
+      <last-search>start</last-search>
       <last-offset />
-      <last-pattern>queue</last-pattern>
+      <last-pattern>start</last-pattern>
       <last-replace encoding="base64">XCZkZWZhdWx0</last-replace>
       <last-substitute encoding="base64">XCZzYW1wbGU=</last-substitute>
       <last-dir>1</last-dir>
@@ -4404,9 +4404,9 @@
         <entry>upload_complete</entry>
         <entry>use_cassette</entry>
         <entry encoding="base64">XCZzYW1wbGU=</entry>
-        <entry>start</entry>
         <entry>retry</entry>
         <entry>queue</entry>
+        <entry>start</entry>
       </history-search>
       <history-cmd>
         <entry>%s:has_engineering_requirement\:\s\([nil|true|false]),\(.*\):\2:c</entry>
