@@ -52,9 +52,6 @@
         <mark key="." line="22" column="21" />
         <mark key="^" line="22" column="21" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/app/controllers/items_controller.rb" timestamp="1542406173723">
-        <mark key="'" line="207" column="32" />
-      </file>
       <file name="$USER_HOME$/code/io/io_engage_configuration/instances/demo/master/config/settings.yml" timestamp="1542652300971">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -69,6 +66,7 @@
         <mark key="^" line="34" column="86" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1542315368695" />
+      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/developers/hfelix/k8s/instance-values.yaml" timestamp="1542678249518" />
       <file name="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree_noncloud/production/config/database.yml" timestamp="1542393390645" />
       <file name="$USER_HOME$/code/io/io-engage/config/database.yml" timestamp="1542308304697">
         <mark key="[" line="23" column="0" />
