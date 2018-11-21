@@ -10,12 +10,12 @@
       <file name="/exhibitree_shows_15.public.venues_zones [postgres@localhost]" timestamp="1542307189926">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/spec/factories/roles.rb" timestamp="1542779792231">
-        <mark key="'" line="27" column="20" />
-        <mark key="[" line="155" column="10" />
-        <mark key="]" line="155" column="10" />
-        <mark key="^" line="157" column="41" />
-        <mark key="." line="155" column="10" />
+      <file name="$USER_HOME$/code/io/io-engage/spec/factories/roles.rb" timestamp="1542780926875">
+        <mark key="'" line="172" column="0" />
+        <mark key="[" line="249" column="34" />
+        <mark key="]" line="249" column="34" />
+        <mark key="^" line="249" column="34" />
+        <mark key="." line="249" column="34" />
       </file>
       <file name="/exhibitree_shows_18.public.field_sets [postgres@localhost]" timestamp="1542681123121">
         <mark key="[" line="0" column="0" />
@@ -272,9 +272,6 @@
         <mark key="." line="41" column="34" />
         <mark key="^" line="41" column="34" />
       </file>
-      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/dreamforce/production/config/settings.yml" timestamp="1542664378112">
-        <mark key="'" line="12" column="10" />
-      </file>
       <file name="/exhibitree_shows.public.versions [postgres@localhost]" timestamp="1542149846259">
         <mark key="[" line="0" column="0" />
       </file>
@@ -364,8 +361,12 @@
       <file name="/exhibitree_shows.public.layout_files [postgres@localhost]" timestamp="1542242535863">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/spec/factories/zones.rb" timestamp="1542779308625">
-        <mark key="'" line="12" column="0" />
+      <file name="$USER_HOME$/code/io/io-engage/spec/factories/zones.rb" timestamp="1542781027996">
+        <mark key="'" line="111" column="38" />
+        <mark key="[" line="107" column="37" />
+        <mark key="]" line="107" column="37" />
+        <mark key="^" line="107" column="64" />
+        <mark key="." line="107" column="37" />
       </file>
       <file name="/exhibitree_shows.public.venues [Exhibitree Cloud]" timestamp="1542228189940">
         <mark key="[" line="0" column="0" />
@@ -465,6 +466,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/io/io-engage/app/jobs/batch_slug_resque_job.rb" timestamp="1542408171595" />
+      <file name="$USER_HOME$/code/io/io-engage/spec/models/ability_spec.rb" timestamp="1542780598110" />
       <file name="$USER_HOME$/code/io/io-engage/db/migrate/20181121052232_add_visible_to_role_types.rb" timestamp="1542777776635">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -477,12 +479,12 @@
       <file name="/exhibitree_shows_15.public.roles_zones [postgres@localhost]" timestamp="1542306518361">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/spec/features/items/edit_form_spec.rb" timestamp="1542778850827">
-        <mark key="'" line="84" column="0" />
-        <mark key="[" line="141" column="50" />
-        <mark key="]" line="141" column="59" />
-        <mark key="." line="141" column="59" />
-        <mark key="^" line="141" column="59" />
+      <file name="$USER_HOME$/code/io/io-engage/spec/features/items/edit_form_spec.rb" timestamp="1542781804907">
+        <mark key="'" line="140" column="8" />
+        <mark key="[" line="147" column="41" />
+        <mark key="]" line="147" column="65" />
+        <mark key="." line="147" column="65" />
+        <mark key="^" line="147" column="65" />
       </file>
       <file name="/exhibitree_shows.public.attachments [postgres@localhost]" timestamp="1542243449082">
         <mark key="[" line="0" column="0" />
@@ -505,12 +507,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="286" column="4" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
-      <jump line="148" column="4" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
-      <jump line="147" column="6" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
-      <jump line="288" column="4" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
-      <jump line="392" column="4" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
-      <jump line="477" column="4" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
       <jump line="550" column="4" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
       <jump line="699" column="4" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
       <jump line="828" column="4" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
@@ -605,13 +601,19 @@
       <jump line="12" column="0" filename="$USER_HOME$/code/io/io-engage/spec/factories/zones.rb" />
       <jump line="156" column="0" filename="$USER_HOME$/code/io/io-engage/spec/factories/roles.rb" />
       <jump line="27" column="20" filename="$USER_HOME$/code/io/io-engage/spec/factories/roles.rb" />
+      <jump line="113" column="30" filename="$USER_HOME$/code/io/io-engage/spec/factories/zones.rb" />
+      <jump line="173" column="0" filename="$USER_HOME$/code/io/io-engage/spec/factories/roles.rb" />
+      <jump line="22" column="0" filename="$USER_HOME$/code/io/io-engage/spec/factories/roles.rb" />
+      <jump line="172" column="0" filename="$USER_HOME$/code/io/io-engage/spec/factories/roles.rb" />
+      <jump line="111" column="38" filename="$USER_HOME$/code/io/io-engage/spec/factories/zones.rb" />
+      <jump line="140" column="8" filename="$USER_HOME$/code/io/io-engage/spec/features/items/edit_form_spec.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>_w</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
       </register>
       <register name="b" type="4">
         <text>kkjj</text>
@@ -4303,37 +4305,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text encoding="base64">bm90X3RvIA==</text>
       </register>
       <register name="n" type="4">
         <text />
       </register>
       <register name="/" type="4">
-        <text>assessment</text>
+        <text>with_items</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB2aXNpdCBlZGl0X2dyYXBoaWNfcGF0aChpdGVtLCBzZWxlY3RlZF90YWI6IHRhYikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgYXNzZXNzbWVudF9wb2xpY3kgJ2FueScK</text>
+        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
       </register>
       <register name="q" type="4">
         <text>jdd</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZGVmaW5lX3NpbmdsZXRvbl9tZXRob2QoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbHVtbiA6dmlzaWJsZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcm93IDp2aXNpYmxlCg==</text>
+        <text encoding="base64">ICAgIGxldCg6Z3JhcGhpY19sZWFkX3R5cGUpIHsgY3JlYXRlKDpyb2xlX3R5cGUsIDpncmFwaGljX2xlYWQpIH0K</text>
       </register>
       <register name="t" type="4">
         <text>jdd</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZi5pbnB1dCA6dmlzaWJsZSwgYXM6IDpyYWRpbwo=</text>
+        <text encoding="base64">ICAgIGxldCg6ZmlsZV9yZWplY3RlZF9hcHByb3Zlcl91c2VyKSB7IHpvbmUucm9sZXMuZmlyc3QudXNlciB9Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -4734,25 +4736,25 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbHVtbSA6dmlzaWJsZQo=</text>
+        <text encoding="base64">ICAgICAgZ3JhcGhpY19sZWFkLnJvbGVzIDw8IAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBkZWYgY2hhbmdlCg==</text>
+        <text encoding="base64">ICAgIGxldCg6Z3JhcGhpY19sZWFkKSB7IGNyZWF0ZSg6cm9sZSwgOmdyYXBoaWNfbGVhZCkgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFkZF9jb2x1bW4gOmZpZWxkX3NldHMsIDp2aXNpYmxlLCA6Ym9vbGVhbiwgZGVmYXVsdDogZmFsc2UKICBlbmQK</text>
+        <text encoding="base64">ICAgICAgem9uZS5yb2xlcwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBkZWYgY2hhbmdlCiAgICBhZGRfY29sdW1uIDpmaWVsZF9zZXRzLCA6dmlzaWJsZSwgOmJvb2xlYW4sIGRlZmF1bHQ6IGZhbHNlCiAgZW5kCg==</text>
+        <text encoding="base64">ICAgIGxldCg6dmlzaWJsZV9yb2xlX3R5cGUpIHsgY3JlYXRlKDpyb2xlX3R5cGUpIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>assessment</last-search>
+      <last-search>with_items</last-search>
       <last-offset />
-      <last-pattern>assessment</last-pattern>
+      <last-pattern>with_items</last-pattern>
       <last-replace encoding="base64">XCZkZWZhdWx0</last-replace>
       <last-substitute encoding="base64">XCZzYW1wbGU=</last-substitute>
       <last-dir>1</last-dir>
@@ -4760,10 +4762,6 @@
     </search>
     <history>
       <history-search>
-        <entry>client</entry>
-        <entry>clients</entry>
-        <entry>slug_report</entry>
-        <entry>exhib</entry>
         <entry>slug</entry>
         <entry>slug_report:</entry>
         <entry>report_key</entry>
@@ -4780,6 +4778,10 @@
         <entry>item</entry>
         <entry>exhibitree</entry>
         <entry>assessment</entry>
+        <entry>with_</entry>
+        <entry>role</entry>
+        <entry>find_byname</entry>
+        <entry>with_items</entry>
       </history-search>
       <history-cmd>
         <entry>%s:has_engineering_requirement\:\s\([nil|true|false]),\(.*\):\2:c</entry>
