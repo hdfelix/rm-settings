@@ -6,6 +6,7 @@
       <file name="/exhibitree_shows_15.public.zone_brands [postgres@localhost]" timestamp="1542307583921">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/io/io-engage/db/migrate/20170825030720_add_visible_to_field_sets.rb" timestamp="1542777655434" />
       <file name="/exhibitree_shows_15.public.venues_zones [postgres@localhost]" timestamp="1542307189926">
         <mark key="[" line="0" column="0" />
       </file>
@@ -41,6 +42,12 @@
       <file name="/exhibitree2_production.public.proof_urls [Exhibitree2-production]" timestamp="1542072093249">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/io/io-engage/app/views/graphics/_contacts.html.haml" timestamp="1542778416490">
+        <mark key="[" line="3" column="6" />
+        <mark key="]" line="3" column="11" />
+        <mark key="^" line="3" column="11" />
+        <mark key="." line="3" column="11" />
+      </file>
       <file name="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/shows/config/settings.yml" timestamp="1542236326241">
         <mark key="'" line="53" column="57" />
         <mark key="[" line="53" column="57" />
@@ -67,6 +74,13 @@
         <mark key="^" line="686" column="37" />
         <mark key="." line="686" column="41" />
       </file>
+      <file name="$USER_HOME$/code/io/io-engage/app/models/field_set.rb" timestamp="1542777828084">
+        <mark key="'" line="13" column="9" />
+        <mark key="[" line="13" column="58" />
+        <mark key="]" line="14" column="1" />
+        <mark key="^" line="14" column="1" />
+        <mark key="." line="14" column="1" />
+      </file>
       <file name="$USER_HOME$/code/io/sop/io-engage-event/scripts/slugs_and_thumbs_scripts.rb" timestamp="1542679328875" />
       <file name="$USER_HOME$/code/io/io_engage_configuration/instances/preferred/shared/app/models/workflows/preferred.rb" timestamp="1542590634337">
         <mark key="[" line="26" column="86" />
@@ -87,6 +101,13 @@
       <file name="/exhibitree_shows.public.roles [Exhibitree Cloud]" timestamp="1542228228286">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/io/io-engage/app/assets/stylesheets/base/floor_plans.scss" timestamp="1542137896100">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="^" line="56" column="63" />
+        <mark key="." line="57" column="0" />
+      </file>
       <file name="$USER_HOME$/code/io/io_engage_configuration/instances/developers/shared/app/models/workflows/dreamforce.rb" timestamp="1542436284306">
         <mark key="[" line="35" column="90" />
         <mark key="]" line="35" column="86" />
@@ -103,7 +124,7 @@
         <mark key="^" line="77" column="23" />
         <mark key="." line="77" column="23" />
       </file>
-      <file name="/a.sql" timestamp="1542139226014">
+      <file name="/a.sql" timestamp="1542777514344">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/e1_test.public.items [postgres@localhost]" timestamp="1542042231284">
@@ -194,6 +215,9 @@
       <file name="/exhibitree_shows_db_for_migration.public.layout_files [postgres@localhost]" timestamp="1542323815243">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/exhibitree_shows_local.public.role_types [postgres@localhost]" timestamp="1542777569447">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/exhibitree_shows.public.vendors [Exhibitree Cloud]" timestamp="1542228196020">
         <mark key="[" line="0" column="0" />
       </file>
@@ -241,11 +265,15 @@
         <mark key="." line="41" column="34" />
         <mark key="^" line="41" column="34" />
       </file>
-      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/dreamforce/production/config/settings.yml" timestamp="1542664378112">
-        <mark key="'" line="12" column="10" />
-      </file>
       <file name="/exhibitree_shows.public.versions [postgres@localhost]" timestamp="1542149846259">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/io/io-engage/app/admin/role_type.rb" timestamp="1542778159589">
+        <mark key="'" line="30" column="14" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="19" />
+        <mark key="^" line="95" column="3" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="/exhibitree_shows.public.proof_urls [Exhibitree Cloud]" timestamp="1542322310612">
         <mark key="[" line="0" column="0" />
@@ -368,7 +396,7 @@
       <file name="/exhibitree_shows.public.milestones [postgres@localhost]" timestamp="1542143723203">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1542759250032">
+      <file name="/dummy.sql" timestamp="1542777869675">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/io/io-engage/app/models/workflows/exhibitree.rb" timestamp="1542406238458">
@@ -389,7 +417,7 @@
       <file name="/exhibitree_shows.public.workflows_workflows [postgres@localhost]" timestamp="1542301843750">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1542679829956">
+      <file name="/Dummy.txt" timestamp="1542777552244">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/exhibitree_shows.public.pins [postgres@localhost]" timestamp="1542301908541">
@@ -413,10 +441,23 @@
         <mark key="." line="23" column="80" />
         <mark key="^" line="23" column="80" />
       </file>
+      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/events/config/settings.yml" timestamp="1542236106543">
+        <mark key="'" line="58" column="2" />
+        <mark key="[" line="23" column="45" />
+        <mark key="]" line="23" column="51" />
+        <mark key="." line="23" column="51" />
+        <mark key="^" line="23" column="51" />
+      </file>
       <file name="/exhibitree_shows.public.zone_brands [postgres@localhost]" timestamp="1542245954131">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/io/io-engage/app/jobs/batch_slug_resque_job.rb" timestamp="1542408171595" />
+      <file name="$USER_HOME$/code/io/io-engage/db/migrate/20181121052232_add_visible_to_role_types.rb" timestamp="1542777776635">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="2" column="59" />
+      </file>
       <file name="/exhibitree_shows_18.public.permissions [postgres@localhost]" timestamp="1542680053452">
         <mark key="[" line="0" column="0" />
       </file>
@@ -444,12 +485,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="146" column="0" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
-      <jump line="391" column="17" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
-      <jump line="476" column="53" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
-      <jump line="621" column="42" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
-      <jump line="695" column="26" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
-      <jump line="696" column="38" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
       <jump line="825" column="26" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
       <jump line="50" column="33" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
@@ -544,13 +579,19 @@
       <jump line="862" column="0" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
       <jump line="41" column="38" filename="$USER_HOME$/code/io/io-engage/config/database.yml" />
       <jump line="2" column="0" filename="$USER_HOME$/code/io/io-engage/config/database.yml" />
+      <jump line="9" column="39" filename="$USER_HOME$/code/io/io-engage/app/models/field_set.rb" />
+      <jump line="2" column="0" filename="$USER_HOME$/code/io/io-engage/app/models/field_set.rb" />
+      <jump line="26" column="1" filename="$USER_HOME$/code/io/io-engage/app/models/field_set.rb" />
+      <jump line="16" column="31" filename="$USER_HOME$/code/io/io-engage/app/models/field_set.rb" />
+      <jump line="13" column="9" filename="$USER_HOME$/code/io/io-engage/app/models/field_set.rb" />
+      <jump line="28" column="14" filename="$USER_HOME$/code/io/io-engage/app/admin/role_type.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>_w</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyAgZGF0YWJhc2U6IGV4aGliaXRyZWUtc2hvd3NfdGVzdDwlPSBFTlZbJ1RFU1RfRU5WX05VTUJFUiddICU+PCU9IEVOVlsnVEVTVF9EQVRBQkFTRV9QT1NURklYJ10gJT4K</text>
+      <register name="&quot;" type="4">
+        <text>f</text>
       </register>
       <register name="b" type="4">
         <text>kkjj</text>
@@ -4242,37 +4283,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>f</text>
       </register>
       <register name="n" type="4">
         <text />
       </register>
       <register name="/" type="4">
-        <text>start</text>
+        <text>visible</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGxldCg6bGF5b3V0X2ZpbGUpIHsgY3JlYXRlKDpsYXlvdXRfZmlsZSwgOndpdGhfdGh1bWJuYWlsLCA6d2l0aF9zbHVnX3JlcG9ydCkgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyAgZGF0YWJhc2U6IGV4aGliaXRyZWUtc2hvd3NfdGVzdDwlPSBFTlZbJ1RFU1RfRU5WX05VTUJFUiddICU+PCU9IEVOVlsnVEVTVF9EQVRBQkFTRV9QT1NURklYJ10gJT4K</text>
+        <text encoding="base64">ICAgIGNvbHVtbiA6dmlzaWJsZQo=</text>
       </register>
       <register name="q" type="4">
         <text>jdd</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBkYXRhYmFzZTogZTItbm9uLXByb2RfdGVzdAo=</text>
+        <text encoding="base64">ICAgICAgcm93IDp2aXNpYmxlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHN0YXJ0X2Nsb3VkZmxvd193b3JrZmxvdyEKICAgICAgICAgIGdlbmVyYXRlX3NsdWdfcmVwb3J0IQogICAgICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgICAgZi5pbnB1dCA6dmlzaWJsZSwgYXM6IDpyYWRpbwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHN0YXJ0X2Nsb3VkZmxvd193b3JrZmxvdyEKICAgICAgICBlbmQK</text>
+        <text encoding="base64">ICAgIGNvbHVtbSA6dmlzaWJsZQo=</text>
       </register>
       <register name="t" type="4">
         <text>jdd</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHN0YXJ0X2Nsb3VkZmxvd193b3JrZmxvdyEKICAgICAgICBlbmQK</text>
+        <text encoding="base64">ICBkZWYgY2hhbmdlCg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -4673,25 +4714,25 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHN0YXJ0X2Nsb3VkZmxvd193b3JrZmxvdyEKICAgICAgICBlbmQK</text>
+        <text encoding="base64">ICAgIGFkZF9jb2x1bW4gOmZpZWxkX3NldHMsIDp2aXNpYmxlLCA6Ym9vbGVhbiwgZGVmYXVsdDogZmFsc2UKICBlbmQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxldCg6bGF5b3V0X2ZpbGUpIHsgY3JlYXRlKDpsYXlvdXRfZmlsZSwgOndpdGhfdGh1bWJuYWlsKSB9Cg==</text>
+        <text encoding="base64">ICBkZWYgY2hhbmdlCiAgICBhZGRfY29sdW1uIDpmaWVsZF9zZXRzLCA6dmlzaWJsZSwgOmJvb2xlYW4sIGRlZmF1bHQ6IGZhbHNlCiAgZW5kCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHN0YXJ0X2Nsb3VkZmxvd193b3JrZmxvdyEKICAgICAgICBlbmQK</text>
+        <text encoding="base64">IyAgZGF0YWJhc2U6IGV4aGliaXRyZWUtc2hvd3NfdGVzdDwlPSBFTlZbJ1RFU1RfRU5WX05VTUJFUiddICU+PCU9IEVOVlsnVEVTVF9EQVRBQkFTRV9QT1NURklYJ10gJT4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHN0YXJ0X2Nsb3VkZmxvd193b3JrZmxvdyEKICAgICAgICAgIGdlbmVyYXRlX3NsdWdfcmVwb3J0IQogICAgICAgIGVuZAo=</text>
+        <text encoding="base64">ICBkYXRhYmFzZTogZTItbm9uLXByb2RfdGVzdAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>start</last-search>
+      <last-search>visible</last-search>
       <last-offset />
-      <last-pattern>start</last-pattern>
+      <last-pattern>visible</last-pattern>
       <last-replace encoding="base64">XCZkZWZhdWx0</last-replace>
       <last-substitute encoding="base64">XCZzYW1wbGU=</last-substitute>
       <last-dir>1</last-dir>
@@ -4699,7 +4740,6 @@
     </search>
     <history>
       <history-search>
-        <entry>AWS</entry>
         <entry>dynamic_vendor_contact</entry>
         <entry>GridItem</entry>
         <entry>client</entry>
@@ -4719,6 +4759,7 @@
         <entry>retry</entry>
         <entry>queue</entry>
         <entry>start</entry>
+        <entry>visible</entry>
       </history-search>
       <history-cmd>
         <entry>%s:has_engineering_requirement\:\s\([nil|true|false]),\(.*\):\2:c</entry>
