@@ -60,8 +60,8 @@
       <file name="/exhibitree_shows_db_for_migration.public.attachments [postgres@localhost]" timestamp="1542332274913">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/config/settings.yml" timestamp="1542679441238">
-        <mark key="'" line="693" column="41" />
+      <file name="$USER_HOME$/code/io/io-engage/config/settings.yml" timestamp="1542759098819">
+        <mark key="'" line="862" column="0" />
         <mark key="[" line="686" column="41" />
         <mark key="]" line="686" column="41" />
         <mark key="^" line="686" column="37" />
@@ -234,11 +234,12 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree_noncloud/production/config/database.yml" timestamp="1542393390645" />
-      <file name="$USER_HOME$/code/io/io-engage/config/database.yml" timestamp="1542679409285">
-        <mark key="[" line="42" column="31" />
-        <mark key="]" line="42" column="32" />
-        <mark key="." line="42" column="32" />
-        <mark key="^" line="22" column="31" />
+      <file name="$USER_HOME$/code/io/io-engage/config/database.yml" timestamp="1542759289264">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="41" column="29" />
+        <mark key="]" line="41" column="34" />
+        <mark key="." line="41" column="34" />
+        <mark key="^" line="41" column="34" />
       </file>
       <file name="$USER_HOME$/code/io/io_engage_configuration/instances/dreamforce/production/config/settings.yml" timestamp="1542664378112">
         <mark key="'" line="12" column="10" />
@@ -334,7 +335,7 @@
       <file name="/exhibitree_shows.public.rush_overrides [postgres@localhost]" timestamp="1542160662987">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/shows/config/database.yml" timestamp="1542679898167" />
+      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/shows/config/database.yml" timestamp="1542758991817" />
       <file name="/exhibitree_shows.public.proof_reader_approvers [postgres@localhost]" timestamp="1542143544886">
         <mark key="[" line="0" column="0" />
       </file>
@@ -367,7 +368,7 @@
       <file name="/exhibitree_shows.public.milestones [postgres@localhost]" timestamp="1542143723203">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1542739899135">
+      <file name="/dummy.sql" timestamp="1542759250032">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/io/io-engage/app/models/workflows/exhibitree.rb" timestamp="1542406238458">
@@ -443,9 +444,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="307" column="12" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
-      <jump line="94" column="0" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
-      <jump line="87" column="0" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
       <jump line="146" column="0" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
       <jump line="391" column="17" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
       <jump line="476" column="53" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
@@ -543,13 +541,16 @@
       <jump line="2" column="0" filename="$USER_HOME$/code/io/io-engage/spec/models/layout_file_spec.rb" />
       <jump line="12" column="10" filename="$USER_HOME$/code/io/io_engage_configuration/instances/dreamforce/production/config/settings.yml" />
       <jump line="693" column="41" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
+      <jump line="862" column="0" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
+      <jump line="41" column="38" filename="$USER_HOME$/code/io/io-engage/config/database.yml" />
+      <jump line="2" column="0" filename="$USER_HOME$/code/io/io-engage/config/database.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>_w</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>2</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IyAgZGF0YWJhc2U6IGV4aGliaXRyZWUtc2hvd3NfdGVzdDwlPSBFTlZbJ1RFU1RfRU5WX05VTUJFUiddICU+PCU9IEVOVlsnVEVTVF9EQVRBQkFTRV9QT1NURklYJ10gJT4K</text>
       </register>
       <register name="b" type="4">
         <text>kkjj</text>
@@ -4253,16 +4254,16 @@
         <text encoding="base64">ICAgIGxldCg6bGF5b3V0X2ZpbGUpIHsgY3JlYXRlKDpsYXlvdXRfZmlsZSwgOndpdGhfdGh1bWJuYWlsLCA6d2l0aF9zbHVnX3JlcG9ydCkgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHN0YXJ0X2Nsb3VkZmxvd193b3JrZmxvdyEKICAgICAgICAgIGdlbmVyYXRlX3NsdWdfcmVwb3J0IQogICAgICAgIGVuZAo=</text>
+        <text encoding="base64">IyAgZGF0YWJhc2U6IGV4aGliaXRyZWUtc2hvd3NfdGVzdDwlPSBFTlZbJ1RFU1RfRU5WX05VTUJFUiddICU+PCU9IEVOVlsnVEVTVF9EQVRBQkFTRV9QT1NURklYJ10gJT4K</text>
       </register>
       <register name="q" type="4">
         <text>jdd</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHN0YXJ0X2Nsb3VkZmxvd193b3JrZmxvdyEKICAgICAgICBlbmQK</text>
+        <text encoding="base64">ICBkYXRhYmFzZTogZTItbm9uLXByb2RfdGVzdAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHN0YXJ0X2Nsb3VkZmxvd193b3JrZmxvdyEKICAgICAgICBlbmQK</text>
+        <text encoding="base64">ICAgICAgICAgIHN0YXJ0X2Nsb3VkZmxvd193b3JrZmxvdyEKICAgICAgICAgIGdlbmVyYXRlX3NsdWdfcmVwb3J0IQogICAgICAgIGVuZAo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgIHN0YXJ0X2Nsb3VkZmxvd193b3JrZmxvdyEKICAgICAgICBlbmQK</text>
@@ -4271,7 +4272,7 @@
         <text>jdd</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxldCg6bGF5b3V0X2ZpbGUpIHsgY3JlYXRlKDpsYXlvdXRfZmlsZSwgOndpdGhfdGh1bWJuYWlsKSB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHN0YXJ0X2Nsb3VkZmxvd193b3JrZmxvdyEKICAgICAgICBlbmQK</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -4675,10 +4676,10 @@
         <text encoding="base64">ICAgICAgICAgIHN0YXJ0X2Nsb3VkZmxvd193b3JrZmxvdyEKICAgICAgICBlbmQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHN0YXJ0X2Nsb3VkZmxvd193b3JrZmxvdyEKICAgICAgICAgIGdlbmVyYXRlX3NsdWdfcmVwb3J0IQogICAgICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgIGxldCg6bGF5b3V0X2ZpbGUpIHsgY3JlYXRlKDpsYXlvdXRfZmlsZSwgOndpdGhfdGh1bWJuYWlsKSB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHN0YXJ0X2Nsb3VkZmxvd193b3JrZmxvdyEKICAgICAgICAgIGdlbmVyYXRlX3NsdWdfcmVwb3J0IQogICAgICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgICAgICAgIHN0YXJ0X2Nsb3VkZmxvd193b3JrZmxvdyEKICAgICAgICBlbmQK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgIHN0YXJ0X2Nsb3VkZmxvd193b3JrZmxvdyEKICAgICAgICAgIGdlbmVyYXRlX3NsdWdfcmVwb3J0IQogICAgICAgIGVuZAo=</text>
