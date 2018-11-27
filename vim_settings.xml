@@ -222,6 +222,9 @@
       <file name="/exhibitree_shows_15.public.milestones [postgres@localhost]" timestamp="1542308099352">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/layout_files [Exhibitree Cloud]" timestamp="1543289666002">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/exhibitree_shows.public.venues [postgres@localhost]" timestamp="1542165509341">
         <mark key="[" line="0" column="0" />
       </file>
@@ -479,7 +482,6 @@
       <file name="/exhibitree_shows.public.assessments [Exhibitree Cloud]" timestamp="1542323208674">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree_noncloud/production2/config/database.yml" timestamp="1543273721624" />
       <file name="/exhibitree_shows.public.workback_schedules [postgres@localhost]" timestamp="1542301852741">
         <mark key="[" line="0" column="0" />
       </file>
