@@ -376,11 +376,12 @@
       <file name="/exhibitree_shows.public.role_types [Exhibitree Cloud]" timestamp="1542228221623">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/scripts/update_item_urls.rb" timestamp="1543348447367">
-        <mark key="[" line="52" column="4" />
-        <mark key="]" line="52" column="4" />
-        <mark key="." line="52" column="4" />
-        <mark key="^" line="52" column="4" />
+      <file name="$USER_HOME$/code/io/io-engage/scripts/update_item_urls.rb" timestamp="1543350897536">
+        <mark key="'" line="21" column="0" />
+        <mark key="[" line="19" column="19" />
+        <mark key="]" line="19" column="19" />
+        <mark key="." line="19" column="19" />
+        <mark key="^" line="19" column="19" />
       </file>
       <file name="/exhibitree_shows.public.graphic_categories [postgres@localhost]" timestamp="1542168549273">
         <mark key="[" line="0" column="0" />
@@ -547,10 +548,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="89" filename="$APPLICATION_CONFIG_DIR$/consoles/db/df4af07b-8bd9-43a4-a025-0816d86566e8/console.sql" />
-      <jump line="53" column="91" filename="$APPLICATION_CONFIG_DIR$/consoles/db/df4af07b-8bd9-43a4-a025-0816d86566e8/console.sql" />
-      <jump line="54" column="81" filename="$APPLICATION_CONFIG_DIR$/consoles/db/df4af07b-8bd9-43a4-a025-0816d86566e8/console.sql" />
-      <jump line="55" column="99" filename="$APPLICATION_CONFIG_DIR$/consoles/db/df4af07b-8bd9-43a4-a025-0816d86566e8/console.sql" />
       <jump line="56" column="83" filename="$APPLICATION_CONFIG_DIR$/consoles/db/df4af07b-8bd9-43a4-a025-0816d86566e8/console.sql" />
       <jump line="57" column="131" filename="$APPLICATION_CONFIG_DIR$/consoles/db/df4af07b-8bd9-43a4-a025-0816d86566e8/console.sql" />
       <jump line="58" column="87" filename="$APPLICATION_CONFIG_DIR$/consoles/db/df4af07b-8bd9-43a4-a025-0816d86566e8/console.sql" />
@@ -647,16 +644,17 @@
       <jump line="10" column="2" filename="$USER_HOME$/code/io/io-engage/scripts/update_item_urls.rb" />
       <jump line="41" column="2" filename="$USER_HOME$/code/io/io-engage/scripts/update_item_urls.rb" />
       <jump line="23" column="2" filename="$USER_HOME$/code/io/io-engage/scripts/update_item_urls.rb" />
+      <jump line="45" column="37" filename="$USER_HOME$/code/io/io-engage/scripts/update_item_urls.rb" />
+      <jump line="25" column="14" filename="$USER_HOME$/code/io/io-engage/scripts/update_item_urls.rb" />
+      <jump line="37" column="0" filename="$USER_HOME$/code/io/io-engage/scripts/update_item_urls.rb" />
+      <jump line="21" column="0" filename="$USER_HOME$/code/io/io-engage/scripts/update_item_urls.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>_w</text>
       </register>
-      <register name="&quot;" type="8">
-        <text>lf
-lf
-lf
-lf</text>
+      <register name="&quot;" type="4">
+        <text>@</text>
       </register>
       <register name="b" type="4">
         <text>kkjj</text>
@@ -4348,7 +4346,7 @@ lf</text>
         </keys>
       </register>
       <register name="-" type="4">
-        <text>f</text>
+        <text>@</text>
       </register>
       <register name="n" type="4">
         <text />
