@@ -56,12 +56,12 @@
       <file name="/exhibitree2_production.public.proof_urls [Exhibitree2-production]" timestamp="1542072093249">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/shows/config/settings.yml" timestamp="1543351939744">
-        <mark key="'" line="37" column="2" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="21" column="53" />
+      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/shows/config/settings.yml" timestamp="1543355510383">
+        <mark key="'" line="161" column="27" />
+        <mark key="[" line="140" column="38" />
+        <mark key="]" line="140" column="39" />
         <mark key="^" line="50" column="27" />
-        <mark key="." line="18" column="0" />
+        <mark key="." line="140" column="39" />
       </file>
       <file name="/exhibitree_shows.public.price_models [postgres@localhost]" timestamp="1542301905931">
         <mark key="[" line="0" column="0" />
@@ -548,7 +548,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="83" filename="$APPLICATION_CONFIG_DIR$/consoles/db/df4af07b-8bd9-43a4-a025-0816d86566e8/console.sql" />
       <jump line="57" column="131" filename="$APPLICATION_CONFIG_DIR$/consoles/db/df4af07b-8bd9-43a4-a025-0816d86566e8/console.sql" />
       <jump line="58" column="87" filename="$APPLICATION_CONFIG_DIR$/consoles/db/df4af07b-8bd9-43a4-a025-0816d86566e8/console.sql" />
       <jump line="59" column="81" filename="$APPLICATION_CONFIG_DIR$/consoles/db/df4af07b-8bd9-43a4-a025-0816d86566e8/console.sql" />
@@ -648,6 +647,7 @@
       <jump line="25" column="14" filename="$USER_HOME$/code/io/io-engage/scripts/update_item_urls.rb" />
       <jump line="37" column="0" filename="$USER_HOME$/code/io/io-engage/scripts/update_item_urls.rb" />
       <jump line="21" column="0" filename="$USER_HOME$/code/io/io-engage/scripts/update_item_urls.rb" />
+      <jump line="161" column="27" filename="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/shows/config/settings.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4352,7 +4352,7 @@
         <text />
       </register>
       <register name="/" type="4">
-        <text>index_as_table</text>
+        <text>client_approval</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGxldCg6Y2xpZW50X2xlYWQpIHsgY3JlYXRlKDpyb2xlLCA6Y2xpZW50X2xlYWQpIH0K</text>
@@ -4796,9 +4796,9 @@ lf</text>
       </register>
     </registers>
     <search>
-      <last-search>index_as_table</last-search>
+      <last-search>client_approval</last-search>
       <last-offset />
-      <last-pattern>index_as_table</last-pattern>
+      <last-pattern>client_approval</last-pattern>
       <last-replace encoding="base64">XCZkZWZhdWx0</last-replace>
       <last-substitute encoding="base64">XCZzYW1wbGU=</last-substitute>
       <last-dir>1</last-dir>
@@ -4806,7 +4806,6 @@ lf</text>
     </search>
     <history>
       <history-search>
-        <entry>generate</entry>
         <entry>dreamforce</entry>
         <entry>upload_complete</entry>
         <entry>use_cassette</entry>
@@ -4826,6 +4825,7 @@ lf</text>
         <entry>set_role_types</entry>
         <entry>index_table</entry>
         <entry>index_as_table</entry>
+        <entry>client_approval</entry>
       </history-search>
       <history-cmd>
         <entry>%s:has_engineering_requirement\:\s\([nil|true|false]),\(.*\):\2:c</entry>
