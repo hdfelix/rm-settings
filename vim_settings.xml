@@ -395,6 +395,9 @@
         <mark key="^" line="0" column="1" />
         <mark key="." line="0" column="1" />
       </file>
+      <file name="$USER_HOME$/code/io/io-engage/Gemfile" timestamp="1543365305903">
+        <mark key="'" line="38" column="5" />
+      </file>
       <file name="/exhibitree_shows.public.roles [postgres@localhost]" timestamp="1542162332816">
         <mark key="[" line="0" column="0" />
       </file>
@@ -548,9 +551,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="81" filename="$APPLICATION_CONFIG_DIR$/consoles/db/df4af07b-8bd9-43a4-a025-0816d86566e8/console.sql" />
-      <jump line="67" column="105" filename="$APPLICATION_CONFIG_DIR$/consoles/db/df4af07b-8bd9-43a4-a025-0816d86566e8/console.sql" />
-      <jump line="68" column="111" filename="$APPLICATION_CONFIG_DIR$/consoles/db/df4af07b-8bd9-43a4-a025-0816d86566e8/console.sql" />
       <jump line="69" column="97" filename="$APPLICATION_CONFIG_DIR$/consoles/db/df4af07b-8bd9-43a4-a025-0816d86566e8/console.sql" />
       <jump line="70" column="105" filename="$APPLICATION_CONFIG_DIR$/consoles/db/df4af07b-8bd9-43a4-a025-0816d86566e8/console.sql" />
       <jump line="71" column="85" filename="$APPLICATION_CONFIG_DIR$/consoles/db/df4af07b-8bd9-43a4-a025-0816d86566e8/console.sql" />
@@ -648,6 +648,9 @@
       <jump line="7" column="2" filename="$USER_HOME$/code/io/io-engage/spec/scripts/update_item_urls_spec.rb" />
       <jump line="17" column="0" filename="$USER_HOME$/code/io/io-engage/spec/scripts/update_item_urls_spec.rb" />
       <jump line="19" column="0" filename="$USER_HOME$/code/io/io-engage/spec/scripts/update_item_urls_spec.rb" />
+      <jump line="123" column="16" filename="$USER_HOME$/code/io/io-engage/Gemfile" />
+      <jump line="39" column="15" filename="$USER_HOME$/code/io/io-engage/Gemfile" />
+      <jump line="38" column="5" filename="$USER_HOME$/code/io/io-engage/Gemfile" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4352,7 +4355,7 @@
         <text />
       </register>
       <register name="/" type="4">
-        <text>event_items_for</text>
+        <text>fog</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGxldCg6Y2xpZW50X2xlYWQpIHsgY3JlYXRlKDpyb2xlLCA6Y2xpZW50X2xlYWQpIH0K</text>
@@ -4795,9 +4798,9 @@ ed</text>
       </register>
     </registers>
     <search>
-      <last-search>event_items_for</last-search>
+      <last-search>fog</last-search>
       <last-offset />
-      <last-pattern>event_items_for</last-pattern>
+      <last-pattern>fog</last-pattern>
       <last-replace encoding="base64">XCZkZWZhdWx0</last-replace>
       <last-substitute encoding="base64">XCZzYW1wbGU=</last-substitute>
       <last-dir>1</last-dir>
@@ -4805,7 +4808,6 @@ ed</text>
     </search>
     <history>
       <history-search>
-        <entry>upload_complete</entry>
         <entry>use_cassette</entry>
         <entry encoding="base64">XCZzYW1wbGU=</entry>
         <entry>retry</entry>
@@ -4825,6 +4827,7 @@ ed</text>
         <entry>index_as_table</entry>
         <entry>client_approval</entry>
         <entry>event_items_for</entry>
+        <entry>fog</entry>
       </history-search>
       <history-cmd>
         <entry>%s:has_engineering_requirement\:\s\([nil|true|false]),\(.*\):\2:c</entry>
