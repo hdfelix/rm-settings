@@ -56,12 +56,12 @@
       <file name="/exhibitree2_production.public.proof_urls [Exhibitree2-production]" timestamp="1542072093249">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/shows/config/settings.yml" timestamp="1543355510383">
-        <mark key="'" line="161" column="27" />
-        <mark key="[" line="140" column="38" />
-        <mark key="]" line="140" column="39" />
-        <mark key="^" line="50" column="27" />
-        <mark key="." line="140" column="39" />
+      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/shows/config/settings.yml" timestamp="1543458134925">
+        <mark key="'" line="160" column="27" />
+        <mark key="[" line="59" column="50" />
+        <mark key="]" line="59" column="55" />
+        <mark key="^" line="59" column="55" />
+        <mark key="." line="59" column="55" />
       </file>
       <file name="$USER_HOME$/code/io/io-engage/app/controllers/concerns/search_items_concern.rb" timestamp="1543432389898">
         <mark key="s" line="35" column="38" />
@@ -313,8 +313,12 @@
         <mark key="^" line="16" column="10" />
         <mark key="." line="16" column="10" />
       </file>
-      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/dreamforce/production/config/settings.yml" timestamp="1543284416027">
+      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/dreamforce/production/config/settings.yml" timestamp="1543457520990">
         <mark key="'" line="12" column="10" />
+        <mark key="[" line="99" column="54" />
+        <mark key="]" line="99" column="55" />
+        <mark key="." line="99" column="55" />
+        <mark key="^" line="99" column="48" />
       </file>
       <file name="/exhibitree_shows.public.versions [postgres@localhost]" timestamp="1542149846259">
         <mark key="[" line="0" column="0" />
@@ -510,12 +514,12 @@
         <mark key="." line="23" column="80" />
         <mark key="^" line="23" column="80" />
       </file>
-      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/events/config/settings.yml" timestamp="1543446686120">
+      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/events/config/settings.yml" timestamp="1543457741811">
         <mark key="'" line="58" column="2" />
-        <mark key="[" line="59" column="50" />
-        <mark key="]" line="59" column="52" />
-        <mark key="." line="59" column="52" />
-        <mark key="^" line="59" column="52" />
+        <mark key="[" line="59" column="56" />
+        <mark key="]" line="59" column="67" />
+        <mark key="^" line="59" column="67" />
+        <mark key="." line="59" column="67" />
       </file>
       <file name="/exhibitree_shows.public.zone_brands [postgres@localhost]" timestamp="1542245954131">
         <mark key="[" line="0" column="0" />
@@ -563,12 +567,12 @@
       <file name="/hfelix_development.public.permissions [hfelix_development@localhost]" timestamp="1541436799668">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/simplified/workday/config/settings.yml" timestamp="1543455048176">
+      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/simplified/workday/config/settings.yml" timestamp="1543456130886">
         <mark key="'" line="88" column="35" />
-        <mark key="[" line="110" column="0" />
-        <mark key="]" line="110" column="0" />
-        <mark key="." line="110" column="0" />
-        <mark key="^" line="92" column="58" />
+        <mark key="[" line="107" column="0" />
+        <mark key="]" line="107" column="18" />
+        <mark key="^" line="94" column="5" />
+        <mark key="." line="107" column="0" />
       </file>
       <file name="/exhibitree_shows.public.layout_files [Exhibitree Cloud]" timestamp="1543293143703">
         <mark key="[" line="0" column="0" />
@@ -680,8 +684,8 @@
       <register name="a" type="4">
         <text>_w</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLSBsYXlvdXRfZmlsZV90aHVtYm5haWxfdXJsCg==</text>
+      <register name="&quot;" type="4">
+        <text>jasper</text>
       </register>
       <register name="b" type="4">
         <text>kkjj</text>
@@ -4373,7 +4377,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>jasper</text>
       </register>
       <register name="n" type="4">
         <text />
@@ -4385,25 +4389,25 @@
         <text encoding="base64">ICAgIEBmaWVsZHMgPSBmaWVsZHNfZm9yX2pzb25fcmVzcG9uc2UKICAgIHJlbmRlciAnaXRlbU5PVCBzL2luZGV4Lmpzb24gQU5ECg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLSBsYXlvdXRfZmlsZV90aHVtYm5haWxfdXJsCg==</text>
+        <text encoding="base64">ICAgIC0gZmluaXNoaW5nX25vdGVzCg==</text>
       </register>
       <register name="q" type="4">
         <text>jdd</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC0gbGF5b3V0X2ZpbGVfdGh1bWJuYWlsX3VybAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcHV0cycuJwo=</text>
+        <text encoding="base64">ICAgIC0gZmluaXNoaW5nX25hbWUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFtpdGVtX2lkLCBsYXlvdXRfZmlsZS5pZCwgbGF5b3V0X2ZpbGUuZXJyb3JzLmZ1bGxfbWVzc2FnZXNdIGlmIGxheW91dF9maWxlLmVycm9ycy5wb3NpdGl2ZT8K</text>
+        <text encoding="base64">ICAgICAgLSBmaW5pc2hpbmdfbmFtZQo=</text>
       </register>
       <register name="t" type="4">
         <text>jdd</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGVycm9yX2l0ZW1zID0gW10K</text>
+        <text encoding="base64">ICAgICAgLSB2ZW51ZV9uYW1lCg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -4804,16 +4808,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZW5kCg==</text>
+        <text encoding="base64">ICAgIC0gbGF5b3V0X2ZpbGVfdGh1bWJuYWlsX3VybAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgQWN0aXZlUmVjb3JkOjpCYXNlLnRyYW5zYWN0aW9uIGRvCg==</text>
+        <text encoding="base64">ICAgIC0gbGF5b3V0X2ZpbGVfdGh1bWJuYWlsX3VybAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBmaWVsZHMgPSBmaWVsZHNfZm9yX2pzb25fcmVzcG9uc2UK</text>
+        <text encoding="base64">ICAgIC0gZmluaXNoaW5nX25hbWUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgZGVmIGZpZWxkc19mb3JfanNvbl9yZXNwb25zZQogICAgCg==</text>
+        <text encoding="base64">ICAgICAgLSBkZXNjcmlwdGlvbgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
