@@ -179,12 +179,12 @@
       <file name="/exhibitree_shows.public.clients_users [Exhibitree Cloud]" timestamp="1542301962500">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/scripts/update_layout_files.rb" timestamp="1543528333740">
+      <file name="$USER_HOME$/code/io/io-engage/scripts/update_layout_files.rb" timestamp="1543529446536">
         <mark key="'" line="53" column="22" />
-        <mark key="[" line="10" column="21" />
-        <mark key="]" line="10" column="21" />
-        <mark key="." line="10" column="21" />
-        <mark key="^" line="10" column="21" />
+        <mark key="[" line="65" column="53" />
+        <mark key="]" line="65" column="53" />
+        <mark key="." line="65" column="53" />
+        <mark key="^" line="65" column="48" />
       </file>
       <file name="/exhibitree_shows.public.items [Exhibitree Cloud]" timestamp="1543527677842">
         <mark key="[" line="0" column="0" />
@@ -611,7 +611,7 @@
         <text>_w</text>
       </register>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>)</text>
       </register>
       <register name="b" type="4">
         <text>kkjj</text>
@@ -4303,7 +4303,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>)</text>
       </register>
       <register name="n" type="4">
         <text />
@@ -4312,22 +4312,22 @@
         <text encoding="base64">Jg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBmaWVsZHMgPSBmaWVsZHNfZm9yX2pzb25fcmVzcG9uc2UKICAgIHJlbmRlciAnaXRlbU5PVCBzL2luZGV4Lmpzb24gQU5ECg==</text>
+        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkgaWYgbGF5b3V0X2ZpbGUuaXRlbV9pZCA9IDgwMAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHN5c3RlbSgnQWN0aXZlUmVjb3JkOjpCYXNlLmxvZ2dlci5sZXZlbCA9IDEnKQo=</text>
+        <text encoding="base64">ICAgICAgbWF0Y2hfZGF0YSA9IGxheW91dF9maWxlLmZpbGQubWF0Y2goLygpCg==</text>
       </register>
       <register name="q" type="4">
         <text>jdd</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgZmlsZW5hbWUgPSBtYXRjaF9kYXRhWzFdCg==</text>
+        <text encoding="base64">ICAgIHN5c3RlbSgnQWN0aXZlUmVjb3JkOjpCYXNlLmxvZ2dlci5sZXZlbCA9IDEnKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
+        <text encoding="base64">ICAgICAgZmlsZW5hbWUgPSBtYXRjaF9kYXRhWzFdCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="t" type="4">
         <text>jdd</text>
@@ -4733,17 +4733,17 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="6" type="8">
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="8">
         <text encoding="base64">ICAKICAKICAKICA=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">fCBFeGhpYml0cmVlIEV2ZW50cyB8IE5vdCBSZWFkeSB8IE1pbmltYWwgfCAxIHwgMy4wLjAgfCBodHRwOi8vZXhoaWJpdHJlZS5jbG91ZC9ldmVudHMgfCBLOCBwcm9kdWN0aW9uIG5hbWVzcGFjZSB8IGV4aGliaXRyZWVfZXZlbnRzIHwgfAp8IEV4aGliaXRyZWUgU2hvd3MgfCBMaXZlIHwgTm9ybWFsIChsb3cpIHwgMiB8IDMuMC4wIHwgaHR0cDovL2V4aGliaXRyZWUuY2xvdWQvc2hvd3MgfCBLOCBwcm9kdWN0aW9uIG5hbWVzcGFjZSB8IGV4aGliaXRyZWVfaHNvd3MgfCB8Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIC0gZmluaXNoaW5nX25vdGVzCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC0gbGF5b3V0X2ZpbGVfdGh1bWJuYWlsX3VybAo=</text>
+        <text encoding="base64">ICAgIC0gZmluaXNoaW5nX25vdGVzCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
