@@ -400,12 +400,12 @@
       <file name="/exhibitree_shows.public.role_types [Exhibitree Cloud]" timestamp="1542228221623">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/scripts/update_item_urls.rb" timestamp="1543441626049">
-        <mark key="'" line="45" column="6" />
-        <mark key="[" line="64" column="16" />
-        <mark key="]" line="64" column="16" />
-        <mark key="." line="64" column="16" />
-        <mark key="^" line="64" column="29" />
+      <file name="$USER_HOME$/code/io/io-engage/scripts/update_item_urls.rb" timestamp="1543523251654">
+        <mark key="'" line="59" column="18" />
+        <mark key="[" line="9" column="28" />
+        <mark key="]" line="64" column="5" />
+        <mark key="^" line="64" column="5" />
+        <mark key="." line="64" column="5" />
       </file>
       <file name="/exhibitree_shows.public.graphic_categories [postgres@localhost]" timestamp="1542168549273">
         <mark key="[" line="0" column="0" />
@@ -585,11 +585,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="80" column="103" filename="$APPLICATION_CONFIG_DIR$/consoles/db/df4af07b-8bd9-43a4-a025-0816d86566e8/console.sql" />
-      <jump line="81" column="109" filename="$APPLICATION_CONFIG_DIR$/consoles/db/df4af07b-8bd9-43a4-a025-0816d86566e8/console.sql" />
-      <jump line="82" column="93" filename="$APPLICATION_CONFIG_DIR$/consoles/db/df4af07b-8bd9-43a4-a025-0816d86566e8/console.sql" />
-      <jump line="383" column="4" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
-      <jump line="207" column="32" filename="$USER_HOME$/code/io/io-engage/app/controllers/items_controller.rb" />
       <jump line="858" column="17" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
       <jump line="4" column="0" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
       <jump line="13" column="15" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
@@ -685,13 +680,18 @@
       <jump line="23" column="11" filename="$USER_HOME$/code/io/io_engage_configuration/instances/simplified/workday/config/settings.yml" />
       <jump line="87" column="26" filename="$USER_HOME$/code/io/io_engage_configuration/instances/simplified/workday/config/settings.yml" />
       <jump line="88" column="35" filename="$USER_HOME$/code/io/io_engage_configuration/instances/simplified/workday/config/settings.yml" />
+      <jump line="67" column="38" filename="$USER_HOME$/code/io/io-engage/scripts/update_item_urls.rb" />
+      <jump line="71" column="50" filename="$USER_HOME$/code/io/io-engage/scripts/update_item_urls.rb" />
+      <jump line="22" column="30" filename="$USER_HOME$/code/io/io-engage/scripts/update_item_urls.rb" />
+      <jump line="7" column="0" filename="$USER_HOME$/code/io/io-engage/scripts/update_item_urls.rb" />
+      <jump line="58" column="18" filename="$USER_HOME$/code/io/io-engage/scripts/update_item_urls.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>_w</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>filename</text>
       </register>
       <register name="b" type="4">
         <text>kkjj</text>
@@ -4383,37 +4383,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>filename</text>
       </register>
       <register name="n" type="4">
         <text />
       </register>
       <register name="/" type="4">
-        <text>slug_report</text>
+        <text encoding="base64">Jg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBmaWVsZHMgPSBmaWVsZHNfZm9yX2pzb25fcmVzcG9uc2UKICAgIHJlbmRlciAnaXRlbU5PVCBzL2luZGV4Lmpzb24gQU5ECg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZmlsZW5hbWUgPSBtYXRjaF9kYXRhWzFdCg==</text>
       </register>
       <register name="q" type="4">
         <text>jdd</text>
       </register>
-      <register name="2" type="8">
-        <text encoding="base64">ICAKICAKICAKICA=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fCBFeGhpYml0cmVlIEV2ZW50cyB8IE5vdCBSZWFkeSB8IE1pbmltYWwgfCAxIHwgMy4wLjAgfCBodHRwOi8vZXhoaWJpdHJlZS5jbG91ZC9ldmVudHMgfCBLOCBwcm9kdWN0aW9uIG5hbWVzcGFjZSB8IGV4aGliaXRyZWVfZXZlbnRzIHwgfAp8IEV4aGliaXRyZWUgU2hvd3MgfCBMaXZlIHwgTm9ybWFsIChsb3cpIHwgMiB8IDMuMC4wIHwgaHR0cDovL2V4aGliaXRyZWUuY2xvdWQvc2hvd3MgfCBLOCBwcm9kdWN0aW9uIG5hbWVzcGFjZSB8IGV4aGliaXRyZWVfaHNvd3MgfCB8Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC0gZmluaXNoaW5nX25vdGVzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <text>jdd</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIC0gbGF5b3V0X2ZpbGVfdGh1bWJuYWlsX3VybAo=</text>
+      <register name="5" type="8">
+        <text encoding="base64">ICAKICAKICAKICA=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -4814,25 +4814,25 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC0gZmluaXNoaW5nX25hbWUK</text>
+        <text encoding="base64">fCBFeGhpYml0cmVlIEV2ZW50cyB8IE5vdCBSZWFkeSB8IE1pbmltYWwgfCAxIHwgMy4wLjAgfCBodHRwOi8vZXhoaWJpdHJlZS5jbG91ZC9ldmVudHMgfCBLOCBwcm9kdWN0aW9uIG5hbWVzcGFjZSB8IGV4aGliaXRyZWVfZXZlbnRzIHwgfAp8IEV4aGliaXRyZWUgU2hvd3MgfCBMaXZlIHwgTm9ybWFsIChsb3cpIHwgMiB8IDMuMC4wIHwgaHR0cDovL2V4aGliaXRyZWUuY2xvdWQvc2hvd3MgfCBLOCBwcm9kdWN0aW9uIG5hbWVzcGFjZSB8IGV4aGliaXRyZWVfaHNvd3MgfCB8Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLSBmaW5pc2hpbmdfbmFtZQo=</text>
+        <text encoding="base64">ICAgIC0gZmluaXNoaW5nX25vdGVzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLSB2ZW51ZV9uYW1lCg==</text>
+        <text encoding="base64">ICAgIC0gbGF5b3V0X2ZpbGVfdGh1bWJuYWlsX3VybAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC0gbGF5b3V0X2ZpbGVfdGh1bWJuYWlsX3VybAo=</text>
+        <text encoding="base64">ICAgIC0gZmluaXNoaW5nX25hbWUK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>slug_report</last-search>
+      <last-search encoding="base64">Jg==</last-search>
       <last-offset />
-      <last-pattern>slug_report</last-pattern>
+      <last-pattern encoding="base64">Jg==</last-pattern>
       <last-replace encoding="base64">XCZkZWZhdWx0</last-replace>
       <last-substitute encoding="base64">XCZzYW1wbGU=</last-substitute>
       <last-dir>1</last-dir>
@@ -4840,7 +4840,6 @@
     </search>
     <history>
       <history-search>
-        <entry>start</entry>
         <entry>visible</entry>
         <entry>item</entry>
         <entry>exhibitree</entry>
@@ -4860,12 +4859,9 @@
         <entry encoding="base64">XDxkZWZcPg==</entry>
         <entry>update_layout_files_for</entry>
         <entry>slug_report</entry>
+        <entry encoding="base64">Jg==</entry>
       </history-search>
       <history-cmd>
-        <entry>%s:has_engineering_requirement\:\s\(.*\s),\(.*\):\2:c:</entry>
-        <entry>%s:has_engineering_requirement\:\s\(.*),\(\s.*\):\2:c:</entry>
-        <entry>%s:has_engineering_requirement\:\s\(.*),\(\s.*\):\2:c</entry>
-        <entry>%s:has_engineering_requirement\:\s\(.*\),\(\s.*\):\2:c</entry>
         <entry>%s:has_engineering_requirement\:\s\(.*\),\(\shas_locked_side_requirement.*\):\2:c</entry>
         <entry>%s:has_engineering_requirement\:\s\(.*\),\s\(has_locked_side_requirement.*\):\2:c</entry>
         <entry>%s:ocnfig:config:</entry>
@@ -4881,6 +4877,10 @@
         <entry>s</entry>
         <entry>wq</entry>
         <entry>w:w</entry>
+        <entry>12</entry>
+        <entry>60</entry>
+        <entry>37</entry>
+        <entry>22</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
