@@ -320,6 +320,12 @@
         <mark key="." line="99" column="55" />
         <mark key="^" line="99" column="48" />
       </file>
+      <file name="$USER_HOME$/code/io/sop/io-engage-event/instances/list.md" timestamp="1543520442691">
+        <mark key="[" line="17" column="12" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
       <file name="/exhibitree_shows.public.versions [postgres@localhost]" timestamp="1542149846259">
         <mark key="[" line="0" column="0" />
       </file>
@@ -684,8 +690,8 @@
       <register name="a" type="4">
         <text>_w</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>jasper</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="4">
         <text>kkjj</text>
@@ -4377,7 +4383,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>jasper</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="n" type="4">
         <text />
@@ -4389,25 +4395,25 @@
         <text encoding="base64">ICAgIEBmaWVsZHMgPSBmaWVsZHNfZm9yX2pzb25fcmVzcG9uc2UKICAgIHJlbmRlciAnaXRlbU5PVCBzL2luZGV4Lmpzb24gQU5ECg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC0gZmluaXNoaW5nX25vdGVzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>jdd</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIC0gbGF5b3V0X2ZpbGVfdGh1bWJuYWlsX3VybAo=</text>
+      <register name="2" type="8">
+        <text encoding="base64">ICAKICAKICAKICA=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC0gZmluaXNoaW5nX25hbWUK</text>
+        <text encoding="base64">fCBFeGhpYml0cmVlIEV2ZW50cyB8IE5vdCBSZWFkeSB8IE1pbmltYWwgfCAxIHwgMy4wLjAgfCBodHRwOi8vZXhoaWJpdHJlZS5jbG91ZC9ldmVudHMgfCBLOCBwcm9kdWN0aW9uIG5hbWVzcGFjZSB8IGV4aGliaXRyZWVfZXZlbnRzIHwgfAp8IEV4aGliaXRyZWUgU2hvd3MgfCBMaXZlIHwgTm9ybWFsIChsb3cpIHwgMiB8IDMuMC4wIHwgaHR0cDovL2V4aGliaXRyZWUuY2xvdWQvc2hvd3MgfCBLOCBwcm9kdWN0aW9uIG5hbWVzcGFjZSB8IGV4aGliaXRyZWVfaHNvd3MgfCB8Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLSBmaW5pc2hpbmdfbmFtZQo=</text>
+        <text encoding="base64">ICAgIC0gZmluaXNoaW5nX25vdGVzCg==</text>
       </register>
       <register name="t" type="4">
         <text>jdd</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLSB2ZW51ZV9uYW1lCg==</text>
+        <text encoding="base64">ICAgIC0gbGF5b3V0X2ZpbGVfdGh1bWJuYWlsX3VybAo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -4808,19 +4814,19 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC0gbGF5b3V0X2ZpbGVfdGh1bWJuYWlsX3VybAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIC0gbGF5b3V0X2ZpbGVfdGh1bWJuYWlsX3VybAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIC0gZmluaXNoaW5nX25hbWUK</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgLSBmaW5pc2hpbmdfbmFtZQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgLSB2ZW51ZV9uYW1lCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLSBkZXNjcmlwdGlvbgo=</text>
+        <text encoding="base64">ICAgIC0gbGF5b3V0X2ZpbGVfdGh1bWJuYWlsX3VybAo=</text>
       </register>
       <register name=":" type="4">
-        <text>w:w</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -4874,8 +4880,8 @@
         <entry>67</entry>
         <entry>s</entry>
         <entry>wq</entry>
-        <entry>w</entry>
         <entry>w:w</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
