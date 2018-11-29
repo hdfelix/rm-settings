@@ -567,12 +567,12 @@
       <file name="/hfelix_development.public.permissions [hfelix_development@localhost]" timestamp="1541436799668">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/simplified/workday/config/settings.yml" timestamp="1543456130886">
+      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/simplified/workday/config/settings.yml" timestamp="1543461655880">
         <mark key="'" line="88" column="35" />
-        <mark key="[" line="107" column="0" />
-        <mark key="]" line="107" column="18" />
-        <mark key="^" line="94" column="5" />
-        <mark key="." line="107" column="0" />
+        <mark key="[" line="92" column="51" />
+        <mark key="]" line="92" column="52" />
+        <mark key="^" line="92" column="46" />
+        <mark key="." line="92" column="52" />
       </file>
       <file name="/exhibitree_shows.public.layout_files [Exhibitree Cloud]" timestamp="1543293143703">
         <mark key="[" line="0" column="0" />
@@ -4820,7 +4820,7 @@
         <text encoding="base64">ICAgICAgLSBkZXNjcmlwdGlvbgo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>w:w</text>
       </register>
     </registers>
     <search>
@@ -4856,7 +4856,6 @@
         <entry>slug_report</entry>
       </history-search>
       <history-cmd>
-        <entry>%s:has_engineering_requirement\:\s\([nil|true|false]),\(.*\):\2:c</entry>
         <entry>%s:has_engineering_requirement\:\s\(.*\s),\(.*\):\2:c:</entry>
         <entry>%s:has_engineering_requirement\:\s\(.*),\(\s.*\):\2:c:</entry>
         <entry>%s:has_engineering_requirement\:\s\(.*),\(\s.*\):\2:c</entry>
@@ -4876,6 +4875,7 @@
         <entry>s</entry>
         <entry>wq</entry>
         <entry>w</entry>
+        <entry>w:w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
