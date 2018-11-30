@@ -169,12 +169,12 @@
       <file name="/exhibitree_shows.public.clients_users [Exhibitree Cloud]" timestamp="1542301962500">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/scripts/update_layout_files.rb" timestamp="1543619322157">
-        <mark key="'" line="9" column="0" />
-        <mark key="[" line="17" column="4" />
-        <mark key="]" line="17" column="4" />
-        <mark key="." line="17" column="4" />
-        <mark key="^" line="29" column="4" />
+      <file name="$USER_HOME$/code/io/io-engage/scripts/update_layout_files.rb" timestamp="1543620517948">
+        <mark key="'" line="95" column="4" />
+        <mark key="[" line="96" column="4" />
+        <mark key="]" line="96" column="5" />
+        <mark key="." line="96" column="5" />
+        <mark key="^" line="67" column="41" />
       </file>
       <file name="/exhibitree_shows.public.items [Exhibitree Cloud]" timestamp="1543539607168">
         <mark key="[" line="0" column="0" />
@@ -529,8 +529,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="12" filename="$USER_HOME$/code/io/io-engage/spec/features/items/edit_form_spec.rb" />
-      <jump line="2" column="0" filename="$USER_HOME$/code/io/io-engage/spec/features/items/edit_form_spec.rb" />
       <jump line="140" column="35" filename="$USER_HOME$/code/io/io-engage/spec/features/items/edit_form_spec.rb" />
       <jump line="14" column="26" filename="$USER_HOME$/code/io/io-engage/app/controllers/graphics_controller.rb" />
       <jump line="58" column="18" filename="$USER_HOME$/code/io/io-engage/app/assets/stylesheets/active_admin.scss" />
@@ -601,7 +599,6 @@
       <jump line="76" column="21" filename="$USER_HOME$/code/io/io-engage/scripts/update_layout_files.rb" />
       <jump line="29" column="20" filename="$USER_HOME$/code/io/io-engage/scripts/update_layout_files.rb" />
       <jump line="60" column="4" filename="$USER_HOME$/code/io/io-engage/scripts/update_layout_files.rb" />
-      <jump line="64" column="41" filename="$USER_HOME$/code/io/io-engage/scripts/update_layout_files.rb" />
       <jump line="94" column="8" filename="$USER_HOME$/code/io/io-engage/scripts/update_layout_files.rb" />
       <jump line="11" column="0" filename="$USER_HOME$/code/io/io-engage/scripts/update_layout_files.rb" />
       <jump line="92" column="6" filename="$USER_HOME$/code/io/io-engage/scripts/update_layout_files.rb" />
@@ -611,8 +608,6 @@
       <jump line="0" column="0" filename="$USER_HOME$/code/io/io-engage/scripts/update_layout_files.rb" />
       <jump line="25" column="26" filename="$USER_HOME$/code/io/io-engage/scripts/update_layout_files.rb" />
       <jump line="30" column="32" filename="$USER_HOME$/code/io/io-engage/scripts/update_layout_files.rb" />
-      <jump line="62" column="19" filename="$USER_HOME$/code/io/io-engage/scripts/update_layout_files.rb" />
-      <jump line="68" column="69" filename="$USER_HOME$/code/io/io-engage/scripts/update_layout_files.rb" />
       <jump line="71" column="20" filename="$USER_HOME$/code/io/io-engage/scripts/update_layout_files.rb" />
       <jump line="78" column="33" filename="$USER_HOME$/code/io/io-engage/scripts/update_layout_files.rb" />
       <jump line="96" column="20" filename="$USER_HOME$/code/io/io-engage/scripts/update_layout_files.rb" />
@@ -621,21 +616,26 @@
       <jump line="98" column="0" filename="$USER_HOME$/code/io/io-engage/scripts/update_layout_files.rb" />
       <jump line="73" column="4" filename="$USER_HOME$/code/io/io-engage/scripts/update_layout_files.rb" />
       <jump line="7" column="0" filename="$USER_HOME$/code/io/io-engage/scripts/update_layout_files.rb" />
-      <jump line="15" column="25" filename="$USER_HOME$/code/io/io-engage/scripts/update_layout_files.rb" />
-      <jump line="95" column="4" filename="$USER_HOME$/code/io/io-engage/scripts/update_layout_files.rb" />
       <jump line="18" column="0" filename="$USER_HOME$/code/io/io-engage/scripts/update_layout_files.rb" />
       <jump line="84" column="28" filename="$USER_HOME$/code/io/io-engage/scripts/update_layout_files.rb" />
       <jump line="90" column="23" filename="$USER_HOME$/code/io/io-engage/scripts/update_layout_files.rb" />
       <jump line="102" column="4" filename="$USER_HOME$/code/io/io-engage/scripts/update_layout_files.rb" />
-      <jump line="8" column="37" filename="$USER_HOME$/code/io/io-engage/scripts/update_layout_files.rb" />
       <jump line="9" column="0" filename="$USER_HOME$/code/io/io-engage/scripts/update_layout_files.rb" />
+      <jump line="8" column="16" filename="$USER_HOME$/code/io/io-engage/scripts/update_layout_files.rb" />
+      <jump line="63" column="12" filename="$USER_HOME$/code/io/io-engage/scripts/update_layout_files.rb" />
+      <jump line="64" column="9" filename="$USER_HOME$/code/io/io-engage/scripts/update_layout_files.rb" />
+      <jump line="15" column="0" filename="$USER_HOME$/code/io/io-engage/scripts/update_layout_files.rb" />
+      <jump line="62" column="0" filename="$USER_HOME$/code/io/io-engage/scripts/update_layout_files.rb" />
+      <jump line="68" column="9" filename="$USER_HOME$/code/io/io-engage/scripts/update_layout_files.rb" />
+      <jump line="70" column="8" filename="$USER_HOME$/code/io/io-engage/scripts/update_layout_files.rb" />
+      <jump line="95" column="4" filename="$USER_HOME$/code/io/io-engage/scripts/update_layout_files.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>_w</text>
       </register>
       <register name="&quot;" type="4">
-        <text>@</text>
+        <text>.</text>
       </register>
       <register name="b" type="4">
         <text>kkjj</text>
@@ -4327,37 +4327,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>@</text>
+        <text>.</text>
       </register>
       <register name="n" type="4">
         <text />
       </register>
       <register name="/" type="4">
-        <text>items_processed</text>
+        <text>self</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBpdGVtc19wcm9jZXNzZWQgPSAwCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBkZWYgcmVzZXRfbGF5b3V0X2ZpbGVfY291bnQKICAgIHNlbGYubGF5b3V0X2ZpbGVfY291bnQgPSBuaWwKICBlbmQKCg==</text>
       </register>
       <register name="q" type="4">
         <text>jdd</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBsYXlvdXRfZmlsZV9jb3VudCwgQGl0ZW1zX3Byb2Nlc3NlZCA9IDAK</text>
+        <text encoding="base64">ICAgIEBsYXlvdXRfZmlsZV9jb3VudCA9MAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmxheW91dF9maWxlX2NvdW50ID0gMQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
+        <text encoding="base64">ICAgICAgaWYgc2VsZi5jdXJyZW50X2l0ZW0mLmlkID09IGxheW91dF9maWxlLml0ZW0uaWQK</text>
       </register>
       <register name="t" type="4">
         <text>jdd</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmxheW91dF9maWxlX2NvdW50ID0gc2VsZi5sYXlvdXRfZmlsZV9jb3VudC5uaWw/ID8gMSA6IHNlbGYubGF5b3V0X2ZpbGVfY291bnQgKyAxCg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -4758,25 +4758,25 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">VVBEQVRFIHRhYmxlMQpTRVQgY29sMSA9IG90aGVydGFibGUuY29sMiwKICAgIGNvbDIgPSBvdGhlcnRhYmxlLmNvbDMKRlJPTSBvdGhlcnRhYmxlCldIRVJFIG90aGVydGFibGUuY29sMSA9IDEyMzsK</text>
+        <text encoding="base64">ICAgICAgQGxheW91dF9maWxlX2NvdW50ID0gbmlsCg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">U0VMRUNUICogRlJPTSBpdGVtcyBXSEVSRSBnZW5lcmFsX2xvY2F0aW9uX2lkIElTTlVMTApBTkQgY3JlYXRlZF9hdCA+ICcyMDE4LTExLTM=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICByZXNldF9sYXlvdXRfZmlsZV9jb3VudAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbDIgPSBvdGhlcnRhYmxlLmNvbDMK</text>
+        <text encoding="base64">ICAgIHNlbGYuY3VycmVudF9pdGVtID0gbGF5b3V0X2ZpbGUuaXRlbQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWF4KHNoaXBfY2hhcmdlKSBhcyBvX21heAo=</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>items_processed</last-search>
+      <last-search>self</last-search>
       <last-offset />
-      <last-pattern>items_processed</last-pattern>
+      <last-pattern>self</last-pattern>
       <last-replace encoding="base64">XCZkZWZhdWx0</last-replace>
       <last-substitute encoding="base64">XCZzYW1wbGU=</last-substitute>
       <last-dir>1</last-dir>
@@ -4784,8 +4784,6 @@
     </search>
     <history>
       <history-search>
-        <entry>overcommit</entry>
-        <entry>set_role_types</entry>
         <entry>index_table</entry>
         <entry>index_as_table</entry>
         <entry>client_approval</entry>
@@ -4804,6 +4802,8 @@
         <entry>count</entry>
         <entry>enr</entry>
         <entry>items_processed</entry>
+        <entry>layout_file_count</entry>
+        <entry>self</entry>
       </history-search>
       <history-cmd>
         <entry>%s:has_engineering_requirement\:\s\(.*\),\s\(has_locked_side_requirement.*\):\2:c</entry>
