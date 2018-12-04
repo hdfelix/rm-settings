@@ -136,15 +136,16 @@
       <file name="/qa_0.public.items [qa-master]" timestamp="1543894454542">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/io/io-engage/db/migrate/20180920080253_re_recreate_grid_items_for_onsite_notes.rb" timestamp="1543895366025" />
       <file name="/a.sql" timestamp="1542777514344">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/app/decorators/graphic_decorator.rb" timestamp="1543894277630">
-        <mark key="'" line="225" column="27" />
-        <mark key="[" line="86" column="5" />
-        <mark key="]" line="89" column="27" />
-        <mark key="^" line="89" column="27" />
-        <mark key="." line="89" column="27" />
+      <file name="$USER_HOME$/code/io/io-engage/app/decorators/graphic_decorator.rb" timestamp="1543895432993">
+        <mark key="'" line="1" column="3" />
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="89" column="0" />
+        <mark key="^" line="0" column="3" />
+        <mark key="." line="89" column="0" />
       </file>
       <file name="/e1_test.public.items [postgres@localhost]" timestamp="1542042231284">
         <mark key="[" line="0" column="0" />
@@ -436,8 +437,8 @@
         <mark key="^" line="63" column="28" />
         <mark key="." line="63" column="28" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/app/decorators/items_decorator.rb" timestamp="1543894312959">
-        <mark key="'" line="784" column="30" />
+      <file name="$USER_HOME$/code/io/io-engage/app/decorators/items_decorator.rb" timestamp="1543895001824">
+        <mark key="'" line="784" column="18" />
         <mark key="[" line="786" column="7" />
         <mark key="]" line="786" column="7" />
         <mark key="^" line="786" column="7" />
@@ -506,7 +507,7 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="4" column="49" />
       </file>
-      <file name="/dummy.sql" timestamp="1543894509714">
+      <file name="/dummy.sql" timestamp="1543895009793">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
@@ -602,14 +603,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="860" column="8" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
-      <jump line="16" column="23" filename="$USER_HOME$/code/io/io-engage/scripts/update_layout_files.rb" />
-      <jump line="59" column="0" filename="$USER_HOME$/code/io/io-engage/scripts/update_layout_files.rb" />
-      <jump line="75" column="0" filename="$USER_HOME$/code/io/io-engage/scripts/update_layout_files.rb" />
-      <jump line="78" column="0" filename="$USER_HOME$/code/io/io-engage/scripts/update_layout_files.rb" />
-      <jump line="80" column="0" filename="$USER_HOME$/code/io/io-engage/scripts/update_layout_files.rb" />
-      <jump line="91" column="0" filename="$USER_HOME$/code/io/io-engage/scripts/update_layout_files.rb" />
       <jump line="96" column="0" filename="$USER_HOME$/code/io/io-engage/scripts/update_layout_files.rb" />
       <jump line="14" column="15" filename="$USER_HOME$/code/io/io-engage/scripts/update_layout_files.rb" />
       <jump line="103" column="2" filename="$USER_HOME$/code/io/io-engage/scripts/update_layout_files.rb" />
@@ -698,17 +691,25 @@
       <jump line="668" column="22" filename="$USER_HOME$/code/io/io-engage/app/decorators/items_decorator.rb" />
       <jump line="708" column="41" filename="$USER_HOME$/code/io/io-engage/app/decorators/items_decorator.rb" />
       <jump line="720" column="44" filename="$USER_HOME$/code/io/io-engage/app/decorators/items_decorator.rb" />
-      <jump line="784" column="30" filename="$USER_HOME$/code/io/io-engage/app/decorators/items_decorator.rb" />
       <jump line="45" column="31" filename="$USER_HOME$/code/io/io-engage/spec/helpers/field_set_helper_spec.rb" />
       <jump line="47" column="25" filename="$USER_HOME$/code/io/io-engage/spec/helpers/field_set_helper_spec.rb" />
       <jump line="221" column="27" filename="$USER_HOME$/code/io/io-engage/app/decorators/graphic_decorator.rb" />
+      <jump line="21" column="36" filename="$USER_HOME$/code/io/io-engage/app/decorators/graphic_decorator.rb" />
+      <jump line="790" column="40" filename="$USER_HOME$/code/io/io-engage/app/decorators/items_decorator.rb" />
+      <jump line="775" column="7" filename="$USER_HOME$/code/io/io-engage/app/decorators/items_decorator.rb" />
+      <jump line="778" column="15" filename="$USER_HOME$/code/io/io-engage/app/decorators/items_decorator.rb" />
+      <jump line="779" column="23" filename="$USER_HOME$/code/io/io-engage/app/decorators/items_decorator.rb" />
+      <jump line="780" column="22" filename="$USER_HOME$/code/io/io-engage/app/decorators/items_decorator.rb" />
+      <jump line="781" column="25" filename="$USER_HOME$/code/io/io-engage/app/decorators/items_decorator.rb" />
+      <jump line="784" column="18" filename="$USER_HOME$/code/io/io-engage/app/decorators/items_decorator.rb" />
+      <jump line="1" column="3" filename="$USER_HOME$/code/io/io-engage/app/decorators/graphic_decorator.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>_w</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgJ2ZpbGVfaXNzdWVzX25vdGVzJyA9PiBsYW1iZGEgeyB8c2VhcmNoOiwgZm9ybV9idWlsZGVyOiwgY3VycmVudF91c2VyOnwKICAgICAgICB0ZXh0X2ZpZWxkX2NvbHVtbl9oZWFkZXIoCiAgICAgICAgICByYW5zYWNrX3NlYXJjaDogc2VhcmNoLAogICAgICAgICAgaWQ6ICdmaWxlX2lzc3Vlc19ub3Rlc19jb2x1bW4nLAogICAgICAgICAgZGF0YV9maWVsZDogJ2ZpbGVfaXNzdWVzX25vdGVzJywKICAgICAgICAgIGF0dHJpYnV0ZTogOmZpbGVfaXNzdWVzX25vdGVzLAogICAgICAgICAgbGFiZWw6IEkxOG4udCg6ZmlsZV9pc3N1ZXNfbm90ZXMsIHNjb3BlOiBzY29wZSksCiAgICAgICAgICBmb3JtX2J1aWxkZXI6IGZvcm1fYnVpbGRlciwKICAgICAgICAgIGN1cnJlbnRfdXNlcjogY3VycmVudF91c2VyLmlkLAogICAgICAgICAgc2NvcGU6IDpmaWxlX2lzc3Vlc19ub3Rlc19jb250CiAgICAgICAgKQogICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="b" type="4">
         <text>kkjj</text>
@@ -4406,31 +4407,31 @@
         <text />
       </register>
       <register name="/" type="4">
-        <text>notes</text>
+        <text>binding.pry</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgJ2ZpbGVfaXNzdWVzX25vdGVzJyA9PiBsYW1iZGEgeyB8c2VhcmNoOiwgZm9ybV9idWlsZGVyOiwgY3VycmVudF91c2VyOnwKICAgICAgICB0ZXh0X2ZpZWxkX2NvbHVtbl9oZWFkZXIoCiAgICAgICAgICByYW5zYWNrX3NlYXJjaDogc2VhcmNoLAogICAgICAgICAgaWQ6ICdmaWxlX2lzc3Vlc19ub3Rlc19jb2x1bW4nLAogICAgICAgICAgZGF0YV9maWVsZDogJ2ZpbGVfaXNzdWVzX25vdGVzJywKICAgICAgICAgIGF0dHJpYnV0ZTogOmZpbGVfaXNzdWVzX25vdGVzLAogICAgICAgICAgbGFiZWw6IEkxOG4udCg6ZmlsZV9pc3N1ZXNfbm90ZXMsIHNjb3BlOiBzY29wZSksCiAgICAgICAgICBmb3JtX2J1aWxkZXI6IGZvcm1fYnVpbGRlciwKICAgICAgICAgIGN1cnJlbnRfdXNlcjogY3VycmVudF91c2VyLmlkLAogICAgICAgICAgc2NvcGU6IDpmaWxlX2lzc3Vlc19ub3Rlc19jb250CiAgICAgICAgKQogICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgJ2ZpbGVfaXNzdWVzX25vdGVzJyA9PiBsYW1iZGEgeyB8c2VhcmNoOiwgZm9ybV9idWlsZGVyOiwgY3VycmVudF91c2VyOnwKICAgICAgICB0ZXh0X2ZpZWxkX2NvbHVtbl9oZWFkZXIoCiAgICAgICAgICByYW5zYWNrX3NlYXJjaDogc2VhcmNoLAogICAgICAgICAgaWQ6ICdmaWxlX2lzc3Vlc19ub3Rlc19jb2x1bW4nLAogICAgICAgICAgZGF0YV9maWVsZDogJ2ZpbGVfaXNzdWVzX25vdGVzJywKICAgICAgICAgIGF0dHJpYnV0ZTogOmZpbGVfaXNzdWVzX25vdGVzLAogICAgICAgICAgbGFiZWw6IEkxOG4udCg6ZmlsZV9pc3N1ZXNfbm90ZXMsIHNjb3BlOiBzY29wZSksCiAgICAgICAgICBmb3JtX2J1aWxkZXI6IGZvcm1fYnVpbGRlciwKICAgICAgICAgIGN1cnJlbnRfdXNlcjogY3VycmVudF91c2VyLmlkLAogICAgICAgICAgc2NvcGU6IDpmaWxlX2lzc3Vlc19ub3Rlc19jb250CiAgICAgICAgKQogICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="q" type="4">
         <text>jdd</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgJ2ZpbGVfaXNzdWVzX25vdGVzJyA9PiBsYW1iZGEgeyB8c2VhcmNoOiwgZm9ybV9idWlsZGVyOiwgY3VycmVudF91c2VyOnwKICAgICAgICB0ZXh0X2ZpZWxkX2NvbHVtbl9oZWFkZXIoCiAgICAgICAgICByYW5zYWNrX3NlYXJjaDogc2VhcmNoLAogICAgICAgICAgaWQ6ICdmaWxlX2lzc3Vlc19ub3Rlc19jb2x1bW4nLAogICAgICAgICAgZGF0YV9maWVsZDogJ2ZpbGVfaXNzdWVzX25vdGVzJywKICAgICAgICAgIGF0dHJpYnV0ZTogOmZpbGVfaXNzdWVzX25vdGVzLAogICAgICAgICAgbGFiZWw6IEkxOG4udCg6ZmlsZV9pc3N1ZXNfbm90ZXMsIHNjb3BlOiBzY29wZSksCiAgICAgICAgICBmb3JtX2J1aWxkZXI6IGZvcm1fYnVpbGRlciwKICAgICAgICAgIGN1cnJlbnRfdXNlcjogY3VycmVudF91c2VyLmlkLAogICAgICAgICAgc2NvcGU6IDpmaWxlX2lzc3Vlc19ub3Rlc19jb250CiAgICAgICAgKQogICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmaWxlX2lzc3Vlc19ub3RlczogJ0ZpbGUgSXNzdWVzJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBmaWxlX2lzc3Vlc19ub3RlczogJ0ZpbGUgSXNzdWVzJwo=</text>
+        <text encoding="base64">ICAgICAgICBmaWxlX2lzc3Vlc19ub3RlczogJ0ZpbGUgSXNzdWVzJwo=</text>
       </register>
       <register name="t" type="4">
         <text>jdd</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Mwo=</text>
+        <text encoding="base64">ICBmaWxlX2lzc3Vlc19ub3RlczogJ0ZpbGUgSXNzdWVzJwo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -4831,25 +4832,25 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgZGVmIGZpbGVfaXNzdWVzCiAgICAjICAgcmV0dXJuIGlmIHNlbGYuZmlsZV9pc3N1ZXMucHJlc2VudD8KICAgICMgICBoYWx0ICJjYW4ndCBiZSBibGFuayBiZWZvcmUgY2hhbmdpbmcgdGhlIHN0YXR1cyB0byAje0kxOG4udCA6ZmlsZV9pc3N1ZXN9LgogICAgIyAgICAgICAgIEFmdGVyIGVudGVyaW5nIHlvdXIgcXVlc3Rpb25zLCBwbGVhc2UgcHJlc3MgdGhlICN7STE4bi50IDp2ZW5kb3JfcHJlcF9yZXF1aXJlc19jaGFuZ2VzfQogICAgIyAgICAgICAgIGJ1dHRvbiBhZ2FpbiB0byBjaGFuZ2UgdGhlIHN0YXRlLiIKICAgICMgICBlcnJvcnMuYWRkKDpmaWxlX2lzc3VlcywgaGFsdGVkX2JlY2F1c2UpCiAgICAjIGVuZAoK</text>
+        <text encoding="base64">Mwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAK</text>
+        <text encoding="base64">ICAgICMgZGVmIGZpbGVfaXNzdWVzCiAgICAjICAgcmV0dXJuIGlmIHNlbGYuZmlsZV9pc3N1ZXMucHJlc2VudD8KICAgICMgICBoYWx0ICJjYW4ndCBiZSBibGFuayBiZWZvcmUgY2hhbmdpbmcgdGhlIHN0YXR1cyB0byAje0kxOG4udCA6ZmlsZV9pc3N1ZXN9LgogICAgIyAgICAgICAgIEFmdGVyIGVudGVyaW5nIHlvdXIgcXVlc3Rpb25zLCBwbGVhc2UgcHJlc3MgdGhlICN7STE4bi50IDp2ZW5kb3JfcHJlcF9yZXF1aXJlc19jaGFuZ2VzfQogICAgIyAgICAgICAgIGJ1dHRvbiBhZ2FpbiB0byBjaGFuZ2UgdGhlIHN0YXRlLiIKICAgICMgICBlcnJvcnMuYWRkKDpmaWxlX2lzc3VlcywgaGFsdGVkX2JlY2F1c2UpCiAgICAjIGVuZAoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNlbGYuZmlsZV9pc3N1ZXMgPSBuaWwgaWYgc2VsZi5maWxlX2lzc3VlcwogICAgICAgIGVuZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>notes</last-search>
+      <last-search>binding.pry</last-search>
       <last-offset />
-      <last-pattern>notes</last-pattern>
+      <last-pattern>binding.pry</last-pattern>
       <last-replace>attributes_for_update</last-replace>
       <last-substitute>set_attributes_for_update</last-substitute>
       <last-dir>1</last-dir>
@@ -4857,15 +4858,12 @@
     </search>
     <history>
       <history-search>
-        <entry>attributes_for_update</entry>
-        <entry>suffix</entry>
         <entry>textarea</entry>
         <entry>answer_designer_question</entry>
         <entry>custom</entry>
         <entry>ask_designer_question</entry>
         <entry>vendor_information</entry>
         <entry>vendor_requires_information</entry>
-        <entry>onsite_notes</entry>
         <entry>vendor_notes</entry>
         <entry>vendor_requires</entry>
         <entry>_notes</entry>
@@ -4873,10 +4871,13 @@
         <entry>activerecord</entry>
         <entry encoding="base64">Jg==</entry>
         <entry>file_issue_notes'</entry>
-        <entry>file_issues</entry>
         <entry>_cont</entry>
         <entry>file_issues_notes</entry>
         <entry>notes</entry>
+        <entry>file_issues</entry>
+        <entry>onsit_notes</entry>
+        <entry>onsite_notes</entry>
+        <entry>binding.pry</entry>
       </history-search>
       <history-cmd>
         <entry>146</entry>
