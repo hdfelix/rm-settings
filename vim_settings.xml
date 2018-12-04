@@ -3,13 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/exhibitree_shows_15.public.zone_brands [postgres@localhost]" timestamp="1542307583921">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/exhibitree_shows_15.public.venues_zones [postgres@localhost]" timestamp="1542307189926">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/config/initializers/ransack.rb" timestamp="1543893956816" />
       <file name="$USER_HOME$/code/io/io-engage/app/assets/stylesheets/active_admin.scss" timestamp="1543267066069">
         <mark key="'" line="113" column="6" />
         <mark key="[" line="94" column="9" />
@@ -17,97 +13,23 @@
         <mark key="." line="94" column="10" />
         <mark key="^" line="94" column="10" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/spec/factories/roles.rb" timestamp="1542789166855">
-        <mark key="'" line="171" column="0" />
-        <mark key="[" line="158" column="0" />
-        <mark key="]" line="158" column="0" />
-        <mark key="^" line="248" column="34" />
-        <mark key="." line="158" column="0" />
-      </file>
-      <file name="/exhibitree_shows_18.public.field_sets [postgres@localhost]" timestamp="1542681123121">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/exhibitree_shows.public.venues_zones [postgres@localhost]" timestamp="1542146941391">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/exhibitree_shows_local.public.rushes_zones [postgres@localhost]" timestamp="1543889984590">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/exhibitree_shows.public.zone_brands [Exhibitree Cloud]" timestamp="1542323639709">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/exhibitree_shows.public.item_groups [postgres@localhost]" timestamp="1542243350968">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/exhibitree_shows.public.items_roles [Exhibitree Cloud]" timestamp="1542323225302">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/exhibitree_shows_db_for_migration.public.zone_brands [postgres@localhost]" timestamp="1542323872382">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/exhibitree1_production.public.venues [io_prod]" timestamp="1543539420303">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/exhibitree_shows.public.proof_urls [postgres@localhost]" timestamp="1542243085779">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/io/io-engage/app/helpers/batch_helper.rb" timestamp="1543949146934">
-        <mark key="[" line="112" column="3" />
-        <mark key="]" line="112" column="3" />
-        <mark key="^" line="112" column="3" />
-        <mark key="." line="112" column="3" />
-      </file>
-      <file name="/hfelix_development.public.layout_files [hfelix_development@localhost]" timestamp="1542072773169">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/exhibitree2_production.public.layout_files [Exhibitree2-production]" timestamp="1543273672373">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/exhibitree_shows.public.zones [Exhibitree Cloud]" timestamp="1543540973511">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/exhibitree_shows.public.specific_locations [postgres@localhost]" timestamp="1542143799256">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/exhibitree2_production.public.proof_urls [Exhibitree2-production]" timestamp="1542072093249">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/shows/config/settings.yml" timestamp="1543532798888">
-        <mark key="'" line="72" column="13" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="10" column="49" />
-        <mark key="^" line="73" column="13" />
-        <mark key="." line="73" column="13" />
-      </file>
-      <file name="/exhibitree_shows.public.price_models [postgres@localhost]" timestamp="1542301905931">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/exhibitree_shows.public.vendor_rushes [postgres@localhost]" timestamp="1542160252785">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/exhibitree1_production.public.venues_zones [io_prod]" timestamp="1543539404137">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/exhibitree_shows.public.rushes [postgres@localhost]" timestamp="1542159944137">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/exhibitree_shows_db_for_migration.public.attachments [postgres@localhost]" timestamp="1542332274913">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/demo/master/config/database.yml" timestamp="1543894588297" />
-      <file name="$USER_HOME$/code/io/io-engage/config/settings.yml" timestamp="1543871795540">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="23" column="49" />
-        <mark key="^" line="19" column="48" />
-        <mark key="." line="20" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/io/io-engage/app/models/field_set.rb" timestamp="1543892563401">
-        <mark key="'" line="13" column="9" />
-        <mark key="[" line="45" column="17" />
-        <mark key="]" line="46" column="23" />
-        <mark key="^" line="46" column="23" />
-        <mark key="." line="46" column="23" />
       </file>
       <file name="$USER_HOME$/code/io/sop/io-engage-event/scripts/slugs_and_thumbs_scripts.rb" timestamp="1543453045738" />
       <file name="$USER_HOME$/code/io/io_engage_configuration/instances/preferred/shared/app/models/workflows/preferred.rb" timestamp="1542590634337">
@@ -122,27 +44,14 @@
       <file name="/e1_non_prod.public.items [postgres@localhost]" timestamp="1542162844953">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/exhibitree_shows.public.workflows_events [postgres@localhost]" timestamp="1542301850119">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/exhibitree_shows.public.roles [Exhibitree Cloud]" timestamp="1542228228286">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/io/io-engage/app/assets/stylesheets/base/floor_plans.scss" timestamp="1542137896100">
-        <mark key="'" line="7" column="0" />
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="^" line="56" column="63" />
-        <mark key="." line="57" column="0" />
       </file>
       <file name="$USER_HOME$/code/io/io_engage_configuration/instances/developers/shared/app/models/workflows/dreamforce.rb" timestamp="1542436284306">
         <mark key="[" line="35" column="90" />
         <mark key="]" line="35" column="86" />
         <mark key="." line="35" column="86" />
         <mark key="^" line="35" column="86" />
-      </file>
-      <file name="/exhibitree_shows.public.zones [postgres@localhost]" timestamp="1542159923145">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/io/io-engage/spec/models/layout_file_spec.rb" timestamp="1542475161755">
         <mark key="'" line="2" column="0" />
@@ -158,10 +67,6 @@
       <file name="/a.sql" timestamp="1542777514344">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/app/decorators/graphic_decorator.rb" timestamp="1543895432993">
-        <mark key="'" line="1" column="3" />
-        <mark key="^" line="0" column="3" />
-      </file>
       <file name="/e1_test.public.items [postgres@localhost]" timestamp="1542042231284">
         <mark key="[" line="0" column="0" />
       </file>
@@ -175,18 +80,6 @@
         <mark key="." line="34" column="86" />
         <mark key="^" line="34" column="86" />
       </file>
-      <file name="/exhibitree_shows.public.venues_zones [Exhibitree Cloud]" timestamp="1543539449856">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/exhibitree_shows.public.sub_statuses [postgres@localhost]" timestamp="1542160450034">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/developers/shared/app/models/workflows/exhibitree_new.rb" timestamp="1542421241470">
-        <mark key="[" line="21" column="31" />
-        <mark key="]" line="22" column="21" />
-        <mark key="." line="22" column="21" />
-        <mark key="^" line="22" column="21" />
-      </file>
       <file name="/exhibitree_shows_local.public.layout_files [postgres@localhost]" timestamp="1543868467240">
         <mark key="[" line="0" column="0" />
       </file>
@@ -196,41 +89,13 @@
       <file name="/exhibitree_shows.public.pins [Exhibitree Cloud]" timestamp="1542323217674">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/app/controllers/items_controller.rb" timestamp="1543888110542">
-        <mark key="'" line="402" column="0" />
-        <mark key="[" line="10" column="77" />
-        <mark key="]" line="10" column="96" />
-        <mark key="^" line="10" column="96" />
-        <mark key="." line="10" column="96" />
-      </file>
       <file name="/exhibitree_shows.public.resources [postgres@localhost]" timestamp="1542143764503">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/exhibitree_shows.public.users [postgres@localhost]" timestamp="1542155658802">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/scripts/update_legacy_exhibitree_items.rb" timestamp="1543282691542">
-        <mark key="[" line="9" column="3" />
-        <mark key="]" line="8" column="13" />
-        <mark key="^" line="8" column="13" />
-        <mark key="." line="8" column="13" />
-      </file>
       <file name="/exhibitree_shows_local.public.events [postgres@localhost]" timestamp="1543870944666">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/e1_non_prod.public.zones [postgres@localhost]" timestamp="1542142012175">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/exhibitree_shows.public.workflows_states [postgres@localhost]" timestamp="1542301846676">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/demo/master/config/settings.yml" timestamp="1543444710068">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="^" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-      </file>
-      <file name="/exhibitree_shows.public.graphic_types [postgres@localhost]" timestamp="1542168550766">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/io/io-engage/db/migrate/20181204010709_add_file_issues_notes_to_items.rb" timestamp="1543887649750">
@@ -239,12 +104,6 @@
         <mark key="]" line="0" column="23" />
         <mark key="^" line="0" column="23" />
         <mark key="." line="0" column="23" />
-      </file>
-      <file name="/dreamforce_production.public.role_types [postgres@localhost]" timestamp="1541214805415">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/exhibitree_shows.public.items_roles [postgres@localhost]" timestamp="1542243064661">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="/exhibitree_shows.public.clients_users [Exhibitree Cloud]" timestamp="1542301962500">
         <mark key="[" line="0" column="0" />
@@ -260,37 +119,16 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/io/io-engage/spec/features/graphics/upload_spec.rb" timestamp="1543363811727" />
-      <file name="/exhibitree_shows.public.general_locations [Exhibitree Cloud]" timestamp="1543541204130">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/exhibitree_shows_db_for_migration.public.roles_zones [postgres@localhost]" timestamp="1542323850987">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/exhibitree_shows_local.public.general_locations [postgres@localhost]" timestamp="1543541023354">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/exhibitree_shows.public.general_locations [postgres@localhost]" timestamp="1542165463520">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/exhibitree1_production.public.layout_files [io_prod]" timestamp="1543273905994">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/exhibitree_shows_15.public.milestones [postgres@localhost]" timestamp="1542308099352">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/layout_files [Exhibitree Cloud]" timestamp="1543289666002">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/exhibitree_shows.public.venues [postgres@localhost]" timestamp="1542165509341">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/exhibitree_shows.public.user_widgets [postgres@localhost]" timestamp="1542150925819">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/exhibitree_shows_15.public.pins [postgres@localhost]" timestamp="1542306501104">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/exhibitree_shows_db_for_migration.public.layout_files [postgres@localhost]" timestamp="1542323815243">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/exhibitree_shows_local.public.role_types [postgres@localhost]" timestamp="1542777569447">
@@ -305,51 +143,12 @@
       <file name="/exhibitree_shows.public.roles_zones [postgres@localhost]" timestamp="1542243616532">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/exhibitree_shows_15.public.assessments [postgres@localhost]" timestamp="1542305844378">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/io/io-engage/app/models/permission.rb" timestamp="1543947287669">
-        <mark key="[" line="80" column="21" />
-        <mark key="]" line="80" column="34" />
-        <mark key="." line="80" column="34" />
-        <mark key="^" line="80" column="34" />
-      </file>
       <file name="$USER_HOME$/code/io/io-engage/spec/scripts/update_item_urls_spec.rb" timestamp="1543363855048">
         <mark key="'" line="19" column="0" />
         <mark key="[" line="3" column="36" />
         <mark key="]" line="3" column="36" />
         <mark key="." line="3" column="36" />
         <mark key="^" line="3" column="36" />
-      </file>
-      <file name="$USER_HOME$/code/io/io-engage/app/admin/substrate_category.rb" timestamp="1543262799948">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="17" column="1" />
-        <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/dreamforce/shared/app/models/workflows/dreamforce.rb" timestamp="1542590600746">
-        <mark key="[" line="34" column="90" />
-        <mark key="]" line="34" column="86" />
-        <mark key="." line="34" column="86" />
-        <mark key="^" line="34" column="86" />
-      </file>
-      <file name="$USER_HOME$/code/io/io-engage/db/migrate/20181204010709_add_file_issues_to_items.rb" timestamp="1543885692753">
-        <mark key="[" line="2" column="35" />
-        <mark key="]" line="2" column="33" />
-        <mark key="^" line="2" column="33" />
-        <mark key="." line="2" column="33" />
-      </file>
-      <file name="/exhibitree_shows.public.packing_reports [postgres@localhost]" timestamp="1542143728221">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/exhibitree_shows.public.job_statuses [postgres@localhost]" timestamp="1542143669797">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1543890764326">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="/hfelix_development.public.proof_urls [hfelix_development@localhost]" timestamp="1542072466469">
         <mark key="[" line="0" column="0" />
@@ -359,29 +158,6 @@
       </file>
       <file name="/exhibitree_shows.public.version_associations [postgres@localhost]" timestamp="1542149842356">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/io/io-engage/app/models/workflows/common.rb" timestamp="1543888406394">
-        <mark key="'" line="250" column="8" />
-        <mark key="[" line="250" column="0" />
-        <mark key="]" line="250" column="0" />
-        <mark key="^" line="257" column="0" />
-        <mark key="." line="250" column="0" />
-      </file>
-      <file name="/qa_0.public.zones [qa-master]" timestamp="1543890847407">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/io/io-engage/config/database.yml" timestamp="1543868624809">
-        <mark key="'" line="42" column="24" />
-        <mark key="[" line="41" column="29" />
-        <mark key="]" line="41" column="34" />
-        <mark key="." line="41" column="34" />
-        <mark key="^" line="41" column="34" />
-      </file>
-      <file name="$USER_HOME$/code/io/io-engage/app/admin/non_chargeable_reason.rb" timestamp="1543266783835">
-        <mark key="[" line="15" column="22" />
-        <mark key="]" line="16" column="10" />
-        <mark key="^" line="16" column="10" />
-        <mark key="." line="16" column="10" />
       </file>
       <file name="$USER_HOME$/code/io/io_engage_configuration/instances/dreamforce/production/config/settings.yml" timestamp="1543865418606">
         <mark key="'" line="100" column="4" />
@@ -406,9 +182,6 @@
         <mark key="^" line="56" column="36" />
         <mark key="." line="56" column="36" />
       </file>
-      <file name="/exhibitree_shows.public.proof_urls [Exhibitree Cloud]" timestamp="1542322310612">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/exhibitree_shows_db_for_migration.public.milestones [postgres@localhost]" timestamp="1542323805929">
         <mark key="[" line="0" column="0" />
       </file>
@@ -421,51 +194,10 @@
         <mark key="^" line="16" column="93" />
         <mark key="." line="16" column="93" />
       </file>
-      <file name="/exhibitree_shows.public.floor_plans [postgres@localhost]" timestamp="1542167330061">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/exhibitree_shows_db_for_migration.public.proof_urls [postgres@localhost]" timestamp="1542323786803">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/exhibitree_shows_db_for_migration.public.assessments [postgres@localhost]" timestamp="1542323828158">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/exhibitree_shows_db_for_migration.public.items_roles [postgres@localhost]" timestamp="1542323835954">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/shared/app/models/workflows/exhibitree.rb" timestamp="1542418233581">
-        <mark key="[" line="23" column="84" />
-        <mark key="]" line="23" column="80" />
-        <mark key="." line="23" column="80" />
-        <mark key="^" line="23" column="80" />
-      </file>
-      <file name="$USER_HOME$/code/io/io-engage/app/views/graphics/_vendor_details.html.haml" timestamp="1543887973162">
-        <mark key="'" line="75" column="0" />
-        <mark key="[" line="58" column="64" />
-        <mark key="]" line="58" column="64" />
-        <mark key="^" line="58" column="64" />
-        <mark key="." line="58" column="64" />
-      </file>
-      <file name="/e1_non_prod.public.graphic_types [postgres@localhost]" timestamp="1542139463782">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/exhibitree_shows_18.public.role_types [postgres@localhost]" timestamp="1542731515618">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/exhibitree_shows.public.version_associations [Exhibitree Cloud]" timestamp="1542228193578">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/dreamforce_production.public.proof_urls [Dreamforce 2018]" timestamp="1542072485883">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/18f2ac5a-39af-4578-8854-03936b72b2d2/console_2.sql" timestamp="1542315299942">
-        <mark key="'" line="37" column="0" />
-        <mark key="[" line="32" column="17" />
-        <mark key="]" line="32" column="17" />
-        <mark key="^" line="32" column="43" />
-        <mark key="." line="32" column="17" />
-      </file>
-      <file name="/exhibitree_shows_15.public.items_roles [postgres@localhost]" timestamp="1542306510566">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/exhibitree_shows_db_for_migration.public.pins [postgres@localhost]" timestamp="1542312741742">
@@ -484,25 +216,12 @@
       <file name="/exhibitree1_production.public.items [io_prod]" timestamp="1542394949109">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/exhibitree-shows_production.public.items [postgres@localhost]" timestamp="1542142657971">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/exhibitree_shows.public.role_types [Exhibitree Cloud]" timestamp="1542228221623">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/code/io/io-engage/scripts/update_item_urls.rb" timestamp="1543524903206">
         <mark key="'" line="39" column="28" />
         <mark key="[" line="63" column="6" />
         <mark key="]" line="63" column="28" />
         <mark key="^" line="63" column="28" />
         <mark key="." line="63" column="28" />
-      </file>
-      <file name="$USER_HOME$/code/io/io-engage/app/decorators/items_decorator.rb" timestamp="1543895001824">
-        <mark key="'" line="784" column="18" />
-        <mark key="[" line="786" column="7" />
-        <mark key="]" line="786" column="7" />
-        <mark key="^" line="786" column="7" />
-        <mark key="." line="786" column="7" />
       </file>
       <file name="/exhibitree_shows.public.graphic_categories [postgres@localhost]" timestamp="1542168549273">
         <mark key="[" line="0" column="0" />
@@ -522,36 +241,13 @@
       <file name="/exhibitree_shows.public.roles [postgres@localhost]" timestamp="1542162332816">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/exhibitree_shows.public.layout_files [postgres@localhost]" timestamp="1542242535863">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/io/io-engage/spec/factories/zones.rb" timestamp="1542781027996">
-        <mark key="'" line="111" column="38" />
-        <mark key="[" line="107" column="37" />
-        <mark key="]" line="107" column="37" />
-        <mark key="^" line="107" column="64" />
-        <mark key="." line="107" column="37" />
-      </file>
-      <file name="/exhibitree_shows.public.venues [Exhibitree Cloud]" timestamp="1543539257132">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/exhibitree_shows_18.public.users [postgres@localhost]" timestamp="1542731657381">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/exhibitree_shows_local.public.zones [postgres@localhost]" timestamp="1543890015727">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/exhibitree_shows.public.rush_overrides [postgres@localhost]" timestamp="1542160662987">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/shows/config/database.yml" timestamp="1543949299121" />
-      <file name="/exhibitree_shows.public.proof_reader_approvers [postgres@localhost]" timestamp="1542143544886">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/exhibitree_shows.public.attachments [Exhibitree Cloud]" timestamp="1542228162265">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/exhibitree_shows.public.item_update_errors [postgres@localhost]" timestamp="1542143647590">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/exhibitree_shows.public.events [postgres@localhost]" timestamp="1542156073406">
@@ -560,35 +256,10 @@
       <file name="/exhibitree_shows.public.non_chargeable_reasons [postgres@localhost]" timestamp="1542160628249">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/exhibitree_shows_local.public.items [postgres@localhost]" timestamp="1543894509375">
+      <file name="/exhibitree_shows_local.public.items [postgres@localhost]" timestamp="1543954764879">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/exhibitree_shows_15.public.layout_files [postgres@localhost]" timestamp="1542307857459">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/demo/shared/app/models/workflows/dreamforce.rb" timestamp="1542590579591">
-        <mark key="[" line="35" column="90" />
-        <mark key="]" line="35" column="86" />
-        <mark key="." line="35" column="86" />
-        <mark key="^" line="35" column="86" />
-      </file>
-      <file name="$USER_HOME$/code/io/io-engage/app/admin/finishing.rb" timestamp="1543266701464">
-        <mark key="[" line="29" column="22" />
-        <mark key="]" line="30" column="10" />
-        <mark key="^" line="30" column="10" />
-        <mark key="." line="30" column="10" />
-      </file>
-      <file name="/exhibitree_shows.public.milestones [postgres@localhost]" timestamp="1542143723203">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/df4af07b-8bd9-43a4-a025-0816d86566e8/console_1.sql" timestamp="1543547975522">
-        <mark key="'" line="23" column="0" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="4" column="49" />
-      </file>
-      <file name="/dummy.sql" timestamp="1543895009793">
+      <file name="/dummy.sql" timestamp="1543954766220">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
@@ -608,23 +279,6 @@
       <file name="/exhibitree_shows.public.pins [postgres@localhost]" timestamp="1542301908541">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/exhibitree_shows.public.assessments [Exhibitree Cloud]" timestamp="1542323208674">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/io/io-engage/Rakefile" timestamp="1543905363786" />
-      <file name="$USER_HOME$/code/io/io-engage/spec/models/permission_spec.rb" timestamp="1543947223579">
-        <mark key="[" line="36" column="62" />
-        <mark key="]" line="36" column="62" />
-        <mark key="^" line="36" column="62" />
-        <mark key="." line="36" column="62" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/18f2ac5a-39af-4578-8854-03936b72b2d2/SIE-512-console.sql" timestamp="1543527686535">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="6" column="61" />
-        <mark key="]" line="6" column="62" />
-        <mark key="^" line="6" column="60" />
-        <mark key="." line="6" column="62" />
-      </file>
       <file name="$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/pry-0.11.3/lib/pry/pry_instance.rb" timestamp="1543532458814">
         <mark key="[" line="242" column="18" />
         <mark key="]" line="242" column="7" />
@@ -639,12 +293,6 @@
       </file>
       <file name="/exhibitree_shows_db_for_migration.public.venues_zones [postgres@localhost]" timestamp="1542323862910">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/developers/shared/app/models/workflows/exhibitree.rb" timestamp="1542420615806">
-        <mark key="[" line="23" column="84" />
-        <mark key="]" line="23" column="80" />
-        <mark key="." line="23" column="80" />
-        <mark key="^" line="23" column="80" />
       </file>
       <file name="/dreamforce_production.public.venues [Dreamforce 2018]" timestamp="1543539291274">
         <mark key="[" line="0" column="0" />
@@ -674,22 +322,386 @@
       <file name="/exhibitree_shows_18.public.permissions [postgres@localhost]" timestamp="1542680053452">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/exhibitree_shows_15.public.roles_zones [postgres@localhost]" timestamp="1542306518361">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/code/io/io-engage/spec/features/items/edit_form_spec.rb" timestamp="1542789159334">
         <mark key="[" line="146" column="0" />
         <mark key="]" line="146" column="0" />
         <mark key="." line="146" column="0" />
         <mark key="^" line="143" column="14" />
       </file>
-      <file name="/exhibitree_shows.public.attachments [postgres@localhost]" timestamp="1542243449082">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/exhibitree_shows.public.field_sets [Exhibitree Cloud]" timestamp="1543432725156">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/io/io-engage/db/migrate/20180920070253_add_onsite_notes_to_item.rb" timestamp="1543885681108" />
+      <file name="/hfelix_development.public.permissions [hfelix_development@localhost]" timestamp="1541436799668">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/exhibitree_shows.public.layout_files [Exhibitree Cloud]" timestamp="1543885417241">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/exhibitree_shows_15.public.zone_brands [postgres@localhost]" timestamp="1542307583921">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/io/io-engage/config/initializers/ransack.rb" timestamp="1543893956816" />
+      <file name="$USER_HOME$/code/io/io-engage/spec/factories/roles.rb" timestamp="1542789166855">
+        <mark key="'" line="171" column="0" />
+        <mark key="[" line="158" column="0" />
+        <mark key="]" line="158" column="0" />
+        <mark key="^" line="248" column="34" />
+        <mark key="." line="158" column="0" />
+      </file>
+      <file name="/exhibitree_shows_18.public.field_sets [postgres@localhost]" timestamp="1542681123121">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/exhibitree_shows.public.zone_brands [Exhibitree Cloud]" timestamp="1542323639709">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/exhibitree_shows.public.item_groups [postgres@localhost]" timestamp="1542243350968">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/exhibitree_shows_db_for_migration.public.zone_brands [postgres@localhost]" timestamp="1542323872382">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/exhibitree_shows.public.proof_urls [postgres@localhost]" timestamp="1542243085779">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/io/io-engage/app/helpers/batch_helper.rb" timestamp="1543949146934">
+        <mark key="[" line="112" column="3" />
+        <mark key="]" line="112" column="3" />
+        <mark key="^" line="112" column="3" />
+        <mark key="." line="112" column="3" />
+      </file>
+      <file name="/hfelix_development.public.layout_files [hfelix_development@localhost]" timestamp="1542072773169">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/exhibitree2_production.public.layout_files [Exhibitree2-production]" timestamp="1543273672373">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/exhibitree_shows.public.zones [Exhibitree Cloud]" timestamp="1543540973511">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/exhibitree_shows.public.specific_locations [postgres@localhost]" timestamp="1542143799256">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/shows/config/settings.yml" timestamp="1543532798888">
+        <mark key="'" line="72" column="13" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="10" column="49" />
+        <mark key="^" line="73" column="13" />
+        <mark key="." line="73" column="13" />
+      </file>
+      <file name="/exhibitree_shows.public.price_models [postgres@localhost]" timestamp="1542301905931">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/exhibitree1_production.public.venues_zones [io_prod]" timestamp="1543539404137">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/exhibitree_shows.public.rushes [postgres@localhost]" timestamp="1542159944137">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/exhibitree_shows_db_for_migration.public.attachments [postgres@localhost]" timestamp="1542332274913">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/demo/master/config/database.yml" timestamp="1543894588297" />
+      <file name="$USER_HOME$/code/io/io-engage/config/settings.yml" timestamp="1543871795540">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="23" column="49" />
+        <mark key="^" line="19" column="48" />
+        <mark key="." line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/io/io-engage/app/models/field_set.rb" timestamp="1543892563401">
+        <mark key="'" line="13" column="9" />
+        <mark key="[" line="45" column="17" />
+        <mark key="]" line="46" column="23" />
+        <mark key="^" line="46" column="23" />
+        <mark key="." line="46" column="23" />
+      </file>
+      <file name="/exhibitree_shows.public.workflows_events [postgres@localhost]" timestamp="1542301850119">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/io/io-engage/app/assets/stylesheets/base/floor_plans.scss" timestamp="1542137896100">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="^" line="56" column="63" />
+        <mark key="." line="57" column="0" />
+      </file>
+      <file name="/exhibitree_shows.public.zones [postgres@localhost]" timestamp="1542159923145">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/io/io-engage/app/decorators/graphic_decorator.rb" timestamp="1543895432993">
+        <mark key="'" line="1" column="3" />
+        <mark key="^" line="0" column="3" />
+      </file>
+      <file name="/exhibitree_shows.public.venues_zones [Exhibitree Cloud]" timestamp="1543539449856">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/exhibitree_shows.public.sub_statuses [postgres@localhost]" timestamp="1542160450034">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/developers/shared/app/models/workflows/exhibitree_new.rb" timestamp="1542421241470">
+        <mark key="[" line="21" column="31" />
+        <mark key="]" line="22" column="21" />
+        <mark key="." line="22" column="21" />
+        <mark key="^" line="22" column="21" />
+      </file>
+      <file name="$USER_HOME$/code/io/io-engage/app/controllers/items_controller.rb" timestamp="1543888110542">
+        <mark key="'" line="402" column="0" />
+        <mark key="[" line="10" column="77" />
+        <mark key="]" line="10" column="96" />
+        <mark key="^" line="10" column="96" />
+        <mark key="." line="10" column="96" />
+      </file>
+      <file name="$USER_HOME$/code/io/io-engage/scripts/update_legacy_exhibitree_items.rb" timestamp="1543282691542">
+        <mark key="[" line="9" column="3" />
+        <mark key="]" line="8" column="13" />
+        <mark key="^" line="8" column="13" />
+        <mark key="." line="8" column="13" />
+      </file>
+      <file name="$USER_HOME$/code/io/io-engage/spec/controllers/admin/add_on_types_controller_spec.rb" timestamp="1543954384903">
+        <mark key="[" line="3" column="42" />
+        <mark key="]" line="3" column="42" />
+        <mark key="." line="3" column="42" />
+        <mark key="^" line="3" column="41" />
+      </file>
+      <file name="/e1_non_prod.public.zones [postgres@localhost]" timestamp="1542142012175">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/exhibitree_shows.public.workflows_states [postgres@localhost]" timestamp="1542301846676">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/demo/master/config/settings.yml" timestamp="1543444710068">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
+      <file name="/exhibitree_shows.public.graphic_types [postgres@localhost]" timestamp="1542168550766">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/dreamforce_production.public.role_types [postgres@localhost]" timestamp="1541214805415">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/exhibitree_shows.public.items_roles [postgres@localhost]" timestamp="1542243064661">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/exhibitree_shows.public.general_locations [Exhibitree Cloud]" timestamp="1543541204130">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/exhibitree_shows_db_for_migration.public.roles_zones [postgres@localhost]" timestamp="1542323850987">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/exhibitree_shows_local.public.general_locations [postgres@localhost]" timestamp="1543541023354">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/exhibitree_shows_15.public.milestones [postgres@localhost]" timestamp="1542308099352">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/layout_files [Exhibitree Cloud]" timestamp="1543289666002">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/exhibitree_shows.public.user_widgets [postgres@localhost]" timestamp="1542150925819">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/exhibitree_shows_db_for_migration.public.layout_files [postgres@localhost]" timestamp="1542323815243">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/exhibitree_shows_15.public.assessments [postgres@localhost]" timestamp="1542305844378">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/io/io-engage/app/models/permission.rb" timestamp="1543947287669">
+        <mark key="[" line="80" column="21" />
+        <mark key="]" line="80" column="34" />
+        <mark key="." line="80" column="34" />
+        <mark key="^" line="80" column="34" />
+      </file>
+      <file name="$USER_HOME$/code/io/io-engage/app/admin/substrate_category.rb" timestamp="1543262799948">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="17" column="1" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/dreamforce/shared/app/models/workflows/dreamforce.rb" timestamp="1542590600746">
+        <mark key="[" line="34" column="90" />
+        <mark key="]" line="34" column="86" />
+        <mark key="." line="34" column="86" />
+        <mark key="^" line="34" column="86" />
+      </file>
+      <file name="$USER_HOME$/code/io/io-engage/db/migrate/20181204010709_add_file_issues_to_items.rb" timestamp="1543885692753">
+        <mark key="[" line="2" column="35" />
+        <mark key="]" line="2" column="33" />
+        <mark key="^" line="2" column="33" />
+        <mark key="." line="2" column="33" />
+      </file>
+      <file name="/exhibitree_shows.public.packing_reports [postgres@localhost]" timestamp="1542143728221">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/exhibitree_shows.public.job_statuses [postgres@localhost]" timestamp="1542143669797">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/io/io-engage/app/models/workflows/common.rb" timestamp="1543888406394">
+        <mark key="'" line="250" column="8" />
+        <mark key="[" line="250" column="0" />
+        <mark key="]" line="250" column="0" />
+        <mark key="^" line="257" column="0" />
+        <mark key="." line="250" column="0" />
+      </file>
+      <file name="/qa_0.public.zones [qa-master]" timestamp="1543890847407">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/io/io-engage/config/database.yml" timestamp="1543868624809">
+        <mark key="'" line="42" column="24" />
+        <mark key="[" line="41" column="29" />
+        <mark key="]" line="41" column="34" />
+        <mark key="." line="41" column="34" />
+        <mark key="^" line="41" column="34" />
+      </file>
+      <file name="$USER_HOME$/code/io/io-engage/app/admin/non_chargeable_reason.rb" timestamp="1543266783835">
+        <mark key="[" line="15" column="22" />
+        <mark key="]" line="16" column="10" />
+        <mark key="^" line="16" column="10" />
+        <mark key="." line="16" column="10" />
+      </file>
+      <file name="/exhibitree_shows.public.proof_urls [Exhibitree Cloud]" timestamp="1542322310612">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/exhibitree_shows.public.floor_plans [postgres@localhost]" timestamp="1542167330061">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/exhibitree_shows_db_for_migration.public.proof_urls [postgres@localhost]" timestamp="1542323786803">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/exhibitree_shows_db_for_migration.public.assessments [postgres@localhost]" timestamp="1542323828158">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/exhibitree_shows_db_for_migration.public.items_roles [postgres@localhost]" timestamp="1542323835954">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/shared/app/models/workflows/exhibitree.rb" timestamp="1542418233581">
+        <mark key="[" line="23" column="84" />
+        <mark key="]" line="23" column="80" />
+        <mark key="." line="23" column="80" />
+        <mark key="^" line="23" column="80" />
+      </file>
+      <file name="$USER_HOME$/code/io/io-engage/app/views/graphics/_vendor_details.html.haml" timestamp="1543887973162">
+        <mark key="'" line="75" column="0" />
+        <mark key="[" line="58" column="64" />
+        <mark key="]" line="58" column="64" />
+        <mark key="^" line="58" column="64" />
+        <mark key="." line="58" column="64" />
+      </file>
+      <file name="/e1_non_prod.public.graphic_types [postgres@localhost]" timestamp="1542139463782">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/io/io-engage/spec/controllers/graphic_requests_controller_spec.rb" timestamp="1543955391781">
+        <mark key="[" line="22" column="53" />
+        <mark key="]" line="23" column="33" />
+        <mark key="^" line="23" column="33" />
+        <mark key="." line="23" column="33" />
+      </file>
+      <file name="/exhibitree_shows_18.public.role_types [postgres@localhost]" timestamp="1542731515618">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/18f2ac5a-39af-4578-8854-03936b72b2d2/console_2.sql" timestamp="1542315299942">
+        <mark key="'" line="37" column="0" />
+        <mark key="[" line="32" column="17" />
+        <mark key="]" line="32" column="17" />
+        <mark key="^" line="32" column="43" />
+        <mark key="." line="32" column="17" />
+      </file>
+      <file name="/exhibitree_shows_15.public.items_roles [postgres@localhost]" timestamp="1542306510566">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/exhibitree-shows_production.public.items [postgres@localhost]" timestamp="1542142657971">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/exhibitree_shows.public.role_types [Exhibitree Cloud]" timestamp="1542228221623">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/io/io-engage/app/decorators/items_decorator.rb" timestamp="1543895001824">
+        <mark key="'" line="784" column="18" />
+        <mark key="[" line="786" column="7" />
+        <mark key="]" line="786" column="7" />
+        <mark key="^" line="786" column="7" />
+        <mark key="." line="786" column="7" />
+      </file>
+      <file name="/exhibitree_shows.public.layout_files [postgres@localhost]" timestamp="1542242535863">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/io/io-engage/spec/factories/zones.rb" timestamp="1542781027996">
+        <mark key="'" line="111" column="38" />
+        <mark key="[" line="107" column="37" />
+        <mark key="]" line="107" column="37" />
+        <mark key="^" line="107" column="64" />
+        <mark key="." line="107" column="37" />
+      </file>
+      <file name="/exhibitree_shows.public.venues [Exhibitree Cloud]" timestamp="1543539257132">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/exhibitree_shows_local.public.zones [postgres@localhost]" timestamp="1543890015727">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/shows/config/database.yml" timestamp="1543949299121" />
+      <file name="/exhibitree_shows.public.proof_reader_approvers [postgres@localhost]" timestamp="1542143544886">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/exhibitree_shows.public.item_update_errors [postgres@localhost]" timestamp="1542143647590">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/exhibitree_shows_15.public.layout_files [postgres@localhost]" timestamp="1542307857459">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/demo/shared/app/models/workflows/dreamforce.rb" timestamp="1542590579591">
+        <mark key="[" line="35" column="90" />
+        <mark key="]" line="35" column="86" />
+        <mark key="." line="35" column="86" />
+        <mark key="^" line="35" column="86" />
+      </file>
+      <file name="$USER_HOME$/code/io/io-engage/app/admin/finishing.rb" timestamp="1543266701464">
+        <mark key="[" line="29" column="22" />
+        <mark key="]" line="30" column="10" />
+        <mark key="^" line="30" column="10" />
+        <mark key="." line="30" column="10" />
+      </file>
+      <file name="/exhibitree_shows.public.milestones [postgres@localhost]" timestamp="1542143723203">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/df4af07b-8bd9-43a4-a025-0816d86566e8/console_1.sql" timestamp="1543547975522">
+        <mark key="'" line="23" column="0" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="4" column="49" />
+      </file>
+      <file name="/exhibitree_shows.public.assessments [Exhibitree Cloud]" timestamp="1542323208674">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/io/io-engage/Rakefile" timestamp="1543905363786" />
+      <file name="$USER_HOME$/code/io/io-engage/spec/models/permission_spec.rb" timestamp="1543947223579">
+        <mark key="[" line="36" column="62" />
+        <mark key="]" line="36" column="62" />
+        <mark key="^" line="36" column="62" />
+        <mark key="." line="36" column="62" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/18f2ac5a-39af-4578-8854-03936b72b2d2/SIE-512-console.sql" timestamp="1543527686535">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="6" column="61" />
+        <mark key="]" line="6" column="62" />
+        <mark key="^" line="6" column="60" />
+        <mark key="." line="6" column="62" />
+      </file>
+      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/developers/shared/app/models/workflows/exhibitree.rb" timestamp="1542420615806">
+        <mark key="[" line="23" column="84" />
+        <mark key="]" line="23" column="80" />
+        <mark key="." line="23" column="80" />
+        <mark key="^" line="23" column="80" />
+      </file>
+      <file name="/exhibitree_shows_15.public.roles_zones [postgres@localhost]" timestamp="1542306518361">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/exhibitree_shows.public.attachments [postgres@localhost]" timestamp="1542243449082">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/exhibitree_shows.public.role_types [postgres@localhost]" timestamp="1542301896975">
         <mark key="[" line="0" column="0" />
       </file>
@@ -700,18 +712,12 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/hfelix_development.public.permissions [hfelix_development@localhost]" timestamp="1541436799668">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/code/io/io_engage_configuration/instances/simplified/workday/config/settings.yml" timestamp="1543461655880">
         <mark key="'" line="88" column="35" />
         <mark key="[" line="92" column="51" />
         <mark key="]" line="92" column="52" />
         <mark key="^" line="92" column="46" />
         <mark key="." line="92" column="52" />
-      </file>
-      <file name="/exhibitree_shows.public.layout_files [Exhibitree Cloud]" timestamp="1543885417241">
-        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -821,7 +827,7 @@
         <text>_w</text>
       </register>
       <register name="&quot;" type="4">
-        <text>n</text>
+        <text>, type: :controller</text>
       </register>
       <register name="b" type="4">
         <text>kkjj</text>
@@ -4513,7 +4519,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>, type: :controller</text>
       </register>
       <register name="n" type="4">
         <text />
