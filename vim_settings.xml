@@ -51,6 +51,12 @@
       <file name="/exhibitree_shows.public.proof_urls [postgres@localhost]" timestamp="1542243085779">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/io/io-engage/app/helpers/batch_helper.rb" timestamp="1543949146934">
+        <mark key="[" line="112" column="3" />
+        <mark key="]" line="112" column="3" />
+        <mark key="^" line="112" column="3" />
+        <mark key="." line="112" column="3" />
+      </file>
       <file name="/hfelix_development.public.layout_files [hfelix_development@localhost]" timestamp="1542072773169">
         <mark key="[" line="0" column="0" />
       </file>
@@ -538,7 +544,7 @@
       <file name="/exhibitree_shows.public.rush_overrides [postgres@localhost]" timestamp="1542160662987">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/shows/config/database.yml" timestamp="1543947937819" />
+      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/shows/config/database.yml" timestamp="1543949299121" />
       <file name="/exhibitree_shows.public.proof_reader_approvers [postgres@localhost]" timestamp="1542143544886">
         <mark key="[" line="0" column="0" />
       </file>
@@ -4986,7 +4992,6 @@
         <entry>binding.pry</entry>
       </history-search>
       <history-cmd>
-        <entry>67</entry>
         <entry>s</entry>
         <entry>w:w</entry>
         <entry>12</entry>
@@ -5005,6 +5010,7 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>wq</entry>
         <entry>w'</entry>
+        <entry>113</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
