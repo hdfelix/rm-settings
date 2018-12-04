@@ -13,6 +13,13 @@
         <mark key="." line="94" column="10" />
         <mark key="^" line="94" column="10" />
       </file>
+      <file name="$USER_HOME$/code/io/io-engage/spec/scripts/update_layout_files.rb" timestamp="1543957567095">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="0" column="61" />
+        <mark key="]" line="0" column="61" />
+        <mark key="^" line="0" column="61" />
+        <mark key="." line="0" column="61" />
+      </file>
       <file name="/exhibitree_shows.public.venues_zones [postgres@localhost]" timestamp="1542146941391">
         <mark key="[" line="0" column="0" />
       </file>
@@ -364,7 +371,8 @@
       <file name="/exhibitree_shows.public.proof_urls [postgres@localhost]" timestamp="1542243085779">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/app/helpers/batch_helper.rb" timestamp="1543949146934">
+      <file name="$USER_HOME$/code/io/io-engage/app/helpers/batch_helper.rb" timestamp="1543957539305">
+        <mark key="'" line="106" column="48" />
         <mark key="[" line="112" column="3" />
         <mark key="]" line="112" column="3" />
         <mark key="^" line="112" column="3" />
@@ -520,6 +528,12 @@
         <mark key="]" line="9" column="0" />
         <mark key="^" line="17" column="1" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/io/io-engage/.rubocop.yml" timestamp="1543957516145">
+        <mark key="[" line="16" column="12" />
+        <mark key="]" line="16" column="13" />
+        <mark key="^" line="16" column="13" />
+        <mark key="." line="16" column="13" />
       </file>
       <file name="$USER_HOME$/code/io/io_engage_configuration/instances/dreamforce/shared/app/models/workflows/dreamforce.rb" timestamp="1542590600746">
         <mark key="[" line="34" column="90" />
@@ -727,9 +741,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="96" column="0" filename="$USER_HOME$/code/io/io-engage/scripts/update_layout_files.rb" />
-      <jump line="14" column="15" filename="$USER_HOME$/code/io/io-engage/scripts/update_layout_files.rb" />
-      <jump line="103" column="2" filename="$USER_HOME$/code/io/io-engage/scripts/update_layout_files.rb" />
       <jump line="100" column="6" filename="$USER_HOME$/code/io/io-engage/scripts/update_layout_files.rb" />
       <jump line="70" column="6" filename="$USER_HOME$/code/io/io-engage/scripts/update_layout_files.rb" />
       <jump line="92" column="6" filename="$USER_HOME$/code/io/io-engage/scripts/update_layout_files.rb" />
@@ -827,6 +838,9 @@
       <jump line="781" column="25" filename="$USER_HOME$/code/io/io-engage/app/decorators/items_decorator.rb" />
       <jump line="784" column="18" filename="$USER_HOME$/code/io/io-engage/app/decorators/items_decorator.rb" />
       <jump line="1" column="3" filename="$USER_HOME$/code/io/io-engage/app/decorators/graphic_decorator.rb" />
+      <jump line="106" column="48" filename="$USER_HOME$/code/io/io-engage/app/helpers/batch_helper.rb" />
+      <jump line="11" column="38" filename="$USER_HOME$/code/io/io-engage/spec/scripts/update_layout_files.rb" />
+      <jump line="3" column="0" filename="$USER_HOME$/code/io/io-engage/spec/scripts/update_layout_files.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
