@@ -29,6 +29,9 @@
       <file name="/exhibitree_shows.public.venues_zones [postgres@localhost]" timestamp="1542146941391">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/exhibitree_shows_local.public.rushes_zones [postgres@localhost]" timestamp="1543889984590">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/exhibitree_shows.public.zone_brands [Exhibitree Cloud]" timestamp="1542323639709">
         <mark key="[" line="0" column="0" />
       </file>
@@ -84,7 +87,7 @@
       <file name="/exhibitree_shows_db_for_migration.public.attachments [postgres@localhost]" timestamp="1542332274913">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/demo/master/config/database.yml" timestamp="1543863350305" />
+      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/demo/master/config/database.yml" timestamp="1543890867723" />
       <file name="$USER_HOME$/code/io/io-engage/config/settings.yml" timestamp="1543871795540">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="20" column="0" />
@@ -183,11 +186,11 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/io/io-engage/app/controllers/items_controller.rb" timestamp="1543888110542">
-        <mark key="'" line="402" column="0" />
-        <mark key="[" line="328" column="77" />
-        <mark key="]" line="328" column="96" />
-        <mark key="^" line="328" column="96" />
-        <mark key="." line="328" column="96" />
+        <mark key="'" line="384" column="0" />
+        <mark key="[" line="10" column="77" />
+        <mark key="]" line="10" column="96" />
+        <mark key="^" line="10" column="96" />
+        <mark key="." line="10" column="96" />
       </file>
       <file name="/exhibitree_shows.public.resources [postgres@localhost]" timestamp="1542143764503">
         <mark key="[" line="0" column="0" />
@@ -330,7 +333,7 @@
       <file name="/exhibitree_shows.public.job_statuses [postgres@localhost]" timestamp="1542143669797">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1543873072854">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1543890764326">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -351,6 +354,9 @@
         <mark key="]" line="250" column="0" />
         <mark key="^" line="257" column="0" />
         <mark key="." line="250" column="0" />
+      </file>
+      <file name="/qa_0.public.zones [qa-master]" timestamp="1543890847407">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/io/io-engage/config/database.yml" timestamp="1543868624809">
         <mark key="'" line="42" column="24" />
@@ -416,7 +422,7 @@
         <mark key="^" line="23" column="80" />
       </file>
       <file name="$USER_HOME$/code/io/io-engage/app/views/graphics/_vendor_details.html.haml" timestamp="1543887973162">
-        <mark key="'" line="75" column="0" />
+        <mark key="'" line="73" column="0" />
         <mark key="[" line="58" column="64" />
         <mark key="]" line="58" column="64" />
         <mark key="^" line="58" column="64" />
@@ -497,7 +503,7 @@
       <file name="/exhibitree_shows_18.public.users [postgres@localhost]" timestamp="1542731657381">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/exhibitree_shows_local.public.zones [postgres@localhost]" timestamp="1543871198129">
+      <file name="/exhibitree_shows_local.public.zones [postgres@localhost]" timestamp="1543890015727">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/exhibitree_shows.public.rush_overrides [postgres@localhost]" timestamp="1542160662987">
@@ -547,7 +553,7 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="4" column="49" />
       </file>
-      <file name="/dummy.sql" timestamp="1543887414764">
+      <file name="/dummy.sql" timestamp="1543890902929">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
@@ -780,7 +786,7 @@
         <text>_w</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICMgZGVmIGZpbGVfaXNzdWVzCiAgICAjICAgcmV0dXJuIGlmIHNlbGYuZmlsZV9pc3N1ZXMucHJlc2VudD8KICAgICMgICBoYWx0ICJjYW4ndCBiZSBibGFuayBiZWZvcmUgY2hhbmdpbmcgdGhlIHN0YXR1cyB0byAje0kxOG4udCA6ZmlsZV9pc3N1ZXN9LgogICAgIyAgICAgICAgIEFmdGVyIGVudGVyaW5nIHlvdXIgcXVlc3Rpb25zLCBwbGVhc2UgcHJlc3MgdGhlICN7STE4bi50IDp2ZW5kb3JfcHJlcF9yZXF1aXJlc19jaGFuZ2VzfQogICAgIyAgICAgICAgIGJ1dHRvbiBhZ2FpbiB0byBjaGFuZ2UgdGhlIHN0YXRlLiIKICAgICMgICBlcnJvcnMuYWRkKDpmaWxlX2lzc3VlcywgaGFsdGVkX2JlY2F1c2UpCiAgICAjIGVuZAoK</text>
+        <text encoding="base64">Mwo=</text>
       </register>
       <register name="b" type="4">
         <text>kkjj</text>
@@ -4484,25 +4490,25 @@
         <text encoding="base64">ICAgICAgICBjb250ZXh0ICc6dmVuZG9yX3JlcXVpcmVzX2luZm9ybWF0aW9uIGV2ZW50JyBkbwogICAgICAgICAgYmVmb3JlIGRvCiAgICAgICAgICAgIGl0ZW0ubGF5b3V0X2ZpbGVzLmNyZWF0ZShmaWxlOiAndGVzdC5wZGYnLCBzY2FsZTogJzEwMCUnKQogICAgICAgICAgICBpdGVtLnZlbmRvcl9pbmZvcm1hdGlvbl9yZXF1aXJlZF9ub3RlcyA9ICdRdWVzdGlvbiEnCiAgICAgICAgICAgIGl0ZW0udmVuZG9yX3JlcXVpcmVzX2luZm9ybWF0aW9uIQogICAgICAgICAgZW5kCgogICAgICAgICAgYWZ0ZXIgZG8KICAgICAgICAgICAgY2xlYW5faXRlbV9maWxlcyhpdGVtKQogICAgICAgICAgZW5kCgogICAgICAgICAgaXQgJ3RyYW5zaXRpb25zIHRvIDp2ZW5kb3JfaW5mb3JtYXRpb25fcmVxdWlyZWQnIGRvCiAgICAgICAgICAgIGV4cGVjdChpdGVtLmN1cnJlbnRfc3RhdGUubmFtZSkudG8gZXEgOnZlbmRvcl9pbmZvcm1hdGlvbl9yZXF1aXJlZAogICAgICAgICAgZW5kCgogICAgICAgICAgaXRfYmVoYXZlc19saWtlIDphX21pbGVzdG9uZSwKICAgICAgICAgICAgICAgICAgICAgICAgICBmcm9tOiAnYXBwcm92ZWRfZm9yX3Byb2R1Y3Rpb24nLAogICAgICAgICAgICAgICAgICAgICAgICAgIHRvOiAndmVuZG9yX2luZm9ybWF0aW9uX3JlcXVpcmVkJywKICAgICAgICAgICAgICAgICAgICAgICAgICBldmVudDogJ3ZlbmRvcl9yZXF1aXJlc19pbmZvcm1hdGlvbicKICAgICAgICBlbmQKICAgICAgZW5kCgogICAgICBjb250ZXh0ICc6dmVuZG9yX2luZm9ybWF0aW9uX3JlcXVpcmVkIHN0YXRlJyBkbwogICAgICAgIGxldCg6c3RhdGVfbmFtZSkgeyA6dmVuZG9yX2luZm9ybWF0aW9uX3JlcXVpcmVkIH0KICAgICAgICBsZXQoOml0ZW0pIHsgY3JlYXRlKDppdGVtLCBzdGF0ZV9uYW1lKSB9CgogICAgICAgIGNvbnRleHQgJzp2ZW5kb3JfYW5zd2VyZWQgZXZlbnQnIGRvCiAgICAgICAgICBiZWZvcmUgZG8KICAgICAgICAgICAgaXRlbS5sYXlvdXRfZmlsZXMuY3JlYXRlKGZpbGU6ICd0ZXN0LnBkZicsIHNjYWxlOiAnMTAwJScpCiAgICAgICAgICAgIGl0ZW0udmVuZG9yX2luZm9ybWF0aW9uX3JlcXVpcmVkX25vdGVzID0gJ1F1ZXN0aW9uIGZyb20gdmVuZG9yJwogICAgICAgICAgICBpdGVtLnZlbmRvcl9hbnN3ZXJlZCEKICAgICAgICAgIGVuZAoKICAgICAgICAgIGFmdGVyIGRvCiAgICAgICAgICAgIGNsZWFuX2l0ZW1fZmlsZXMoaXRlbSkKICAgICAgICAgIGVuZAoKICAgICAgICAgIGl0ICdWZW5kb3IgcXVlc3Rpb24gdGV4dCBpcyBub3QgcmVtb3ZlZCcgZG8KICAgICAgICAgICAgZXhwZWN0KGl0ZW0udmVuZG9yX2luZm9ybWF0aW9uX3JlcXVpcmVkX25vdGVzKS50byBlcSAnUXVlc3Rpb24gZnJvbSB2ZW5kb3InCiAgICAgICAgICBlbmQKCiAgICAgICAgICBpdF9iZWhhdmVzX2xpa2UgOmFfbWlsZXN0b25lLAogICAgICAgICAgICAgICAgICAgICAgICAgIGZyb206ICd2ZW5kb3JfaW5mb3JtYXRpb25fcmVxdWlyZWQnLAogICAgICAgICAgICAgICAgICAgICAgICAgIHRvOiAnYXBwcm92ZWRfZm9yX3Byb2R1Y3Rpb24nLAogICAgICAgICAgICAgICAgICAgICAgICAgIGV2ZW50OiAndmVuZG9yX2Fuc3dlcmVkJwogICAgICAgIGVuZAogICAgICBlbmQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgZGVmIGZpbGVfaXNzdWVzCiAgICAjICAgcmV0dXJuIGlmIHNlbGYuZmlsZV9pc3N1ZXMucHJlc2VudD8KICAgICMgICBoYWx0ICJjYW4ndCBiZSBibGFuayBiZWZvcmUgY2hhbmdpbmcgdGhlIHN0YXR1cyB0byAje0kxOG4udCA6ZmlsZV9pc3N1ZXN9LgogICAgIyAgICAgICAgIEFmdGVyIGVudGVyaW5nIHlvdXIgcXVlc3Rpb25zLCBwbGVhc2UgcHJlc3MgdGhlICN7STE4bi50IDp2ZW5kb3JfcHJlcF9yZXF1aXJlc19jaGFuZ2VzfQogICAgIyAgICAgICAgIGJ1dHRvbiBhZ2FpbiB0byBjaGFuZ2UgdGhlIHN0YXRlLiIKICAgICMgICBlcnJvcnMuYWRkKDpmaWxlX2lzc3VlcywgaGFsdGVkX2JlY2F1c2UpCiAgICAjIGVuZAoK</text>
+        <text encoding="base64">Mwo=</text>
       </register>
       <register name="q" type="4">
         <text>jdd</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAK</text>
+        <text encoding="base64">ICAgICMgZGVmIGZpbGVfaXNzdWVzCiAgICAjICAgcmV0dXJuIGlmIHNlbGYuZmlsZV9pc3N1ZXMucHJlc2VudD8KICAgICMgICBoYWx0ICJjYW4ndCBiZSBibGFuayBiZWZvcmUgY2hhbmdpbmcgdGhlIHN0YXR1cyB0byAje0kxOG4udCA6ZmlsZV9pc3N1ZXN9LgogICAgIyAgICAgICAgIEFmdGVyIGVudGVyaW5nIHlvdXIgcXVlc3Rpb25zLCBwbGVhc2UgcHJlc3MgdGhlICN7STE4bi50IDp2ZW5kb3JfcHJlcF9yZXF1aXJlc19jaGFuZ2VzfQogICAgIyAgICAgICAgIGJ1dHRvbiBhZ2FpbiB0byBjaGFuZ2UgdGhlIHN0YXRlLiIKICAgICMgICBlcnJvcnMuYWRkKDpmaWxlX2lzc3VlcywgaGFsdGVkX2JlY2F1c2UpCiAgICAjIGVuZAoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNlbGYuZmlsZV9pc3N1ZXMgPSBuaWwgaWYgc2VsZi5maWxlX2lzc3VlcwogICAgICAgIGVuZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <text>jdd</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHNlbGYuZmlsZV9pc3N1ZXMgPSBuaWwgaWYgc2VsZi5maWxlX2lzc3VlcwogICAgICAgIGVuZAo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -4903,16 +4909,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGFkZF9jb2x1bW4gOml0ZW1zLCA6b25zaXRlX25vdGVzLCA6dGV4dCAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgICAgICAgIGFkZF9jb2x1bW4gOml0ZW1zLCA6b25zaXRlX25vdGVzLCA6dGV4dCAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgIyBpdGVtLmxheW91dF9maWxlcy5lYWNoX3dpdGhfaW5kZXggZG8gfGxmLCBpfAogICAgICAjICAgaWYgZmlsZW5hbWVfcHJlc2VudD8obGYpCiAgICAgICMgICAgIHVwZGF0ZV9sYXlvdXRfZmlsZShsZiwgaSkKICAgICAgIyAgICAgcHV0cyAnLicKICAgICAgIyAgIGVsc2UKICAgICAgIyAgICAgcHV0cyAneCcKICAgICAgIyAgIGVuZAogICAgICAjIGVuZAo=</text>
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgdGVzdCA9ICd0Jwo=</text>
+        <text encoding="base64">ICAgICAgIyBpdGVtLmxheW91dF9maWxlcy5lYWNoX3dpdGhfaW5kZXggZG8gfGxmLCBpfAogICAgICAjICAgaWYgZmlsZW5hbWVfcHJlc2VudD8obGYpCiAgICAgICMgICAgIHVwZGF0ZV9sYXlvdXRfZmlsZShsZiwgaSkKICAgICAgIyAgICAgcHV0cyAnLicKICAgICAgIyAgIGVsc2UKICAgICAgIyAgICAgcHV0cyAneCcKICAgICAgIyAgIGVuZAogICAgICAjIGVuZAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
