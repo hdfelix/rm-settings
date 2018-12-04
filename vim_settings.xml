@@ -612,6 +612,12 @@
       <file name="/exhibitree_shows_15.public.items_roles [postgres@localhost]" timestamp="1542306510566">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/io/io-engage/db/migrate/20181204204018_re_create_grid_itemsfor_file_issues_notes.rb" timestamp="1543956041218">
+        <mark key="[" line="1" column="12" />
+        <mark key="]" line="2" column="27" />
+        <mark key="^" line="2" column="27" />
+        <mark key="." line="2" column="27" />
+      </file>
       <file name="/exhibitree-shows_production.public.items [postgres@localhost]" timestamp="1542142657971">
         <mark key="[" line="0" column="0" />
       </file>
@@ -4525,7 +4531,7 @@
         <text />
       </register>
       <register name="/" type="4">
-        <text>binding.pry</text>
+        <text>recreate</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEFjdGlvbi5uZXcoOnZpZXdfZmxvb3JfcGxhbl90YWIsIHNjb3BlczogWzphbGxdLCB0eXBlOiA6YWN0aW9uKSwK</text>
@@ -4966,9 +4972,9 @@
       </register>
     </registers>
     <search>
-      <last-search>binding.pry</last-search>
+      <last-search>recreate</last-search>
       <last-offset />
-      <last-pattern>binding.pry</last-pattern>
+      <last-pattern>recreate</last-pattern>
       <last-replace>attributes_for_update</last-replace>
       <last-substitute>set_attributes_for_update</last-substitute>
       <last-dir>1</last-dir>
@@ -4976,7 +4982,6 @@
     </search>
     <history>
       <history-search>
-        <entry>textarea</entry>
         <entry>answer_designer_question</entry>
         <entry>custom</entry>
         <entry>ask_designer_question</entry>
@@ -4996,6 +5001,7 @@
         <entry>onsit_notes</entry>
         <entry>onsite_notes</entry>
         <entry>binding.pry</entry>
+        <entry>recreate</entry>
       </history-search>
       <history-cmd>
         <entry>s</entry>
