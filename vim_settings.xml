@@ -223,11 +223,6 @@
       <file name="/exhibitree_shows.public.items_roles [postgres@localhost]" timestamp="1542243064661">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/spec/models/workflows/sample_spec.rb" timestamp="1543887749336">
-        <mark key="'" line="864" column="0" />
-        <mark key="[" line="599" column="0" />
-        <mark key="]" line="645" column="9" />
-      </file>
       <file name="/exhibitree_shows.public.clients_users [Exhibitree Cloud]" timestamp="1542301962500">
         <mark key="[" line="0" column="0" />
       </file>
@@ -530,6 +525,7 @@
       <file name="/exhibitree_shows.public.assessments [Exhibitree Cloud]" timestamp="1542323208674">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/io/io-engage/Rakefile" timestamp="1543902512045" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/18f2ac5a-39af-4578-8854-03936b72b2d2/SIE-512-console.sql" timestamp="1543527686535">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="6" column="61" />
