@@ -457,10 +457,6 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/io/io-engage/spec/features/client_items_grid/client_context_spec.rb" timestamp="1543960491795" />
-      <file name="$USER_HOME$/code/io/io-engage/app/decorators/graphic_decorator.rb" timestamp="1543895432993">
-        <mark key="'" line="1" column="3" />
-        <mark key="^" line="0" column="3" />
-      </file>
       <file name="/exhibitree_shows.public.venues_zones [Exhibitree Cloud]" timestamp="1543539449856">
         <mark key="[" line="0" column="0" />
       </file>
@@ -645,6 +641,12 @@
       </file>
       <file name="/exhibitree_shows_15.public.items_roles [postgres@localhost]" timestamp="1542306510566">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/io/io-engage/spec/features/batch_edit/validations.rb" timestamp="1544032036492">
+        <mark key="[" line="50" column="51" />
+        <mark key="]" line="50" column="51" />
+        <mark key="^" line="50" column="51" />
+        <mark key="." line="50" column="51" />
       </file>
       <file name="$USER_HOME$/code/io/io-engage/db/migrate/20181204204018_re_create_grid_itemsfor_file_issues_notes.rb" timestamp="1543956041218">
         <mark key="[" line="1" column="12" />
@@ -866,8 +868,8 @@
       <register name="a" type="4">
         <text>_w</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC0gYmluZGluZy5wcnkK</text>
+      <register name="&quot;" type="4">
+        <text>r</text>
       </register>
       <register name="b" type="4">
         <text>kkjj</text>
