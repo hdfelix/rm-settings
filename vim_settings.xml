@@ -182,8 +182,11 @@
       <file name="/exhibitree_shows.public.version_associations [postgres@localhost]" timestamp="1542149842356">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/spec/factories/permissions.rb" timestamp="1543963066118">
-        <mark key="^" line="57" column="30" />
+      <file name="$USER_HOME$/code/io/io-engage/spec/factories/permissions.rb" timestamp="1544034083812">
+        <mark key="[" line="66" column="19" />
+        <mark key="]" line="66" column="25" />
+        <mark key="^" line="66" column="25" />
+        <mark key="." line="66" column="25" />
       </file>
       <file name="$USER_HOME$/code/io/io_engage_configuration/instances/dreamforce/production/config/settings.yml" timestamp="1543865418606">
         <mark key="'" line="100" column="4" />
@@ -252,7 +255,7 @@
       <file name="/exhibitree_shows_15.public.roles [postgres@localhost]" timestamp="1542306775924">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1543361594370">
+      <file name="/Ruby Console" timestamp="1544034545654">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="^" line="0" column="1" />
@@ -416,6 +419,11 @@
         <mark key="^" line="73" column="13" />
         <mark key="." line="73" column="13" />
       </file>
+      <file name="$USER_HOME$/code/io/io-engage/spec/features/batch_edit/validations_spec.rb" timestamp="1544034475571">
+        <mark key="[" line="51" column="78" />
+        <mark key="]" line="51" column="79" />
+        <mark key="." line="51" column="79" />
+      </file>
       <file name="/exhibitree_shows.public.price_models [postgres@localhost]" timestamp="1542301905931">
         <mark key="[" line="0" column="0" />
       </file>
@@ -468,6 +476,11 @@
         <mark key="]" line="22" column="21" />
         <mark key="." line="22" column="21" />
         <mark key="^" line="22" column="21" />
+      </file>
+      <file name="/fragment.rb" timestamp="1544034476977">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/io/io-engage/app/controllers/items_controller.rb" timestamp="1543888110542">
         <mark key="'" line="402" column="0" />
@@ -869,8 +882,8 @@
       <register name="a" type="4">
         <text>_w</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGZlYXR1cmUgJ1dpdGggcGVybWlzc2lvbnMnIGRvCiAgICAgIGJlZm9yZSBkbwogICAgICAgIHZpc2l0IGJhdGNoX2VkaXRfZ3JhcGhpY3NfcGF0aChpdGVtX2lkczogW2l0ZW0xLmlkLCBpdGVtMi5pZF0pCiAgICAgIGVuZAoKICAgICAgc2NlbmFyaW8gJ0NhbiBzZWUgdGhlIFZlbmRvciBEZXRhaWxzIHRhYicgZG8KICAgICAgICBleHBlY3QocGFnZSkudG8gaGF2ZV9jb250ZW50KCdWRU5ET1IgREVUQUlMUycpCiAgICAgIGVuZAoKICAgICAgc2NlbmFyaW8gJ0NhbiBzZWUgdGhlIENvc3QgdGFiJyBkbwogICAgICAgIGV4cGVjdChwYWdlKS50byBoYXZlX2NvbnRlbnQoJ0NPU1QnKQogICAgICBlbmQKCiAgICAgIHNjZW5hcmlvICcgQ2FuIHNlZSB0aGUgUHJpY2luZyB0YWInIGRvCiAgICAgICAgZXhwZWN0KHBhZ2UpLnRvIGhhdmVfY29udGVudCgnUFJJQ0lORycpCiAgICAgIGVuZAo=</text>
+      <register name="&quot;" type="4">
+        <text>t</text>
       </register>
       <register name="b" type="4">
         <text>kkjj</text>
@@ -4562,16 +4575,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>COST</text>
+        <text>t</text>
       </register>
       <register name="n" type="4">
         <text />
       </register>
       <register name="/" type="4">
-        <text>permission</text>
+        <text>pricing</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGZlYXR1cmUgJ1dpdGggcGVybWlzc2lvbnMnIGRvCiAgICAgIGJlZm9yZSBkbwogICAgICAgIHZpc2l0IGJhdGNoX2VkaXRfZ3JhcGhpY3NfcGF0aChpdGVtX2lkczogW2l0ZW0xLmlkLCBpdGVtMi5pZF0pCiAgICAgIGVuZAoKICAgICAgc2NlbmFyaW8gJ0NhbiBzZWUgdGhlIFZlbmRvciBEZXRhaWxzIHRhYicgZG8KICAgICAgICBleHBlY3QocGFnZSkudG8gaGF2ZV9jb250ZW50KCdWRU5ET1IgREVUQUlMUycpCiAgICAgIGVuZAoKICAgICAgc2NlbmFyaW8gJ0NhbiBzZWUgdGhlIENvc3QgdGFiJyBkbwogICAgICAgIGV4cGVjdChwYWdlKS50byBoYXZlX2NvbnRlbnQoJ0NPU1QnKQogICAgICBlbmQKCiAgICAgIHNjZW5hcmlvICcgQ2FuIHNlZSB0aGUgUHJpY2luZyB0YWInIGRvCiAgICAgICAgZXhwZWN0KHBhZ2UpLnRvIGhhdmVfY29udGVudCgnUFJJQ0lORycpCiAgICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgIHRyYWl0IDp2aWV3X2Nvc3QgZG8KICAgICAgYWN0aW9uICd2aWV3X2Nvc3QnCiAgICBlbmQK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgbGV0ISg6cGVybWlzc2lvbl92ZW5kb3JfZGV0YWlscykgeyBjcmVhdGUoOnBlcm1pc3Npb24sIDphbGxvdywgOmFsbCwgOnZpZXdfdmVuZG9yX2RldGFpbHNfdGFiKSB9CiAgICAgIGxldCEoOnBlcm1pc3Npb25fY29zdCkgeyBjcmVhdGUoOnBlcm1pc3Npb24sIDphbGxvdywgOmFsbCwgOnZpZXdfY29zdCkgfQogICAgICBsZXQhKDpwZXJtaXNzaW9uX3ByaWNpbmcpIHsgY3JlYXRlKDpwZXJtaXNzaW9uLCA6YWxsb3csIDphbGwsIDp2aWV3X3ByaWNpbnQpIH0KCg==</text>
@@ -5009,9 +5022,9 @@
       </register>
     </registers>
     <search>
-      <last-search>permission</last-search>
+      <last-search>pricing</last-search>
       <last-offset />
-      <last-pattern>permission</last-pattern>
+      <last-pattern>pricing</last-pattern>
       <last-replace>attributes_for_update</last-replace>
       <last-substitute>set_attributes_for_update</last-substitute>
       <last-dir>1</last-dir>
@@ -5019,7 +5032,6 @@
     </search>
     <history>
       <history-search>
-        <entry>active_record</entry>
         <entry>activerecord</entry>
         <entry encoding="base64">Jg==</entry>
         <entry>file_issue_notes'</entry>
@@ -5031,7 +5043,6 @@
         <entry>onsite_notes</entry>
         <entry>binding.pry</entry>
         <entry>recreate</entry>
-        <entry>pricing</entry>
         <entry>workback_schedule_date_for</entry>
         <entry>days_on_state</entry>
         <entry>days_on_state_file</entry>
@@ -5039,6 +5050,8 @@
         <entry>workback_schedule</entry>
         <entry>user_name_for_role</entry>
         <entry>permission</entry>
+        <entry>view_pricing</entry>
+        <entry>pricing</entry>
       </history-search>
       <history-cmd>
         <entry>s</entry>
