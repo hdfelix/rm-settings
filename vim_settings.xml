@@ -96,12 +96,12 @@
       <file name="/exhibitree_shows_local.public.layout_files [postgres@localhost]" timestamp="1543868467240">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/config/locales/en.yml" timestamp="1543974356922">
-        <mark key="'" line="5" column="0" />
-        <mark key="[" line="304" column="27" />
-        <mark key="]" line="304" column="27" />
-        <mark key="^" line="304" column="27" />
-        <mark key="." line="304" column="27" />
+      <file name="$USER_HOME$/code/io/io-engage/config/locales/en.yml" timestamp="1544038530238">
+        <mark key="'" line="308" column="19" />
+        <mark key="[" line="320" column="16" />
+        <mark key="]" line="320" column="16" />
+        <mark key="^" line="312" column="16" />
+        <mark key="." line="320" column="16" />
       </file>
       <file name="/exhibitree_shows.public.pins [Exhibitree Cloud]" timestamp="1542323217674">
         <mark key="[" line="0" column="0" />
@@ -261,6 +261,9 @@
         <mark key="^" line="0" column="1" />
         <mark key="." line="0" column="1" />
       </file>
+      <file name="$USER_HOME$/code/io/io-engage/Gemfile" timestamp="1543365305903">
+        <mark key="'" line="38" column="5" />
+      </file>
       <file name="/exhibitree_shows.public.roles [postgres@localhost]" timestamp="1542162332816">
         <mark key="[" line="0" column="0" />
       </file>
@@ -372,6 +375,9 @@
         <mark key="]" line="158" column="0" />
         <mark key="^" line="248" column="34" />
         <mark key="." line="158" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/io/io-engage/spec/features/map/pin_permissions_spec.rb" timestamp="1544038412674">
+        <mark key="'" line="5" column="0" />
       </file>
       <file name="/exhibitree_shows_18.public.field_sets [postgres@localhost]" timestamp="1542681123121">
         <mark key="[" line="0" column="0" />
@@ -544,6 +550,9 @@
       </file>
       <file name="/exhibitree_shows_db_for_migration.public.layout_files [postgres@localhost]" timestamp="1542323815243">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/io/io-engage/app/admin/permissions.rb" timestamp="1544038405012">
+        <mark key="'" line="99" column="10" />
       </file>
       <file name="/exhibitree_shows_15.public.assessments [postgres@localhost]" timestamp="1542305844378">
         <mark key="[" line="0" column="0" />
@@ -779,9 +788,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="233" column="8" filename="$USER_HOME$/code/io/io-engage/app/models/workflows/common.rb" />
-      <jump line="234" column="34" filename="$USER_HOME$/code/io/io-engage/app/models/workflows/common.rb" />
-      <jump line="282" column="24" filename="$USER_HOME$/code/io/io-engage/app/models/workflows/common.rb" />
       <jump line="292" column="32" filename="$USER_HOME$/code/io/io-engage/app/models/workflows/common.rb" />
       <jump line="291" column="8" filename="$USER_HOME$/code/io/io-engage/app/models/workflows/common.rb" />
       <jump line="7" column="18" filename="$USER_HOME$/code/io/io-engage/app/models/workflows/dreamforce.rb" />
@@ -879,13 +885,16 @@
       <jump line="4" column="0" filename="$USER_HOME$/code/io/io-engage/spec/features/batch_edit/validations.rb" />
       <jump line="84" column="20" filename="$USER_HOME$/code/io/io-engage/spec/features/batch_edit/validations_spec.rb" />
       <jump line="52" column="23" filename="$USER_HOME$/code/io/io-engage/spec/features/batch_edit/validations_spec.rb" />
+      <jump line="99" column="10" filename="$USER_HOME$/code/io/io-engage/app/admin/permissions.rb" />
+      <jump line="5" column="0" filename="$USER_HOME$/code/io/io-engage/spec/features/map/pin_permissions_spec.rb" />
+      <jump line="308" column="19" filename="$USER_HOME$/code/io/io-engage/config/locales/en.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>_w</text>
       </register>
       <register name="&quot;" type="4">
-        <text>x</text>
+        <text>b</text>
       </register>
       <register name="b" type="4">
         <text>kkjj</text>
@@ -4577,13 +4586,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>x</text>
+        <text>b</text>
       </register>
       <register name="n" type="4">
         <text />
       </register>
       <register name="/" type="4">
-        <text>pricing</text>
+        <text>view_pricin</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgbGV0ISg6cGVybWlzc2lvbl92ZW5kb3JfZGV0YWlscykgeyBjcmVhdGUoOnBlcm1pc3Npb24sIDphbGxvdywgOmFsbCwgOnZpZXdfdmVuZG9yX2RldGFpbHNfdGFiKSB9CiAgICAgIGxldCEoOnBlcm1pc3Npb25fY29zdCkgeyBjcmVhdGUoOnBlcm1pc3Npb24sIDphbGxvdywgOmFsbCwgOnZpZXdfY29zdCkgfQogICAgICBsZXQhKDpwZXJtaXNzaW9uX3ByaWNpbmcpIHsgY3JlYXRlKDpwZXJtaXNzaW9uLCA6YWxsb3csIDphbGwsIDp2aWV3X3ByaWNpbmcpIH0KCg==</text>
@@ -5024,9 +5033,9 @@
       </register>
     </registers>
     <search>
-      <last-search>pricing</last-search>
+      <last-search>view_pricin</last-search>
       <last-offset />
-      <last-pattern>pricing</last-pattern>
+      <last-pattern>view_pricin</last-pattern>
       <last-replace>attributes_for_update</last-replace>
       <last-substitute>set_attributes_for_update</last-substitute>
       <last-dir>1</last-dir>
@@ -5034,7 +5043,6 @@
     </search>
     <history>
       <history-search>
-        <entry>activerecord</entry>
         <entry encoding="base64">Jg==</entry>
         <entry>file_issue_notes'</entry>
         <entry>_cont</entry>
@@ -5054,9 +5062,9 @@
         <entry>permission</entry>
         <entry>view_pricing</entry>
         <entry>pricing</entry>
+        <entry>view_pricin</entry>
       </history-search>
       <history-cmd>
-        <entry>s</entry>
         <entry>w:w</entry>
         <entry>12</entry>
         <entry>37</entry>
@@ -5075,6 +5083,7 @@
         <entry>w'</entry>
         <entry>113</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
