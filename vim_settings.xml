@@ -90,6 +90,13 @@
       <file name="/exhibitree_shows_local.public.layout_files [postgres@localhost]" timestamp="1543868467240">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/io/io-engage/config/locales/en.yml" timestamp="1543974356922">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="304" column="27" />
+        <mark key="]" line="304" column="27" />
+        <mark key="^" line="304" column="27" />
+        <mark key="." line="304" column="27" />
+      </file>
       <file name="/exhibitree_shows.public.pins [Exhibitree Cloud]" timestamp="1542323217674">
         <mark key="[" line="0" column="0" />
       </file>
@@ -745,7 +752,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="302" column="8" filename="$USER_HOME$/code/io/io-engage/app/models/workflows/common.rb" />
       <jump line="306" column="8" filename="$USER_HOME$/code/io/io-engage/app/models/workflows/common.rb" />
       <jump line="96" column="15" filename="$USER_HOME$/code/io/io-engage/app/models/workflows/common.rb" />
       <jump line="106" column="11" filename="$USER_HOME$/code/io/io-engage/app/models/workflows/common.rb" />
@@ -786,7 +792,6 @@
       <jump line="344" column="41" filename="$USER_HOME$/code/io/io-engage/config/locales/en.yml" />
       <jump line="605" column="27" filename="$USER_HOME$/code/io/io-engage/config/locales/en.yml" />
       <jump line="748" column="22" filename="$USER_HOME$/code/io/io-engage/config/locales/en.yml" />
-      <jump line="5" column="0" filename="$USER_HOME$/code/io/io-engage/config/locales/en.yml" />
       <jump line="416" column="8" filename="$USER_HOME$/code/io/io-engage/config/locales/en.yml" />
       <jump line="73" column="39" filename="$USER_HOME$/code/io/io-engage/config/locales/en.yml" />
       <jump line="786" column="7" filename="$USER_HOME$/code/io/io-engage/app/decorators/items_decorator.rb" />
@@ -845,6 +850,8 @@
       <jump line="154" column="48" filename="$USER_HOME$/code/io/io-engage/config/locales/en.yml" />
       <jump line="346" column="6" filename="$USER_HOME$/code/io/io-engage/config/locales/en.yml" />
       <jump line="257" column="8" filename="$USER_HOME$/code/io/io-engage/config/locales/en.yml" />
+      <jump line="516" column="20" filename="$USER_HOME$/code/io/io-engage/config/locales/en.yml" />
+      <jump line="5" column="0" filename="$USER_HOME$/code/io/io-engage/config/locales/en.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4549,7 +4556,7 @@
         <text />
       </register>
       <register name="/" type="4">
-        <text>user_name_for_role</text>
+        <text>permission</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB1c2VyX25hbWVfZm9yX3JvbGVfY2xpZW50X3Jldmlld2VyOiAnQ2xpZW50IFJldmlld2VyJwo=</text>
@@ -4990,9 +4997,9 @@
       </register>
     </registers>
     <search>
-      <last-search>user_name_for_role</last-search>
+      <last-search>permission</last-search>
       <last-offset />
-      <last-pattern>user_name_for_role</last-pattern>
+      <last-pattern>permission</last-pattern>
       <last-replace>attributes_for_update</last-replace>
       <last-substitute>set_attributes_for_update</last-substitute>
       <last-dir>1</last-dir>
@@ -5000,7 +5007,6 @@
     </search>
     <history>
       <history-search>
-        <entry>_notes</entry>
         <entry>active_record</entry>
         <entry>activerecord</entry>
         <entry encoding="base64">Jg==</entry>
@@ -5020,6 +5026,7 @@
         <entry encoding="base64">PDw8</entry>
         <entry>workback_schedule</entry>
         <entry>user_name_for_role</entry>
+        <entry>permission</entry>
       </history-search>
       <history-cmd>
         <entry>s</entry>
