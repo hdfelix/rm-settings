@@ -38,13 +38,6 @@
       <file name="/exhibitree_shows.public.vendor_rushes [postgres@localhost]" timestamp="1542160252785">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/app/views/graphics/_batch_form.html.haml" timestamp="1544041545000">
-        <mark key="'" line="26" column="72" />
-        <mark key="[" line="26" column="72" />
-        <mark key="]" line="26" column="72" />
-        <mark key="." line="26" column="72" />
-        <mark key="^" line="26" column="72" />
-      </file>
       <file name="$USER_HOME$/code/io/io_engage_configuration/instances/preferred/shared/app/models/workflows/preferred.rb" timestamp="1542590634337">
         <mark key="[" line="26" column="86" />
         <mark key="]" line="26" column="82" />
@@ -95,12 +88,12 @@
       <file name="/exhibitree_shows_local.public.layout_files [postgres@localhost]" timestamp="1543868467240">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/config/locales/en.yml" timestamp="1544045743468">
-        <mark key="'" line="308" column="15" />
-        <mark key="[" line="317" column="13" />
-        <mark key="]" line="317" column="43" />
-        <mark key="." line="317" column="43" />
-        <mark key="^" line="317" column="43" />
+      <file name="$USER_HOME$/code/io/io-engage/config/locales/en.yml" timestamp="1544047924930">
+        <mark key="'" line="325" column="15" />
+        <mark key="[" line="305" column="18" />
+        <mark key="]" line="305" column="24" />
+        <mark key="." line="305" column="24" />
+        <mark key="^" line="305" column="24" />
       </file>
       <file name="/exhibitree_shows.public.pins [Exhibitree Cloud]" timestamp="1542323217674">
         <mark key="[" line="0" column="0" />
@@ -773,7 +766,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="283" column="29" filename="$USER_HOME$/code/io/io-engage/app/decorators/items_decorator.rb" />
       <jump line="421" column="31" filename="$USER_HOME$/code/io/io-engage/app/decorators/items_decorator.rb" />
       <jump line="555" column="34" filename="$USER_HOME$/code/io/io-engage/app/decorators/items_decorator.rb" />
       <jump line="567" column="30" filename="$USER_HOME$/code/io/io-engage/app/decorators/items_decorator.rb" />
@@ -849,7 +841,6 @@
       <jump line="40" column="2" filename="$USER_HOME$/code/io/io-engage/config/locales/en.yml" />
       <jump line="102" column="16" filename="$USER_HOME$/code/io/io-engage/config/locales/en.yml" />
       <jump line="340" column="12" filename="$USER_HOME$/code/io/io-engage/config/locales/en.yml" />
-      <jump line="323" column="29" filename="$USER_HOME$/code/io/io-engage/config/locales/en.yml" />
       <jump line="281" column="34" filename="$USER_HOME$/code/io/io-engage/config/locales/en.yml" />
       <jump line="287" column="27" filename="$USER_HOME$/code/io/io-engage/config/locales/en.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/code/io/io-engage/config/locales/en.yml" />
@@ -873,13 +864,15 @@
       <jump line="309" column="25" filename="$USER_HOME$/code/io/io-engage/config/locales/en.yml" />
       <jump line="317" column="23" filename="$USER_HOME$/code/io/io-engage/config/locales/en.yml" />
       <jump line="308" column="15" filename="$USER_HOME$/code/io/io-engage/config/locales/en.yml" />
+      <jump line="323" column="19" filename="$USER_HOME$/code/io/io-engage/config/locales/en.yml" />
+      <jump line="325" column="15" filename="$USER_HOME$/code/io/io-engage/config/locales/en.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>_w</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Grid</text>
+        <text encoding="base64">VmlldyA=</text>
       </register>
       <register name="b" type="4">
         <text>kkjj</text>
@@ -4571,13 +4564,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Grid</text>
+        <text encoding="base64">VmlldyA=</text>
       </register>
       <register name="n" type="4">
         <text />
       </register>
       <register name="/" type="4">
-        <text>Proof Link</text>
+        <text>Show View</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgbmFtZTogJyBTaG93IFBhZ2U6IFBhY2tpbmcgUmVwb3J0cycKICAgIHZpZXdfcHJvb2ZfbGluazoK</text>
@@ -5018,9 +5011,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Proof Link</last-search>
+      <last-search>Show View</last-search>
       <last-offset />
-      <last-pattern>Proof Link</last-pattern>
+      <last-pattern>Show View</last-pattern>
       <last-replace>Visible Item Columns</last-replace>
       <last-substitute>Show Column of Items</last-substitute>
       <last-dir>1</last-dir>
@@ -5028,7 +5021,6 @@
     </search>
     <history>
       <history-search>
-        <entry>View Details</entry>
         <entry>Button</entry>
         <entry>Tab</entry>
         <entry>Group Bu</entry>
@@ -5048,6 +5040,7 @@
         <entry>Customize</entry>
         <entry>Proof LInk</entry>
         <entry>Proof Link</entry>
+        <entry>Show View</entry>
       </history-search>
       <history-cmd>
         <entry>90</entry>
