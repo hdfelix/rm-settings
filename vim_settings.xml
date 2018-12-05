@@ -642,11 +642,12 @@
       <file name="/exhibitree_shows_15.public.items_roles [postgres@localhost]" timestamp="1542306510566">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/spec/features/batch_edit/validations.rb" timestamp="1544032036492">
-        <mark key="[" line="50" column="51" />
-        <mark key="]" line="50" column="51" />
-        <mark key="^" line="50" column="51" />
-        <mark key="." line="50" column="51" />
+      <file name="$USER_HOME$/code/io/io-engage/spec/features/batch_edit/validations.rb" timestamp="1544032774471">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="71" column="4" />
+        <mark key="]" line="86" column="9" />
+        <mark key="." line="71" column="0" />
+        <mark key="^" line="70" column="3" />
       </file>
       <file name="$USER_HOME$/code/io/io-engage/db/migrate/20181204204018_re_create_grid_itemsfor_file_issues_notes.rb" timestamp="1543956041218">
         <mark key="[" line="1" column="12" />
@@ -763,7 +764,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="184" column="8" filename="$USER_HOME$/code/io/io-engage/app/models/workflows/common.rb" />
       <jump line="185" column="39" filename="$USER_HOME$/code/io/io-engage/app/models/workflows/common.rb" />
       <jump line="200" column="41" filename="$USER_HOME$/code/io/io-engage/app/models/workflows/common.rb" />
       <jump line="233" column="8" filename="$USER_HOME$/code/io/io-engage/app/models/workflows/common.rb" />
@@ -863,13 +863,14 @@
       <jump line="26" column="67" filename="$USER_HOME$/code/io/io-engage/app/views/graphics/_batch_form.html.haml" />
       <jump line="15" column="28" filename="$USER_HOME$/code/io/io-engage/app/views/graphics/_batch_form.html.haml" />
       <jump line="50" column="6" filename="$USER_HOME$/code/io/io-engage/app/views/graphics/_batch_form.html.haml" />
+      <jump line="4" column="0" filename="$USER_HOME$/code/io/io-engage/spec/features/batch_edit/validations.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>_w</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>r</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGZlYXR1cmUgJ1dpdGggcGVybWlzc2lvbnMnIGRvCiAgICAgIGJlZm9yZSBkbwogICAgICAgIHZpc2l0IGJhdGNoX2VkaXRfZ3JhcGhpY3NfcGF0aChpdGVtX2lkczogW2l0ZW0xLmlkLCBpdGVtMi5pZF0pCiAgICAgIGVuZAoKICAgICAgc2NlbmFyaW8gJ0NhbiBzZWUgdGhlIFZlbmRvciBEZXRhaWxzIHRhYicgZG8KICAgICAgICBleHBlY3QocGFnZSkudG8gaGF2ZV9jb250ZW50KCdWRU5ET1IgREVUQUlMUycpCiAgICAgIGVuZAoKICAgICAgc2NlbmFyaW8gJ0NhbiBzZWUgdGhlIENvc3QgdGFiJyBkbwogICAgICAgIGV4cGVjdChwYWdlKS50byBoYXZlX2NvbnRlbnQoJ0NPU1QnKQogICAgICBlbmQKCiAgICAgIHNjZW5hcmlvICcgQ2FuIHNlZSB0aGUgUHJpY2luZyB0YWInIGRvCiAgICAgICAgZXhwZWN0KHBhZ2UpLnRvIGhhdmVfY29udGVudCgnUFJJQ0lORycpCiAgICAgIGVuZAo=</text>
       </register>
       <register name="b" type="4">
         <text>kkjj</text>
@@ -4561,7 +4562,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>COST</text>
       </register>
       <register name="n" type="4">
         <text />
@@ -4570,28 +4571,28 @@
         <text>permission</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLSBpZiBjYW4/IFBlcm1pc3Npb24uYWN0aW9ucyg6dmlld192ZW5kb3JfZGV0YWlsc190YWIpLnN5bWJvbCwgOmFsbAo=</text>
+        <text encoding="base64">ICAgIGZlYXR1cmUgJ1dpdGggcGVybWlzc2lvbnMnIGRvCiAgICAgIGJlZm9yZSBkbwogICAgICAgIHZpc2l0IGJhdGNoX2VkaXRfZ3JhcGhpY3NfcGF0aChpdGVtX2lkczogW2l0ZW0xLmlkLCBpdGVtMi5pZF0pCiAgICAgIGVuZAoKICAgICAgc2NlbmFyaW8gJ0NhbiBzZWUgdGhlIFZlbmRvciBEZXRhaWxzIHRhYicgZG8KICAgICAgICBleHBlY3QocGFnZSkudG8gaGF2ZV9jb250ZW50KCdWRU5ET1IgREVUQUlMUycpCiAgICAgIGVuZAoKICAgICAgc2NlbmFyaW8gJ0NhbiBzZWUgdGhlIENvc3QgdGFiJyBkbwogICAgICAgIGV4cGVjdChwYWdlKS50byBoYXZlX2NvbnRlbnQoJ0NPU1QnKQogICAgICBlbmQKCiAgICAgIHNjZW5hcmlvICcgQ2FuIHNlZSB0aGUgUHJpY2luZyB0YWInIGRvCiAgICAgICAgZXhwZWN0KHBhZ2UpLnRvIGhhdmVfY29udGVudCgnUFJJQ0lORycpCiAgICAgIGVuZAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC0gYmluZGluZy5wcnkK</text>
+        <text encoding="base64">ICAgICAgbGV0ISg6cGVybWlzc2lvbl92ZW5kb3JfZGV0YWlscykgeyBjcmVhdGUoOnBlcm1pc3Npb24sIDphbGxvdywgOmFsbCwgOnZpZXdfdmVuZG9yX2RldGFpbHNfdGFiKSB9CiAgICAgIGxldCEoOnBlcm1pc3Npb25fY29zdCkgeyBjcmVhdGUoOnBlcm1pc3Npb24sIDphbGxvdywgOmFsbCwgOnZpZXdfY29zdCkgfQogICAgICBsZXQhKDpwZXJtaXNzaW9uX3ByaWNpbmcpIHsgY3JlYXRlKDpwZXJtaXNzaW9uLCA6YWxsb3csIDphbGwsIDp2aWV3X3ByaWNpbnQpIH0KCg==</text>
       </register>
       <register name="q" type="4">
         <text>jdd</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLSBpZiBjYW4/IFBlcm1pc3Npb24uYWN0aW9ucyg6aXRlbV9kZXRhaWxzKS5zeW1ib2wsIDphbGwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLSBpZiBjYW4/IFBlcm1pc3Npb24uYWN0aW9ucyg6dmlld192ZW5kb3JfZGV0YWlsc190YWIpLnN5bWJvbCwgOmFsbAo=</text>
+        <text encoding="base64">ICAgICAgICB2aXNpdF8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC0gYmluZGluZy5wcnkK</text>
       </register>
       <register name="t" type="4">
         <text>jdd</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJWF7IGhyZWY6ICcjaXRlbV9kZXRhaWxzJywgZGF0YTogeyB0b2dnbGU6ICd0YWInIH0gfQogICAgICAgICAgICAgID0gdCgnZ3JhcGhpY3MudGFicy5pdGVtX2RldGFpbHMnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLSBpZiBjYW4/IFBlcm1pc3Npb24uYWN0aW9ucyg6aXRlbV9kZXRhaWxzKS5zeW1ib2wsIDphbGwK</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -4992,16 +4993,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAlYXsgaHJlZjogJyNmaWxlcycsIGRhdGE6IHsgdG9nZ2xlOiAndGFiJyB9IH0KICAgICAgICAgICAgICAgID0gdCgnZ3JhcGhpY3MudGFicy5maWxlcycpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLSBpZiBjYW4/IFBlcm1pc3Npb24uYWN0aW9ucyg6dmlld192ZW5kb3JfZGV0YWlsc190YWIpLnN5bWJvbCwgOmFsbAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJWF7IGhyZWY6ICcjcHJpY2luZycsIGRhdGE6IHsgdG9nZ2xlOiAndGFiJyB9IH0KICAgICAgICAgICAgICA9IHQoJ2dyYXBoaWNzLnRhYnMucHJpY2luZycpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJWF7IGhyZWY6ICcjY29zdCcsIGRhdGE6IHsgdG9nZ2xlOiAndGFiJyB9IH0KICAgICAgICAgICAgICA9IHQoJ2dyYXBoaWNzLnRhYnMuY29zdCcpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJWF7IGhyZWY6ICcjaXRlbV9kZXRhaWxzJywgZGF0YTogeyB0b2dnbGU6ICd0YWInIH0gfQogICAgICAgICAgICAgID0gdCgnZ3JhcGhpY3MudGFicy5pdGVtX2RldGFpbHMnKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLSMlYXsgaHJlZjogJyN2ZW5kb3JfZGV0YWlscycsIGRhdGE6IHsgdG9nZ2xlOiAndGFiJyB9IH0KICAgICAgICAgICAgLSMgID0gdCgnZ3JhcGhpY3MudGFicy52ZW5kb3JfZGV0YWlscycpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAlYXsgaHJlZjogJyNmaWxlcycsIGRhdGE6IHsgdG9nZ2xlOiAndGFiJyB9IH0KICAgICAgICAgICAgICAgID0gdCgnZ3JhcGhpY3MudGFicy5maWxlcycpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
