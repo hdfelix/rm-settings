@@ -38,6 +38,12 @@
       <file name="/exhibitree_shows.public.vendor_rushes [postgres@localhost]" timestamp="1542160252785">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/io/io-engage/app/views/graphics/_batch_form.html.haml" timestamp="1544031259157">
+        <mark key="'" line="50" column="6" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/code/io/sop/io-engage-event/scripts/slugs_and_thumbs_scripts.rb" timestamp="1543453045738" />
       <file name="$USER_HOME$/code/io/io_engage_configuration/instances/preferred/shared/app/models/workflows/preferred.rb" timestamp="1542590634337">
         <mark key="[" line="26" column="86" />
@@ -161,6 +167,12 @@
         <mark key="." line="3" column="36" />
         <mark key="^" line="3" column="36" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1543890764326">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="/hfelix_development.public.proof_urls [hfelix_development@localhost]" timestamp="1542072466469">
         <mark key="[" line="0" column="0" />
       </file>
@@ -202,11 +214,8 @@
       <file name="/exhibitree_shows.public.clients [postgres@localhost]" timestamp="1542243397813">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/app/views/graphics/_form.html.haml" timestamp="1543961548542">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
+      <file name="$USER_HOME$/code/io/io-engage/app/views/graphics/_form.html.haml" timestamp="1544030981342">
         <mark key="^" line="16" column="1" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="/exhibitree_shows.public.version_associations [Exhibitree Cloud]" timestamp="1542228193578">
         <mark key="[" line="0" column="0" />
@@ -752,9 +761,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="306" column="8" filename="$USER_HOME$/code/io/io-engage/app/models/workflows/common.rb" />
-      <jump line="96" column="15" filename="$USER_HOME$/code/io/io-engage/app/models/workflows/common.rb" />
-      <jump line="106" column="11" filename="$USER_HOME$/code/io/io-engage/app/models/workflows/common.rb" />
       <jump line="184" column="8" filename="$USER_HOME$/code/io/io-engage/app/models/workflows/common.rb" />
       <jump line="185" column="39" filename="$USER_HOME$/code/io/io-engage/app/models/workflows/common.rb" />
       <jump line="200" column="41" filename="$USER_HOME$/code/io/io-engage/app/models/workflows/common.rb" />
@@ -852,13 +858,16 @@
       <jump line="257" column="8" filename="$USER_HOME$/code/io/io-engage/config/locales/en.yml" />
       <jump line="516" column="20" filename="$USER_HOME$/code/io/io-engage/config/locales/en.yml" />
       <jump line="5" column="0" filename="$USER_HOME$/code/io/io-engage/config/locales/en.yml" />
+      <jump line="26" column="67" filename="$USER_HOME$/code/io/io-engage/app/views/graphics/_batch_form.html.haml" />
+      <jump line="15" column="28" filename="$USER_HOME$/code/io/io-engage/app/views/graphics/_batch_form.html.haml" />
+      <jump line="50" column="6" filename="$USER_HOME$/code/io/io-engage/app/views/graphics/_batch_form.html.haml" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>_w</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>eviewer</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIC0gYmluZGluZy5wcnkK</text>
       </register>
       <register name="b" type="4">
         <text>kkjj</text>
@@ -4550,7 +4559,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>eviewer</text>
+        <text>r</text>
       </register>
       <register name="n" type="4">
         <text />
@@ -4559,28 +4568,28 @@
         <text>permission</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VyX25hbWVfZm9yX3JvbGVfY2xpZW50X3Jldmlld2VyOiAnQ2xpZW50IFJldmlld2VyJwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLSBpZiBjYW4/IFBlcm1pc3Npb24uYWN0aW9ucyg6dmlld192ZW5kb3JfZGV0YWlsc190YWIpLnN5bWJvbCwgOmFsbAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB3b3JrYmFja19zY2hlZHVsZV9kYXRlX2Zvcl9zdGF0ZV9vdXRfZm9yX2V4aGliaXRyZWVfYXBwcm92YWw6ICdXUzogT3V0IGZvciBFeGhpYml0cmVlIEFwcHJvdmFsJwo=</text>
+        <text encoding="base64">ICAgIC0gYmluZGluZy5wcnkK</text>
       </register>
       <register name="q" type="4">
         <text>jdd</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB1c2VyczoKICAgIGdyaWRfc2V0dXA6CiAgICAgIGNsb25lOiAnQ2xvbmUgRmllbGQgU2V0JwogICAgICBkZWxldGVfZmllbGRfc2V0OiAnRGVsZXRlIEZpZWxkIFNldCcKICAgICAgbmV3X2ZpZWxkX3NldDogJ05ldyBGaWVsZCBTZXQnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLSBpZiBjYW4/IFBlcm1pc3Npb24uYWN0aW9ucyg6aXRlbV9kZXRhaWxzKS5zeW1ib2wsIDphbGwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PT09PT09PQo+Pj4+Pj4+IFNJRS01MDUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLSBpZiBjYW4/IFBlcm1pc3Npb24uYWN0aW9ucyg6dmlld192ZW5kb3JfZGV0YWlsc190YWIpLnN5bWJvbCwgOmFsbAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <text>jdd</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VyX25hbWVfZm9yX3JvbGVfZmlsZV9sZWdhY3lfZ3JhcGhpY19sZWFkOiAnRmlsZSAKICAgICAgICB1c2VyX25hbWVfZm9yX3JvbGVfZ3BqX3BpbGxhcjogJ0dQSiBQaWxsYXInCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJWF7IGhyZWY6ICcjaXRlbV9kZXRhaWxzJywgZGF0YTogeyB0b2dnbGU6ICd0YWInIH0gfQogICAgICAgICAgICAgID0gdCgnZ3JhcGhpY3MudGFicy5pdGVtX2RldGFpbHMnKQo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -4981,16 +4990,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VyX25hbWVfZm9yX3JvbGVfY2xpZW50X2FwcHJvdmVyOiAnQ2xpZW50IEFwcHJvdmVyJwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAlYXsgaHJlZjogJyNmaWxlcycsIGRhdGE6IHsgdG9nZ2xlOiAndGFiJyB9IH0KICAgICAgICAgICAgICAgID0gdCgnZ3JhcGhpY3MudGFicy5maWxlcycpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJWF7IGhyZWY6ICcjcHJpY2luZycsIGRhdGE6IHsgdG9nZ2xlOiAndGFiJyB9IH0KICAgICAgICAgICAgICA9IHQoJ2dyYXBoaWNzLnRhYnMucHJpY2luZycpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJWF7IGhyZWY6ICcjY29zdCcsIGRhdGE6IHsgdG9nZ2xlOiAndGFiJyB9IH0KICAgICAgICAgICAgICA9IHQoJ2dyYXBoaWNzLnRhYnMuY29zdCcpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLSMlYXsgaHJlZjogJyN2ZW5kb3JfZGV0YWlscycsIGRhdGE6IHsgdG9nZ2xlOiAndGFiJyB9IH0KICAgICAgICAgICAgLSMgID0gdCgnZ3JhcGhpY3MudGFicy52ZW5kb3JfZGV0YWlscycpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
