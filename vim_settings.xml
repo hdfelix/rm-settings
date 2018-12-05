@@ -47,6 +47,13 @@
       <file name="/exhibitree_shows_local.public.rushes_zones [postgres@localhost]" timestamp="1543889984590">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/io/io-engage/scripts/update_file_links.rb" timestamp="1544051130127">
+        <mark key="'" line="76" column="0" />
+        <mark key="[" line="47" column="30" />
+        <mark key="]" line="47" column="34" />
+        <mark key="." line="47" column="34" />
+        <mark key="^" line="47" column="34" />
+      </file>
       <file name="/exhibitree_shows.public.zone_brands [Exhibitree Cloud]" timestamp="1542323639709">
         <mark key="[" line="0" column="0" />
       </file>
@@ -213,7 +220,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/exhibitree_shows_local.public.layout_files [postgres@localhost]" timestamp="1543868467240">
+      <file name="/exhibitree_shows_local.public.layout_files [postgres@localhost]" timestamp="1544051162193">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/io/io-engage/config/locales/en.yml" timestamp="1544048464139">
@@ -295,12 +302,12 @@
       <file name="/exhibitree_shows.public.clients_users [Exhibitree Cloud]" timestamp="1542301962500">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/scripts/update_layout_files.rb" timestamp="1543872095716">
-        <mark key="'" line="97" column="48" />
-        <mark key="[" line="97" column="47" />
-        <mark key="]" line="97" column="47" />
-        <mark key="^" line="97" column="47" />
-        <mark key="." line="97" column="47" />
+      <file name="$USER_HOME$/code/io/io-engage/scripts/update_layout_files.rb" timestamp="1544050505605">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="5" column="17" />
+        <mark key="]" line="5" column="20" />
+        <mark key="^" line="5" column="20" />
+        <mark key="." line="5" column="20" />
       </file>
       <file name="/exhibitree_shows.public.items [Exhibitree Cloud]" timestamp="1543887414051">
         <mark key="[" line="0" column="0" />
@@ -650,7 +657,7 @@
       <file name="/exhibitree_shows.public.milestones [postgres@localhost]" timestamp="1542143723203">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1544050224414">
+      <file name="/dummy.sql" timestamp="1544051162355">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
@@ -767,13 +774,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="567" column="30" filename="$USER_HOME$/code/io/io-engage/app/decorators/items_decorator.rb" />
-      <jump line="579" column="33" filename="$USER_HOME$/code/io/io-engage/app/decorators/items_decorator.rb" />
-      <jump line="591" column="51" filename="$USER_HOME$/code/io/io-engage/app/decorators/items_decorator.rb" />
-      <jump line="615" column="33" filename="$USER_HOME$/code/io/io-engage/app/decorators/items_decorator.rb" />
-      <jump line="627" column="33" filename="$USER_HOME$/code/io/io-engage/app/decorators/items_decorator.rb" />
-      <jump line="639" column="32" filename="$USER_HOME$/code/io/io-engage/app/decorators/items_decorator.rb" />
-      <jump line="650" column="53" filename="$USER_HOME$/code/io/io-engage/app/decorators/items_decorator.rb" />
       <jump line="668" column="22" filename="$USER_HOME$/code/io/io-engage/app/decorators/items_decorator.rb" />
       <jump line="708" column="41" filename="$USER_HOME$/code/io/io-engage/app/decorators/items_decorator.rb" />
       <jump line="720" column="44" filename="$USER_HOME$/code/io/io-engage/app/decorators/items_decorator.rb" />
@@ -867,13 +867,20 @@
       <jump line="313" column="0" filename="$USER_HOME$/code/io/io-engage/config/locales/en.yml" />
       <jump line="2" column="0" filename="$USER_HOME$/code/io/io-engage/config/locales/en.yml" />
       <jump line="308" column="0" filename="$USER_HOME$/code/io/io-engage/config/locales/en.yml" />
+      <jump line="10" column="0" filename="$USER_HOME$/code/io/io-engage/scripts/update_layout_files.rb" />
+      <jump line="13" column="38" filename="$USER_HOME$/code/io/io-engage/scripts/update_file_links.rb" />
+      <jump line="72" column="0" filename="$USER_HOME$/code/io/io-engage/scripts/update_file_links.rb" />
+      <jump line="83" column="37" filename="$USER_HOME$/code/io/io-engage/scripts/update_file_links.rb" />
+      <jump line="98" column="56" filename="$USER_HOME$/code/io/io-engage/scripts/update_file_links.rb" />
+      <jump line="99" column="18" filename="$USER_HOME$/code/io/io-engage/scripts/update_file_links.rb" />
+      <jump line="75" column="0" filename="$USER_HOME$/code/io/io-engage/scripts/update_file_links.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>_w</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="4">
         <text>kkjj</text>
@@ -4565,37 +4572,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">VmlldyA=</text>
+        <text>, :attachment_key</text>
       </register>
       <register name="n" type="4">
         <text />
       </register>
       <register name="/" type="4">
-        <text>Vendor Details</text>
+        <text>index</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgbmFtZTogJyBTaG93IFBhZ2U6IFBhY2tpbmcgUmVwb3J0cycKICAgIHZpZXdfcHJvb2ZfbGluazoK</text>
+        <text encoding="base64">ICAgIG1hdGNoX2RhdGEgPSBsYXlvdXRfZmlsZS5maWxlLm1hdGNoKC8oKC4qKV92XGQpLnBkZi8pIGlmIGxheW91dF9maWxlJi5maWxlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>jdd</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCiAgICAgIG5hbWU6ICdTaG93IFVwbG9hZCBDb21wb3NpdGlvbiBCdXR0b24gRmlsZSBvbiBJdGVtIG9yIEJhdGNoIEl0ZW0nCiAgICB1cGxvYWRfZmlsZToKICAgICAgbmFtZTogJ0NvbnRyb2wgVXBsb2FkIEFueSBGaWxlIG9uIEl0ZW0gb3IgQmF0Y2ggSXRlbScKICAgIHVwbG9hZF9maWxlX2luZGV4OgogICAgICBuYW1lOiAnQ29udHJvbCBMaXN0aW5nIGZvciBCYXRjaCBVcGxvYWQnCiAgICB2aWV3X3ZlbmRvcl9kZXRhaWxzX3RhYjoKICAgICAgbmFtZTogJ1Nob3cgVmVuZG9yIERldGFpbHMgVGFiJwogICAgdmlld19hZGRfb25fdGFiOgogICAgICBuYW1lOiAnU2hvdyBBZGQtT24gVGFiJwo9PT09PT09Cg==</text>
+        <text encoding="base64">ICAgIHNldF9maWxlX2F0dHJpYnV0ZXMobGF5b3V0X2ZpbGUpCgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzCg==</text>
+        <text encoding="base64">ICAgICAgYXR0YWNobWVudC5rZXkgPSBAdHRhY2htZW50X2tleQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGFkZF9pdGVtOgogICAgICBuYW1lOiAnU2hvdyBCdXR0b246IEFkZCBJdGVtJwogICAgYWRkX2dyYXBoaWNfcmVxdWVzdDoKICAgICAgbmFtZTogJ1Nob3cgQnV0dG9uOiBBZGQgR3JhcGhpYyBSZXF1ZXN0JwogICAgYmF0Y2hfZWRpdDoKICAgICAgbmFtZTogJ1Nob3cgQnV0dG9uOiBCYXRjaCBFZGl0JwogICAgYmF0Y2hfdXBsb2FkOgogICAgICBuYW1lOiAnU2hvdyBCdXR0b246IEJhdGNoIFVwbG9hZCcKICAgIGNsb25lOgogICAgICBuYW1lOiAnU2hvdyBCdXR0b246IENsb25lJwogICAgY29weToKICAgICAgbmFtZTogJ1Nob3cgQnV0dG9uOiBDb3B5JwogICAgZG93bmxvYWRfc2x1Z19wZGY6CiAgICAgIG5hbWU6ICdTaG93IEJ1dHRvbjogRG93bmxvYWQgU2x1ZyBQZGYnCiAgICBnZW5lcmF0ZV9zbHVnX3JlcG9ydDoKICAgICAgbmFtZTogJ1Nob3cgQnV0dG9uOiBHZW5lcmF0ZSBTbHVnIFJlcG9ydChJdGVtLCBCYXRjaEdyYXBoaWMpJwogICAgZ3JvdXA6CiAgICAgIG5hbWU6ICdTaG93IEJ1dHRvbjogR3JvdXAnCiAgICB2aWV3X29uc2l0ZV9zcGVjaWFsaXN0OgogICAgICBuYW1lOiAnU2hvdyBCdXR0b246IE9uc2l0ZSBTcGVjaWFsaXN0JwogICAgc2hvd19yZWZyZXNoX2J1dHRvbjoKICAgICAgbmFtZTogJ1Nob3cgQnV0dG9uOiBSZWZyZXNoJwogICAgcmVwcm9kdWNlOgogICAgICBuYW1lOiAnU2hvdyBCdXR0b246IFJlcHJvZHVjZScKICAgIHVwbG9hZF9jb21wb3NpdGlvbl9maWxlOgogICAgICBuYW1lOiAnU2hvdyBCdXR0b246IFVwbG9hZCBDb21wb3NpdGlvbiBGaWxlIChJdGVtLCBCYXRjaCBJdGVtKScK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="t" type="4">
         <text>jdd</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGFkZF9pdGVtOgogICAgICBuYW1lOiAnU2hvdyBCdXR0b246IEFkZCBJdGVtJwogICAgYWRkX2dyYXBoaWNfcmVxdWVzdDoKICAgICAgbmFtZTogJ1Nob3cgQnV0dG9uOiBBZGQgR3JhcGhpYyBSZXF1ZXN0Jwo=</text>
+        <text encoding="base64">ICAgIEBhdHRhY2htZW50X2tleSA9ICIje0BiYXNlfS8iCg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -4996,25 +5003,25 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGFkZF9pdGVtOgogICAgICBuYW1lOiAnU2hvdyBCdXR0b246IEFkZCBJdGVtJwogICAgYWRkX2dyYXBoaWNfcmVxdWVzdDoKICAgICAgbmFtZTogJ1Nob3cgQnV0dG9uOiBBZGQgR3JhcGhpYyBSZXF1ZXN0JwogICAgdmlld19vbnNpdGVfc3BlY2lhbGlzdDoKICAgICAgbmFtZTogJ1Nob3cgQnV0dG9uOiBPbnNpdGUgU3BlY2lhbGlzdCcKICAgIHNob3dfcmVmcmVzaF9idXR0b246CiAgICAgIG5hbWU6ICdTaG93IEJ1dHRvbjogUmVmcmVzaCcKICAgIHJlcHJvZHVjZToKICAgICAgbmFtZTogJ1Nob3cgQnV0dG9uOiBSZXByb2R1Y2UnCiAgICB1cGxvYWRfY29tcG9zaXRpb25fZmlsZToKICAgICAgbmFtZTogJ1Nob3cgQnV0dG9uOiBVcGxvYWQgQ29tcG9zaXRpb24gRmlsZSAoSXRlbSwgQmF0Y2ggSXRlbSknCg==</text>
+        <text encoding="base64">ICAgIEBpdGVtc19wcm9jZXNzZWQgKz0gMQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZpZXdfb25zaXRlX3NwZWNpYWxpc3Q6CiAgICAgIG5hbWU6ICdTaG93IEJ1dHRvbjogT25zaXRlIFNwZWNpYWxpc3QnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJlYWQ6CiAgICAgIG5hbWU6ICdDb250cm9sIFJlYWQgT2JqZWN0Jwo=</text>
+        <text encoding="base64">ICAgIEBhdHRhY2htZW50X2tleSA9ICIje0BiYXNlfS8iCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHVwZGF0ZToKICAgICAgbmFtZTogJ0NvbnRyb2wgVXBkYXRlIE9iamVjdCcKICAgIHVwbG9hZF9maWxlOgogICAgICBuYW1lOiAnQ29udHJvbCBVcGxvYWQgQW55IEZpbGUgb24gSXRlbSBvciBCYXRjaCBJdGVtJwogICAgdXBsb2FkX2ZpbGVfaW5kZXg6CiAgICAgIG5hbWU6ICdDb250cm9sIExpc3RpbmcgZm9yIEJhdGNoIFVwbG9hZCcK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Vendor Details</last-search>
+      <last-search>index</last-search>
       <last-offset />
-      <last-pattern>Vendor Details</last-pattern>
+      <last-pattern>index</last-pattern>
       <last-replace>Visible Item Columns</last-replace>
       <last-substitute>Show Column of Items</last-substitute>
       <last-dir>1</last-dir>
@@ -5022,7 +5029,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Show Button</entry>
         <entry>Generate Slug</entry>
         <entry>priority</entry>
         <entry>Nav link</entry>
@@ -5042,6 +5048,7 @@
         <entry encoding="base64">Pj4+</entry>
         <entry encoding="base64">PDw8</entry>
         <entry>Vendor Details</entry>
+        <entry>index</entry>
       </history-search>
       <history-cmd>
         <entry>90</entry>
