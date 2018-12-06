@@ -609,8 +609,8 @@
         <mark key="^" line="107" column="64" />
         <mark key="." line="107" column="37" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1544071995719">
-        <mark key="[" line="0" column="36" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1544119021970">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="36" />
         <mark key="." line="0" column="36" />
       </file>
