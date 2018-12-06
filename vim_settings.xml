@@ -47,12 +47,11 @@
       <file name="/exhibitree_shows_local.public.rushes_zones [postgres@localhost]" timestamp="1543889984590">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/scripts/update_file_links.rb" timestamp="1544086238349">
-        <mark key="'" line="83" column="6" />
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="88" column="85" />
-        <mark key="^" line="88" column="76" />
-        <mark key="." line="88" column="85" />
+      <file name="$USER_HOME$/code/io/io-engage/scripts/update_file_links.rb" timestamp="1544089717646">
+        <mark key="'" line="55" column="10" />
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="77" column="0" />
+        <mark key="." line="77" column="0" />
       </file>
       <file name="/exhibitree_shows.public.zone_brands [Exhibitree Cloud]" timestamp="1542323639709">
         <mark key="[" line="0" column="0" />
@@ -458,7 +457,7 @@
         <mark key="^" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/18f2ac5a-39af-4578-8854-03936b72b2d2/SIE-512-console-e-shows-local.sql" timestamp="1544086995169">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/18f2ac5a-39af-4578-8854-03936b72b2d2/SIE-512-console-e-shows-local.sql" timestamp="1544089814361">
         <mark key="'" line="7" column="19" />
         <mark key="[" line="5" column="29" />
         <mark key="]" line="5" column="59" />
@@ -630,7 +629,7 @@
       <file name="/exhibitree_shows_local.public.attachments [postgres@localhost]" timestamp="1544068218824">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/shows/config/database.yml" timestamp="1544082352126" />
+      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/shows/config/database.yml" timestamp="1544090624060" />
       <file name="/exhibitree_shows.public.proof_reader_approvers [postgres@localhost]" timestamp="1542143544886">
         <mark key="[" line="0" column="0" />
       </file>
@@ -784,14 +783,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="149" column="2" filename="$USER_HOME$/code/io/io-engage/spec/features/items/edit_form_spec.rb" />
-      <jump line="245" column="11" filename="$USER_HOME$/code/io/io-engage/config/locales/en.yml" />
-      <jump line="596" column="52" filename="$USER_HOME$/code/io/io-engage/config/locales/en.yml" />
-      <jump line="476" column="36" filename="$USER_HOME$/code/io/io-engage/config/locales/en.yml" />
-      <jump line="499" column="18" filename="$USER_HOME$/code/io/io-engage/config/locales/en.yml" />
-      <jump line="500" column="18" filename="$USER_HOME$/code/io/io-engage/config/locales/en.yml" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/io/io-engage/db/structure.sql" />
-      <jump line="3225" column="0" filename="$USER_HOME$/code/io/io-engage/db/structure.sql" />
       <jump line="3250" column="0" filename="$USER_HOME$/code/io/io-engage/db/structure.sql" />
       <jump line="480" column="49" filename="$USER_HOME$/code/io/io-engage/config/locales/en.yml" />
       <jump line="79" column="8" filename="$USER_HOME$/code/io/io-engage/config/locales/en.yml" />
@@ -860,10 +851,8 @@
       <jump line="10" column="0" filename="$USER_HOME$/code/io/io-engage/scripts/update_layout_files.rb" />
       <jump line="13" column="38" filename="$USER_HOME$/code/io/io-engage/scripts/update_file_links.rb" />
       <jump line="72" column="0" filename="$USER_HOME$/code/io/io-engage/scripts/update_file_links.rb" />
-      <jump line="83" column="37" filename="$USER_HOME$/code/io/io-engage/scripts/update_file_links.rb" />
       <jump line="99" column="18" filename="$USER_HOME$/code/io/io-engage/scripts/update_file_links.rb" />
       <jump line="75" column="0" filename="$USER_HOME$/code/io/io-engage/scripts/update_file_links.rb" />
-      <jump line="113" column="18" filename="$USER_HOME$/code/io/io-engage/scripts/update_file_links.rb" />
       <jump line="124" column="0" filename="$USER_HOME$/code/io/io-engage/scripts/update_file_links.rb" />
       <jump line="98" column="26" filename="$USER_HOME$/code/io/io-engage/scripts/update_file_links.rb" />
       <jump line="9" column="13" filename="$USER_HOME$/code/io/io-engage/scripts/update_file_links.rb" />
@@ -884,13 +873,23 @@
       <jump line="94" column="23" filename="$USER_HOME$/code/io/io-engage/scripts/update_file_links.rb" />
       <jump line="95" column="25" filename="$USER_HOME$/code/io/io-engage/scripts/update_file_links.rb" />
       <jump line="90" column="6" filename="$USER_HOME$/code/io/io-engage/scripts/update_file_links.rb" />
+      <jump line="114" column="4" filename="$USER_HOME$/code/io/io-engage/scripts/update_file_links.rb" />
+      <jump line="128" column="8" filename="$USER_HOME$/code/io/io-engage/scripts/update_file_links.rb" />
+      <jump line="68" column="4" filename="$USER_HOME$/code/io/io-engage/scripts/update_file_links.rb" />
+      <jump line="86" column="6" filename="$USER_HOME$/code/io/io-engage/scripts/update_file_links.rb" />
+      <jump line="113" column="6" filename="$USER_HOME$/code/io/io-engage/scripts/update_file_links.rb" />
+      <jump line="83" column="6" filename="$USER_HOME$/code/io/io-engage/scripts/update_file_links.rb" />
+      <jump line="53" column="25" filename="$USER_HOME$/code/io/io-engage/scripts/update_file_links.rb" />
+      <jump line="87" column="0" filename="$USER_HOME$/code/io/io-engage/scripts/update_file_links.rb" />
+      <jump line="84" column="6" filename="$USER_HOME$/code/io/io-engage/scripts/update_file_links.rb" />
+      <jump line="55" column="10" filename="$USER_HOME$/code/io/io-engage/scripts/update_file_links.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>_w</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>c</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5IGlmIEBjdXJyZW50X2l0ZW0uaWQgPT0gMTE1NAo=</text>
       </register>
       <register name="b" type="4">
         <text>kkjj</text>
@@ -4582,37 +4581,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>c</text>
+        <text>.</text>
       </register>
       <register name="n" type="4">
         <text />
       </register>
       <register name="/" type="4">
-        <text>set_file_attributes</text>
+        <text>file_attributes</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIHVwZGF0ZV9hdHRhY2htZW50c19mb3IoaXRlbSkK</text>
+        <text encoding="base64">ICAgICAgbGF5b3V0X2ZpbGUuZmlsZS5tYXRjaCglci8oaXRlbV9maWxlcyl7LDF9KFwvKXssMX0oXHd7M30tXGR7NCw1fS1cZHs0fVtjcl17MCwxfVxkezAsMX0peywxfShcLyl7LDF9KGxheW91dF9maWxlcyl7LDF9KFwvKXssMX0oKCguKikoX3ZcZHsxfVxkezAsMX0pKSguKikpLykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgYmluZGluZy5wcnkK</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5IGlmIEBjdXJyZW50X2l0ZW0uaWQgPT0gMTE1NAo=</text>
       </register>
       <register name="q" type="4">
         <text>jdd</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5IGlmIFsxMTE0LDExNTMsIDE4NDEsIDExNjIsIDExNjFdLmluY2x1ZGU/IGxheW91dF9maWxlLml0ZW1faWQK</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5IGlmIGxheW91dF9maWxlLml0ZW0uaWQgPT0gMTExMAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5IGlmIFsxMTE0LDExNTMsIDE4NDEsIDExNjIsIDExNjFdLmluY2x1ZGU/IGxheW91dF9maWxlLml0ZW1faWQK</text>
+        <text encoding="base64">ICAgICMgYmluZGluZy5wcnkgaWYgbGF5b3V0X2ZpbGUuaXRlbV9pZCA9PSAxMTU1Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmluZGluZy5wcnkK</text>
+        <text encoding="base64">ICAgICAgQGl0ZW1fbnVtYmVyID0gbWF0Y2hfZGF0YVszXQo=</text>
       </register>
       <register name="t" type="4">
         <text>jdd</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5IGlmIFsxMTE0LDExNTMsIDE4NDEsIDExNjIsIDExNjFdLmluY2x1ZGU/IGF0dGFjaG1lbnQuaXRlbV9pZAo=</text>
+        <text encoding="base64">ICAgICAgQGl0ZW1fbnVtYmVyID0gbWF0Y2hfZGF0YVszXQo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -5013,36 +5012,32 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGJpbmRpbmcucHJ5Cg==</text>
+        <text encoding="base64">ICAgICAgQGJhc2UgPSAiaXRlbV9maWxlcy8je0BpdGVtX251bWJlcn0iCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgQGJhc2UgPSAiaXRlbV9maWxlcy8je0BpdGVtX251bWJlcn0iCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBmYWxzZSBpZiBsYXlvdXRfZmlsZSYuZmlsZS5uaWw/Cg==</text>
+        <text encoding="base64">ICAgICAgQGZpbGUgPSAiI3tAYmFzZX0vbGF5b3V0X2ZpbGVzLyN7QGZpbGVuYW1lfS5wZGYiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgQGZpbGUgPSAiI3tAYmFzZX0vbGF5b3V0X2ZpbGVzLyN7QGZpbGVuYW1lfS5wZGYiCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>set_file_attributes</last-search>
+      <last-search>file_attributes</last-search>
       <last-offset />
-      <last-pattern>set_file_attributes</last-pattern>
-      <last-replace>Visible Item Columns</last-replace>
-      <last-substitute>Show Column of Items</last-substitute>
+      <last-pattern>file_attributes</last-pattern>
+      <last-replace>file_attributes</last-replace>
+      <last-substitute>set_file_attributes</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">Q29udHJvbCA=</entry>
-        <entry>Show Column of Items</entry>
-        <entry>Show Column of</entry>
-        <entry>Visible</entry>
         <entry>Custom Grid</entry>
         <entry>Customize</entry>
         <entry>Proof LInk</entry>
@@ -5058,10 +5053,13 @@
         <entry>binding.pry</entry>
         <entry>attachments</entry>
         <entry>base</entry>
+        <entry>binding</entry>
         <entry>set_file_attributes</entry>
+        <entry>1155</entry>
+        <entry>1154</entry>
+        <entry>file_attributes</entry>
       </history-search>
       <history-cmd>
-        <entry>90</entry>
         <entry>81</entry>
         <entry>'</entry>
         <entry>20</entry>
@@ -5080,6 +5078,7 @@
         <entry>%s:Control ::c</entry>
         <entry>%s:Show Column of Items:Visible Item Columns:c</entry>
         <entry>q</entry>
+        <entry>%s:set_file_attributes:file_attributes:c</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
