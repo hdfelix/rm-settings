@@ -47,12 +47,12 @@
       <file name="/exhibitree_shows_local.public.rushes_zones [postgres@localhost]" timestamp="1543889984590">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/scripts/update_file_links.rb" timestamp="1544066795190">
-        <mark key="'" line="18" column="28" />
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="0" />
-        <mark key="." line="78" column="0" />
-        <mark key="^" line="84" column="31" />
+      <file name="$USER_HOME$/code/io/io-engage/scripts/update_file_links.rb" timestamp="1544079797050">
+        <mark key="'" line="95" column="25" />
+        <mark key="[" line="122" column="36" />
+        <mark key="]" line="123" column="16" />
+        <mark key="." line="123" column="16" />
+        <mark key="^" line="123" column="16" />
       </file>
       <file name="/exhibitree_shows.public.zone_brands [Exhibitree Cloud]" timestamp="1542323639709">
         <mark key="[" line="0" column="0" />
@@ -630,6 +630,7 @@
       <file name="/exhibitree_shows_local.public.attachments [postgres@localhost]" timestamp="1544068218824">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/shows/config/database.yml" timestamp="1544080170199" />
       <file name="/exhibitree_shows.public.proof_reader_approvers [postgres@localhost]" timestamp="1542143544886">
         <mark key="[" line="0" column="0" />
       </file>
@@ -783,9 +784,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="38" filename="$USER_HOME$/code/io/io-engage/spec/scripts/update_layout_files.rb" />
-      <jump line="3" column="0" filename="$USER_HOME$/code/io/io-engage/spec/scripts/update_layout_files.rb" />
-      <jump line="83" column="18" filename="$USER_HOME$/code/io/io-engage/spec/features/items/edit_form_spec.rb" />
       <jump line="79" column="39" filename="$USER_HOME$/code/io/io-engage/spec/features/items/edit_form_spec.rb" />
       <jump line="149" column="2" filename="$USER_HOME$/code/io/io-engage/spec/features/items/edit_form_spec.rb" />
       <jump line="245" column="11" filename="$USER_HOME$/code/io/io-engage/config/locales/en.yml" />
@@ -872,17 +870,20 @@
       <jump line="9" column="13" filename="$USER_HOME$/code/io/io-engage/scripts/update_file_links.rb" />
       <jump line="89" column="7" filename="$USER_HOME$/code/io/io-engage/scripts/update_file_links.rb" />
       <jump line="79" column="6" filename="$USER_HOME$/code/io/io-engage/scripts/update_file_links.rb" />
-      <jump line="94" column="6" filename="$USER_HOME$/code/io/io-engage/scripts/update_file_links.rb" />
       <jump line="110" column="7" filename="$USER_HOME$/code/io/io-engage/scripts/update_file_links.rb" />
       <jump line="0" column="60" filename="$USER_HOME$/code/io/io-engage/scripts/update_file_links.rb" />
       <jump line="57" column="17" filename="$USER_HOME$/code/io/io-engage/scripts/update_file_links.rb" />
       <jump line="58" column="24" filename="$USER_HOME$/code/io/io-engage/scripts/update_file_links.rb" />
       <jump line="67" column="4" filename="$USER_HOME$/code/io/io-engage/scripts/update_file_links.rb" />
-      <jump line="78" column="6" filename="$USER_HOME$/code/io/io-engage/scripts/update_file_links.rb" />
-      <jump line="95" column="4" filename="$USER_HOME$/code/io/io-engage/scripts/update_file_links.rb" />
       <jump line="18" column="28" filename="$USER_HOME$/code/io/io-engage/scripts/update_file_links.rb" />
       <jump line="1" column="18" filename="$APPLICATION_CONFIG_DIR$/consoles/db/18f2ac5a-39af-4578-8854-03936b72b2d2/SIE-512-console-e-shows-local.sql" />
       <jump line="7" column="19" filename="$APPLICATION_CONFIG_DIR$/consoles/db/18f2ac5a-39af-4578-8854-03936b72b2d2/SIE-512-console-e-shows-local.sql" />
+      <jump line="97" column="10" filename="$USER_HOME$/code/io/io-engage/scripts/update_file_links.rb" />
+      <jump line="25" column="12" filename="$USER_HOME$/code/io/io-engage/scripts/update_file_links.rb" />
+      <jump line="40" column="18" filename="$USER_HOME$/code/io/io-engage/scripts/update_file_links.rb" />
+      <jump line="78" column="28" filename="$USER_HOME$/code/io/io-engage/scripts/update_file_links.rb" />
+      <jump line="94" column="23" filename="$USER_HOME$/code/io/io-engage/scripts/update_file_links.rb" />
+      <jump line="95" column="25" filename="$USER_HOME$/code/io/io-engage/scripts/update_file_links.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4587,7 +4588,7 @@
         <text />
       </register>
       <register name="/" type="4">
-        <text>binding.pry</text>
+        <text>base</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgQGZpbGVuYW1lID0gbWF0Y2hfZGF0YVsxXQogICAgICBAaXRlbV9udW1iZXIgPSBtYXRjaF9kYXRhWzJdCiAgICAgIEBiYXNlID0gIml0ZW1fZmlsZXMvI3tAaXRlbV9udW1iZXJ9IgogICAgICBAZmlsZSA9ICIje0BiYXNlfS9sYXlvdXRfZmlsZXMvI3tAZmlsZW5hbWV9LnBkZiIK</text>
@@ -5028,9 +5029,9 @@
       </register>
     </registers>
     <search>
-      <last-search>binding.pry</last-search>
+      <last-search>base</last-search>
       <last-offset />
-      <last-pattern>binding.pry</last-pattern>
+      <last-pattern>base</last-pattern>
       <last-replace>Visible Item Columns</last-replace>
       <last-substitute>Show Column of Items</last-substitute>
       <last-dir>1</last-dir>
@@ -5038,8 +5039,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Nav</entry>
-        <entry>Show Nav</entry>
         <entry>Control</entry>
         <entry encoding="base64">Q29udHJvbCA=</entry>
         <entry>Show Column of Items</entry>
@@ -5058,6 +5057,8 @@
         <entry>match_data</entry>
         <entry>attachment</entry>
         <entry>binding.pry</entry>
+        <entry>attachments</entry>
+        <entry>base</entry>
       </history-search>
       <history-cmd>
         <entry>90</entry>
