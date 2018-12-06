@@ -47,12 +47,12 @@
       <file name="/exhibitree_shows_local.public.rushes_zones [postgres@localhost]" timestamp="1543889984590">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/scripts/update_file_links.rb" timestamp="1544061921946">
-        <mark key="'" line="97" column="26" />
-        <mark key="[" line="92" column="0" />
-        <mark key="]" line="92" column="44" />
-        <mark key="." line="92" column="37" />
-        <mark key="^" line="92" column="37" />
+      <file name="$USER_HOME$/code/io/io-engage/scripts/update_file_links.rb" timestamp="1544064044360">
+        <mark key="'" line="9" column="13" />
+        <mark key="[" line="89" column="22" />
+        <mark key="]" line="89" column="27" />
+        <mark key="^" line="89" column="27" />
+        <mark key="." line="89" column="27" />
       </file>
       <file name="/exhibitree_shows.public.zone_brands [Exhibitree Cloud]" timestamp="1542323639709">
         <mark key="[" line="0" column="0" />
@@ -657,7 +657,7 @@
       <file name="/exhibitree_shows.public.milestones [postgres@localhost]" timestamp="1542143723203">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1544057057774">
+      <file name="/dummy.sql" timestamp="1544063786656">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
@@ -774,8 +774,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="31" filename="$USER_HOME$/code/io/io-engage/spec/helpers/field_set_helper_spec.rb" />
-      <jump line="47" column="25" filename="$USER_HOME$/code/io/io-engage/spec/helpers/field_set_helper_spec.rb" />
       <jump line="221" column="27" filename="$USER_HOME$/code/io/io-engage/app/decorators/graphic_decorator.rb" />
       <jump line="21" column="36" filename="$USER_HOME$/code/io/io-engage/app/decorators/graphic_decorator.rb" />
       <jump line="790" column="40" filename="$USER_HOME$/code/io/io-engage/app/decorators/items_decorator.rb" />
@@ -874,13 +872,15 @@
       <jump line="124" column="0" filename="$USER_HOME$/code/io/io-engage/scripts/update_file_links.rb" />
       <jump line="89" column="25" filename="$USER_HOME$/code/io/io-engage/scripts/update_file_links.rb" />
       <jump line="98" column="26" filename="$USER_HOME$/code/io/io-engage/scripts/update_file_links.rb" />
+      <jump line="67" column="4" filename="$USER_HOME$/code/io/io-engage/scripts/update_file_links.rb" />
+      <jump line="9" column="13" filename="$USER_HOME$/code/io/io-engage/scripts/update_file_links.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>_w</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBsYXlvdXRfZmlsZS5maWxlLm1hdGNoKC8oKC4qKShfdlxkKS5wZGYvKQogICAgICAgIGxheW91dF9maWxlLmZpbGUubWF0Y2goLyguKikoKS5wZGYvKQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="b" type="4">
         <text>kkjj</text>
@@ -4572,37 +4572,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGlmIGxheW91dF9maWxlLmZpbGUgPX4gL192Lw==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="n" type="4">
         <text />
       </register>
       <register name="/" type="4">
-        <text>special</text>
+        <text>match_data</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsYXlvdXRfZmlsZS5maWxlLm1hdGNoKC8oKC4qKShfdlxkKS5wZGYvKQogICAgICAgIGxheW91dF9maWxlLmZpbGUubWF0Y2goLyguKikoKS5wZGYvKQo=</text>
+        <text encoding="base64">ICAgIGlmIG1hdGNoX2RhdGEubmlsPwogICAgICBtYXRjaF9kYXRhID0gbGF5b3V0X2ZpbGUuZmlsZS5tYXRjaCgvKC4qKS5wZGYvKSBpZiBtYXRjaF9kYXRhLm5pbD8KICAgICAgc2V0X2F0dHJpYnV0ZXNfZm9yX3NwZWNpYWxfY2FzZV91cGRhdGUobWF0Y2hfZGF0YSwgaW5kZXgpCiAgICBlbHNlCiAgICAgIGF0dHJpYnV0ZXNfZm9yX3VwZGF0ZShtYXRjaF9kYXRhKQogICAgZW5kCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsYXlvdXRfZmlsZS5maWxlLm1hdGNoKC8oLiopLnBkZi8pCg==</text>
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name="q" type="4">
         <text>jdd</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsYXlvdXRfZmlsZS5maWxlLm1hdGNoCg==</text>
+        <text encoding="base64">ICAgIGVsc2UK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsYXlvdXRfZmlsZS5maWxlCg==</text>
+        <text encoding="base64">ICAgIGlmIG1hdGNoX2RhdGEubmlsPwogICAgICBtYXRjaF9kYXRhID0gbGF5b3V0X2ZpbGUuZmlsZS5tYXRjaCgvKC4qKS5wZGYvKSBpZiBtYXRjaF9kYXRhLm5pbD8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGJpbmQK</text>
+        <text encoding="base64">ICAgICAgICBsYXlvdXRfZmlsZS5maWxlLm1hdGNoKC8oLiopLnBkZi8pCg==</text>
       </register>
       <register name="t" type="4">
         <text>jdd</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG1hdGNoX2RhdGEgPSAK</text>
+        <text encoding="base64">ICAgICAgICBsYXlvdXRfZmlsZS5maWxlLm1hdGNoCg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -5003,25 +5003,25 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsYXlvdXQK</text>
+        <text encoding="base64">ICAgICAgICBsYXlvdXRfZmlsZS5maWxlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgbGF5b3V0X2ZpbGUuZmlsZXMubWF0Y2goLyhpdGVtX2ZpbGVzKVwvKC4qKVwvKGxheW91dF9maWxlcylcLyguKikvKSBpZiBsYXlvdXQK</text>
+        <text encoding="base64">ICAgIGJpbmQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGJpbmRpbmcucHJ5Cg==</text>
+        <text encoding="base64">ICAgIG1hdGNoX2RhdGEgPSAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsYXlvdXQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>special</last-search>
+      <last-search>match_data</last-search>
       <last-offset />
-      <last-pattern>special</last-pattern>
+      <last-pattern>match_data</last-pattern>
       <last-replace>Visible Item Columns</last-replace>
       <last-substitute>Show Column of Items</last-substitute>
       <last-dir>1</last-dir>
@@ -5029,8 +5029,6 @@
     </search>
     <history>
       <history-search>
-        <entry>priority</entry>
-        <entry>Nav link</entry>
         <entry>Nave</entry>
         <entry>Nav</entry>
         <entry>Show Nav</entry>
@@ -5049,6 +5047,8 @@
         <entry>Vendor Details</entry>
         <entry>index</entry>
         <entry>special</entry>
+        <entry>attachment</entry>
+        <entry>match_data</entry>
       </history-search>
       <history-cmd>
         <entry>90</entry>
