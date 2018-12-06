@@ -47,12 +47,12 @@
       <file name="/exhibitree_shows_local.public.rushes_zones [postgres@localhost]" timestamp="1543889984590">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/scripts/update_file_links.rb" timestamp="1544064044360">
-        <mark key="'" line="9" column="13" />
-        <mark key="[" line="89" column="22" />
-        <mark key="]" line="89" column="27" />
-        <mark key="^" line="89" column="27" />
-        <mark key="." line="89" column="27" />
+      <file name="$USER_HOME$/code/io/io-engage/scripts/update_file_links.rb" timestamp="1544065954921">
+        <mark key="'" line="94" column="6" />
+        <mark key="[" line="144" column="48" />
+        <mark key="]" line="144" column="49" />
+        <mark key="^" line="144" column="51" />
+        <mark key="." line="144" column="49" />
       </file>
       <file name="/exhibitree_shows.public.zone_brands [Exhibitree Cloud]" timestamp="1542323639709">
         <mark key="[" line="0" column="0" />
@@ -774,8 +774,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="221" column="27" filename="$USER_HOME$/code/io/io-engage/app/decorators/graphic_decorator.rb" />
-      <jump line="21" column="36" filename="$USER_HOME$/code/io/io-engage/app/decorators/graphic_decorator.rb" />
       <jump line="790" column="40" filename="$USER_HOME$/code/io/io-engage/app/decorators/items_decorator.rb" />
       <jump line="775" column="7" filename="$USER_HOME$/code/io/io-engage/app/decorators/items_decorator.rb" />
       <jump line="778" column="15" filename="$USER_HOME$/code/io/io-engage/app/decorators/items_decorator.rb" />
@@ -870,17 +868,19 @@
       <jump line="75" column="0" filename="$USER_HOME$/code/io/io-engage/scripts/update_file_links.rb" />
       <jump line="113" column="18" filename="$USER_HOME$/code/io/io-engage/scripts/update_file_links.rb" />
       <jump line="124" column="0" filename="$USER_HOME$/code/io/io-engage/scripts/update_file_links.rb" />
-      <jump line="89" column="25" filename="$USER_HOME$/code/io/io-engage/scripts/update_file_links.rb" />
       <jump line="98" column="26" filename="$USER_HOME$/code/io/io-engage/scripts/update_file_links.rb" />
       <jump line="67" column="4" filename="$USER_HOME$/code/io/io-engage/scripts/update_file_links.rb" />
       <jump line="9" column="13" filename="$USER_HOME$/code/io/io-engage/scripts/update_file_links.rb" />
+      <jump line="89" column="7" filename="$USER_HOME$/code/io/io-engage/scripts/update_file_links.rb" />
+      <jump line="79" column="6" filename="$USER_HOME$/code/io/io-engage/scripts/update_file_links.rb" />
+      <jump line="94" column="6" filename="$USER_HOME$/code/io/io-engage/scripts/update_file_links.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>_w</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>}</text>
       </register>
       <register name="b" type="4">
         <text>kkjj</text>
@@ -4572,7 +4572,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>}</text>
       </register>
       <register name="n" type="4">
         <text />
@@ -4581,28 +4581,28 @@
         <text>match_data</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGlmIG1hdGNoX2RhdGEubmlsPwogICAgICBtYXRjaF9kYXRhID0gbGF5b3V0X2ZpbGUuZmlsZS5tYXRjaCgvKC4qKS5wZGYvKSBpZiBtYXRjaF9kYXRhLm5pbD8KICAgICAgc2V0X2F0dHJpYnV0ZXNfZm9yX3NwZWNpYWxfY2FzZV91cGRhdGUobWF0Y2hfZGF0YSwgaW5kZXgpCiAgICBlbHNlCiAgICAgIGF0dHJpYnV0ZXNfZm9yX3VwZGF0ZShtYXRjaF9kYXRhKQogICAgZW5kCg==</text>
+        <text encoding="base64">ICAgICAgQGZpbGVuYW1lID0gbWF0Y2hfZGF0YVsxXQogICAgICBAaXRlbV9udW1iZXIgPSBtYXRjaF9kYXRhWzJdCiAgICAgIEBiYXNlID0gIml0ZW1fZmlsZXMvI3tAaXRlbV9udW1iZXJ9IgogICAgICBAZmlsZSA9ICIje0BiYXNlfS9sYXlvdXRfZmlsZXMvI3tAZmlsZW5hbWV9LnBkZiIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="q" type="4">
         <text>jdd</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGVsc2UK</text>
+        <text encoding="base64">ICAgIEBmaWxlbmFtZSA9IG1hdGNoX2RhdGFbMV0KICAgIEBpdGVtX251bWJlciA9IG1hdGNoX2RhdGFbMl0KICAgIEBiYXNlID0gIml0ZW1fZmlsZXMvI3tAaXRlbV9udW1iZXJ9IgogICAgQGZpbGUgPSAiI3tAYmFzZX0vbGF5b3V0X2ZpbGVzLyN7QGZpbGVuYW1lfS5wZGYiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIG1hdGNoX2RhdGEubmlsPwogICAgICBtYXRjaF9kYXRhID0gbGF5b3V0X2ZpbGUuZmlsZS5tYXRjaCgvKC4qKS5wZGYvKSBpZiBtYXRjaF9kYXRhLm5pbD8K</text>
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsYXlvdXRfZmlsZS5maWxlLm1hdGNoKC8oLiopLnBkZi8pCg==</text>
+        <text encoding="base64">ICAgIGVsc2UK</text>
       </register>
       <register name="t" type="4">
         <text>jdd</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsYXlvdXRfZmlsZS5maWxlLm1hdGNoCg==</text>
+        <text encoding="base64">ICAgIGlmIG1hdGNoX2RhdGEubmlsPwogICAgICBtYXRjaF9kYXRhID0gbGF5b3V0X2ZpbGUuZmlsZS5tYXRjaCgvKC4qKS5wZGYvKSBpZiBtYXRjaF9kYXRhLm5pbD8K</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -5003,16 +5003,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsYXlvdXRfZmlsZS5maWxlCg==</text>
+        <text encoding="base64">ICAgICAgICBsYXlvdXRfZmlsZS5maWxlLm1hdGNoKC8oLiopLnBkZi8pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGJpbmQK</text>
+        <text encoding="base64">ICAgICAgICBsYXlvdXRfZmlsZS5maWxlLm1hdGNoCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG1hdGNoX2RhdGEgPSAK</text>
+        <text encoding="base64">ICAgICAgICBsYXlvdXRfZmlsZS5maWxlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsYXlvdXQK</text>
+        <text encoding="base64">ICAgIGJpbmQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
