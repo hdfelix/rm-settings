@@ -47,12 +47,12 @@
       <file name="/exhibitree_shows_local.public.rushes_zones [postgres@localhost]" timestamp="1543889984590">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/scripts/update_file_links.rb" timestamp="1544051130127">
-        <mark key="'" line="76" column="0" />
-        <mark key="[" line="47" column="30" />
-        <mark key="]" line="47" column="34" />
-        <mark key="." line="47" column="34" />
-        <mark key="^" line="47" column="34" />
+      <file name="$USER_HOME$/code/io/io-engage/scripts/update_file_links.rb" timestamp="1544059573270">
+        <mark key="'" line="90" column="25" />
+        <mark key="[" line="85" column="15" />
+        <mark key="]" line="116" column="14" />
+        <mark key="." line="116" column="14" />
+        <mark key="^" line="116" column="14" />
       </file>
       <file name="/exhibitree_shows.public.zone_brands [Exhibitree Cloud]" timestamp="1542323639709">
         <mark key="[" line="0" column="0" />
@@ -657,7 +657,7 @@
       <file name="/exhibitree_shows.public.milestones [postgres@localhost]" timestamp="1542143723203">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1544051162355">
+      <file name="/dummy.sql" timestamp="1544057057774">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
@@ -774,9 +774,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="668" column="22" filename="$USER_HOME$/code/io/io-engage/app/decorators/items_decorator.rb" />
-      <jump line="708" column="41" filename="$USER_HOME$/code/io/io-engage/app/decorators/items_decorator.rb" />
-      <jump line="720" column="44" filename="$USER_HOME$/code/io/io-engage/app/decorators/items_decorator.rb" />
       <jump line="45" column="31" filename="$USER_HOME$/code/io/io-engage/spec/helpers/field_set_helper_spec.rb" />
       <jump line="47" column="25" filename="$USER_HOME$/code/io/io-engage/spec/helpers/field_set_helper_spec.rb" />
       <jump line="221" column="27" filename="$USER_HOME$/code/io/io-engage/app/decorators/graphic_decorator.rb" />
@@ -874,13 +871,16 @@
       <jump line="98" column="56" filename="$USER_HOME$/code/io/io-engage/scripts/update_file_links.rb" />
       <jump line="99" column="18" filename="$USER_HOME$/code/io/io-engage/scripts/update_file_links.rb" />
       <jump line="75" column="0" filename="$USER_HOME$/code/io/io-engage/scripts/update_file_links.rb" />
+      <jump line="113" column="18" filename="$USER_HOME$/code/io/io-engage/scripts/update_file_links.rb" />
+      <jump line="124" column="0" filename="$USER_HOME$/code/io/io-engage/scripts/update_file_links.rb" />
+      <jump line="89" column="25" filename="$USER_HOME$/code/io/io-engage/scripts/update_file_links.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>_w</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="b" type="4">
         <text>kkjj</text>
@@ -4572,37 +4572,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, :attachment_key</text>
+        <text>k</text>
       </register>
       <register name="n" type="4">
         <text />
       </register>
       <register name="/" type="4">
-        <text>index</text>
+        <text>special</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG1hdGNoX2RhdGEgPSBsYXlvdXRfZmlsZS5maWxlLm1hdGNoKC8oKC4qKV92XGQpLnBkZi8pIGlmIGxheW91dF9maWxlJi5maWxlCg==</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="q" type="4">
         <text>jdd</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHNldF9maWxlX2F0dHJpYnV0ZXMobGF5b3V0X2ZpbGUpCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgYXR0YWNobWVudC5rZXkgPSBAdHRhY2htZW50X2tleQo=</text>
+        <text encoding="base64">ICAgIHNldF9maWxlX2F0dHJpYnV0ZXMobGF5b3V0X2ZpbGUpCgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgYXR0YWNobWVudC5rZXkgPSBAdHRhY2htZW50X2tleQo=</text>
       </register>
       <register name="t" type="4">
         <text>jdd</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBhdHRhY2htZW50X2tleSA9ICIje0BiYXNlfS8iCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -5003,25 +5003,25 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBpdGVtc19wcm9jZXNzZWQgKz0gMQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIEBhdHRhY2htZW50X2tleSA9ICIje0BiYXNlfS8iCg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIEBpdGVtc19wcm9jZXNzZWQgKz0gMQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIEBhdHRhY2htZW50X2tleSA9ICIje0BiYXNlfS8iCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>index</last-search>
+      <last-search>special</last-search>
       <last-offset />
-      <last-pattern>index</last-pattern>
+      <last-pattern>special</last-pattern>
       <last-replace>Visible Item Columns</last-replace>
       <last-substitute>Show Column of Items</last-substitute>
       <last-dir>1</last-dir>
@@ -5029,7 +5029,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Generate Slug</entry>
         <entry>priority</entry>
         <entry>Nav link</entry>
         <entry>Nave</entry>
@@ -5049,6 +5048,7 @@
         <entry encoding="base64">PDw8</entry>
         <entry>Vendor Details</entry>
         <entry>index</entry>
+        <entry>special</entry>
       </history-search>
       <history-cmd>
         <entry>90</entry>
