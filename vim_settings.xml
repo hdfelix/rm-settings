@@ -651,8 +651,11 @@
         <mark key="^" line="58" column="64" />
         <mark key="." line="58" column="64" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/df4af07b-8bd9-43a4-a025-0816d86566e8/console.sql" timestamp="1544130959535">
-        <mark key="[" line="0" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/df4af07b-8bd9-43a4-a025-0816d86566e8/console.sql" timestamp="1544210145946">
+        <mark key="[" line="5" column="21" />
+        <mark key="]" line="5" column="24" />
+        <mark key="^" line="5" column="24" />
+        <mark key="." line="5" column="24" />
       </file>
       <file name="/e1_non_prod.public.graphic_types [postgres@localhost]" timestamp="1542139463782">
         <mark key="[" line="0" column="0" />
@@ -902,8 +905,8 @@
       <register name="a" type="4">
         <text>_w</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
+      <register name="&quot;" type="4">
+        <text>General</text>
       </register>
       <register name="b" type="4">
         <text>kkjj</text>
@@ -4595,7 +4598,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>General</text>
       </register>
       <register name="n" type="4">
         <text />
