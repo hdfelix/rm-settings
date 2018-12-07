@@ -277,7 +277,7 @@
       <file name="/exhibitree_shows_local.public.items [postgres@localhost]" timestamp="1543954764879">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1544205940775">
+      <file name="/dummy.sql" timestamp="1544206154621">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -413,11 +413,12 @@
         <mark key="^" line="73" column="13" />
         <mark key="." line="73" column="13" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/app/controllers/concerns/search_items_concern.rb" timestamp="1544205645664">
-        <mark key="[" line="28" column="32" />
-        <mark key="]" line="29" column="14" />
-        <mark key="^" line="29" column="14" />
-        <mark key="." line="29" column="14" />
+      <file name="$USER_HOME$/code/io/io-engage/app/controllers/concerns/search_items_concern.rb" timestamp="1544206599868">
+        <mark key="'" line="44" column="18" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="29" column="50" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/code/io/io-engage/spec/features/batch_edit/validations_spec.rb" timestamp="1544091409194">
         <mark key="'" line="12" column="0" />
@@ -665,11 +666,11 @@
       <file name="/exhibitree_shows_18.public.role_types [postgres@localhost]" timestamp="1542731515618">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/config/environments/development.rb" timestamp="1544205959795">
+      <file name="$USER_HOME$/code/io/io-engage/config/environments/development.rb" timestamp="1544206085738">
         <mark key="[" line="15" column="26" />
-        <mark key="]" line="15" column="25" />
-        <mark key="." line="15" column="25" />
-        <mark key="^" line="15" column="25" />
+        <mark key="]" line="15" column="26" />
+        <mark key="." line="15" column="26" />
+        <mark key="^" line="15" column="26" />
       </file>
       <file name="/exhibitree_shows_15.public.items_roles [postgres@localhost]" timestamp="1542306510566">
         <mark key="[" line="0" column="0" />
@@ -796,7 +797,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="0" filename="$USER_HOME$/code/io/io-engage/app/views/graphics/_batch_form.html.haml" />
       <jump line="26" column="72" filename="$USER_HOME$/code/io/io-engage/app/views/graphics/_batch_form.html.haml" />
       <jump line="772" column="23" filename="$USER_HOME$/code/io/io-engage/config/locales/en.yml" />
       <jump line="785" column="31" filename="$USER_HOME$/code/io/io-engage/config/locales/en.yml" />
@@ -896,6 +896,7 @@
       <jump line="60" column="11" filename="$USER_HOME$/code/io/io-engage/config/environments/production.rb" />
       <jump line="119" column="2" filename="$USER_HOME$/code/io/io-engage/config/environments/production.rb" />
       <jump line="52" column="19" filename="$USER_HOME$/code/io/io-engage/config/environments/production.rb" />
+      <jump line="45" column="18" filename="$USER_HOME$/code/io/io-engage/app/controllers/concerns/search_items_concern.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4600,7 +4601,7 @@
         <text />
       </register>
       <register name="/" type="4">
-        <text>level</text>
+        <text>binding.pry</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBjb25maWcubG9nX2xldmVsID0gOmRlYnVnCg==</text>
@@ -4612,19 +4613,19 @@
         <text>jdd</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBza2lwICdUT0RPOiBGaXggdGVzdCAodGVzdGVkIG1hbnVhbGx5KScK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <text>jdd</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5IGlmIEBjdXJyZW50X2l0ZW0uaWQgPT0gMTE1NAo=</text>
+        <text encoding="base64">ICAgICAgICBza2lwICdUT0RPOiBGaXggdGVzdCAodGVzdGVkIG1hbnVhbGx5KScK</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -5025,13 +5026,13 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5IGlmIGxheW91dF9maWxlLml0ZW0uaWQgPT0gMTExMAo=</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5IGlmIEBjdXJyZW50X2l0ZW0uaWQgPT0gMTE1NAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgYmluZGluZy5wcnkgaWYgbGF5b3V0X2ZpbGUuaXRlbV9pZCA9PSAxMTU1Cg==</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5IGlmIGxheW91dF9maWxlLml0ZW0uaWQgPT0gMTExMAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgQGl0ZW1fbnVtYmVyID0gbWF0Y2hfZGF0YVszXQo=</text>
+        <text encoding="base64">ICAgICMgYmluZGluZy5wcnkgaWYgbGF5b3V0X2ZpbGUuaXRlbV9pZCA9PSAxMTU1Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgQGl0ZW1fbnVtYmVyID0gbWF0Y2hfZGF0YVszXQo=</text>
@@ -5041,9 +5042,9 @@
       </register>
     </registers>
     <search>
-      <last-search>level</last-search>
+      <last-search>binding.pry</last-search>
       <last-offset />
-      <last-pattern>level</last-pattern>
+      <last-pattern>binding.pry</last-pattern>
       <last-replace>view_pricing_tab</last-replace>
       <last-substitute>view_pricing</last-substitute>
       <last-dir>1</last-dir>
@@ -5057,10 +5058,8 @@
         <entry>special</entry>
         <entry>match_data</entry>
         <entry>attachment</entry>
-        <entry>binding.pry</entry>
         <entry>attachments</entry>
         <entry>base</entry>
-        <entry>binding</entry>
         <entry>set_file_attributes</entry>
         <entry>1155</entry>
         <entry>1154</entry>
@@ -5071,6 +5070,8 @@
         <entry>logger</entry>
         <entry>log</entry>
         <entry>level</entry>
+        <entry>binding</entry>
+        <entry>binding.pry</entry>
       </history-search>
       <history-cmd>
         <entry>20</entry>
