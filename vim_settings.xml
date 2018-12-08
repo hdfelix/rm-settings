@@ -262,6 +262,9 @@
       <file name="/exhibitree_shows_18.public.users [postgres@localhost]" timestamp="1542731657381">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/io/io-engage/app/models/item.rb" timestamp="1544214835177">
+        <mark key="'" line="313" column="51" />
+      </file>
       <file name="/exhibitree_shows.public.rush_overrides [postgres@localhost]" timestamp="1542160662987">
         <mark key="[" line="0" column="0" />
       </file>
@@ -800,12 +803,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="72" filename="$USER_HOME$/code/io/io-engage/app/views/graphics/_batch_form.html.haml" />
-      <jump line="772" column="23" filename="$USER_HOME$/code/io/io-engage/config/locales/en.yml" />
-      <jump line="785" column="31" filename="$USER_HOME$/code/io/io-engage/config/locales/en.yml" />
-      <jump line="790" column="25" filename="$USER_HOME$/code/io/io-engage/config/locales/en.yml" />
-      <jump line="1" column="19" filename="$USER_HOME$/code/io/io-engage/config/locales/en.yml" />
-      <jump line="40" column="2" filename="$USER_HOME$/code/io/io-engage/config/locales/en.yml" />
       <jump line="102" column="16" filename="$USER_HOME$/code/io/io-engage/config/locales/en.yml" />
       <jump line="340" column="12" filename="$USER_HOME$/code/io/io-engage/config/locales/en.yml" />
       <jump line="281" column="34" filename="$USER_HOME$/code/io/io-engage/config/locales/en.yml" />
@@ -900,6 +897,12 @@
       <jump line="119" column="2" filename="$USER_HOME$/code/io/io-engage/config/environments/production.rb" />
       <jump line="52" column="19" filename="$USER_HOME$/code/io/io-engage/config/environments/production.rb" />
       <jump line="45" column="18" filename="$USER_HOME$/code/io/io-engage/app/controllers/concerns/search_items_concern.rb" />
+      <jump line="76" column="25" filename="$USER_HOME$/code/io/io-engage/app/models/item.rb" />
+      <jump line="134" column="26" filename="$USER_HOME$/code/io/io-engage/app/models/item.rb" />
+      <jump line="136" column="51" filename="$USER_HOME$/code/io/io-engage/app/models/item.rb" />
+      <jump line="226" column="36" filename="$USER_HOME$/code/io/io-engage/app/models/item.rb" />
+      <jump line="286" column="11" filename="$USER_HOME$/code/io/io-engage/app/models/item.rb" />
+      <jump line="313" column="51" filename="$USER_HOME$/code/io/io-engage/app/models/item.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4604,7 +4607,7 @@
         <text />
       </register>
       <register name="/" type="4">
-        <text>binding.pry</text>
+        <text>default</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBjb25maWcubG9nX2xldmVsID0gOmRlYnVnCg==</text>
@@ -5045,9 +5048,9 @@
       </register>
     </registers>
     <search>
-      <last-search>binding.pry</last-search>
+      <last-search>default</last-search>
       <last-offset />
-      <last-pattern>binding.pry</last-pattern>
+      <last-pattern>default</last-pattern>
       <last-replace>view_pricing_tab</last-replace>
       <last-substitute>view_pricing</last-substitute>
       <last-dir>1</last-dir>
@@ -5055,7 +5058,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">PDw8</entry>
         <entry>Vendor Details</entry>
         <entry>index</entry>
         <entry>special</entry>
@@ -5075,6 +5077,7 @@
         <entry>level</entry>
         <entry>binding</entry>
         <entry>binding.pry</entry>
+        <entry>default</entry>
       </history-search>
       <history-cmd>
         <entry>20</entry>
