@@ -26,12 +26,6 @@
       <file name="/exhibitree_shows_local.public.rushes_zones [postgres@localhost]" timestamp="1543889984590">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/scripts/update_file_links.rb" timestamp="1544089717646">
-        <mark key="'" line="55" column="10" />
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="77" column="0" />
-        <mark key="." line="77" column="0" />
-      </file>
       <file name="/exhibitree_shows.public.items_roles [Exhibitree Cloud]" timestamp="1542323225302">
         <mark key="[" line="0" column="0" />
       </file>
@@ -169,6 +163,13 @@
       </file>
       <file name="/exhibitree_shows.public.roles_zones [postgres@localhost]" timestamp="1542243616532">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/io/io-engage/app/views/items/grid/_body.html.haml" timestamp="1544566323624">
+        <mark key="'" line="4" column="85" />
+        <mark key="[" line="1" column="10" />
+        <mark key="]" line="1" column="14" />
+        <mark key="^" line="1" column="14" />
+        <mark key="." line="1" column="14" />
       </file>
       <file name="$USER_HOME$/code/io/io-engage/spec/scripts/update_item_urls_spec.rb" timestamp="1543363855048">
         <mark key="'" line="19" column="0" />
@@ -437,12 +438,6 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/spec/features/batch_edit/validations_spec.rb" timestamp="1544091409194">
-        <mark key="'" line="12" column="0" />
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="91" column="47" />
-        <mark key="." line="91" column="0" />
-      </file>
       <file name="/exhibitree_shows.public.price_models [postgres@localhost]" timestamp="1542301905931">
         <mark key="[" line="0" column="0" />
       </file>
@@ -474,12 +469,6 @@
         <mark key="]" line="25" column="21" />
         <mark key="." line="25" column="21" />
         <mark key="^" line="25" column="21" />
-      </file>
-      <file name="$USER_HOME$/code/io/io-engage/spec/features/delete_venue_spec.rb" timestamp="1544475768078">
-        <mark key="'" line="9" column="0" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
       </file>
       <file name="/exhibitree_shows.public.workflows_events [postgres@localhost]" timestamp="1542301850119">
         <mark key="[" line="0" column="0" />
@@ -826,7 +815,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="0" filename="$USER_HOME$/code/io/io-engage/scripts/update_layout_files.rb" />
       <jump line="13" column="38" filename="$USER_HOME$/code/io/io-engage/scripts/update_file_links.rb" />
       <jump line="72" column="0" filename="$USER_HOME$/code/io/io-engage/scripts/update_file_links.rb" />
       <jump line="99" column="18" filename="$USER_HOME$/code/io/io-engage/scripts/update_file_links.rb" />
@@ -926,13 +914,14 @@
       <jump line="415" column="12" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
       <jump line="32" column="31" filename="$USER_HOME$/code/io/io-engage/app/controllers/items_controller.rb" />
       <jump line="33" column="5" filename="$USER_HOME$/code/io/io-engage/app/controllers/items_controller.rb" />
+      <jump line="4" column="85" filename="$USER_HOME$/code/io/io-engage/app/views/items/grid/_body.html.haml" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>_w</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICdkYXRhLXJlcHJvZHVjdGlvbic6IGl0ZW0ucmVwcm9kdWN0aW9uPy50b19zLA==</text>
       </register>
       <register name="b" type="4">
         <text>kkjj</text>
@@ -4624,7 +4613,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ICdkYXRhLXJlcHJvZHVjdGlvbic6IGl0ZW0ucmVwcm9kdWN0aW9uPy50b19zLA==</text>
       </register>
       <register name="n" type="4">
         <text />
