@@ -411,6 +411,12 @@
       <file name="/exhibitree_shows_18.public.field_sets [postgres@localhost]" timestamp="1542681123121">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/io/io-engage/db/structure.sql" timestamp="1544586662640">
+        <mark key="'" line="5681" column="0" />
+        <mark key="[" line="5684" column="0" />
+        <mark key="]" line="5684" column="0" />
+        <mark key="." line="5684" column="0" />
+      </file>
       <file name="/exhibitree_shows.public.zone_brands [Exhibitree Cloud]" timestamp="1542323639709">
         <mark key="[" line="0" column="0" />
       </file>
@@ -855,7 +861,7 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/app/jobs/batch_file_resque_upload_job.rb" timestamp="1544486613697">
+      <file name="$USER_HOME$/code/io/io-engage/app/jobs/batch_file_resque_upload_job.rb" timestamp="1544586714437">
         <mark key="[" line="13" column="3" />
         <mark key="]" line="13" column="3" />
         <mark key="^" line="13" column="3" />
@@ -870,8 +876,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="17" filename="$USER_HOME$/code/io/io-engage/scripts/update_file_links.rb" />
-      <jump line="58" column="24" filename="$USER_HOME$/code/io/io-engage/scripts/update_file_links.rb" />
       <jump line="67" column="4" filename="$USER_HOME$/code/io/io-engage/scripts/update_file_links.rb" />
       <jump line="18" column="28" filename="$USER_HOME$/code/io/io-engage/scripts/update_file_links.rb" />
       <jump line="1" column="18" filename="$APPLICATION_CONFIG_DIR$/consoles/db/18f2ac5a-39af-4578-8854-03936b72b2d2/SIE-512-console-e-shows-local.sql" />
@@ -970,13 +974,15 @@
       <jump line="298" column="70" filename="$USER_HOME$/code/io/io-engage/spec/models/item_spec.rb" />
       <jump line="14" column="0" filename="$USER_HOME$/code/io/io-engage/spec/controllers/reproductions_controller_spec.rb" />
       <jump line="10" column="87" filename="$USER_HOME$/code/io/io-engage/spec/support/rspec/shared_examples_for_items_controller.rb" />
+      <jump line="16" column="0" filename="$USER_HOME$/code/io/io-engage/db/structure.sql" />
+      <jump line="5681" column="0" filename="$USER_HOME$/code/io/io-engage/db/structure.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>_w</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Q29waWVzQ29udHJvbGxlciA8IEdyYXBoaWNzQ29udHJvbGxlcg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="4">
         <text>kkjj</text>
@@ -4674,7 +4680,7 @@
         <text />
       </register>
       <register name="/" type="4">
-        <text>default_scope</text>
+        <text encoding="base64">Pj4+</text>
       </register>
       <register name="0" type="4">
         <text># needed for pagination gem Kaminari to work correctly (see SIE-531)</text>
@@ -4689,16 +4695,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PT09PT09PQooJzIwMTgxMTIxMDUyMjMyJyk7Cj4+Pj4+Pj4gU0lFLTQxNS1zdHVjay11cGxvYWQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgIyBEZWZhdWx0IHNjb3BlIGlzIG5lZWRlZCBmb3IgcGFnaW5hdGlvbiBnZW0gS2FtaW5hcmkgdG8gd29yayBjb3JyZWN0bHkgKHNlZSBTSUUtNTMxKQo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="t" type="4">
         <text>jdd</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aWkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -5099,25 +5105,25 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlc2NyaWJlICdkZWZhdWx0IHNjb3BlJyBkbwogICAgICAjIERlZmF1bHQgc2NvcGUgaXMgbmVlZGVkIGZvciBwYWdpbmF0aW9uIGdlbSBLYW1pbmFyaSB0byB3b3JrIGNvcnJlY3RseSAoc2VlIFNJRS01MzEpCiAgICAgIGl0ICdhcHBsaWVzIGEgZGVmYXVsdCBzY29wZSB0byBjb2xsZWN0aW9ucyBieSBpZCBkZXNjZW5kaW5nJyBkbwogICAgICAgIGV4cGVjdChHaXJkSXRlbS5hbGxfbGliX2ZpbGVzLnRvX3NxbCkudG8gZXEgR3JpZEl0ZW0uYWxsLm9yZGVyKGlkOiA6ZGVzYykudG9fc3FsCiAgICAgIGVuZAogICAgZW5kCiAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIyBEZWZhdWx0IHNjb3BlIGlzIG5lZWRlZCBmb3IgcGFnaW5hdGlvbiBnZW0gS2FtaW5hcmkgdG8gd29yayBjb3JyZWN0bHkgKHNlZSBTSUUtNTMxKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBkZWZhdWx0X3Njb3BlIC0+eyBvcmRlcignaWQnKSB9Cg==</text>
+        <text encoding="base64">aWkK</text>
       </register>
       <register name=":" type="4">
-        <text>91</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>default_scope</last-search>
+      <last-search encoding="base64">Pj4+</last-search>
       <last-offset />
-      <last-pattern>default_scope</last-pattern>
+      <last-pattern encoding="base64">Pj4+</last-pattern>
       <last-replace>view_pricing_tab</last-replace>
       <last-substitute>view_pricing</last-substitute>
       <last-dir>1</last-dir>
@@ -5125,7 +5131,6 @@
     </search>
     <history>
       <history-search>
-        <entry>file_attributes</entry>
         <entry>view_pricing</entry>
         <entry>view_cost</entry>
         <entry>Logger</entry>
@@ -5136,7 +5141,6 @@
         <entry>default</entry>
         <entry>exhibitree</entry>
         <entry>out_for_</entry>
-        <entry encoding="base64">PDw8</entry>
         <entry>vendor_</entry>
         <entry>vendor_prep</entry>
         <entry>all_item_ids</entry>
@@ -5145,6 +5149,8 @@
         <entry>order</entry>
         <entry>index</entry>
         <entry>default_scope</entry>
+        <entry encoding="base64">PDw8</entry>
+        <entry encoding="base64">Pj4+</entry>
       </history-search>
       <history-cmd>
         <entry>104</entry>
@@ -5165,8 +5171,8 @@
         <entry>wq</entry>
         <entry>2</entry>
         <entry>e</entry>
-        <entry>w</entry>
         <entry>91</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
