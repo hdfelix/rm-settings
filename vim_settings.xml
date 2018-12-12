@@ -32,6 +32,12 @@
       <file name="/dreamforce_production.public.layout_files [Dreamforce 2018]" timestamp="1544560797522">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/io/io-engage/spec/controllers/copies_controller_spec.rb" timestamp="1544580950830">
+        <mark key="[" line="17" column="59" />
+        <mark key="]" line="17" column="63" />
+        <mark key="." line="17" column="63" />
+        <mark key="^" line="17" column="63" />
+      </file>
       <file name="/exhibitree1_production.public.venues [io_prod]" timestamp="1543539420303">
         <mark key="[" line="0" column="0" />
       </file>
@@ -217,6 +223,11 @@
         <mark key="^" line="56" column="36" />
         <mark key="." line="56" column="36" />
       </file>
+      <file name="$USER_HOME$/code/io/io-engage/spec/controllers/items_controller_spec.rb" timestamp="1544580534799">
+        <mark key="[" line="184" column="55" />
+        <mark key="]" line="184" column="55" />
+        <mark key="." line="184" column="55" />
+      </file>
       <file name="/exhibitree_shows_db_for_migration.public.milestones [postgres@localhost]" timestamp="1542323805929">
         <mark key="[" line="0" column="0" />
       </file>
@@ -244,6 +255,12 @@
       </file>
       <file name="/exhibitree1_production.public.items [io_prod]" timestamp="1542394949109">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/io/io-engage/spec/controllers/graphics_controller_spec.rb" timestamp="1544579893228">
+        <mark key="[" line="62" column="60" />
+        <mark key="]" line="62" column="64" />
+        <mark key="." line="62" column="64" />
+        <mark key="^" line="62" column="64" />
       </file>
       <file name="$USER_HOME$/code/io/io-engage/scripts/update_item_urls.rb" timestamp="1543524903206">
         <mark key="'" line="39" column="28" />
@@ -477,7 +494,6 @@
         <mark key="." line="25" column="21" />
         <mark key="^" line="25" column="21" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/spec/models/brand_spec.rb" timestamp="1544569515488" />
       <file name="/exhibitree_shows.public.workflows_events [postgres@localhost]" timestamp="1542301850119">
         <mark key="[" line="0" column="0" />
       </file>
@@ -510,6 +526,12 @@
         <mark key="." line="22" column="21" />
         <mark key="^" line="22" column="21" />
       </file>
+      <file name="$USER_HOME$/code/io/io-engage/app/controllers/copies_controller.rb" timestamp="1544580972999">
+        <mark key="[" line="2" column="6" />
+        <mark key="]" line="2" column="6" />
+        <mark key="." line="2" column="6" />
+        <mark key="^" line="2" column="6" />
+      </file>
       <file name="/fragment.rb" timestamp="1544570320339">
         <mark key="[" line="0" column="0" />
       </file>
@@ -537,6 +559,13 @@
       </file>
       <file name="/exhibitree_shows.public.workflows_states [postgres@localhost]" timestamp="1542301846676">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/io/io-engage/spec/controllers/reproductions_controller_spec.rb" timestamp="1544579789125">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="17" column="59" />
+        <mark key="]" line="17" column="63" />
+        <mark key="." line="17" column="63" />
+        <mark key="^" line="17" column="63" />
       </file>
       <file name="$USER_HOME$/code/io/io_engage_configuration/instances/demo/master/config/settings.yml" timestamp="1544468172629">
         <mark key="[" line="20" column="0" />
@@ -796,6 +825,13 @@
         <mark key="." line="26" column="1" />
         <mark key="^" line="26" column="1" />
       </file>
+      <file name="$USER_HOME$/code/io/io-engage/spec/support/rspec/shared_examples_for_items_controller.rb" timestamp="1544580456022">
+        <mark key="'" line="10" column="87" />
+        <mark key="[" line="10" column="83" />
+        <mark key="]" line="10" column="82" />
+        <mark key="^" line="10" column="82" />
+        <mark key="." line="10" column="82" />
+      </file>
       <file name="/exhibitree_shows_15.public.roles_zones [postgres@localhost]" timestamp="1542306518361">
         <mark key="[" line="0" column="0" />
       </file>
@@ -834,8 +870,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="110" column="7" filename="$USER_HOME$/code/io/io-engage/scripts/update_file_links.rb" />
-      <jump line="0" column="60" filename="$USER_HOME$/code/io/io-engage/scripts/update_file_links.rb" />
       <jump line="57" column="17" filename="$USER_HOME$/code/io/io-engage/scripts/update_file_links.rb" />
       <jump line="58" column="24" filename="$USER_HOME$/code/io/io-engage/scripts/update_file_links.rb" />
       <jump line="67" column="4" filename="$USER_HOME$/code/io/io-engage/scripts/update_file_links.rb" />
@@ -934,13 +968,15 @@
       <jump line="18" column="26" filename="$USER_HOME$/code/io/io-engage/spec/models/grid_item_spec.rb" />
       <jump line="94" column="0" filename="$USER_HOME$/code/io/io-engage/spec/models/grid_item_spec.rb" />
       <jump line="298" column="70" filename="$USER_HOME$/code/io/io-engage/spec/models/item_spec.rb" />
+      <jump line="14" column="0" filename="$USER_HOME$/code/io/io-engage/spec/controllers/reproductions_controller_spec.rb" />
+      <jump line="10" column="87" filename="$USER_HOME$/code/io/io-engage/spec/support/rspec/shared_examples_for_items_controller.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>_w</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Q29waWVzQ29udHJvbGxlciA8IEdyYXBoaWNzQ29udHJvbGxlcg==</text>
       </register>
       <register name="b" type="4">
         <text>kkjj</text>
@@ -4632,7 +4668,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aXMg</text>
+        <text encoding="base64">Q29waWVzQ29udHJvbGxlciA8IEdyYXBoaWNzQ29udHJvbGxlcg==</text>
       </register>
       <register name="n" type="4">
         <text />
