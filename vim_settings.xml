@@ -5111,7 +5111,7 @@
         <text encoding="base64">ICBkZWZhdWx0X3Njb3BlIC0+eyBvcmRlcignaWQnKSB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>91</text>
       </register>
     </registers>
     <search>
@@ -5147,7 +5147,6 @@
         <entry>default_scope</entry>
       </history-search>
       <history-cmd>
-        <entry>60</entry>
         <entry>104</entry>
         <entry>111</entry>
         <entry>%s:set_attributes_for_update:attributes_for_update:c</entry>
@@ -5167,6 +5166,7 @@
         <entry>2</entry>
         <entry>e</entry>
         <entry>w</entry>
+        <entry>91</entry>
       </history-cmd>
       <history-expr />
       <history-input />
