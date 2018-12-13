@@ -32,12 +32,6 @@
       <file name="/dreamforce_production.public.layout_files [Dreamforce 2018]" timestamp="1544560797522">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/spec/controllers/copies_controller_spec.rb" timestamp="1544580950830">
-        <mark key="[" line="17" column="59" />
-        <mark key="]" line="17" column="63" />
-        <mark key="." line="17" column="63" />
-        <mark key="^" line="17" column="63" />
-      </file>
       <file name="/exhibitree1_production.public.venues [io_prod]" timestamp="1543539420303">
         <mark key="[" line="0" column="0" />
       </file>
@@ -255,12 +249,6 @@
       </file>
       <file name="/exhibitree1_production.public.items [io_prod]" timestamp="1542394949109">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/io/io-engage/spec/controllers/graphics_controller_spec.rb" timestamp="1544579893228">
-        <mark key="[" line="62" column="60" />
-        <mark key="]" line="62" column="64" />
-        <mark key="." line="62" column="64" />
-        <mark key="^" line="62" column="64" />
       </file>
       <file name="$USER_HOME$/code/io/io-engage/scripts/update_item_urls.rb" timestamp="1543524903206">
         <mark key="'" line="39" column="28" />
@@ -721,11 +709,12 @@
         <mark key="^" line="58" column="64" />
         <mark key="." line="58" column="64" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/df4af07b-8bd9-43a4-a025-0816d86566e8/console.sql" timestamp="1544663202419">
-        <mark key="[" line="14" column="48" />
-        <mark key="]" line="14" column="48" />
-        <mark key="^" line="13" column="51" />
-        <mark key="." line="14" column="48" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/df4af07b-8bd9-43a4-a025-0816d86566e8/console.sql" timestamp="1544665018575">
+        <mark key="'" line="14" column="13" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="13" column="35" />
+        <mark key="^" line="13" column="35" />
+        <mark key="." line="13" column="35" />
       </file>
       <file name="/e1_non_prod.public.graphic_types [postgres@localhost]" timestamp="1542139463782">
         <mark key="[" line="0" column="0" />
@@ -894,7 +883,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="193" column="88" filename="$USER_HOME$/code/io/io-engage/db/seed.sample.rb" />
       <jump line="228" column="85" filename="$USER_HOME$/code/io/io-engage/db/seed.sample.rb" />
       <jump line="335" column="88" filename="$USER_HOME$/code/io/io-engage/db/seed.sample.rb" />
       <jump line="401" column="94" filename="$USER_HOME$/code/io/io-engage/db/seed.sample.rb" />
@@ -994,13 +982,14 @@
       <jump line="11" column="0" filename="$USER_HOME$/code/io/io-engage/Gemfile" />
       <jump line="3" column="0" filename="$USER_HOME$/code/io/io-engage/spec/controllers/admin/general_locations_controller_spec.rb" />
       <jump line="497" column="14" filename="$USER_HOME$/code/io/io-engage/spec/controllers/items_controller_spec.rb" />
+      <jump line="14" column="13" filename="$APPLICATION_CONFIG_DIR$/consoles/db/df4af07b-8bd9-43a4-a025-0816d86566e8/console.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>_w</text>
       </register>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>1</text>
       </register>
       <register name="b" type="4">
         <text>kkjj</text>
@@ -4692,7 +4681,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>1</text>
       </register>
       <register name="n" type="4">
         <text />
@@ -4705,25 +4694,26 @@
       </register>
       <register name="1" type="4">
         <text>INSERT INTO exhibitree_shows.public.vendor_finishings(vendor_id, finishing_id, single_price, created_at, updated_at)
-VALUES (14, 29, 1.50, current_date(</text>
+VALUES (14, 1</text>
       </register>
       <register name="q" type="4">
         <text>jdd</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>INSERT INTO exhibitree_shows.public.vendor_finishings(vendor_id, finishing_id, single_price, created_at, updated_at)
+VALUES (14, 29, 1.50, current_date(</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGV4cGVjdChHZW5lcmFsTG9jYXRpb24uYWxsLmNvdW50KS50byBiZSAwCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <text>jdd</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGV4cGVjdChHZW5lcmFsTG9jYXRpb24uYWxsLmNvdW50KS50byBiZSAwCg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -5124,16 +5114,16 @@ VALUES (14, 29, 1.50, current_date(</text>
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGV4cGVjdChwYWdlKS50byBoYXZlX2Nzcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBydWJvY29wOmVuYWJsZSBMaW50L0FtYmlndW91c0Jsb2NrQXNzb2NpYXRpb24K</text>
+        <text encoding="base64">ICAgICAgICAgIGV4cGVjdChwYWdlKS50byBoYXZlX2Nzcwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBydWJvY29wOmRpc2FibGUgTGludC9BbWJpZ3VvdXNCbG9ja0Fzc29jaWF0aW9uCg==</text>
+        <text encoding="base64">IyBydWJvY29wOmVuYWJsZSBMaW50L0FtYmlndW91c0Jsb2NrQXNzb2NpYXRpb24K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnRvKG5vdF9jaGFuZ2UoR2VuZXJhbExvY2F0aW9uLCA6Y291bnQpKQo=</text>
+        <text encoding="base64">IyBydWJvY29wOmRpc2FibGUgTGludC9BbWJpZ3VvdXNCbG9ja0Fzc29jaWF0aW9uCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
