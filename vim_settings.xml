@@ -56,7 +56,7 @@
       <file name="/e1_non_prod.public.items [postgres@localhost]" timestamp="1542162844953">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/qa_0.public.venues_zones [qa-master]" timestamp="1544718794377">
+      <file name="/qa_0.public.venues_zones [qa-master]" timestamp="1544725009328">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/exhibitree_shows.public.roles [Exhibitree Cloud]" timestamp="1542228228286">
@@ -67,6 +67,9 @@
         <mark key="]" line="35" column="86" />
         <mark key="." line="35" column="86" />
         <mark key="^" line="35" column="86" />
+      </file>
+      <file name="/hfelix_development.public.venues_zones [hfelix_development@localhost]" timestamp="1544724538979">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/io/io-engage/spec/models/layout_file_spec.rb" timestamp="1542475161755">
         <mark key="'" line="2" column="0" />
@@ -285,9 +288,6 @@
         <mark key="." line="50" column="0" />
         <mark key="^" line="46" column="30" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/Gemfile" timestamp="1544651923316">
-        <mark key="'" line="11" column="0" />
-      </file>
       <file name="/exhibitree_shows.public.roles [postgres@localhost]" timestamp="1542162332816">
         <mark key="[" line="0" column="0" />
       </file>
@@ -316,7 +316,7 @@
       <file name="/exhibitree_shows_local.public.items [postgres@localhost]" timestamp="1544639229409">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1544721747610">
+      <file name="/dummy.sql" timestamp="1544725009805">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -328,7 +328,7 @@
       <file name="/exhibitree_shows.public.workflows_workflows [postgres@localhost]" timestamp="1542301843750">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1543274025098">
+      <file name="/Dummy.txt" timestamp="1544724683547">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/exhibitree_shows.public.pins [postgres@localhost]" timestamp="1542301908541">
@@ -339,6 +339,9 @@
         <mark key="]" line="242" column="7" />
         <mark key="." line="242" column="7" />
         <mark key="^" line="242" column="7" />
+      </file>
+      <file name="/qa_local.public.venues_zones [postgres@localhost]" timestamp="1544724718088">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/exhibitree_shows.public.workback_schedules [postgres@localhost]" timestamp="1542301852741">
         <mark key="[" line="0" column="0" />
@@ -598,9 +601,6 @@
       </file>
       <file name="/exhibitree_shows.public.items_roles [postgres@localhost]" timestamp="1542243064661">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/io/io-engage/spec/factories/items.rb" timestamp="1544639716291">
-        <mark key="'" line="393" column="22" />
       </file>
       <file name="/exhibitree_shows.public.general_locations [Exhibitree Cloud]" timestamp="1543541204130">
         <mark key="[" line="0" column="0" />
