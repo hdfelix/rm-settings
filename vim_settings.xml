@@ -35,12 +35,12 @@
       <file name="/exhibitree1_production.public.venues [io_prod]" timestamp="1543539420303">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/app/admin/general_location.rb" timestamp="1544729724877">
-        <mark key="'" line="8" column="13" />
-        <mark key="[" line="2" column="26" />
-        <mark key="]" line="2" column="24" />
-        <mark key="^" line="2" column="24" />
-        <mark key="." line="2" column="24" />
+      <file name="$USER_HOME$/code/io/io-engage/app/admin/general_location.rb" timestamp="1544733224444">
+        <mark key="'" line="53" column="21" />
+        <mark key="[" line="2" column="25" />
+        <mark key="]" line="2" column="37" />
+        <mark key="^" line="2" column="37" />
+        <mark key="." line="2" column="37" />
       </file>
       <file name="/exhibitree2_production.public.proof_urls [Exhibitree2-production]" timestamp="1542072093249">
         <mark key="[" line="0" column="0" />
@@ -263,11 +263,11 @@
         <mark key="^" line="47" column="44" />
         <mark key="." line="47" column="44" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/app/admin/venue.rb" timestamp="1544731335180">
-        <mark key="'" line="11" column="60" />
-        <mark key="[" line="2" column="19" />
-        <mark key="]" line="2" column="19" />
-        <mark key="." line="2" column="19" />
+      <file name="$USER_HOME$/code/io/io-engage/app/admin/venue.rb" timestamp="1544733164224">
+        <mark key="'" line="51" column="20" />
+        <mark key="[" line="2" column="17" />
+        <mark key="]" line="2" column="17" />
+        <mark key="." line="2" column="17" />
         <mark key="^" line="2" column="49" />
       </file>
       <file name="/exhibitree1_production.public.items [io_prod]" timestamp="1542394949109">
@@ -907,21 +907,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="134" column="26" filename="$USER_HOME$/code/io/io-engage/app/models/item.rb" />
-      <jump line="136" column="51" filename="$USER_HOME$/code/io/io-engage/app/models/item.rb" />
-      <jump line="226" column="36" filename="$USER_HOME$/code/io/io-engage/app/models/item.rb" />
-      <jump line="286" column="11" filename="$USER_HOME$/code/io/io-engage/app/models/item.rb" />
-      <jump line="313" column="51" filename="$USER_HOME$/code/io/io-engage/app/models/item.rb" />
-      <jump line="193" column="17" filename="$USER_HOME$/code/io/io-engage/config/locales/en.yml" />
-      <jump line="377" column="49" filename="$USER_HOME$/code/io/io-engage/config/locales/en.yml" />
-      <jump line="479" column="50" filename="$USER_HOME$/code/io/io-engage/config/locales/en.yml" />
-      <jump line="487" column="41" filename="$USER_HOME$/code/io/io-engage/config/locales/en.yml" />
-      <jump line="535" column="40" filename="$USER_HOME$/code/io/io-engage/config/locales/en.yml" />
-      <jump line="599" column="27" filename="$USER_HOME$/code/io/io-engage/config/locales/en.yml" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/io/io-engage/config/locales/en.yml" />
-      <jump line="379" column="49" filename="$USER_HOME$/code/io/io-engage/config/locales/en.yml" />
-      <jump line="168" column="0" filename="$USER_HOME$/code/io/io-engage/config/locales/en.yml" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/io/io-engage/spec/features/delete_venue_spec.rb" />
       <jump line="9" column="0" filename="$USER_HOME$/code/io/io-engage/spec/features/delete_venue_spec.rb" />
       <jump line="16" column="0" filename="$USER_HOME$/code/io/io-engage/spec/features/delete_general_location_spec.rb" />
       <jump line="19" column="0" filename="$USER_HOME$/code/io/io-engage/spec/features/delete_general_location_spec.rb" />
@@ -1003,17 +988,32 @@
       <jump line="50" column="48" filename="$USER_HOME$/code/io/io-engage/spec/controllers/admin/general_locations_controller_spec.rb" />
       <jump line="10" column="0" filename="$USER_HOME$/code/io/io-engage/config/database.yml" />
       <jump line="4" column="0" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
-      <jump line="19" column="15" filename="$USER_HOME$/code/io/io-engage/app/admin/venue.rb" />
       <jump line="15" column="14" filename="$USER_HOME$/code/io/io-engage/app/admin/venue.rb" />
-      <jump line="7" column="13" filename="$USER_HOME$/code/io/io-engage/app/admin/general_location.rb" />
       <jump line="11" column="60" filename="$USER_HOME$/code/io/io-engage/app/admin/venue.rb" />
+      <jump line="19" column="10" filename="$USER_HOME$/code/io/io-engage/app/admin/venue.rb" />
+      <jump line="48" column="12" filename="$USER_HOME$/code/io/io-engage/app/admin/venue.rb" />
+      <jump line="59" column="11" filename="$USER_HOME$/code/io/io-engage/app/admin/venue.rb" />
+      <jump line="70" column="89" filename="$USER_HOME$/code/io/io-engage/app/admin/venue.rb" />
+      <jump line="74" column="86" filename="$USER_HOME$/code/io/io-engage/app/admin/venue.rb" />
+      <jump line="75" column="20" filename="$USER_HOME$/code/io/io-engage/app/admin/venue.rb" />
+      <jump line="57" column="8" filename="$USER_HOME$/code/io/io-engage/app/admin/general_location.rb" />
+      <jump line="7" column="0" filename="$USER_HOME$/code/io/io-engage/app/admin/general_location.rb" />
+      <jump line="79" column="0" filename="$USER_HOME$/code/io/io-engage/app/admin/general_location.rb" />
+      <jump line="3" column="0" filename="$USER_HOME$/code/io/io-engage/app/admin/general_location.rb" />
+      <jump line="5" column="24" filename="$USER_HOME$/code/io/io-engage/app/admin/general_location.rb" />
+      <jump line="9" column="10" filename="$USER_HOME$/code/io/io-engage/app/admin/general_location.rb" />
+      <jump line="38" column="36" filename="$USER_HOME$/code/io/io-engage/app/admin/general_location.rb" />
+      <jump line="43" column="38" filename="$USER_HOME$/code/io/io-engage/app/admin/general_location.rb" />
+      <jump line="53" column="17" filename="$USER_HOME$/code/io/io-engage/app/admin/general_location.rb" />
+      <jump line="66" column="15" filename="$USER_HOME$/code/io/io-engage/app/admin/general_location.rb" />
+      <jump line="76" column="21" filename="$USER_HOME$/code/io/io-engage/app/admin/general_location.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>_w</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>, :floor_plan</text>
       </register>
       <register name="b" type="4">
         <text>kkjj</text>
@@ -4705,13 +4705,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>, :floor_plan</text>
       </register>
       <register name="n" type="4">
         <text />
       </register>
       <register name="/" type="4">
-        <text>not_change</text>
+        <text>venue</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBkYXRhYmFzZTogcWFfbG9jYWwK</text>
@@ -5152,9 +5152,9 @@
       </register>
     </registers>
     <search>
-      <last-search>not_change</last-search>
+      <last-search>venue</last-search>
       <last-offset />
-      <last-pattern>not_change</last-pattern>
+      <last-pattern>venue</last-pattern>
       <last-replace>view_pricing_tab</last-replace>
       <last-substitute>view_pricing</last-substitute>
       <last-dir>1</last-dir>
@@ -5162,7 +5162,6 @@
     </search>
     <history>
       <history-search>
-        <entry>vendor_prep</entry>
         <entry>all_item_ids</entry>
         <entry>bidning.pry</entry>
         <entry>binding</entry>
@@ -5171,7 +5170,6 @@
         <entry>default_scope</entry>
         <entry encoding="base64">PDw8</entry>
         <entry encoding="base64">Pj4+</entry>
-        <entry>venue</entry>
         <entry>zone</entry>
         <entry>locations</entry>
         <entry>controller</entry>
@@ -5182,6 +5180,8 @@
         <entry>redirect</entry>
         <entry>numan</entry>
         <entry>not_change</entry>
+        <entry>floor</entry>
+        <entry>venue</entry>
       </history-search>
       <history-cmd>
         <entry>104</entry>
