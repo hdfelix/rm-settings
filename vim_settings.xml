@@ -250,6 +250,13 @@
         <mark key="^" line="47" column="44" />
         <mark key="." line="47" column="44" />
       </file>
+      <file name="$USER_HOME$/code/io/io-engage/app/admin/venue.rb" timestamp="1544722654927">
+        <mark key="'" line="41" column="15" />
+        <mark key="[" line="20" column="54" />
+        <mark key="]" line="21" column="18" />
+        <mark key="." line="21" column="18" />
+        <mark key="^" line="21" column="18" />
+      </file>
       <file name="/exhibitree1_production.public.items [io_prod]" timestamp="1542394949109">
         <mark key="[" line="0" column="0" />
       </file>
@@ -309,7 +316,7 @@
       <file name="/exhibitree_shows_local.public.items [postgres@localhost]" timestamp="1544639229409">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1544718795378">
+      <file name="/dummy.sql" timestamp="1544721747610">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -470,8 +477,8 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/io/io_engage_configuration/instances/demo/master/config/database.yml" timestamp="1544719190412" />
-      <file name="$USER_HOME$/code/io/io-engage/config/settings.yml" timestamp="1544491290490">
-        <mark key="'" line="415" column="12" />
+      <file name="$USER_HOME$/code/io/io-engage/config/settings.yml" timestamp="1544721701069">
+        <mark key="'" line="4" column="0" />
         <mark key="[" line="20" column="0" />
         <mark key="]" line="23" column="49" />
         <mark key="^" line="19" column="48" />
@@ -665,12 +672,12 @@
       <file name="/qa_0.public.zones [qa-master]" timestamp="1543890847407">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/config/database.yml" timestamp="1543868624809">
-        <mark key="'" line="42" column="24" />
-        <mark key="[" line="41" column="29" />
-        <mark key="]" line="41" column="34" />
-        <mark key="." line="41" column="34" />
-        <mark key="^" line="41" column="34" />
+      <file name="$USER_HOME$/code/io/io-engage/config/database.yml" timestamp="1544721694102">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="45" column="20" />
+        <mark key="]" line="45" column="24" />
+        <mark key="." line="45" column="24" />
+        <mark key="^" line="45" column="24" />
       </file>
       <file name="$USER_HOME$/code/io/io-engage/app/admin/non_chargeable_reason.rb" timestamp="1543266783835">
         <mark key="[" line="15" column="22" />
@@ -887,9 +894,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="20" filename="$USER_HOME$/code/io/io-engage/config/environments/production.rb" />
-      <jump line="60" column="11" filename="$USER_HOME$/code/io/io-engage/config/environments/production.rb" />
-      <jump line="119" column="2" filename="$USER_HOME$/code/io/io-engage/config/environments/production.rb" />
       <jump line="52" column="19" filename="$USER_HOME$/code/io/io-engage/config/environments/production.rb" />
       <jump line="45" column="18" filename="$USER_HOME$/code/io/io-engage/app/controllers/concerns/search_items_concern.rb" />
       <jump line="76" column="25" filename="$USER_HOME$/code/io/io-engage/app/models/item.rb" />
@@ -987,13 +991,16 @@
       <jump line="22" column="34" filename="$USER_HOME$/code/io/io-engage/app/admin/venue.rb" />
       <jump line="51" column="0" filename="$USER_HOME$/code/io/io-engage/spec/controllers/admin/general_locations_controller_spec.rb" />
       <jump line="50" column="48" filename="$USER_HOME$/code/io/io-engage/spec/controllers/admin/general_locations_controller_spec.rb" />
+      <jump line="10" column="0" filename="$USER_HOME$/code/io/io-engage/config/database.yml" />
+      <jump line="4" column="0" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
+      <jump line="19" column="15" filename="$USER_HOME$/code/io/io-engage/app/admin/venue.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>_w</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">bwo=</text>
+        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
       </register>
       <register name="b" type="4">
         <text>kkjj</text>
@@ -4694,28 +4701,28 @@
         <text>not_change</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnRvKHJhaXNlX2V4Y2VwdGlvbihBY3RpdmVSZWNvcmQ6OlN0YXRlbWVudEludmFsaWQpKSAK</text>
+        <text encoding="base64">ICBkYXRhYmFzZTogcWFfbG9jYWwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bwo=</text>
+        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
       </register>
       <register name="q" type="4">
         <text>jdd</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnRvKHJhaXNlX2V4Y2VwdGlvbikK</text>
+        <text encoding="base64">bwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnRvKHJhaXNlX2V4Y2VwdGlvbikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBSU3BlYzo6TWF0Y2hlcnMuZGVmaW5lX25lZ2F0ZWRfbWF0Y2hlciA6bm90X2NoYW5nZSwgOmNoYW5nZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <text>jdd</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQoOmdlbmVyYWxfbG9jYXRpb24pIHsgdmVudWUuZ2VuZXJhbF9sb2NhdGlvbnMuZmlyc3QgfQogICAgICAgIGxldCEoOml0ZW0pIHsgY3JlYXRlKDppdGVtLCAgem9uZTogem9uZSwgZ2VuZXJhbF9sb2NhdGlvbjogZ2VuZXJhbF9sb2NhdGlvbikgfQo=</text>
+        <text encoding="base64">ICAgICAgICBSU3BlYzo6TWF0Y2hlcnMuZGVmaW5lX25lZ2F0ZWRfbWF0Y2hlciA6bm90X2NoYW5nZSwgOmNoYW5nZQo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -5116,16 +5123,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQoOnZlbnVlKSB7IHpvbmUudmVudWVzLmZpcnN0IH0K</text>
+        <text encoding="base64">ICAgICAgICBsZXQoOmdlbmVyYWxfbG9jYXRpb24pIHsgdmVudWUuZ2VuZXJhbF9sb2NhdGlvbnMuZmlyc3QgfQogICAgICAgIGxldCEoOml0ZW0pIHsgY3JlYXRlKDppdGVtLCAgem9uZTogem9uZSwgZ2VuZXJhbF9sb2NhdGlvbjogZ2VuZXJhbF9sb2NhdGlvbikgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQoOnZlbnVlKSB7IHpvbmUudmVudWVzLmZpcnN0IH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBSU3BlYzo6TWF0Y2hlcnMuZGVmaW5lX25lZ2F0ZWRfbWF0Y2hlciA6bm90X2NoYW5nZSwgOmNoYW5nZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
+        <text encoding="base64">ICAgICAgICBSU3BlYzo6TWF0Y2hlcnMuZGVmaW5lX25lZ2F0ZWRfbWF0Y2hlciA6bm90X2NoYW5nZSwgOmNoYW5nZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
