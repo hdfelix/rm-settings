@@ -6,8 +6,8 @@
       <file name="/exhibitree_shows_15.public.venues_zones [postgres@localhost]" timestamp="1542307189926">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/app/assets/stylesheets/active_admin.scss" timestamp="1543267066069">
-        <mark key="'" line="113" column="6" />
+      <file name="$USER_HOME$/code/io/io-engage/app/assets/stylesheets/active_admin.scss" timestamp="1544739185505">
+        <mark key="'" line="13" column="31" />
         <mark key="[" line="94" column="9" />
         <mark key="]" line="94" column="10" />
         <mark key="." line="94" column="10" />
@@ -31,6 +31,12 @@
       </file>
       <file name="/dreamforce_production.public.layout_files [Dreamforce 2018]" timestamp="1544560797522">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/io/io-engage/spec/controllers/copies_controller_spec.rb" timestamp="1544580950830">
+        <mark key="[" line="17" column="59" />
+        <mark key="]" line="17" column="63" />
+        <mark key="." line="17" column="63" />
+        <mark key="^" line="17" column="63" />
       </file>
       <file name="/exhibitree1_production.public.venues [io_prod]" timestamp="1543539420303">
         <mark key="[" line="0" column="0" />
@@ -107,18 +113,17 @@
         <mark key="." line="34" column="86" />
         <mark key="^" line="34" column="86" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/app/views/graphics/_milestones.html.haml" timestamp="1544736678000">
+      <file name="$USER_HOME$/code/io/io-engage/app/views/graphics/_milestones.html.haml" timestamp="1544738186918">
         <mark key="'" line="29" column="34" />
-        <mark key="[" line="29" column="34" />
-        <mark key="]" line="29" column="46" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
         <mark key="^" line="29" column="46" />
-        <mark key="." line="29" column="46" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="/exhibitree_shows_local.public.layout_files [postgres@localhost]" timestamp="1544489364863">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/io/io-engage/config/locales/en.yml" timestamp="1544736537569">
-        <mark key="'" line="104" column="17" />
         <mark key="[" line="61" column="14" />
         <mark key="]" line="62" column="17" />
         <mark key="." line="62" column="17" />
@@ -278,6 +283,12 @@
       <file name="/exhibitree1_production.public.items [io_prod]" timestamp="1542394949109">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/io/io-engage/spec/controllers/graphics_controller_spec.rb" timestamp="1544579893228">
+        <mark key="[" line="62" column="60" />
+        <mark key="]" line="62" column="64" />
+        <mark key="." line="62" column="64" />
+        <mark key="^" line="62" column="64" />
+      </file>
       <file name="$USER_HOME$/code/io/io-engage/scripts/update_item_urls.rb" timestamp="1543524903206">
         <mark key="'" line="39" column="28" />
         <mark key="[" line="63" column="6" />
@@ -303,6 +314,9 @@
         <mark key="." line="50" column="0" />
         <mark key="^" line="46" column="30" />
       </file>
+      <file name="$USER_HOME$/code/io/io-engage/Gemfile" timestamp="1544651923316">
+        <mark key="'" line="11" column="0" />
+      </file>
       <file name="/exhibitree_shows.public.roles [postgres@localhost]" timestamp="1542162332816">
         <mark key="[" line="0" column="0" />
       </file>
@@ -311,10 +325,10 @@
       </file>
       <file name="$USER_HOME$/code/io/io-engage/app/models/item.rb" timestamp="1544737190310">
         <mark key="'" line="140" column="31" />
-        <mark key="[" line="271" column="67" />
-        <mark key="]" line="271" column="67" />
-        <mark key="." line="271" column="67" />
-        <mark key="^" line="271" column="31" />
+        <mark key="[" line="140" column="67" />
+        <mark key="]" line="140" column="67" />
+        <mark key="." line="140" column="67" />
+        <mark key="^" line="140" column="31" />
       </file>
       <file name="/exhibitree_shows.public.rush_overrides [postgres@localhost]" timestamp="1542160662987">
         <mark key="[" line="0" column="0" />
@@ -445,7 +459,6 @@
       <file name="/exhibitree_shows.public.item_groups [postgres@localhost]" timestamp="1542243350968">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/spec/controllers/pins_controller_spec.rb" timestamp="1544638504336" />
       <file name="/exhibitree_shows_db_for_migration.public.zone_brands [postgres@localhost]" timestamp="1542323872382">
         <mark key="[" line="0" column="0" />
       </file>
@@ -500,7 +513,6 @@
       <file name="/exhibitree_shows_db_for_migration.public.attachments [postgres@localhost]" timestamp="1542332274913">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/demo/master/config/database.yml" timestamp="1544719190412" />
       <file name="$USER_HOME$/code/io/io-engage/config/settings.yml" timestamp="1544721701069">
         <mark key="'" line="4" column="0" />
         <mark key="[" line="20" column="0" />
@@ -518,7 +530,6 @@
       <file name="/exhibitree_shows.public.workflows_events [postgres@localhost]" timestamp="1542301850119">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/app/controllers/add_ons_controller.rb" timestamp="1544647067437" />
       <file name="/exhibitree_shows_local.public.venues [postgres@localhost]" timestamp="1544639196064">
         <mark key="[" line="0" column="0" />
       </file>
@@ -614,8 +625,18 @@
         <mark key="^" line="32" column="43" />
         <mark key="." line="32" column="17" />
       </file>
+      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/demo/shared/app/assets/stylesheets/active_admin.scss" timestamp="1544739218497">
+        <mark key="'" line="218" column="1" />
+        <mark key="[" line="216" column="1" />
+        <mark key="]" line="217" column="0" />
+        <mark key="^" line="217" column="0" />
+        <mark key="." line="217" column="0" />
+      </file>
       <file name="/exhibitree_shows.public.items_roles [postgres@localhost]" timestamp="1542243064661">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/io/io-engage/spec/factories/items.rb" timestamp="1544639716291">
+        <mark key="'" line="393" column="22" />
       </file>
       <file name="/exhibitree_shows.public.general_locations [Exhibitree Cloud]" timestamp="1543541204130">
         <mark key="[" line="0" column="0" />
@@ -647,11 +668,11 @@
         <mark key="." line="80" column="34" />
         <mark key="^" line="80" column="34" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/app/admin/substrate_category.rb" timestamp="1543262799948">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="17" column="1" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/code/io/io-engage/app/admin/substrate_category.rb" timestamp="1544739000872">
+        <mark key="[" line="8" column="16" />
+        <mark key="]" line="9" column="10" />
+        <mark key="^" line="9" column="10" />
+        <mark key="." line="9" column="10" />
       </file>
       <file name="$USER_HOME$/code/io/io-engage/.rubocop.yml" timestamp="1543957516145">
         <mark key="[" line="16" column="12" />
@@ -695,8 +716,8 @@
         <mark key="." line="45" column="24" />
         <mark key="^" line="45" column="24" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/app/admin/non_chargeable_reason.rb" timestamp="1543266783835">
-        <mark key="[" line="15" column="22" />
+      <file name="$USER_HOME$/code/io/io-engage/app/admin/non_chargeable_reason.rb" timestamp="1544738976380">
+        <mark key="[" line="16" column="4" />
         <mark key="]" line="16" column="10" />
         <mark key="^" line="16" column="10" />
         <mark key="." line="16" column="10" />
@@ -877,10 +898,6 @@
       </file>
       <file name="$USER_HOME$/code/io/io-engage/spec/models/item_spec.rb" timestamp="1544737280002">
         <mark key="'" line="109" column="6" />
-        <mark key="[" line="1250" column="33" />
-        <mark key="]" line="1250" column="33" />
-        <mark key="." line="1250" column="33" />
-        <mark key="^" line="1250" column="33" />
       </file>
       <file name="/exhibitree_shows.public.attachments [postgres@localhost]" timestamp="1542243449082">
         <mark key="[" line="0" column="0" />
@@ -913,8 +930,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="94" column="0" filename="$USER_HOME$/code/io/io-engage/spec/models/grid_item_spec.rb" />
-      <jump line="298" column="70" filename="$USER_HOME$/code/io/io-engage/spec/models/item_spec.rb" />
       <jump line="14" column="0" filename="$USER_HOME$/code/io/io-engage/spec/controllers/reproductions_controller_spec.rb" />
       <jump line="10" column="87" filename="$USER_HOME$/code/io/io-engage/spec/support/rspec/shared_examples_for_items_controller.rb" />
       <jump line="16" column="0" filename="$USER_HOME$/code/io/io-engage/db/structure.sql" />
@@ -1013,13 +1028,17 @@
       <jump line="105" column="2" filename="$USER_HOME$/code/io/io-engage/config/locales/en.yml" />
       <jump line="29" column="34" filename="$USER_HOME$/code/io/io-engage/app/views/graphics/_milestones.html.haml" />
       <jump line="103" column="17" filename="$USER_HOME$/code/io/io-engage/config/locales/en.yml" />
+      <jump line="13" column="31" filename="$USER_HOME$/code/io/io-engage/app/assets/stylesheets/active_admin.scss" />
+      <jump line="218" column="1" filename="$USER_HOME$/code/io/io_engage_configuration/instances/demo/shared/app/assets/stylesheets/active_admin.scss" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>_w</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="8">
+        <text>| +
+| +
+| +</text>
       </register>
       <register name="b" type="4">
         <text>kkjj</text>
@@ -4717,31 +4736,33 @@
         <text />
       </register>
       <register name="/" type="4">
-        <text>item_created</text>
+        <text>index_as_table</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIG1pbGVzdG9uZSA9IHNlbGYubWlsZXN0b25lcy5jcmVhdGUhKGZyb206IGZyb20sIHRvOiB0bywgZXZlbnQ6IGV2ZW50LCBsYXlvdXRfZmlsZTogc2VsZi5sYXlvdXRfZmlsZXMuc29ydC5sYXN0KQo=</text>
+      <register name="0" type="4">
+        <text>actions</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAjIEFkZCBtaWxlc3RvbmUgZm9yIGl0ZW1fY3JlYXRlCiAgICAgYmluZGluZy5wcnkK</text>
+      <register name="1" type="8">
+        <text>| +
+| +
+| +</text>
       </register>
       <register name="q" type="4">
         <text>jdd</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLSBiaW5kaW5nLnByeQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgbWlsZXN0b25lID0gaXRlbS5taWxlc3RvbmVzLmZpcnN0Cg==</text>
+        <text encoding="base64">ICAgICAjIEFkZCBtaWxlc3RvbmUgZm9yIGl0ZW1fY3JlYXRlCiAgICAgYmluZGluZy5wcnkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <text>jdd</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgbWlsZXN0b25lID0gaXRlbS5taWxlc3RvbmVzLmZpcnN0Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -5142,25 +5163,25 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgaXRlbV9jcmVhdGVkOiAqaXRlbV9jcmVhdGVkCiAgICAgIHJlYWR5X2Zvcl9rVmRlc2lnbjogKnJlYWR5X2Zvcl9kZXNpZ24K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAtIGJpbmRpbmcucHJ5Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaXRlbV9jcmVhdGVkOiAqaXRlbV9jcmVhdGVkCiAgICAgIHJlYWR5X2Zvcl9rVmRlc2lnbjogKnJlYWR5X2Zvcl9kZXNpZ24K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAtIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>item_created</last-search>
+      <last-search>index_as_table</last-search>
       <last-offset />
-      <last-pattern>item_created</last-pattern>
+      <last-pattern>index_as_table</last-pattern>
       <last-replace>view_pricing_tab</last-replace>
       <last-substitute>view_pricing</last-substitute>
       <last-dir>1</last-dir>
@@ -5168,7 +5189,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">Pj4+</entry>
         <entry>zone</entry>
         <entry>locations</entry>
         <entry>controller</entry>
@@ -5184,10 +5204,11 @@
         <entry>#create</entry>
         <entry>create</entry>
         <entry>milestone</entry>
-        <entry>binding</entry>
         <entry>graphics</entry>
         <entry>milestones\:</entry>
         <entry>item_created</entry>
+        <entry>binding</entry>
+        <entry>index_as_table</entry>
       </history-search>
       <history-cmd>
         <entry>104</entry>
