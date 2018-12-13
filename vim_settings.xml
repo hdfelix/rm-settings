@@ -183,6 +183,9 @@
         <mark key="." line="3" column="36" />
         <mark key="^" line="3" column="36" />
       </file>
+      <file name="/qa_0.public.general_locations [qa-master]" timestamp="1544726798172">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/hfelix_development.public.proof_urls [hfelix_development@localhost]" timestamp="1542072466469">
         <mark key="[" line="0" column="0" />
       </file>
@@ -316,7 +319,7 @@
       <file name="/exhibitree_shows_local.public.items [postgres@localhost]" timestamp="1544639229409">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1544725964042">
+      <file name="/dummy.sql" timestamp="1544726883804">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -416,6 +419,9 @@
         <mark key="." line="158" column="0" />
       </file>
       <file name="/exhibitree_shows_18.public.field_sets [postgres@localhost]" timestamp="1542681123121">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/qa_local.public.general_locations [postgres@localhost]" timestamp="1544726883707">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/exhibitree_shows.public.zone_brands [Exhibitree Cloud]" timestamp="1542323639709">
