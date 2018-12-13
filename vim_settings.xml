@@ -23,6 +23,12 @@
       <file name="/exhibitree_shows.public.venues_zones [postgres@localhost]" timestamp="1542146941391">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/io/io-engage/spec/controllers/admin/venues_controller_spec.rb" timestamp="1544668639610">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="65" />
+        <mark key="^" line="44" column="16" />
+        <mark key="." line="44" column="16" />
+      </file>
       <file name="/exhibitree_shows_local.public.rushes_zones [postgres@localhost]" timestamp="1543889984590">
         <mark key="[" line="0" column="0" />
       </file>
@@ -41,11 +47,11 @@
       <file name="/exhibitree1_production.public.venues [io_prod]" timestamp="1543539420303">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/app/admin/general_location.rb" timestamp="1544666326296">
-        <mark key="[" line="21" column="61" />
-        <mark key="]" line="21" column="61" />
-        <mark key="^" line="21" column="61" />
-        <mark key="." line="21" column="61" />
+      <file name="$USER_HOME$/code/io/io-engage/app/admin/general_location.rb" timestamp="1544668565871">
+        <mark key="[" line="20" column="53" />
+        <mark key="]" line="20" column="53" />
+        <mark key="^" line="20" column="52" />
+        <mark key="." line="20" column="53" />
       </file>
       <file name="/exhibitree2_production.public.proof_urls [Exhibitree2-production]" timestamp="1542072093249">
         <mark key="[" line="0" column="0" />
@@ -259,6 +265,13 @@
         <mark key="^" line="47" column="44" />
         <mark key="." line="47" column="44" />
       </file>
+      <file name="$USER_HOME$/code/io/io-engage/app/admin/venue.rb" timestamp="1544667915412">
+        <mark key="'" line="22" column="34" />
+        <mark key="[" line="21" column="80" />
+        <mark key="]" line="21" column="80" />
+        <mark key="." line="21" column="80" />
+        <mark key="^" line="21" column="80" />
+      </file>
       <file name="/exhibitree1_production.public.items [io_prod]" timestamp="1542394949109">
         <mark key="[" line="0" column="0" />
       </file>
@@ -281,7 +294,7 @@
       <file name="/exhibitree_shows_15.public.roles [postgres@localhost]" timestamp="1542306775924">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1544660826077">
+      <file name="/Ruby Console" timestamp="1544668900496">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="21" />
         <mark key="^" line="0" column="21" />
@@ -821,12 +834,12 @@
         <mark key="^" line="30" column="10" />
         <mark key="." line="30" column="10" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/spec/controllers/admin/general_locations_controller_spec.rb" timestamp="1544666241610">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="43" column="36" />
-        <mark key="]" line="43" column="38" />
-        <mark key="." line="43" column="38" />
-        <mark key="^" line="43" column="38" />
+      <file name="$USER_HOME$/code/io/io-engage/spec/controllers/admin/general_locations_controller_spec.rb" timestamp="1544668895709">
+        <mark key="'" line="50" column="48" />
+        <mark key="[" line="58" column="65" />
+        <mark key="]" line="59" column="9" />
+        <mark key="." line="59" column="9" />
+        <mark key="^" line="59" column="9" />
       </file>
       <file name="/exhibitree_shows.public.milestones [postgres@localhost]" timestamp="1542143723203">
         <mark key="[" line="0" column="0" />
@@ -901,13 +914,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="14" filename="$USER_HOME$/code/io/io-engage/spec/factories/permissions.rb" />
-      <jump line="61" column="11" filename="$USER_HOME$/code/io/io-engage/spec/factories/permissions.rb" />
-      <jump line="11" column="25" filename="$USER_HOME$/code/io/io-engage/config/environments/production.rb" />
-      <jump line="61" column="0" filename="$USER_HOME$/code/io/io-engage/config/environments/production.rb" />
-      <jump line="116" column="20" filename="$USER_HOME$/code/io/io-engage/config/environments/production.rb" />
-      <jump line="117" column="20" filename="$USER_HOME$/code/io/io-engage/config/environments/production.rb" />
-      <jump line="118" column="11" filename="$USER_HOME$/code/io/io-engage/config/environments/production.rb" />
       <jump line="59" column="20" filename="$USER_HOME$/code/io/io-engage/config/environments/production.rb" />
       <jump line="60" column="11" filename="$USER_HOME$/code/io/io-engage/config/environments/production.rb" />
       <jump line="119" column="2" filename="$USER_HOME$/code/io/io-engage/config/environments/production.rb" />
@@ -1001,13 +1007,20 @@
       <jump line="127" column="65" filename="$USER_HOME$/code/io/io-engage/spec/controllers/items_controller_spec.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/code/io/io-engage/spec/controllers/items_controller_spec.rb" />
       <jump line="22" column="67" filename="$USER_HOME$/code/io/io-engage/spec/controllers/items_controller_spec.rb" />
+      <jump line="21" column="103" filename="$USER_HOME$/code/io/io-engage/app/admin/venue.rb" />
+      <jump line="30" column="36" filename="$USER_HOME$/code/io/io-engage/spec/controllers/admin/vendors_controller_spec.rb" />
+      <jump line="28" column="0" filename="$USER_HOME$/code/io/io-engage/spec/controllers/admin/vendors_controller_spec.rb" />
+      <jump line="29" column="4" filename="$USER_HOME$/code/io/io-engage/spec/controllers/admin/vendors_controller_spec.rb" />
+      <jump line="22" column="34" filename="$USER_HOME$/code/io/io-engage/app/admin/venue.rb" />
+      <jump line="51" column="0" filename="$USER_HOME$/code/io/io-engage/spec/controllers/admin/general_locations_controller_spec.rb" />
+      <jump line="50" column="48" filename="$USER_HOME$/code/io/io-engage/spec/controllers/admin/general_locations_controller_spec.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>_w</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">bwo=</text>
       </register>
       <register name="b" type="4">
         <text>kkjj</text>
@@ -4699,37 +4712,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>o</text>
       </register>
       <register name="n" type="4">
         <text />
       </register>
       <register name="/" type="4">
-        <text>redirect</text>
+        <text>not_change</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIGV4cGVjdCB7CiAgICAgICAgICAgIGRlbGV0ZSA6ZGVzdHJveSwgcGFyYW1zOiB7IGlkOiBnZW5lcmFsX2xvY2F0aW9uLmlkIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnRvKHJhaXNlX2V4Y2VwdGlvbihBY3RpdmVSZWNvcmQ6OlN0YXRlbWVudEludmFsaWQpKSAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZW5kCg==</text>
+        <text encoding="base64">bwo=</text>
       </register>
       <register name="q" type="4">
         <text>jdd</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZWRpcmVjdF90byBhZG1pbl9nZW5lcmFsX2xvY2F0aW9uc19wYXRoCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnRvKHJhaXNlX2V4Y2VwdGlvbikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3Qgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGV4cGVjdChHZW5lcmFsTG9jYXRpb24uYWxsLmNvdW50KS50byBiZSAwCg==</text>
+        <text encoding="base64">ICAgICAgICBSU3BlYzo6TWF0Y2hlcnMuZGVmaW5lX25lZ2F0ZWRfbWF0Y2hlciA6bm90X2NoYW5nZSwgOmNoYW5nZQo=</text>
       </register>
       <register name="t" type="4">
         <text>jdd</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZW5kZXIgYWN0aW9uOiAnaW5kZXgnCg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQoOmdlbmVyYWxfbG9jYXRpb24pIHsgdmVudWUuZ2VuZXJhbF9sb2NhdGlvbnMuZmlyc3QgfQogICAgICAgIGxldCEoOml0ZW0pIHsgY3JlYXRlKDppdGVtLCAgem9uZTogem9uZSwgZ2VuZXJhbF9sb2NhdGlvbjogZ2VuZXJhbF9sb2NhdGlvbikgfQo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -5129,28 +5142,26 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="6" type="4">
-        <text>INSERT INTO exhibitree_shows.public.vendor_finishings(vendor_id, finishing_id, single_price, created_at, updated_at)
-VALUES (14, 1</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBsZXQoOnZlbnVlKSB7IHpvbmUudmVudWVzLmZpcnN0IH0K</text>
       </register>
-      <register name="7" type="4">
-        <text>INSERT INTO exhibitree_shows.public.vendor_finishings(vendor_id, finishing_id, single_price, created_at, updated_at)
-VALUES (14, 29, 1.50, current_date(</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBSU3BlYzo6TWF0Y2hlcnMuZGVmaW5lX25lZ2F0ZWRfbWF0Y2hlciA6bm90X2NoYW5nZSwgOmNoYW5nZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>redirect</last-search>
+      <last-search>not_change</last-search>
       <last-offset />
-      <last-pattern>redirect</last-pattern>
+      <last-pattern>not_change</last-pattern>
       <last-replace>view_pricing_tab</last-replace>
       <last-substitute>view_pricing</last-substitute>
       <last-dir>1</last-dir>
@@ -5158,8 +5169,6 @@ VALUES (14, 29, 1.50, current_date(</text>
     </search>
     <history>
       <history-search>
-        <entry>out_for_</entry>
-        <entry>vendor_</entry>
         <entry>vendor_prep</entry>
         <entry>all_item_ids</entry>
         <entry>bidning.pry</entry>
@@ -5178,6 +5187,8 @@ VALUES (14, 29, 1.50, current_date(</text>
         <entry>message</entry>
         <entry>subject</entry>
         <entry>redirect</entry>
+        <entry>numan</entry>
+        <entry>not_change</entry>
       </history-search>
       <history-cmd>
         <entry>104</entry>
