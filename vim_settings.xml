@@ -195,6 +195,10 @@
         <mark key="^" line="1" column="14" />
         <mark key="." line="1" column="14" />
       </file>
+      <file name="$USER_HOME$/code/io/io-engage/app/models/batch_graphic.rb" timestamp="1544757953253">
+        <mark key="[" line="229" column="0" />
+        <mark key="]" line="230" column="31" />
+      </file>
       <file name="$USER_HOME$/code/io/io-engage/spec/scripts/update_item_urls_spec.rb" timestamp="1543363855048">
         <mark key="'" line="19" column="0" />
         <mark key="[" line="3" column="36" />
@@ -694,11 +698,13 @@
       <file name="/exhibitree_shows.public.job_statuses [postgres@localhost]" timestamp="1542143669797">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/db/migrate/20181214001935_add_milestones_for_item_created_state.rb" timestamp="1544750975212">
-        <mark key="[" line="3" column="55" />
-        <mark key="]" line="3" column="64" />
-        <mark key="." line="3" column="64" />
-        <mark key="^" line="3" column="64" />
+      <file name="$USER_HOME$/code/io/io-engage/db/migrate/20181214001935_add_milestones_for_item_created_state.rb" timestamp="1544757973040">
+        <mark key="'" line="16" column="8" />
+        <mark key="i" line="29" column="2" />
+        <mark key="[" line="21" column="7" />
+        <mark key="]" line="22" column="3" />
+        <mark key="." line="22" column="3" />
+        <mark key="^" line="22" column="3" />
       </file>
       <file name="$USER_HOME$/code/io/io-engage/app/models/workflows/common.rb" timestamp="1544735510545">
         <mark key="'" line="76" column="14" />
@@ -932,8 +938,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="0" filename="$USER_HOME$/code/io/io-engage/spec/controllers/reproductions_controller_spec.rb" />
-      <jump line="10" column="87" filename="$USER_HOME$/code/io/io-engage/spec/support/rspec/shared_examples_for_items_controller.rb" />
       <jump line="16" column="0" filename="$USER_HOME$/code/io/io-engage/db/structure.sql" />
       <jump line="5681" column="0" filename="$USER_HOME$/code/io/io-engage/db/structure.sql" />
       <jump line="15" column="47" filename="$USER_HOME$/code/io/io-engage/spec/features/delete_general_location_spec.rb" />
@@ -1032,13 +1036,15 @@
       <jump line="103" column="17" filename="$USER_HOME$/code/io/io-engage/config/locales/en.yml" />
       <jump line="13" column="31" filename="$USER_HOME$/code/io/io-engage/app/assets/stylesheets/active_admin.scss" />
       <jump line="218" column="1" filename="$USER_HOME$/code/io/io_engage_configuration/instances/demo/shared/app/assets/stylesheets/active_admin.scss" />
+      <jump line="16" column="0" filename="$USER_HOME$/code/io/io-engage/db/migrate/20181214001935_add_milestones_for_item_created_state.rb" />
+      <jump line="9" column="8" filename="$USER_HOME$/code/io/io-engage/db/migrate/20181214001935_add_milestones_for_item_created_state.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>_w</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Z3JhcGhpY19yZXF1ZXN0IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgSXRlbS5zZXRfY2FsbGJhY2soOmNvbW1pdCwgOmFmdGVyLCA6cmVmcmVzaF9ncmlkX3VwZGF0ZV93YXRjaCkKICAgICAgcmVmcmVzaF9ncmlkX3VwZGF0ZV93YXRjaAo=</text>
       </register>
       <register name="b" type="4">
         <text>kkjj</text>
@@ -4730,7 +4736,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Z3JhcGhpY19yZXF1ZXN0IA==</text>
+        <text>e</text>
       </register>
       <register name="n" type="4">
         <text />
@@ -4738,31 +4744,29 @@
       <register name="/" type="4">
         <text>index_as_table</text>
       </register>
-      <register name="0" type="4">
-        <text>actions</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgSXRlbS5zZXRfY2FsbGJhY2soOmNvbW1pdCwgOmFmdGVyLCA6cmVmcmVzaF9ncmlkX3VwZGF0ZV93YXRjaCkKICAgICAgcmVmcmVzaF9ncmlkX3VwZGF0ZV93YXRjaAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text>jdd</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgaXRlbS5taWxlc3RvbmVzLmNyZWF0ZSEoZnJvbTogbmlsLCB0bzogOml0ZW1fY3JlYXRlZCwgZXZlbnQ6IDpjcmVhdGUsIGxheW91dF9maWxlOiBuaWwpCg==</text>
+        <text encoding="base64">ICAgIEl0ZW0uam9pbnMoOm1pbGVzdG9uZXMpLndoZXJlKG1pbGVzdG9uZXM6IHsgZXZlbnQ6IDpjcmVhdGVkfSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEl0ZW0uZWFjaCBkbyB8aXRlbXwK</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="t" type="4">
         <text>jdd</text>
       </register>
-      <register name="5" type="8">
-        <text>| +
-| +
-| +</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -5163,16 +5167,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLSBiaW5kaW5nLnByeQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAjIEFkZCBtaWxlc3RvbmUgZm9yIGl0ZW1fY3JlYXRlCiAgICAgYmluZGluZy5wcnkK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgaXRlbS5taWxlc3RvbmVzLmNyZWF0ZSEoZnJvbTogbmlsLCB0bzogOml0ZW1fY3JlYXRlZCwgZXZlbnQ6IDpjcmVhdGUsIGxheW91dF9maWxlOiBuaWwpCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgbWlsZXN0b25lID0gaXRlbS5taWxlc3RvbmVzLmZpcnN0Cg==</text>
+        <text encoding="base64">ICAgIEl0ZW0uZWFjaCBkbyB8aXRlbXwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
