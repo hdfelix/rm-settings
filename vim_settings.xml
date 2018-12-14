@@ -701,13 +701,13 @@
       <file name="/exhibitree_shows.public.job_statuses [postgres@localhost]" timestamp="1542143669797">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/db/migrate/20181214001935_add_milestones_for_item_created_state.rb" timestamp="1544815413558">
-        <mark key="'" line="7" column="48" />
-        <mark key="i" line="31" column="2" />
-        <mark key="[" line="25" column="6" />
+      <file name="$USER_HOME$/code/io/io-engage/db/migrate/20181214001935_add_milestones_for_item_created_state.rb" timestamp="1544816404604">
+        <mark key="'" line="29" column="9" />
+        <mark key="i" line="30" column="2" />
+        <mark key="[" line="27" column="0" />
         <mark key="m" line="7" column="26" />
-        <mark key="]" line="25" column="6" />
-        <mark key="." line="25" column="6" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/code/io/io-engage/app/models/workflows/common.rb" timestamp="1544735510545">
         <mark key="'" line="76" column="14" />
@@ -941,11 +941,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="169" column="36" filename="$USER_HOME$/code/io/io-engage/spec/factories/items.rb" />
-      <jump line="174" column="36" filename="$USER_HOME$/code/io/io-engage/spec/factories/items.rb" />
-      <jump line="393" column="22" filename="$USER_HOME$/code/io/io-engage/spec/factories/items.rb" />
-      <jump line="43" column="8" filename="$USER_HOME$/code/io/io-engage/spec/controllers/admin/general_locations_controller_spec.rb" />
-      <jump line="7" column="0" filename="$USER_HOME$/code/io/io-engage/spec/controllers/admin/general_locations_controller_spec.rb" />
       <jump line="33" column="46" filename="$USER_HOME$/code/io/io-engage/spec/controllers/admin/general_locations_controller_spec.rb" />
       <jump line="34" column="45" filename="$USER_HOME$/code/io/io-engage/spec/controllers/admin/general_locations_controller_spec.rb" />
       <jump line="60" column="2" filename="$USER_HOME$/code/io/io-engage/spec/controllers/admin/general_locations_controller_spec.rb" />
@@ -1028,11 +1023,7 @@
       <jump line="45" column="0" filename="$USER_HOME$/code/io/io-engage/app/models/concerns/milestones.rb" />
       <jump line="54" column="0" filename="$USER_HOME$/code/io/io-engage/app/models/concerns/milestones.rb" />
       <jump line="8" column="0" filename="$USER_HOME$/code/io/io-engage/db/migrate/20181214001935_add_milestones_for_item_created_state.rb" />
-      <jump line="34" column="0" filename="$USER_HOME$/code/io/io-engage/db/migrate/20181214001935_add_milestones_for_item_created_state.rb" />
       <jump line="13" column="33" filename="$USER_HOME$/code/io/io-engage/db/migrate/20181214001935_add_milestones_for_item_created_state.rb" />
-      <jump line="35" column="45" filename="$USER_HOME$/code/io/io-engage/db/migrate/20181214001935_add_milestones_for_item_created_state.rb" />
-      <jump line="48" column="44" filename="$USER_HOME$/code/io/io-engage/db/migrate/20181214001935_add_milestones_for_item_created_state.rb" />
-      <jump line="25" column="44" filename="$USER_HOME$/code/io/io-engage/db/migrate/20181214001935_add_milestones_for_item_created_state.rb" />
       <jump line="27" column="6" filename="$USER_HOME$/code/io/io-engage/db/migrate/20181214001935_add_milestones_for_item_created_state.rb" />
       <jump line="6" column="0" filename="$USER_HOME$/code/io/io-engage/db/migrate/20181214001935_add_milestones_for_item_created_state.rb" />
       <jump line="49" column="2" filename="$USER_HOME$/code/io/io-engage/db/migrate/20181214001935_add_milestones_for_item_created_state.rb" />
@@ -1041,13 +1032,22 @@
       <jump line="47" column="0" filename="$USER_HOME$/code/io/io-engage/db/migrate/20181214001935_add_milestones_for_item_created_state.rb" />
       <jump line="2" column="0" filename="$USER_HOME$/code/io/io-engage/db/migrate/20181214001935_add_milestones_for_item_created_state.rb" />
       <jump line="7" column="48" filename="$USER_HOME$/code/io/io-engage/db/migrate/20181214001935_add_milestones_for_item_created_state.rb" />
+      <jump line="35" column="0" filename="$USER_HOME$/code/io/io-engage/db/migrate/20181214001935_add_milestones_for_item_created_state.rb" />
+      <jump line="33" column="4" filename="$USER_HOME$/code/io/io-engage/db/migrate/20181214001935_add_milestones_for_item_created_state.rb" />
+      <jump line="28" column="0" filename="$USER_HOME$/code/io/io-engage/db/migrate/20181214001935_add_milestones_for_item_created_state.rb" />
+      <jump line="34" column="8" filename="$USER_HOME$/code/io/io-engage/db/migrate/20181214001935_add_milestones_for_item_created_state.rb" />
+      <jump line="32" column="0" filename="$USER_HOME$/code/io/io-engage/db/migrate/20181214001935_add_milestones_for_item_created_state.rb" />
+      <jump line="40" column="0" filename="$USER_HOME$/code/io/io-engage/db/migrate/20181214001935_add_milestones_for_item_created_state.rb" />
+      <jump line="48" column="0" filename="$USER_HOME$/code/io/io-engage/db/migrate/20181214001935_add_milestones_for_item_created_state.rb" />
+      <jump line="25" column="4" filename="$USER_HOME$/code/io/io-engage/db/migrate/20181214001935_add_milestones_for_item_created_state.rb" />
+      <jump line="29" column="9" filename="$USER_HOME$/code/io/io-engage/db/migrate/20181214001935_add_milestones_for_item_created_state.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>_w</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="4">
         <text>kkjj</text>
@@ -4739,7 +4739,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>p</text>
       </register>
       <register name="n" type="4">
         <text />
@@ -4748,28 +4748,28 @@
         <text>recreate</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgR3JpZEl0ZW1TZXJ2aWNlLnJlY3JlYXRlCg==</text>
+        <text encoding="base64">ICAgIGJlZ2luCiAgICAgIEl0ZW0uc2V0X2NhbGxiYWNrKDpjb21taXQsIDphZnRlciwgOnJlZnJlc2hfZ3JpZF91cGRhdGVfd2F0Y2gpCiAgICAgIE1pbGVzdG9uZS5zZXRfY2FsbGJhY2soOmNvbW1pdCwgOmFmdGVyLCA6cmVjcmVhdGVfZ3JpZCkKICAgIHJlc2N1ZSBTdGFuZGFyZEVycm9yCiAgICAgIG5pbAogICAgZW5kCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgR3JpZEl0ZW1TZXJ2aWNlLnJlY3JlYXRlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>jdd</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcmVmcmVzaF9ncmlkX3VwZGF0ZV93YXRjaAo=</text>
+        <text encoding="base64">ICAgIGJlZ2luCiAgICAgIEl0ZW0uc2V0X2NhbGxiYWNrKDpjb21taXQsIDphZnRlciwgOnJlZnJlc2hfZ3JpZF91cGRhdGVfd2F0Y2gpCiAgICAgIE1pbGVzdG9uZS5zZXRfY2FsbGJhY2soOmNvbW1pdCwgOmFmdGVyLCA6cmVjcmVhdGVfZ3JpZCkKICAgIHJlc2N1ZSBTdGFuZGFyZEVycm9yCiAgICAgIG5pbAogICAgZW5kCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgTWlsZXN0b25lLnNldF9jYWxsYmFjayg6Y29tbWl0LCA6YWZ0ZXIsIDpyZWNyZWF0ZV9ncmlkKQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgTWlsZXN0b25lLnNraXBfY2FsbGJhY2soOmNvbW1pdCwgOmFmdGVyLCA6cmVjcmVhdGVfZ3JpZCkK</text>
+        <text encoding="base64">ICAgIGJlZ2luCiAgICAgIEl0ZW0uc2V0X2NhbGxiYWNrKDpjb21taXQsIDphZnRlciwgOnJlZnJlc2hfZ3JpZF91cGRhdGVfd2F0Y2gpCiAgICAgIE1pbGVzdG9uZS5zZXRfY2FsbGJhY2soOmNvbW1pdCwgOmFmdGVyLCA6cmVjcmVhdGVfZ3JpZCkKICAgIHJlc2N1ZSBTdGFuZGFyZEVycm9yCiAgICAgIG5pbAogICAgZW5kCg==</text>
       </register>
       <register name="t" type="4">
         <text>jdd</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZQo=</text>
+        <text encoding="base64">ICAgIGJlZ2luCg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -5170,16 +5170,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgR3JpZEl0ZW1TZXJ2aWNlLnJlY3JlYXRlCg==</text>
+        <text encoding="base64">ICAgICMgSXRlbS5zZXRfY2FsbGJhY2soOmNvbW1pdCwgOmFmdGVyLCA6cmVmcmVzaF9ncmlkX3VwZGF0ZV93YXRjaCkKICAgICMgTWlsZXN0b25lLnNldF9jYWxsYmFjayg6Y29tbWl0LCA6YWZ0ZXIsIDpyZWNyZWF0ZV9ncmlkKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
+        <text encoding="base64">ICAgICMgSXRlbS5zZXRfY2FsbGJhY2soOmNvbW1pdCwgOmFmdGVyLCA6cmVmcmVzaF9ncmlkX3VwZGF0ZV93YXRjaCkKICAgICMgTWlsZXN0b25lLnNldF9jYWxsYmFjayg6Y29tbWl0LCA6YWZ0ZXIsIDpyZWNyZWF0ZV9ncmlkKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgR3JpZEl0ZW1zUmVmcmVzaDo6cmVmcmVzaF9ncmlkX3VwZGF0ZV93YXRjaAo=</text>
+        <text encoding="base64">ICAgICAgR3JpZEl0ZW1TZXJ2aWNlLnJlY3JlYXRlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgSXRlbS5zZXRfY2FsbGJhY2soOmNvbW1pdCwgOmFmdGVyLCA6cmVmcmVzaF9ncmlkX3VwZGF0ZV93YXRjaCkKICAgICAgTWlsZXN0b25lLnNldF9jYWxsYmFjayg6Y29tbWl0LCA6YWZ0ZXIsIDpyZWNyZWF0ZV9ncmlkKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
