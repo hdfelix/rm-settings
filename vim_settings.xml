@@ -349,7 +349,7 @@
       <file name="/exhibitree_shows_local.public.items [postgres@localhost]" timestamp="1544639229409">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1544737144192">
+      <file name="/dummy.sql" timestamp="1544858879962">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -454,7 +454,7 @@
       <file name="/qa_local.public.general_locations [postgres@localhost]" timestamp="1544726883707">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/exhibitree_shows_local.public.milestones [postgres@localhost]" timestamp="1544737108528">
+      <file name="/exhibitree_shows_local.public.milestones [postgres@localhost]" timestamp="1544858879046">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/exhibitree_shows.public.zone_brands [Exhibitree Cloud]" timestamp="1542323639709">
