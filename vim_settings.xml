@@ -48,12 +48,12 @@
         <mark key="^" line="2" column="37" />
         <mark key="." line="2" column="37" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/app/models/concerns/milestones.rb" timestamp="1545032960851">
+      <file name="$USER_HOME$/code/io/io-engage/app/models/concerns/milestones.rb" timestamp="1545033753479">
         <mark key="'" line="54" column="0" />
-        <mark key="[" line="44" column="157" />
-        <mark key="]" line="44" column="150" />
-        <mark key="." line="44" column="150" />
-        <mark key="^" line="44" column="150" />
+        <mark key="[" line="44" column="149" />
+        <mark key="]" line="44" column="149" />
+        <mark key="." line="44" column="149" />
+        <mark key="^" line="44" column="126" />
       </file>
       <file name="/exhibitree2_production.public.proof_urls [Exhibitree2-production]" timestamp="1542072093249">
         <mark key="[" line="0" column="0" />
@@ -1084,8 +1084,8 @@
       <register name="a" type="4">
         <text>_w</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgTWlsZXN0b25lLnNraXBfY2FsbGJhY2soOmNvbW1pdCwgOmFmdGVyLCA6cmVjcmVhdGVfZ3JpZCkK</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="b" type="4">
         <text>kkjj</text>
@@ -4777,7 +4777,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>!milestone_for_state(state).from.nil?</text>
+        <text>)</text>
       </register>
       <register name="n" type="4">
         <text />

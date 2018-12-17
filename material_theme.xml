@@ -1,6 +1,5 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="darkTitleBar" value="true" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
     <option name="isContrastMode" value="true" />
@@ -11,6 +10,6 @@
     <option name="highlightColor" value="80cbc4" />
     <option name="selectedTheme" value="ARC_DARK" />
     <option name="userId" value="-30ffbca2:163e6901735:-7fff" />
-    <option name="version" value="3.0.0-rc4" />
+    <option name="version" value="3.2.0" />
   </component>
 </application>
