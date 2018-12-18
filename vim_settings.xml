@@ -690,6 +690,7 @@
       <file name="/exhibitree_shows_local.public.attachments [postgres@localhost]" timestamp="1544068218824">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/shows/config/database.yml" timestamp="1545156134852" />
       <file name="/exhibitree_shows.public.proof_reader_approvers [postgres@localhost]" timestamp="1542143544886">
         <mark key="[" line="0" column="0" />
       </file>
