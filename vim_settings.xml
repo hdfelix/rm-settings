@@ -356,11 +356,11 @@
       <file name="/exhibitree_shows_15.public.roles [postgres@localhost]" timestamp="1542306775924">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1545083554405">
+      <file name="/Ruby Console" timestamp="1545098862775">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="30" />
-        <mark key="^" line="0" column="30" />
-        <mark key="." line="0" column="30" />
+        <mark key="]" line="0" column="4" />
+        <mark key="^" line="0" column="4" />
+        <mark key="." line="0" column="4" />
       </file>
       <file name="$USER_HOME$/code/io/io-engage/spec/models/general_location_spec.rb" timestamp="1544475628354">
         <mark key="[" line="49" column="0" />
@@ -379,8 +379,8 @@
       <file name="/exhibitree_shows_18.public.users [postgres@localhost]" timestamp="1542731657381">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/app/models/item.rb" timestamp="1545095614835">
-        <mark key="'" line="22" column="0" />
+      <file name="$USER_HOME$/code/io/io-engage/app/models/item.rb" timestamp="1545098248145">
+        <mark key="'" line="24" column="20" />
         <mark key="[" line="183" column="0" />
         <mark key="]" line="183" column="0" />
         <mark key="." line="183" column="0" />
@@ -1037,12 +1037,11 @@
       <file name="/exhibitree_shows_15.public.roles_zones [postgres@localhost]" timestamp="1542306518361">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/spec/models/item_spec.rb" timestamp="1545097140994">
-        <mark key="'" line="10" column="0" />
-        <mark key="[" line="19" column="76" />
-        <mark key="]" line="20" column="18" />
-        <mark key="^" line="20" column="18" />
-        <mark key="." line="20" column="18" />
+      <file name="$USER_HOME$/code/io/io-engage/spec/models/item_spec.rb" timestamp="1545098919691">
+        <mark key="'" line="1115" column="16" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="/exhibitree_shows.public.attachments [postgres@localhost]" timestamp="1542243449082">
         <mark key="[" line="0" column="0" />
@@ -1081,8 +1080,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="17" filename="$USER_HOME$/code/io/io-engage/db/migrate/20181214001935_add_milestones_for_item_created_state.rb" />
-      <jump line="45" column="0" filename="$USER_HOME$/code/io/io-engage/app/models/concerns/milestones.rb" />
       <jump line="54" column="0" filename="$USER_HOME$/code/io/io-engage/app/models/concerns/milestones.rb" />
       <jump line="8" column="0" filename="$USER_HOME$/code/io/io-engage/db/migrate/20181214001935_add_milestones_for_item_created_state.rb" />
       <jump line="13" column="33" filename="$USER_HOME$/code/io/io-engage/db/migrate/20181214001935_add_milestones_for_item_created_state.rb" />
@@ -1181,13 +1178,15 @@
       <jump line="10" column="12" filename="$USER_HOME$/code/io/io-engage/app/models/pin.rb" />
       <jump line="18" column="0" filename="$USER_HOME$/code/io/io-engage/spec/models/pin_spec.rb" />
       <jump line="870" column="8" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
+      <jump line="1118" column="16" filename="$USER_HOME$/code/io/io-engage/spec/models/item_spec.rb" />
+      <jump line="24" column="20" filename="$USER_HOME$/code/io/io-engage/app/models/item.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>_w</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC5jbGVhcmZpeAo=</text>
+        <text encoding="base64">ICAgICAgICAjIGl0ZW0uaXRlbV9ncm91cC5tZW1iZXJzID0gZ3JvdXBlZF9pdGVtcy5tYXAoJjppdGVtX251bWJlcikuam9pbignLycpCg==</text>
       </register>
       <register name="b" type="4">
         <text>kkjj</text>
@@ -4885,31 +4884,31 @@
         <text />
       </register>
       <register name="/" type="4">
-        <text>client_ref</text>
+        <text>item_group_members</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC5jbGVhcmZpeAo=</text>
+        <text encoding="base64">ICAgICAgICAjIGl0ZW0uaXRlbV9ncm91cC5tZW1iZXJzID0gZ3JvdXBlZF9pdGVtcy5tYXAoJjppdGVtX251bWJlcikuam9pbignLycpCg==</text>
       </register>
       <register name="q" type="4">
         <text>jdd</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC0gYmluZGluZy5wcnkK</text>
+        <text encoding="base64">ICAgICAgICBHcmlkSXRlbVNlcnZpY2UucmVmcmVzaAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBpdCB7IGlzX2V4cGVjdGVkLnRvIGRlbGVnYXRlX21ldGhvZCg6Y2xpZW50X3JlZmVyZW5jZV9udW1iZXIpLnRvKDppdGVtKSB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAjIGRlbGVnYXRlIDpjbGllbnRfcmVmZXJlbmNlX251bWJlciwgdG86IDppdGVtLCAgYWxsb3dfbmlsOiB0cnVlCg==</text>
+        <text encoding="base64">ICAgIC5jbGVhcmZpeAo=</text>
       </register>
       <register name="t" type="4">
         <text>jdd</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC0gYmluZGluZy5wcnkK</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -5310,26 +5309,25 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAjIGRlZiBjbGllbnRfcmVmZXJlbmNlX251bWJlcgogICMgICBiaW5kaW5nLnByeQogICMgICBpdGVtLmNsaWVudF9yZWZlcmVuY2VfbnVtYmVyCiAgIyBlbmQK</text>
+        <text encoding="base64">ICBpdCB7IGlzX2V4cGVjdGVkLnRvIGRlbGVnYXRlX21ldGhvZCg6Y2xpZW50X3JlZmVyZW5jZV9udW1iZXIpLnRvKDppdGVtKSB9Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>erride, :side, :specific_location,
-           :substrate, :vendor, :vendor_rush, :reproduced_reason,</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAjIGRlbGVnYXRlIDpjbGllbnRfcmVmZXJlbmNlX251bWJlciwgdG86IDppdGVtLCAgYWxsb3dfbmlsOiB0cnVlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVidWdnZXIK</text>
+        <text encoding="base64">ICAjIGRlZiBjbGllbnRfcmVmZXJlbmNlX251bWJlcgogICMgICBiaW5kaW5nLnByeQogICMgICBpdGVtLmNsaWVudF9yZWZlcmVuY2VfbnVtYmVyCiAgIyBlbmQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>client_ref</last-search>
+      <last-search>item_group_members</last-search>
       <last-offset />
-      <last-pattern>client_ref</last-pattern>
+      <last-pattern>item_group_members</last-pattern>
       <last-replace>now</last-replace>
       <last-substitute>Time.now</last-substitute>
       <last-dir>1</last-dir>
@@ -5337,7 +5335,6 @@
     </search>
     <history>
       <history-search>
-        <entry>graphic_in_design</entry>
         <entry>ready_for_design</entry>
         <entry>item_created</entry>
         <entry>disable</entry>
@@ -5350,13 +5347,14 @@
         <entry>ITEM_NUMBER</entry>
         <entry>url</entry>
         <entry>getData</entry>
-        <entry>binding</entry>
         <entry>pins</entry>
         <entry>client_reference</entry>
         <entry>client_</entry>
         <entry>client</entry>
         <entry>client_reference_number</entry>
         <entry>client_ref</entry>
+        <entry>binding</entry>
+        <entry>item_group_members</entry>
       </history-search>
       <history-cmd>
         <entry>113</entry>
