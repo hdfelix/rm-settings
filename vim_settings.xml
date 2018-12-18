@@ -129,12 +129,6 @@
       <file name="/exhibitree1_production.public.layout_files [io_prod]" timestamp="1543273905994">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/spec/models/concerns/milestones_spec.rb" timestamp="1545082691934">
-        <mark key="[" line="5" column="29" />
-        <mark key="]" line="5" column="31" />
-        <mark key="." line="5" column="31" />
-        <mark key="^" line="5" column="31" />
-      </file>
       <file name="/exhibitree_shows.public.venues [postgres@localhost]" timestamp="1542165509341">
         <mark key="[" line="0" column="0" />
       </file>
@@ -273,19 +267,13 @@
       <file name="/exhibitree_shows.public.non_chargeable_reasons [postgres@localhost]" timestamp="1542160628249">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/app/assets/javascripts/map/pins.coffee" timestamp="1545090417939">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="7" column="13" />
-        <mark key="." line="7" column="0" />
-      </file>
       <file name="/exhibitree_shows_local.public.items [postgres@localhost]" timestamp="1544639229409">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/milestones [postgres@localhost]" timestamp="1544894385162">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1545018997696">
+      <file name="/dummy.sql" timestamp="1545117084581">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -297,7 +285,7 @@
       <file name="/exhibitree_shows.public.workflows_workflows [postgres@localhost]" timestamp="1542301843750">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545064001003">
+      <file name="/Dummy.txt" timestamp="1545116921402">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/exhibitree_shows.public.pins [postgres@localhost]" timestamp="1542301908541">
@@ -362,6 +350,9 @@
       <file name="/hfelix_development.public.permissions [hfelix_development@localhost]" timestamp="1541436799668">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/developers/hfelix/config/settings.yml" timestamp="1545116797572">
+        <mark key="'" line="35" column="24" />
+      </file>
       <file name="/exhibitree_shows.public.layout_files [Exhibitree Cloud]" timestamp="1544120721604">
         <mark key="[" line="0" column="0" />
       </file>
@@ -404,7 +395,7 @@
       <file name="/exhibitree_shows.public.vendor_finishings [Exhibitree Cloud]" timestamp="1544662174947">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/hfelix_development.public.layout_files [hfelix_development@localhost]" timestamp="1542072773169">
+      <file name="/hfelix_development.public.layout_files [hfelix_development@localhost]" timestamp="1545116906458">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/exhibitree2_production.public.layout_files [Exhibitree2-production]" timestamp="1543273672373">
@@ -468,12 +459,6 @@
       </file>
       <file name="$USER_HOME$/code/io/io-engage/app/decorators/graphic_decorator.rb" timestamp="1545093269437">
         <mark key="'" line="225" column="21" />
-      </file>
-      <file name="$USER_HOME$/code/io/io-engage/app/assets/javascripts/map/item_map.coffee" timestamp="1545096184839">
-        <mark key="[" line="95" column="0" />
-        <mark key="]" line="95" column="0" />
-        <mark key="^" line="94" column="11" />
-        <mark key="." line="95" column="0" />
       </file>
       <file name="/exhibitree_shows.public.venues_zones [Exhibitree Cloud]" timestamp="1543539449856">
         <mark key="[" line="0" column="0" />
@@ -789,10 +774,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="4" filename="$USER_HOME$/code/io/io-engage/db/migrate/20181214001935_add_milestones_for_item_created_state.rb" />
-      <jump line="28" column="0" filename="$USER_HOME$/code/io/io-engage/db/migrate/20181214001935_add_milestones_for_item_created_state.rb" />
-      <jump line="34" column="8" filename="$USER_HOME$/code/io/io-engage/db/migrate/20181214001935_add_milestones_for_item_created_state.rb" />
-      <jump line="32" column="0" filename="$USER_HOME$/code/io/io-engage/db/migrate/20181214001935_add_milestones_for_item_created_state.rb" />
       <jump line="40" column="0" filename="$USER_HOME$/code/io/io-engage/db/migrate/20181214001935_add_milestones_for_item_created_state.rb" />
       <jump line="48" column="0" filename="$USER_HOME$/code/io/io-engage/db/migrate/20181214001935_add_milestones_for_item_created_state.rb" />
       <jump line="25" column="4" filename="$USER_HOME$/code/io/io-engage/db/migrate/20181214001935_add_milestones_for_item_created_state.rb" />
@@ -889,6 +870,10 @@
       <jump line="673" column="6" filename="$USER_HOME$/code/io/io-engage/config/locales/en.yml" />
       <jump line="733" column="6" filename="$USER_HOME$/code/io/io-engage/config/locales/en.yml" />
       <jump line="802" column="6" filename="$USER_HOME$/code/io/io-engage/config/locales/en.yml" />
+      <jump line="49" column="27" filename="$USER_HOME$/code/io/io_engage_configuration/instances/developers/hfelix/config/settings.yml" />
+      <jump line="78" column="18" filename="$USER_HOME$/code/io/io_engage_configuration/instances/developers/hfelix/config/settings.yml" />
+      <jump line="165" column="18" filename="$USER_HOME$/code/io/io_engage_configuration/instances/developers/hfelix/config/settings.yml" />
+      <jump line="35" column="24" filename="$USER_HOME$/code/io/io_engage_configuration/instances/developers/hfelix/config/settings.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4593,7 +4578,7 @@
         <text />
       </register>
       <register name="/" type="4">
-        <text>floor</text>
+        <text>thumb</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
@@ -5034,9 +5019,9 @@
       </register>
     </registers>
     <search>
-      <last-search>floor</last-search>
+      <last-search>thumb</last-search>
       <last-offset />
-      <last-pattern>floor</last-pattern>
+      <last-pattern>thumb</last-pattern>
       <last-replace>now</last-replace>
       <last-substitute>Time.now</last-substitute>
       <last-dir>1</last-dir>
@@ -5044,7 +5029,6 @@
     </search>
     <history>
       <history-search>
-        <entry>disable_</entry>
         <entry>item_create_with_milestone</entry>
         <entry>item_create_with</entry>
         <entry>_button</entry>
@@ -5064,6 +5048,7 @@
         <entry encoding="base64">PDw8</entry>
         <entry>pin</entry>
         <entry>floor</entry>
+        <entry>thumb</entry>
       </history-search>
       <history-cmd>
         <entry>s:Show Nav: Show Page:c</entry>
