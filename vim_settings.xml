@@ -54,11 +54,6 @@
         <mark key="]" line="56" column="0" />
         <mark key="." line="56" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/app/views/pins/index.json.jbuilder" timestamp="1545091513362">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="/exhibitree2_production.public.proof_urls [Exhibitree2-production]" timestamp="1542072093249">
         <mark key="[" line="0" column="0" />
       </file>
@@ -528,10 +523,11 @@
       <file name="/qa_local.public.general_locations [postgres@localhost]" timestamp="1544726883707">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/db/structure.sql" timestamp="1545025047828">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="1" />
-        <mark key="." line="0" column="1" />
+      <file name="$USER_HOME$/code/io/io-engage/db/structure.sql" timestamp="1545101925106">
+        <mark key="'" line="17" column="1" />
+        <mark key="[" line="5709" column="0" />
+        <mark key="]" line="5709" column="0" />
+        <mark key="." line="5709" column="0" />
       </file>
       <file name="/exhibitree_shows_local.public.milestones [postgres@localhost]" timestamp="1544858879046">
         <mark key="[" line="0" column="0" />
@@ -822,9 +818,9 @@
         <mark key="." line="266" column="0" />
       </file>
       <file name="$USER_HOME$/code/io/io-engage/app/views/floor_plans/_item_pin_pop_up_content.html.haml" timestamp="1545097032601">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="/qa_0.public.zones [qa-master]" timestamp="1543890847407">
         <mark key="[" line="0" column="0" />
@@ -1082,8 +1078,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="6" filename="$USER_HOME$/code/io/io-engage/db/migrate/20181214001935_add_milestones_for_item_created_state.rb" />
-      <jump line="6" column="0" filename="$USER_HOME$/code/io/io-engage/db/migrate/20181214001935_add_milestones_for_item_created_state.rb" />
       <jump line="49" column="2" filename="$USER_HOME$/code/io/io-engage/db/migrate/20181214001935_add_milestones_for_item_created_state.rb" />
       <jump line="37" column="8" filename="$USER_HOME$/code/io/io-engage/db/migrate/20181214001935_add_milestones_for_item_created_state.rb" />
       <jump line="36" column="0" filename="$USER_HOME$/code/io/io-engage/db/migrate/20181214001935_add_milestones_for_item_created_state.rb" />
@@ -1182,13 +1176,15 @@
       <jump line="0" column="0" filename="$USER_HOME$/code/io/io-engage/app/models/concerns/milestones.rb" />
       <jump line="11" column="21" filename="$USER_HOME$/code/io/io-engage/spec/factories/items.rb" />
       <jump line="12" column="0" filename="$USER_HOME$/code/io/io-engage/spec/lib/item_serial_generator_spec.rb" />
+      <jump line="5" column="20" filename="$USER_HOME$/code/io/io-engage/db/structure.sql" />
+      <jump line="17" column="1" filename="$USER_HOME$/code/io/io-engage/db/structure.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>_w</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBmZjFlOTMwOGYuLi4gU0lFLTUxNyBGaXggYnJva2VuIHRlc3RzOyByZWZhY3Rvcgo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBTSUUtNTE3Cg==</text>
       </register>
       <register name="b" type="4">
         <text>kkjj</text>
@@ -4892,25 +4888,25 @@
         <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBmZjFlOTMwOGYuLi4gU0lFLTUxNyBGaXggYnJva2VuIHRlc3RzOyByZWZhY3Rvcgo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBTSUUtNTE3Cg==</text>
       </register>
       <register name="q" type="4">
         <text>jdd</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">KCcyMDE4MTIwNDIwNDAxOCcpLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBmZjFlOTMwOGYuLi4gU0lFLTUxNyBGaXggYnJva2VuIHRlc3RzOyByZWZhY3Rvcgo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="t" type="4">
         <text>jdd</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECj09PT09PT0K</text>
+        <text encoding="base64">Pj4+Pj4+PiA2ZjVjNmQ3NzcuLi4gU0lFLTUxNyBBZGQgZGF0YSBtaWdyYXRpb24gZm9yIGdyYXBoaWNfcmVxdWVzdC9pdGVtIDpjcmVhdGUK</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -5311,16 +5307,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBmZjFlOTMwOGYuLi4gU0lFLTUxNyBGaXggYnJva2VuIHRlc3RzOyByZWZhY3Rvcgo=</text>
+        <text encoding="base64">PT09PT09PQooJzIwMTgxMjA0MjA0MDE4JyksCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgIGRheXMgPDwgdGltZV9iZXR3ZWVuKFRpbWUubm93LCBtaWxlc3RvbmVfZm9yX3N0YXRlKHN0YXRlKS5jcmVhdGVkX2F0LCB1bml0cykgaWYgc2VsZi5jdXJyZW50X3N0YXRlLnRvX3MgPT0gc3RhdGUudG9fcyAmJiBtaWxlc3RvbmVfZm9yX3N0YXRlKHN0YXRlKQoKICAgICAgZGF5cy5zdW0KPT09PT09PQo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIGl0ZW0uaXRlbV9ncm91cC5tZW1iZXJzID0gZ3JvdXBlZF9pdGVtcy5tYXAoJjppdGVtX251bWJlcikuam9pbignLycpCg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBmZjFlOTMwOGYuLi4gU0lFLTUxNyBGaXggYnJva2VuIHRlc3RzOyByZWZhY3Rvcgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBHcmlkSXRlbVNlcnZpY2UucmVmcmVzaAo=</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
