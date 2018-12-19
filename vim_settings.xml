@@ -111,6 +111,9 @@
       <file name="/exhibitree_shows_local.public.assessments [postgres@localhost]" timestamp="1545018355409">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/exhibitree2_production.public.zones [io_prod]" timestamp="1545248845858">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/exhibitree_shows.public.resources [postgres@localhost]" timestamp="1542143764503">
         <mark key="[" line="0" column="0" />
       </file>
@@ -276,7 +279,7 @@
       <file name="/milestones [postgres@localhost]" timestamp="1544894385162">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1545117084581">
+      <file name="/dummy.sql" timestamp="1545249700562">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -416,6 +419,9 @@
         <mark key="^" line="11" column="63" />
         <mark key="." line="11" column="63" />
       </file>
+      <file name="/exhibitree2_production.public.roles_zones [io_prod]" timestamp="1545248853476">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/exhibitree_shows.public.price_models [postgres@localhost]" timestamp="1542301905931">
         <mark key="[" line="0" column="0" />
       </file>
@@ -450,6 +456,12 @@
         <mark key="]" line="10" column="0" />
         <mark key="^" line="24" column="14" />
         <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/io/sop/io-engage-event/tool-setup/import-exhibitree-2-data-to-events.md" timestamp="1545249862113">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="62" />
+        <mark key="^" line="10" column="122" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="/exhibitree_shows_local.public.venues [postgres@localhost]" timestamp="1544639196064">
         <mark key="[" line="0" column="0" />
@@ -514,6 +526,9 @@
       <file name="/exhibitree_shows.public.graphic_types [postgres@localhost]" timestamp="1542168550766">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/exhibitree2_production.public.users [io_prod]" timestamp="1545248668991">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/dreamforce_production.public.role_types [postgres@localhost]" timestamp="1541214805415">
         <mark key="[" line="0" column="0" />
       </file>
@@ -540,6 +555,9 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/layout_files [Exhibitree Cloud]" timestamp="1543289666002">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/exhibitree2_production.public.roles [io_prod]" timestamp="1545248693432">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/exhibitree_shows.public.user_widgets [postgres@localhost]" timestamp="1542150925819">
@@ -883,8 +901,8 @@
       <register name="a" type="4">
         <text>_w</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">PD09PSBFZGl0aW5nIGNvcHkgb2YgU2hvd3MgZG9jIGZvciBldmVudHMgYmVsb3cgdGhpcyBsaW5lID09PT4K</text>
       </register>
       <register name="b" type="4">
         <text>kkjj</text>
@@ -4576,7 +4594,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">aHR0cHM6Ly9pb2RpZ2l0YWxzb2x1dGlvbnMuYXRsYXNzaWFuLm5ldC9zZWN1cmUvUmFwaWRCb2FyZC5qc3BhP3JhcGlkVmlldz00NCZwcm9qZWN0S2V5PVNJRSZtb2RhbD1kZXRhaWwmc2VsZWN0ZWRJc3N1ZT1TSUUtNDcy</text>
       </register>
       <register name="n" type="4">
         <text />
@@ -4588,25 +4606,25 @@
         <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBTSUUtNTE3Cg==</text>
+        <text encoding="base64">PD09PSBFZGl0aW5nIGNvcHkgb2YgU2hvd3MgZG9jIGZvciBldmVudHMgYmVsb3cgdGhpcyBsaW5lID09PT4K</text>
       </register>
       <register name="q" type="4">
         <text>jdd</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">KCcyMDE4MTIwNDIwNDAxOCcpLAo=</text>
+        <text encoding="base64">PD09PSBFZGl0aW5nIGNvcHkgb2YgU2hvd3MgZG9jIGZvciBldmVudHMgYmVsb3cgdGhpcyBsaW5lID09PT4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">PD09PSBFZGl0aW5nIGNvcHkgb2YgU2hvd3MgZG9jIGZvciBldmVudHMgYmVsb3cgdGhpcyBsaW5lID09PT4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">PD09PSBFZGl0aW5nIGNvcHkgb2YgU2hvd3MgZG9jIGZvciBldmVudHMgYmVsb3cgdGhpcyBsaW5lID09PT4K</text>
       </register>
       <register name="t" type="4">
         <text>jdd</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Pj4+Pj4+PiA2ZjVjNmQ3NzcuLi4gU0lFLTUxNyBBZGQgZGF0YSBtaWdyYXRpb24gZm9yIGdyYXBoaWNfcmVxdWVzdC9pdGVtIDpjcmVhdGUK</text>
+        <text encoding="base64">Pj4+Pj4+PiBTSUUtNTE3Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -5007,16 +5025,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PT09PT09PQooJzIwMTgxMjA0MjA0MDE4JyksCg==</text>
+        <text encoding="base64">KCcyMDE4MTIwNDIwNDAxOCcpLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBmZjFlOTMwOGYuLi4gU0lFLTUxNyBGaXggYnJva2VuIHRlc3RzOyByZWZhY3Rvcgo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">Pj4+Pj4+PiA2ZjVjNmQ3NzcuLi4gU0lFLTUxNyBBZGQgZGF0YSBtaWdyYXRpb24gZm9yIGdyYXBoaWNfcmVxdWVzdC9pdGVtIDpjcmVhdGUK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
