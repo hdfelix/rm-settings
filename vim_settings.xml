@@ -457,11 +457,11 @@
         <mark key="^" line="24" column="14" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/sop/io-engage-event/tool-setup/import-exhibitree-2-data-to-events.md" timestamp="1545249862113">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="62" />
-        <mark key="^" line="10" column="122" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/code/io/sop/io-engage-event/tool-setup/import-exhibitree-2-data-to-events.md" timestamp="1545251184912">
+        <mark key="[" line="34" column="48" />
+        <mark key="]" line="34" column="55" />
+        <mark key="^" line="34" column="55" />
+        <mark key="." line="34" column="55" />
       </file>
       <file name="/exhibitree_shows_local.public.venues [postgres@localhost]" timestamp="1544639196064">
         <mark key="[" line="0" column="0" />
@@ -901,8 +901,8 @@
       <register name="a" type="4">
         <text>_w</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">PD09PSBFZGl0aW5nIGNvcHkgb2YgU2hvd3MgZG9jIGZvciBldmVudHMgYmVsb3cgdGhpcyBsaW5lID09PT4K</text>
+      <register name="&quot;" type="4">
+        <text>shows</text>
       </register>
       <register name="b" type="4">
         <text>kkjj</text>
@@ -4594,7 +4594,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aHR0cHM6Ly9pb2RpZ2l0YWxzb2x1dGlvbnMuYXRsYXNzaWFuLm5ldC9zZWN1cmUvUmFwaWRCb2FyZC5qc3BhP3JhcGlkVmlldz00NCZwcm9qZWN0S2V5PVNJRSZtb2RhbD1kZXRhaWwmc2VsZWN0ZWRJc3N1ZT1TSUUtNDcy</text>
+        <text>shows</text>
       </register>
       <register name="n" type="4">
         <text />
