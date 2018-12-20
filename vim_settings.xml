@@ -514,12 +514,12 @@
       <file name="/e_events_migration.public.rush_overrides [postgres@localhost]" timestamp="1545297573346">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/sop/io-engage-event/tool-setup/import-exhibitree-2-data-to-events.md" timestamp="1545330395592">
-        <mark key="'" line="219" column="55" />
-        <mark key="[" line="197" column="1" />
-        <mark key="]" line="197" column="1" />
-        <mark key="." line="197" column="1" />
-        <mark key="^" line="198" column="36" />
+      <file name="$USER_HOME$/code/io/sop/io-engage-event/tool-setup/import-exhibitree-2-data-to-events.md" timestamp="1545331252961">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="260" column="27" />
+        <mark key="]" line="260" column="33" />
+        <mark key="." line="260" column="33" />
+        <mark key="^" line="260" column="33" />
       </file>
       <file name="/exhibitree_shows_local.public.venues [postgres@localhost]" timestamp="1544639196064">
         <mark key="[" line="0" column="0" />
@@ -841,9 +841,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="168" column="44" filename="$USER_HOME$/code/io/io-engage/spec/controllers/items_controller_spec.rb" />
-      <jump line="189" column="40" filename="$USER_HOME$/code/io/io-engage/spec/controllers/items_controller_spec.rb" />
-      <jump line="194" column="25" filename="$USER_HOME$/code/io/io-engage/spec/controllers/items_controller_spec.rb" />
       <jump line="223" column="27" filename="$USER_HOME$/code/io/io-engage/spec/controllers/items_controller_spec.rb" />
       <jump line="2" column="0" filename="$USER_HOME$/code/io/io-engage/spec/controllers/items_controller_spec.rb" />
       <jump line="64" column="27" filename="$USER_HOME$/code/io/io-engage/spec/controllers/items_controller_spec.rb" />
@@ -941,13 +938,16 @@
       <jump line="146" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/18f2ac5a-39af-4578-8854-03936b72b2d2/e-events-migration.sql" />
       <jump line="108" column="110" filename="$APPLICATION_CONFIG_DIR$/consoles/db/18f2ac5a-39af-4578-8854-03936b72b2d2/e-events-migration.sql" />
       <jump line="194" column="55" filename="$USER_HOME$/code/io/sop/io-engage-event/tool-setup/import-exhibitree-2-data-to-events.md" />
+      <jump line="237" column="5" filename="$USER_HOME$/code/io/sop/io-engage-event/tool-setup/import-exhibitree-2-data-to-events.md" />
+      <jump line="419" column="0" filename="$USER_HOME$/code/io/sop/io-engage-event/tool-setup/import-exhibitree-2-data-to-events.md" />
+      <jump line="8" column="0" filename="$USER_HOME$/code/io/sop/io-engage-event/tool-setup/import-exhibitree-2-data-to-events.md" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>_w</text>
       </register>
       <register name="&quot;" type="4">
-        <text>e2_non_cloud_dump_for_migration.dump</text>
+        <text>ources</text>
       </register>
       <register name="b" type="4">
         <text>kkjj</text>
@@ -4639,37 +4639,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>e2_non_cloud_dump_for_migration.dump</text>
+        <text>ources</text>
       </register>
       <register name="n" type="4">
         <text />
       </register>
       <register name="/" type="4">
-        <text>e1_non_cloud_dump_for_migration</text>
+        <text>e_events_migration</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cGdfcmVzdG9yZSAtLWRhdGEtb25seSAtLXRhYmxlPW1pbGVzdG9uZXMgZTJfbm9uX2Nsb3VkX2R1bXBfZm9yX21pZ3JhdGlvbi5kdW1wID4gbWlsZXN0b25lcy5wZwpwZ19yZXN0b3JlIC0tZGF0YS1vbmx5IC0tdGFibGU9YXNzZXNzbWVudHMgZTJfbm9uX2Nsb3VkX2R1bXBfZm9yX21pZ3JhdGlvbi5kdW1wID4gYXNzZXNzbWVudHMucGcKcGdfcmVzdG9yZSAtLWRhdGEtb25seSAtLXRhYmxlPWF0dGFjaG1lbnRzIGUyX25vbl9jbG91ZF9kdW1wX2Zvcl9taWdyYXRpb24uZHVtcCA+IGF0dGFjaG1lbnRzLnBnCnBnX3Jlc3RvcmUgLS1kYXRhLW9ubHkgLS10YWJsZT1pdGVtX2dyb3VwcyBlMl9ub25fY2xvdWRfZHVtcF9mb3JfbWlncmF0aW9uLmR1bXAgPiBpdGVtX2dyb3Vwcy5wZwpwZ19yZXN0b3JlIC0tZGF0YS1vbmx5IC0tdGFibGU9aXRlbXNfdXBkYXRlX2Vycm9ycyBlMl9ub25fY2xvdWRfZHVtcF9mb3JfbWlncmF0aW9uLmR1bXAgPiBpdGVtc191cGRhdGVfZXJyb3JzLnBnCnBnX3Jlc3RvcmUgLS1kYXRhLW9ubHkgLS10YWJsZT1pdGVtc19yb2xlcyBlMl9ub25fY2xvdWRfZHVtcF9mb3JfbWlncmF0aW9uLmR1bXAgPiBpdGVtc19yb2xlcy5wZwpwZ19yZXN0b3JlIC0tZGF0YS1vbmx5IC0tdGFibGU9cHJvb2ZfdXJscyBlMl9ub25fY2xvdWRfZHVtcF9mb3JfbWlncmF0aW9uLmR1bXAgPiBwcm9vZl91cmxzLnBnCnBnX3Jlc3RvcmUgLS1kYXRhLW9ubHkgLS10YWJsZT1sYXlvdXRfZmlsZXMgZTJfbm9uX2Nsb3VkX2R1bXBfZm9yX21pZ3JhdGlvbi5kdW1wID4gbGF5b3V0X2ZpbGVzLnBnCnBnX3Jlc3RvcmUgLS1kYXRhLW9ubHkgLS10YWJsZT1wYWNraW5nX3JlcG9ydHMgZTJfbm9uX2Nsb3VkX2R1bXBfZm9yX21pZ3JhdGlvbi5kdW1wID4gcGFja2luZ19yZXBvcnRzLnBnCnBnX3Jlc3RvcmUgLS1kYXRhLW9ubHkgLS10YWJsZT1waW5zIGUyX25vbl9jbG91ZF9kdW1wX2Zvcl9taWdyYXRpb24uZHVtcCA+IHBpbnMucGcKcGdfcmVzdG9yZSAtLWRhdGEtb25seSAtLXRhYmxlPWFkZF9vbnMgZTJfbm9uX2Nsb3VkX2R1bXBfZm9yX21pZ3JhdGlvbi5kdW1wID4gYWRkX29ucy5wZwpwZ19yZXN0b3JlIC0tZGF0YS1vbmx5IC0tdGFibGU9aXRlbXMgZTJfbm9uX2Nsb3VkX2R1bXBfZm9yX21pZ3JhdGlvbi5kdW1wID4gaXRlbXMucGcKcGdfcmVzdG9yZSAtLWRhdGEtb25seSAtLXRhYmxlPXZlbnVlc196b25lcyBlMl9ub25fY2xvdWRfZHVtcF9mb3JfbWlncmF0aW9uLmR1bXAgPiB2ZW51ZXNfem9uZXMucGcKcGdfcmVzdG9yZSAtLWRhdGEtb25seSAtLXRhYmxlPXpvbmVfYnJhbmRzIGUyX25vbl9jbG91ZF9kdW1wX2Zvcl9taWdyYXRpb24uZHVtcCA+IHpvbmVfYnJhbmRzLnBnCnBnX3Jlc3RvcmUgLS1kYXRhLW9ubHkgLS10YWJsZT12ZXJzaW9ucyBlMl9ub25fY2xvdWRfZHVtcF9mb3JfbWlncmF0aW9uLmR1bXAgPiB2ZXJzaW9ucy5wZwpwZ19yZXN0b3JlIC0tZGF0YS1vbmx5IC0tdGFibGU9dXNlcl93aWRnZXRzIGUyX25vbl9jbG91ZF9kdW1wX2Zvcl9taWdyYXRpb24uZHVtcCA+IHVzZXJfd2lkZ2V0cy5wZwo=</text>
+        <text encoding="base64">cHNxbCBlX2V2ZW50c19taWdyYXRpb24gPCBldmVudHMucGcK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHNxbCBlX2V2ZW50c19taWdyYXRpb24gPCB1c2VyX3dpZGdldHMucGcK</text>
       </register>
       <register name="q" type="4">
         <text>jdd</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cGdfcmVzdG9yZSAtLWRhdGEtb25seSAtLXRhYmxlPWl0ZW1zX3JvbGVzIGUyX25vbl9jbG91ZF9kdW1wX2Zvcl9taWdyYXRpb24uZHVtcCA+IGl0ZW1zX3JvbGVzLnBnCg==</text>
+        <text encoding="base64">cHNxbCBlX2V2ZW50c19taWdyYXRpb24gPCByb2xlc196b25lcy5wZwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cGdfcmVzdG9yZSAtLWRhdGEtb25seSAtLXRhYmxlPWl0ZW1zX3JvbGVzIGUyX25vbl9jbG91ZF9kdW1wX2Zvcl9taWdyYXRpb24uZHVtcCA+IGl0ZW1zX3JvbGVzLnBnCnBnX3Jlc3RvcmUgLS1kYXRhLW9ubHkgLS10YWJsZT12ZW51ZXNfem9uZXMgZTJfbm9uX2Nsb3VkX2R1bXBfZm9yX21pZ3JhdGlvbi5kdW1wID4gdmVudWVzX3pvbmVzLnBnCnBnX3Jlc3RvcmUgLS1kYXRhLW9ubHkgLS10YWJsZT16b25lX2JyYW5kcyBlMl9ub25fY2xvdWRfZHVtcF9mb3JfbWlncmF0aW9uLmR1bXAgPiB6b25lX2JyYW5kcy5wZwo=</text>
+        <text encoding="base64">cHNxbCBlX2V2ZW50c19taWdyYXRpb24gPCBmbG9vcl9wbGFucy5wZwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cGdfcmVzdG9yZSAtLWRhdGEtb25seSAtLXRhYmxlPWZsb29yX3BsYW5zIGUyX25vbl9jbG91ZF9kdW1wX2Zvcl9taWdyYXRpb24uZHVtcCA+IGZsb29yX3BsYW5zLnBnCg==</text>
+        <text encoding="base64">cHNxbCBlX2V2ZW50c19taWdyYXRpb24gPCByb2xlc196b25lcy5wZwo=</text>
       </register>
       <register name="t" type="4">
         <text>jdd</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cGdfcmVzdG9yZSAtLWRhdGEtb25seSAtLXRhYmxlPWFzc2Vzc21lbnRzIGUyX25vbl9jbG91ZF9kdW1wX2Zvcl9taWdyYXRpb24uZHVtcCA+IGFzc2Vzc21lbnRzLnBnCg==</text>
+        <text encoding="base64">cHNxbCBlX2V2ZW50c19taWdyYXRpb24gPCB1c2VyLnBnCg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -5070,34 +5070,32 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LS0gcGdfcmVzdG9yZSAtLWRhdGEtb25seSAtLXRhYmxlPXNldHRpbmdzIGUyX25vbl9jbG91ZF9kdW1wX2Zvcl9taWdyYXRpb24uZHVtcCA+IHNldHRpbmdzLnBnCg==</text>
+        <text encoding="base64">cHNxbCBlX2V2ZW50c19taWdyYXRpb24gPCB1c2Vycy5wZwpwc3FsIGVfZXZlbnRzX21pZ3JhdGlvbiA8IHJvbGVzLnBnCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHNxbCBlX2V2ZW50c19taWdyYXRpb24gPCBpdGVtcy5wZwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cGdfcmVzdG9yZSAtLWRhdGEtb25seSAtLXRhYmxlPXVzZXJzIGUyX25vbl9jbG91ZF9kdW1wX2Zvcl9taWdyYXRpb24uZHVtcCA+IHVzZXJzLnBnCg==</text>
+        <text encoding="base64">cHNxbCBlX2V2ZW50c19taWdyYXRpb24gPCBwcm9vZl91cmxzLnBnCnBzcWwgZV9ldmVudHNfbWlncmF0aW9uIDwgbGF5b3V0X2ZpbGVzLnBnCnBzcWwgZV9ldmVudHNfbWlncmF0aW9uIDwgcGFja2luZ19yZXBvcnRzLnBnCnBzcWwgZV9ldmVudHNfbWlncmF0aW9uIDwgcGlucy5wZwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cGdfcmVzdG9yZSAtLWRhdGEtb25seSAtLXRhYmxlPWl0ZW1zX3JvbGVzIGUyX25vbl9jbG91ZF9kdW1wX2Zvcl9taWdyYXRpb24uZHVtcCA+IGl0ZW1zX3JvbGVzLnBnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>e1_non_cloud_dump_for_migration</last-search>
+      <last-search>e_events_migration</last-search>
       <last-offset />
-      <last-pattern>e1_non_cloud_dump_for_migration</last-pattern>
-      <last-replace>e2_non_cloud_dump_for_migration</last-replace>
-      <last-substitute>e1_non_cloud_dump_for_migration</last-substitute>
+      <last-pattern>e_events_migration</last-pattern>
+      <last-replace>e_events_migration</last-replace>
+      <last-substitute>exhibitree_shows</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>_button</entry>
-        <entry>reset ransack</entry>
         <entry>refresh</entry>
         <entry>ITEM_NUMBER</entry>
         <entry>url</entry>
@@ -5116,9 +5114,10 @@
         <entry>thumb</entry>
         <entry>&quot;</entry>
         <entry>e1_non_cloud_dump_for_migration</entry>
+        <entry>exhibitree_shows</entry>
+        <entry>e_events_migration</entry>
       </history-search>
       <history-cmd>
-        <entry>%s:Control::c</entry>
         <entry>%s:Control ::c</entry>
         <entry>%s:Show Column of Items:Visible Item Columns:c</entry>
         <entry>%s:set_file_attributes:file_attributes:c</entry>
@@ -5137,6 +5136,7 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>%s:&quot;::c</entry>
         <entry>%s:e1_non_cloud_dump_for_migration:e2_non_cloud_dump_for_migration</entry>
+        <entry>%s:exhibitree_shows:e_events_migration:c</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
