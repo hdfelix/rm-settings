@@ -78,7 +78,7 @@
       <file name="/exhibitree1_production.public.role_types [io_prod]" timestamp="1545327680106">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/exhibitree2_production.public.role_types [io_prod]" timestamp="1545327736087">
+      <file name="/exhibitree2_production.public.role_types [io_prod]" timestamp="1545342519460">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/qa_local.public.milestones [postgres@localhost]" timestamp="1544735921126">
@@ -307,7 +307,6 @@
         <mark key="^" line="108" column="109" />
         <mark key="." line="108" column="109" />
       </file>
-      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/events/config/database.yml" timestamp="1545337260876" />
       <file name="/exhibitree_shows_18.public.users [postgres@localhost]" timestamp="1542731657381">
         <mark key="[" line="0" column="0" />
       </file>
@@ -335,7 +334,7 @@
       <file name="/e_events_migration.public.venues_zones [postgres@localhost]" timestamp="1545297648027">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1545342233580">
+      <file name="/dummy.sql" timestamp="1545342599783">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -353,7 +352,6 @@
       <file name="/exhibitree_shows.public.pins [postgres@localhost]" timestamp="1542301908541">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree_noncloud/production2/config/database.yml" timestamp="1545254307910" />
       <file name="$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/pry-0.11.3/lib/pry/pry_instance.rb" timestamp="1543532458814">
         <mark key="[" line="242" column="18" />
         <mark key="]" line="242" column="7" />
@@ -471,7 +469,6 @@
       <file name="/e_events_migration.public.rushes [postgres@localhost]" timestamp="1545297574101">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/db/migrate/20170728172343_create_grid_item_watches.rb" timestamp="1545290491678" />
       <file name="$USER_HOME$/code/io/io-engage/app/views/pins/_venue_modal_form.html.haml" timestamp="1545089938385">
         <mark key="[" line="11" column="26" />
         <mark key="]" line="11" column="63" />
@@ -593,7 +590,7 @@
       <file name="/e_events_migration.public.proof_reader_approvers [postgres@localhost]" timestamp="1545297549001">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/exhibitree2_production.public.items_roles [io_prod]" timestamp="1545342296875">
+      <file name="/exhibitree2_production.public.items_roles [io_prod]" timestamp="1545342503726">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/dreamforce_production.public.role_types [postgres@localhost]" timestamp="1541214805415">
@@ -626,7 +623,7 @@
       <file name="/layout_files [Exhibitree Cloud]" timestamp="1543289666002">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/exhibitree2_production.public.roles [io_prod]" timestamp="1545327743364">
+      <file name="/exhibitree2_production.public.roles [io_prod]" timestamp="1545342559636">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/exhibitree_shows.public.user_widgets [postgres@localhost]" timestamp="1542150925819">
@@ -767,11 +764,9 @@
       <file name="/exhibitree_shows_local.public.zones [postgres@localhost]" timestamp="1543890015727">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/db/seed.sample.rb" timestamp="1545333794897" />
       <file name="/exhibitree_shows_local.public.attachments [postgres@localhost]" timestamp="1544068218824">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/shows/config/database.yml" timestamp="1545168574693" />
       <file name="/exhibitree_shows.public.proof_reader_approvers [postgres@localhost]" timestamp="1542143544886">
         <mark key="[" line="0" column="0" />
       </file>
@@ -799,14 +794,12 @@
       <file name="/e_events_migration.public.events [postgres@localhost]" timestamp="1545297381786">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/18f2ac5a-39af-4578-8854-03936b72b2d2/console_3.sql" timestamp="1545298601053" />
       <file name="/e_events_migration.public.roles [postgres@localhost]" timestamp="1545328076147">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/exhibitree_shows.public.assessments [Exhibitree Cloud]" timestamp="1542323208674">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/Rakefile" timestamp="1545256412818" />
       <file name="/e_events_migration.public.reproduced_reasons [postgres@localhost]" timestamp="1545297551319">
         <mark key="[" line="0" column="0" />
       </file>
