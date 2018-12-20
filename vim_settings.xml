@@ -174,6 +174,12 @@
       <file name="/exhibitree_shows.public.clients [postgres@localhost]" timestamp="1542243397813">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/io/io-engage/db/migrate/20181220072051_create_grid_item_watches2.rb" timestamp="1545290504574">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="7" column="6" />
+        <mark key="." line="7" column="6" />
+        <mark key="^" line="7" column="6" />
+      </file>
       <file name="/exhibitree_shows.public.version_associations [Exhibitree Cloud]" timestamp="1542228193578">
         <mark key="[" line="0" column="0" />
       </file>
@@ -361,6 +367,7 @@
       <file name="/exhibitree_shows.public.specific_locations [postgres@localhost]" timestamp="1542143799256">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/io/io-engage/db/migrate/20170728172343_create_grid_item_watches.rb" timestamp="1545290491678" />
       <file name="$USER_HOME$/code/io/io-engage/app/views/pins/_venue_modal_form.html.haml" timestamp="1545089938385">
         <mark key="[" line="11" column="26" />
         <mark key="]" line="11" column="63" />
@@ -541,8 +548,8 @@
         <mark key="." line="3" column="15" />
         <mark key="^" line="3" column="15" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/db/migrate/20180819112150_add_client_graphic_types_from_graphic_types.rb" timestamp="1545259190791">
-        <mark key="'" line="13" column="2" />
+      <file name="$USER_HOME$/code/io/io-engage/db/migrate/20180819112150_add_client_graphic_types_from_graphic_types.rb" timestamp="1545290546762">
+        <mark key="'" line="8" column="0" />
       </file>
       <file name="/qa_0.public.zones [qa-master]" timestamp="1543890847407">
         <mark key="[" line="0" column="0" />
@@ -686,7 +693,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="9" filename="$USER_HOME$/code/io/io-engage/db/migrate/20181214001935_add_milestones_for_item_created_state.rb" />
       <jump line="67" column="9" filename="$USER_HOME$/code/io/io-engage/spec/db/helpers/milestone_helper_spec.rb" />
       <jump line="65" column="4" filename="$USER_HOME$/code/io/io-engage/spec/db/helpers/milestone_helper_spec.rb" />
       <jump line="19" column="6" filename="$USER_HOME$/code/io/io-engage/spec/features/admin/delete_general_location_spec.rb" />
@@ -786,13 +792,14 @@
       <jump line="36" column="31" filename="$USER_HOME$/code/io/io_engage_configuration/instances/developers/hfelix/config/settings.yml" />
       <jump line="5689" column="0" filename="$USER_HOME$/code/io/io-engage/db/structure.sql" />
       <jump line="13" column="2" filename="$USER_HOME$/code/io/io-engage/db/migrate/20180819112150_add_client_graphic_types_from_graphic_types.rb" />
+      <jump line="8" column="0" filename="$USER_HOME$/code/io/io-engage/db/migrate/20180819112150_add_client_graphic_types_from_graphic_types.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>_w</text>
       </register>
       <register name="&quot;" type="4">
-        <text>p</text>
+        <text>s</text>
       </register>
       <register name="b" type="4">
         <text>kkjj</text>
@@ -4484,7 +4491,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>s</text>
       </register>
       <register name="n" type="4">
         <text />
@@ -4496,7 +4503,7 @@
         <text encoding="base64">ICBkYXRhYmFzZTogZV9ldmVudHNfbWlncmF0aW9uX3Rlc3QK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PD09PSBFZGl0aW5nIGNvcHkgb2YgU2hvd3MgZG9jIGZvciBldmVudHMgYmVsb3cgdGhpcyBsaW5lID09PT4K</text>
+        <text encoding="base64">ICAgICAgCiAgICBlbmQK</text>
       </register>
       <register name="q" type="4">
         <text>jdd</text>
@@ -4514,7 +4521,7 @@
         <text>jdd</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">KiBFMSBvbmx5IGhhcyBOWUtPIGFuZCBDZWxlYnJhdGlvbiAyMDE3IC8gMjAxOCBkYXRhOyBtaWdyYXRpbmcgZGI/Cg==</text>
+        <text encoding="base64">PD09PSBFZGl0aW5nIGNvcHkgb2YgU2hvd3MgZG9jIGZvciBldmVudHMgYmVsb3cgdGhpcyBsaW5lID09PT4K</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -4915,7 +4922,7 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PD09PSBFZGl0aW5nIGNvcHkgb2YgU2hvd3MgZG9jIGZvciBldmVudHMgYmVsb3cgdGhpcyBsaW5lID09PT4K</text>
+        <text encoding="base64">KiBFMSBvbmx5IGhhcyBOWUtPIGFuZCBDZWxlYnJhdGlvbiAyMDE3IC8gMjAxOCBkYXRhOyBtaWdyYXRpbmcgZGI/Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">PD09PSBFZGl0aW5nIGNvcHkgb2YgU2hvd3MgZG9jIGZvciBldmVudHMgYmVsb3cgdGhpcyBsaW5lID09PT4K</text>
@@ -4927,7 +4934,7 @@
         <text encoding="base64">PD09PSBFZGl0aW5nIGNvcHkgb2YgU2hvd3MgZG9jIGZvciBldmVudHMgYmVsb3cgdGhpcyBsaW5lID09PT4K</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz53</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -4981,8 +4988,8 @@
         <entry encoding="base64">JzwsJz4lczpUaW1lLm5vdzpub3c6Yw==</entry>
         <entry>21</entry>
         <entry>114</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
