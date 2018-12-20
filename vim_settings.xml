@@ -198,6 +198,9 @@
         <mark key="." line="25" column="16" />
         <mark key="^" line="25" column="16" />
       </file>
+      <file name="/exhibitree2_production.public.role_types [Exhibitree2-production]" timestamp="1545342265702">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/qa_0.public.general_locations [qa-master]" timestamp="1544726798172">
         <mark key="[" line="0" column="0" />
       </file>
@@ -240,7 +243,7 @@
       <file name="/e_events_migration.public.vendors [postgres@localhost]" timestamp="1545297634494">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/e_events_migration.public.items_roles [postgres@localhost]" timestamp="1545297905814">
+      <file name="/e_events_migration.public.items_roles [postgres@localhost]" timestamp="1545342233434">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/exhibitree_shows.public.version_associations [Exhibitree Cloud]" timestamp="1542228193578">
@@ -332,7 +335,7 @@
       <file name="/e_events_migration.public.venues_zones [postgres@localhost]" timestamp="1545297648027">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1545337382439">
+      <file name="/dummy.sql" timestamp="1545342233580">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -344,7 +347,7 @@
       <file name="/exhibitree_shows.public.workflows_workflows [postgres@localhost]" timestamp="1542301843750">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545336633124">
+      <file name="/Dummy.txt" timestamp="1545342433249">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/exhibitree_shows.public.pins [postgres@localhost]" timestamp="1542301908541">
@@ -590,7 +593,7 @@
       <file name="/e_events_migration.public.proof_reader_approvers [postgres@localhost]" timestamp="1545297549001">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/exhibitree2_production.public.items_roles [io_prod]" timestamp="1545327954970">
+      <file name="/exhibitree2_production.public.items_roles [io_prod]" timestamp="1545342296875">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/dreamforce_production.public.role_types [postgres@localhost]" timestamp="1541214805415">
@@ -609,6 +612,9 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/exhibitree_shows_db_for_migration.public.roles_zones [postgres@localhost]" timestamp="1542323850987">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/exhibitree2_production.public.attachments [io_prod]" timestamp="1545342411819">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/exhibitree_shows_local.public.general_locations [postgres@localhost]" timestamp="1544639173300">
@@ -746,7 +752,10 @@
       <file name="/exhibitree-shows_production.public.items [postgres@localhost]" timestamp="1542142657971">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/exhibitree_shows.public.role_types [Exhibitree Cloud]" timestamp="1545327634522">
+      <file name="/exhibitree_shows.public.role_types [Exhibitree Cloud]" timestamp="1545341860785">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/exhibitree1_production.public.add_ons [io_prod]" timestamp="1545342355153">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/exhibitree_shows.public.layout_files [postgres@localhost]" timestamp="1542242535863">
