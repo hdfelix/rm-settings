@@ -514,12 +514,12 @@
       <file name="/e_events_migration.public.rush_overrides [postgres@localhost]" timestamp="1545297573346">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/sop/io-engage-event/tool-setup/import-exhibitree-2-data-to-events.md" timestamp="1545331252961">
+      <file name="$USER_HOME$/code/io/sop/io-engage-event/tool-setup/import-exhibitree-2-data-to-events.md" timestamp="1545332797470">
         <mark key="'" line="8" column="0" />
-        <mark key="[" line="260" column="27" />
-        <mark key="]" line="260" column="33" />
-        <mark key="." line="260" column="33" />
-        <mark key="^" line="260" column="33" />
+        <mark key="[" line="209" column="0" />
+        <mark key="]" line="209" column="94" />
+        <mark key="." line="209" column="0" />
+        <mark key="^" line="238" column="0" />
       </file>
       <file name="/exhibitree_shows_local.public.venues [postgres@localhost]" timestamp="1544639196064">
         <mark key="[" line="0" column="0" />
@@ -946,8 +946,8 @@
       <register name="a" type="4">
         <text>_w</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>ources</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">cGdfcmVzdG9yZSAtLWRhdGEtb25seSAtLXRhYmxlPXJvbGVfdHlwZXMgZTJfbm9uX2Nsb3VkX2R1bXBfZm9yX21pZ3JhdGlvbi5kdW1wID4gcm9sZV90eXBlcy5wZwo=</text>
       </register>
       <register name="b" type="4">
         <text>kkjj</text>
@@ -4639,7 +4639,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>ources</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="n" type="4">
         <text />
@@ -4648,19 +4648,19 @@
         <text>e_events_migration</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cHNxbCBlX2V2ZW50c19taWdyYXRpb24gPCBldmVudHMucGcK</text>
+        <text encoding="base64">cGdfcmVzdG9yZSAtLWRhdGEtb25seSAtLXRhYmxlPXJvbGVfdHlwZXMgZTJfbm9uX2Nsb3VkX2R1bXBfZm9yX21pZ3JhdGlvbi5kdW1wID4gcm9sZV90eXBlcy5wZwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHNxbCBlX2V2ZW50c19taWdyYXRpb24gPCB1c2VyX3dpZGdldHMucGcK</text>
+        <text encoding="base64">I3BzcWwgZV9ldmVudHNfbWlncmF0aW9uIDwgcm9sZV90eXBlcy5wZwo=</text>
       </register>
       <register name="q" type="4">
         <text>jdd</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHNxbCBlX2V2ZW50c19taWdyYXRpb24gPCByb2xlc196b25lcy5wZwo=</text>
+        <text encoding="base64">cHNxbCBlX2V2ZW50c19taWdyYXRpb24gPCB1c2Vycy5wZwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHNxbCBlX2V2ZW50c19taWdyYXRpb24gPCBmbG9vcl9wbGFucy5wZwo=</text>
+        <text encoding="base64">cHNxbCBlX2V2ZW50c19taWdyYXRpb24gPCB1c2VyX3dpZGdldHMucGcK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">cHNxbCBlX2V2ZW50c19taWdyYXRpb24gPCByb2xlc196b25lcy5wZwo=</text>
@@ -4669,7 +4669,7 @@
         <text>jdd</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cHNxbCBlX2V2ZW50c19taWdyYXRpb24gPCB1c2VyLnBnCg==</text>
+        <text encoding="base64">cHNxbCBlX2V2ZW50c19taWdyYXRpb24gPCBmbG9vcl9wbGFucy5wZwo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -5070,16 +5070,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHNxbCBlX2V2ZW50c19taWdyYXRpb24gPCB1c2Vycy5wZwpwc3FsIGVfZXZlbnRzX21pZ3JhdGlvbiA8IHJvbGVzLnBnCg==</text>
+        <text encoding="base64">cHNxbCBlX2V2ZW50c19taWdyYXRpb24gPCByb2xlc196b25lcy5wZwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cHNxbCBlX2V2ZW50c19taWdyYXRpb24gPCBpdGVtcy5wZwo=</text>
+        <text encoding="base64">cHNxbCBlX2V2ZW50c19taWdyYXRpb24gPCB1c2VyLnBnCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cHNxbCBlX2V2ZW50c19taWdyYXRpb24gPCBwcm9vZl91cmxzLnBnCnBzcWwgZV9ldmVudHNfbWlncmF0aW9uIDwgbGF5b3V0X2ZpbGVzLnBnCnBzcWwgZV9ldmVudHNfbWlncmF0aW9uIDwgcGFja2luZ19yZXBvcnRzLnBnCnBzcWwgZV9ldmVudHNfbWlncmF0aW9uIDwgcGlucy5wZwo=</text>
+        <text encoding="base64">cHNxbCBlX2V2ZW50c19taWdyYXRpb24gPCB1c2Vycy5wZwpwc3FsIGVfZXZlbnRzX21pZ3JhdGlvbiA8IHJvbGVzLnBnCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHNxbCBlX2V2ZW50c19taWdyYXRpb24gPCBpdGVtcy5wZwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
