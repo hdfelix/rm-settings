@@ -228,6 +228,7 @@
       <file name="/exhibitree_shows.public.roles [postgres@localhost]" timestamp="1542162332816">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/events/config/database.yml" timestamp="1545294114363" />
       <file name="/exhibitree_shows_18.public.users [postgres@localhost]" timestamp="1542731657381">
         <mark key="[" line="0" column="0" />
       </file>
@@ -413,11 +414,11 @@
       <file name="/exhibitree_shows.public.workflows_events [postgres@localhost]" timestamp="1542301850119">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/sop/io-engage-event/tool-setup/import-exhibitree-2-data-to-events.md" timestamp="1545293809729">
-        <mark key="[" line="25" column="42" />
-        <mark key="]" line="25" column="41" />
-        <mark key="^" line="25" column="41" />
-        <mark key="." line="25" column="41" />
+      <file name="$USER_HOME$/code/io/sop/io-engage-event/tool-setup/import-exhibitree-2-data-to-events.md" timestamp="1545294583677">
+        <mark key="[" line="119" column="2" />
+        <mark key="]" line="119" column="2" />
+        <mark key="^" line="119" column="1" />
+        <mark key="." line="119" column="2" />
       </file>
       <file name="/exhibitree_shows_local.public.venues [postgres@localhost]" timestamp="1544639196064">
         <mark key="[" line="0" column="0" />
@@ -820,7 +821,7 @@
         <text>_w</text>
       </register>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>#</text>
       </register>
       <register name="b" type="4">
         <text>kkjj</text>
@@ -4512,7 +4513,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>#</text>
       </register>
       <register name="n" type="4">
         <text />
@@ -4524,19 +4525,19 @@
         <text encoding="base64">ICBkYXRhYmFzZTogZV9ldmVudHNfbWlncmF0aW9uX3Rlc3QK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCiAgICBlbmQK</text>
+        <text encoding="base64">PD09PSBFZGl0aW5nIGNvcHkgb2YgU2hvd3MgZG9jIGZvciBldmVudHMgYmVsb3cgdGhpcyBsaW5lID09PT4K</text>
       </register>
       <register name="q" type="4">
         <text>jdd</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PD09PSBFZGl0aW5nIGNvcHkgb2YgU2hvd3MgZG9jIGZvciBldmVudHMgYmVsb3cgdGhpcyBsaW5lID09PT4K</text>
+        <text encoding="base64">KiBjYW7igJl0IGNvbm5lY3QgdG8gZGIgdmlhIHJ1YnkgbWluZTsgY2Fu4oCZdCBjb25uZWN0IHZpYSBwZ2FkbWluIChkb27igJl0IGhhdmUgUG9zdGdyZXMgcHdkOyBuZWVkIHRvIGZpbmQgdGhhdCBhdCBzb21lIHBvaW50Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">PD09PSBFZGl0aW5nIGNvcHkgb2YgU2hvd3MgZG9jIGZvciBldmVudHMgYmVsb3cgdGhpcyBsaW5lID09PT4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PD09PSBFZGl0aW5nIGNvcHkgb2YgU2hvd3MgZG9jIGZvciBldmVudHMgYmVsb3cgdGhpcyBsaW5lID09PT4K</text>
+        <text encoding="base64">ICAgICAgCiAgICBlbmQK</text>
       </register>
       <register name="t" type="4">
         <text>jdd</text>
@@ -4943,7 +4944,7 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">KiBFMSBvbmx5IGhhcyBOWUtPIGFuZCBDZWxlYnJhdGlvbiAyMDE3IC8gMjAxOCBkYXRhOyBtaWdyYXRpbmcgZGI/Cg==</text>
+        <text encoding="base64">PD09PSBFZGl0aW5nIGNvcHkgb2YgU2hvd3MgZG9jIGZvciBldmVudHMgYmVsb3cgdGhpcyBsaW5lID09PT4K</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">PD09PSBFZGl0aW5nIGNvcHkgb2YgU2hvd3MgZG9jIGZvciBldmVudHMgYmVsb3cgdGhpcyBsaW5lID09PT4K</text>
@@ -4952,7 +4953,7 @@
         <text encoding="base64">PD09PSBFZGl0aW5nIGNvcHkgb2YgU2hvd3MgZG9jIGZvciBldmVudHMgYmVsb3cgdGhpcyBsaW5lID09PT4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PD09PSBFZGl0aW5nIGNvcHkgb2YgU2hvd3MgZG9jIGZvciBldmVudHMgYmVsb3cgdGhpcyBsaW5lID09PT4K</text>
+        <text encoding="base64">KiBFMSBvbmx5IGhhcyBOWUtPIGFuZCBDZWxlYnJhdGlvbiAyMDE3IC8gMjAxOCBkYXRhOyBtaWdyYXRpbmcgZGI/Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
