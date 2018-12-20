@@ -304,7 +304,7 @@
         <mark key="^" line="108" column="109" />
         <mark key="." line="108" column="109" />
       </file>
-      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/events/config/database.yml" timestamp="1545296616160" />
+      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/events/config/database.yml" timestamp="1545332976011" />
       <file name="/exhibitree_shows_18.public.users [postgres@localhost]" timestamp="1542731657381">
         <mark key="[" line="0" column="0" />
       </file>
@@ -332,7 +332,7 @@
       <file name="/e_events_migration.public.venues_zones [postgres@localhost]" timestamp="1545297648027">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1545332088353">
+      <file name="/dummy.sql" timestamp="1545333439948">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -514,12 +514,12 @@
       <file name="/e_events_migration.public.rush_overrides [postgres@localhost]" timestamp="1545297573346">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/sop/io-engage-event/tool-setup/import-exhibitree-2-data-to-events.md" timestamp="1545332797470">
+      <file name="$USER_HOME$/code/io/sop/io-engage-event/tool-setup/import-exhibitree-2-data-to-events.md" timestamp="1545333300659">
         <mark key="'" line="8" column="0" />
-        <mark key="[" line="209" column="0" />
-        <mark key="]" line="209" column="94" />
-        <mark key="." line="209" column="0" />
-        <mark key="^" line="238" column="0" />
+        <mark key="[" line="193" column="93" />
+        <mark key="]" line="193" column="0" />
+        <mark key="." line="193" column="0" />
+        <mark key="^" line="193" column="0" />
       </file>
       <file name="/exhibitree_shows_local.public.venues [postgres@localhost]" timestamp="1544639196064">
         <mark key="[" line="0" column="0" />
@@ -600,6 +600,9 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/exhibitree_shows.public.items_roles [postgres@localhost]" timestamp="1542243064661">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/exhibitree_events.public.role_types [Exhibitree Cloud]" timestamp="1545333370172">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/exhibitree_shows.public.general_locations [Exhibitree Cloud]" timestamp="1543541204130">
@@ -755,6 +758,7 @@
       <file name="/exhibitree_shows_local.public.zones [postgres@localhost]" timestamp="1543890015727">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/io/io-engage/db/seed.sample.rb" timestamp="1545333794897" />
       <file name="/exhibitree_shows_local.public.attachments [postgres@localhost]" timestamp="1544068218824">
         <mark key="[" line="0" column="0" />
       </file>
@@ -947,7 +951,7 @@
         <text>_w</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">cGdfcmVzdG9yZSAtLWRhdGEtb25seSAtLXRhYmxlPXJvbGVfdHlwZXMgZTJfbm9uX2Nsb3VkX2R1bXBfZm9yX21pZ3JhdGlvbi5kdW1wID4gcm9sZV90eXBlcy5wZwo=</text>
+        <text encoding="base64">cGdfcmVzdG9yZSAtLWRhdGEtb25seSAtLXRhYmxlPW1pbGVzdG9uZXMgZTJfbm9uX2Nsb3VkX2R1bXBfZm9yX21pZ3JhdGlvbi5kdW1wID4gbWlsZXN0b25lcy5wZwo=</text>
       </register>
       <register name="b" type="4">
         <text>kkjj</text>
@@ -4639,7 +4643,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>t</text>
       </register>
       <register name="n" type="4">
         <text />
@@ -4648,7 +4652,7 @@
         <text>e_events_migration</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cGdfcmVzdG9yZSAtLWRhdGEtb25seSAtLXRhYmxlPXJvbGVfdHlwZXMgZTJfbm9uX2Nsb3VkX2R1bXBfZm9yX21pZ3JhdGlvbi5kdW1wID4gcm9sZV90eXBlcy5wZwo=</text>
+        <text encoding="base64">cGdfcmVzdG9yZSAtLWRhdGEtb25seSAtLXRhYmxlPW1pbGVzdG9uZXMgZTJfbm9uX2Nsb3VkX2R1bXBfZm9yX21pZ3JhdGlvbi5kdW1wID4gbWlsZXN0b25lcy5wZwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">I3BzcWwgZV9ldmVudHNfbWlncmF0aW9uIDwgcm9sZV90eXBlcy5wZwo=</text>
