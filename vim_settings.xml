@@ -219,6 +219,9 @@
       <file name="/e_events_migration.public.workback_schedule_sets [postgres@localhost]" timestamp="1545297672992">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/io/io-engage/spec/scripts/e_events_migration_spec.rb" timestamp="1545349444216">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/code/io/sop/io-engage-event/instances/list.md" timestamp="1543520442691">
         <mark key="[" line="17" column="12" />
         <mark key="]" line="18" column="0" />
