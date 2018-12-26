@@ -108,6 +108,13 @@
       <file name="/exhibitree_shows.public.roles [Exhibitree Cloud]" timestamp="1542228228286">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/io/io-engage/app/models/database.rb" timestamp="1545860149531">
+        <mark key="'" line="14" column="2" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="12" column="51" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/code/io/io_engage_configuration/instances/developers/shared/app/models/workflows/dreamforce.rb" timestamp="1542436284306">
         <mark key="[" line="35" column="90" />
         <mark key="]" line="35" column="86" />
@@ -384,7 +391,7 @@
       <file name="/exhibitree_shows.public.workflows_workflows [postgres@localhost]" timestamp="1542301843750">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545342433249">
+      <file name="/Dummy.txt" timestamp="1545860405967">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/exhibitree_shows.public.pins [postgres@localhost]" timestamp="1542301908541">
@@ -542,6 +549,13 @@
       <file name="/e_events_migration.public.schema_migrations [postgres@localhost]" timestamp="1545259662592">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/io/io-engage/config/settings.yml" timestamp="1545859325173">
+        <mark key="'" line="389" column="4" />
+        <mark key="[" line="857" column="17" />
+        <mark key="]" line="858" column="0" />
+        <mark key="^" line="858" column="0" />
+        <mark key="." line="858" column="0" />
+      </file>
       <file name="$USER_HOME$/code/io/io-engage/spec/features/delete_general_location_spec.rb" timestamp="1545022687504">
         <mark key="[" line="6" column="38" />
         <mark key="]" line="6" column="38" />
@@ -595,11 +609,11 @@
       <file name="/exhibitree_shows_local.public.pins [postgres@localhost]" timestamp="1545095490856">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/config/initializers/settings.rb" timestamp="1545858703077">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="1" />
-        <mark key="." line="48" column="1" />
-        <mark key="^" line="48" column="1" />
+      <file name="$USER_HOME$/code/io/io-engage/config/initializers/settings.rb" timestamp="1545859366888">
+        <mark key="'" line="48" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/exhibitree_shows.public.venues_zones [Exhibitree Cloud]" timestamp="1543539449856">
         <mark key="[" line="0" column="0" />
@@ -625,12 +639,12 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/app/models/db.rb" timestamp="1545857549060">
-        <mark key="'" line="10" column="2" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="1" column="5" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/code/io/io-engage/app/models/db.rb" timestamp="1545859011504">
+        <mark key="'" line="12" column="2" />
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="13" />
+        <mark key="^" line="0" column="13" />
+        <mark key="." line="0" column="13" />
       </file>
       <file name="$USER_HOME$/code/io/io-engage/scripts/update_legacy_exhibitree_items.rb" timestamp="1543282691542">
         <mark key="[" line="9" column="3" />
@@ -761,14 +775,14 @@
         <mark key="." line="3" column="15" />
         <mark key="^" line="3" column="15" />
       </file>
+      <file name="$USER_HOME$/code/io/io-engage/db/migrate/20180819112150_add_client_graphic_types_from_graphic_types.rb" timestamp="1545860810552" />
       <file name="/qa_0.public.zones [qa-master]" timestamp="1543890847407">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/config/database.yml" timestamp="1545856880738">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="43" column="1" />
-        <mark key="^" line="43" column="1" />
-        <mark key="." line="43" column="1" />
+      <file name="$USER_HOME$/code/io/io-engage/config/database.yml" timestamp="1545860524191">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/code/io/io-engage/app/admin/non_chargeable_reason.rb" timestamp="1544738976380">
         <mark key="[" line="16" column="4" />
@@ -841,6 +855,11 @@
       </file>
       <file name="/exhibitree_shows.public.layout_files [postgres@localhost]" timestamp="1542242535863">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1545343869382">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/exhibitree_shows.public.venues [Exhibitree Cloud]" timestamp="1543539257132">
         <mark key="[" line="0" column="0" />
@@ -946,25 +965,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="491" column="49" filename="$USER_HOME$/code/io/io-engage/spec/controllers/items_controller_spec.rb" />
-      <jump line="11" column="27" filename="$USER_HOME$/code/io/io-engage/spec/controllers/items_controller_spec.rb" />
-      <jump line="15" column="50" filename="$USER_HOME$/code/io/io-engage/spec/controllers/items_controller_spec.rb" />
-      <jump line="108" column="24" filename="$USER_HOME$/code/io/io-engage/spec/controllers/items_controller_spec.rb" />
-      <jump line="113" column="24" filename="$USER_HOME$/code/io/io-engage/spec/controllers/items_controller_spec.rb" />
-      <jump line="167" column="26" filename="$USER_HOME$/code/io/io-engage/spec/controllers/items_controller_spec.rb" />
-      <jump line="175" column="28" filename="$USER_HOME$/code/io/io-engage/spec/controllers/items_controller_spec.rb" />
-      <jump line="180" column="24" filename="$USER_HOME$/code/io/io-engage/spec/controllers/items_controller_spec.rb" />
-      <jump line="191" column="26" filename="$USER_HOME$/code/io/io-engage/spec/controllers/items_controller_spec.rb" />
-      <jump line="287" column="26" filename="$USER_HOME$/code/io/io-engage/spec/controllers/items_controller_spec.rb" />
-      <jump line="19" column="14" filename="$USER_HOME$/code/io/io-engage/spec/models/concerns/milestones_spec.rb" />
-      <jump line="37" column="3" filename="$USER_HOME$/code/io/io-engage/app/assets/javascripts/map/map_helper.coffee" />
-      <jump line="41" column="18" filename="$USER_HOME$/code/io/io-engage/app/assets/javascripts/map/map_helper.coffee" />
-      <jump line="44" column="11" filename="$USER_HOME$/code/io/io-engage/app/assets/javascripts/map/map_helper.coffee" />
-      <jump line="51" column="15" filename="$USER_HOME$/code/io/io-engage/app/assets/javascripts/map/map_helper.coffee" />
-      <jump line="53" column="11" filename="$USER_HOME$/code/io/io-engage/app/assets/javascripts/map/map_helper.coffee" />
-      <jump line="31" column="27" filename="$USER_HOME$/code/io/io-engage/app/assets/javascripts/map/map_helper.coffee" />
-      <jump line="32" column="18" filename="$USER_HOME$/code/io/io-engage/app/assets/javascripts/map/map_helper.coffee" />
-      <jump line="35" column="11" filename="$USER_HOME$/code/io/io-engage/app/assets/javascripts/map/map_helper.coffee" />
       <jump line="40" column="24" filename="$USER_HOME$/code/io/io-engage/app/assets/javascripts/map/map_helper.coffee" />
       <jump line="42" column="9" filename="$USER_HOME$/code/io/io-engage/app/assets/javascripts/map/map_helper.coffee" />
       <jump line="56" column="3" filename="$USER_HOME$/code/io/io-engage/app/assets/javascripts/map/map_helper.coffee" />
@@ -1046,13 +1046,32 @@
       <jump line="9" column="11" filename="$USER_HOME$/code/io/io-engage/config/source_database.yml" />
       <jump line="50" column="28" filename="$USER_HOME$/code/io/io-engage/lib/tasks/db_destination.rake" />
       <jump line="10" column="2" filename="$USER_HOME$/code/io/io-engage/app/models/db.rb" />
+      <jump line="15" column="21" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
+      <jump line="527" column="4" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
+      <jump line="609" column="4" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
+      <jump line="681" column="4" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
+      <jump line="808" column="4" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
+      <jump line="882" column="5" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
+      <jump line="866" column="0" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
+      <jump line="881" column="5" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
+      <jump line="113" column="4" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
+      <jump line="217" column="4" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
+      <jump line="284" column="4" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
+      <jump line="389" column="4" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
+      <jump line="12" column="2" filename="$USER_HOME$/code/io/io-engage/app/models/db.rb" />
+      <jump line="46" column="9" filename="$USER_HOME$/code/io/io-engage/config/initializers/settings.rb" />
+      <jump line="3" column="12" filename="$USER_HOME$/code/io/io-engage/config/initializers/settings.rb" />
+      <jump line="18" column="47" filename="$USER_HOME$/code/io/io-engage/config/initializers/settings.rb" />
+      <jump line="49" column="0" filename="$USER_HOME$/code/io/io-engage/config/initializers/settings.rb" />
+      <jump line="13" column="0" filename="$USER_HOME$/code/io/io-engage/app/models/database.rb" />
+      <jump line="12" column="2" filename="$USER_HOME$/code/io/io-engage/app/models/database.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>_w</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICB1c2VybmFtZTogZwogIHBhc3N3b3JkOiAK</text>
       </register>
       <register name="b" type="4">
         <text>kkjj</text>
@@ -4744,37 +4763,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>['STAGING_DATABASE']</text>
       </register>
       <register name="n" type="4">
         <text />
       </register>
       <register name="/" type="4">
-        <text>destination</text>
+        <text>binding</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFJhaWxzLmFwcGxpY2F0aW9uLmNvbmZpZy5wYXRoc1snY29uZmlnL2RhdGFiYXNlJ10gPSBbJ2NvbmZpZy9zb3VyY2VfZGF0YWJhc2UueW1sJ10KICBlbmQK</text>
+        <text encoding="base64">ICB1c2VybmFtZTogbWFzdGVyCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBlbmQK</text>
+        <text encoding="base64">ICB1c2VybmFtZTogZwogIHBhc3N3b3JkOiAK</text>
       </register>
       <register name="q" type="4">
         <text>jdd</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwb3J0OiA1NTAwCg==</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBlbmQK</text>
+        <text encoding="base64">cmVxdWlyZSAncHJ5JwoK</text>
       </register>
-      <register name="4" type="8">
-        <text encoding="base64">IyAKIyA=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICBkZWYgc2VsZi5zdGFnaW5nIQogICAgcmVxdWlyZSAncHJ5Jwo=</text>
       </register>
       <register name="t" type="4">
         <text>jdd</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">cmVxdWlyZSAncHJ5Jwo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -5175,25 +5194,25 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+        <text encoding="base64">ICBiaW5kaW5nLnByeQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdGFzayA6c2NoZW1hIGRvCiAgICAgICAgUmFrZTo6VGFza1siZGI6c2NoZW1hIl0uaW52b2tlCiAgICAgIGVuZAo=</text>
+        <text encoding="base64">ICBiaW5kaW5nLnByeQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">ICBlbmQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgUmFrZTo6VGFza1siZGI6Y3JlYXRlIl0uaW52b2tlX2Vudmlyb24K</text>
+        <text encoding="base64">ICBwb3J0OiA1NTAwCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>destination</last-search>
+      <last-search>binding</last-search>
       <last-offset />
-      <last-pattern>destination</last-pattern>
+      <last-pattern>binding</last-pattern>
       <last-replace>source</last-replace>
       <last-substitute>destination</last-substitute>
       <last-dir>1</last-dir>
@@ -5201,14 +5220,12 @@
     </search>
     <history>
       <history-search>
-        <entry>getData</entry>
         <entry>pins</entry>
         <entry>client_reference</entry>
         <entry>client_</entry>
         <entry>client</entry>
         <entry>client_reference_number</entry>
         <entry>client_ref</entry>
-        <entry>binding</entry>
         <entry>item_group_members</entry>
         <entry encoding="base64">PDw8</entry>
         <entry>pin</entry>
@@ -5221,6 +5238,8 @@
         <entry>cache</entry>
         <entry>migration_source</entry>
         <entry>destination</entry>
+        <entry>upload_root</entry>
+        <entry>binding</entry>
       </history-search>
       <history-cmd>
         <entry>%s:view_cost:view_cost_tab:c</entry>
