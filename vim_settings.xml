@@ -45,14 +45,20 @@
       <file name="/exhibitree1_production.public.venues [io_prod]" timestamp="1543539420303">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/config/initializers/db_destination.rb" timestamp="1545851679990">
-        <mark key="[" line="1" column="3" />
-        <mark key="]" line="1" column="12" />
-        <mark key="." line="1" column="12" />
-        <mark key="^" line="1" column="12" />
+      <file name="$USER_HOME$/code/io/io-engage/config/initializers/db_destination.rb" timestamp="1545855190360">
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="0" column="16" />
+        <mark key="." line="0" column="16" />
+        <mark key="^" line="0" column="16" />
       </file>
       <file name="/e_events_migration.public.resources [postgres@localhost]" timestamp="1545297552580">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/io/io-engage/app/models/source_base.rb" timestamp="1545855148749">
+        <mark key="[" line="2" column="6" />
+        <mark key="]" line="2" column="6" />
+        <mark key="." line="2" column="6" />
+        <mark key="^" line="1" column="31" />
       </file>
       <file name="/exhibitree2_production.public.proof_urls [Exhibitree2-production]" timestamp="1542072093249">
         <mark key="[" line="0" column="0" />
@@ -559,11 +565,11 @@
       <file name="/e_events_migration.public.rush_overrides [postgres@localhost]" timestamp="1545297573346">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/config/destination_database.yml" timestamp="1545852182219">
-        <mark key="[" line="6" column="40" />
-        <mark key="]" line="14" column="27" />
-        <mark key="." line="14" column="27" />
-        <mark key="^" line="14" column="27" />
+      <file name="$USER_HOME$/code/io/io-engage/config/destination_database.yml" timestamp="1545855029658">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="6" column="10" />
       </file>
       <file name="$USER_HOME$/code/io/sop/io-engage-event/tool-setup/import-exhibitree-2-data-to-events.md" timestamp="1545345441053">
         <mark key="'" line="8" column="0" />
@@ -815,11 +821,6 @@
       <file name="/exhibitree_shows.public.layout_files [postgres@localhost]" timestamp="1542242535863">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1545343869382">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="/exhibitree_shows.public.venues [Exhibitree Cloud]" timestamp="1543539257132">
         <mark key="[" line="0" column="0" />
       </file>
@@ -875,6 +876,9 @@
       <file name="/e_events_migration.public.field_sets [postgres@localhost]" timestamp="1545332088163">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/io/io-engage/config/source_database.yml" timestamp="1545855068165">
+        <mark key="'" line="9" column="11" />
+      </file>
       <file name="$USER_HOME$/code/io/io_engage_configuration/instances/developers/shared/app/models/workflows/exhibitree.rb" timestamp="1542420615806">
         <mark key="[" line="23" column="84" />
         <mark key="]" line="23" column="80" />
@@ -896,8 +900,8 @@
       <file name="/exhibitree_shows.public.role_types [postgres@localhost]" timestamp="1542301896975">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/lib/tasks/db_destination.rake" timestamp="1545851419585">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/code/io/io-engage/lib/tasks/db_destination.rake" timestamp="1545855208700">
+        <mark key="'" line="50" column="28" />
         <mark key="[" line="68" column="0" />
         <mark key="]" line="69" column="5" />
       </file>
@@ -921,8 +925,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="517" column="6" filename="$USER_HOME$/code/io/io-engage/spec/controllers/items_controller_spec.rb" />
-      <jump line="60" column="0" filename="$USER_HOME$/code/io/io-engage/spec/models/item_spec.rb" />
       <jump line="10" column="0" filename="$USER_HOME$/code/io/io-engage/spec/models/item_spec.rb" />
       <jump line="491" column="49" filename="$USER_HOME$/code/io/io-engage/spec/controllers/items_controller_spec.rb" />
       <jump line="11" column="27" filename="$USER_HOME$/code/io/io-engage/spec/controllers/items_controller_spec.rb" />
@@ -1021,13 +1023,15 @@
       <jump line="13" column="3" filename="$USER_HOME$/code/io/io-engage/config/migration_source_database.yml" />
       <jump line="66" column="18" filename="$USER_HOME$/code/io/io-engage/lib/tasks/db_destination.rake" />
       <jump line="0" column="0" filename="$USER_HOME$/code/io/io-engage/lib/tasks/db_destination.rake" />
+      <jump line="9" column="11" filename="$USER_HOME$/code/io/io-engage/config/source_database.yml" />
+      <jump line="50" column="28" filename="$USER_HOME$/code/io/io-engage/lib/tasks/db_destination.rake" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>_w</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>DB_Migration</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIFJhaWxzLmFwcGxpY2F0aW9uLmNvbmZpZy5wYXRoc1snY29uZmlnL2RhdGFiYXNlJ10gPSBbJ2NvbmZpZy9zb3VyY2VfZGF0YWJhc2UueW1sJ10KICBlbmQK</text>
       </register>
       <register name="b" type="4">
         <text>kkjj</text>
@@ -4719,37 +4723,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>DB_Migration</text>
+        <text encoding="base64">ZGVzdGluYXRpb24g</text>
       </register>
       <register name="n" type="4">
         <text />
       </register>
       <register name="/" type="4">
-        <text>migration_source</text>
+        <text>destination</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFJhaWxzLmFwcGxpY2F0aW9uLmNvbmZpZy5wYXRoc1snY29uZmlnL2RhdGFiYXNlJ10gPSBbJ2NvbmZpZy9kZXN0aW5hdGlvbl9kYXRhYmFzZS55bWwnXQogIGVuZAo=</text>
+        <text encoding="base64">ICAgIFJhaWxzLmFwcGxpY2F0aW9uLmNvbmZpZy5wYXRoc1snY29uZmlnL2RhdGFiYXNlJ10gPSBbJ2NvbmZpZy9zb3VyY2VfZGF0YWJhc2UueW1sJ10KICBlbmQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBlbmQK</text>
+        <text encoding="base64">ICBwb3J0OiA1NTAwCg==</text>
       </register>
       <register name="q" type="4">
         <text>jdd</text>
       </register>
-      <register name="2" type="8">
+      <register name="2" type="2">
+        <text encoding="base64">ICBlbmQK</text>
+      </register>
+      <register name="3" type="8">
         <text encoding="base64">IyAKIyA=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="t" type="4">
         <text>jdd</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdGFzayA6c2NoZW1hIGRvCiAgICAgICAgUmFrZTo6VGFza1siZGI6c2NoZW1hIl0uaW52b2tlCiAgICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -5150,12 +5154,15 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">ICAgICAgdGFzayA6c2NoZW1hIGRvCiAgICAgICAgUmFrZTo6VGFza1siZGI6c2NoZW1hIl0uaW52b2tlCiAgICAgIGVuZAo=</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">IAo=</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgUmFrZTo6VGFza1siZGI6Y3JlYXRlIl0uaW52b2tlX2Vudmlyb24K</text>
       </register>
-      <register name="8" type="8">
+      <register name="9" type="8">
         <text>12 
 11 
 10 
@@ -5171,25 +5178,21 @@
 13 
   1</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAyICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
-      </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>migration_source</last-search>
+      <last-search>destination</last-search>
       <last-offset />
-      <last-pattern>migration_source</last-pattern>
-      <last-replace>destination</last-replace>
-      <last-substitute>migration_source</last-substitute>
+      <last-pattern>destination</last-pattern>
+      <last-replace>source</last-replace>
+      <last-substitute>destination</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>url</entry>
         <entry>getData</entry>
         <entry>pins</entry>
         <entry>client_reference</entry>
@@ -5209,10 +5212,9 @@
         <entry>e_events_migration</entry>
         <entry>cache</entry>
         <entry>migration_source</entry>
+        <entry>destination</entry>
       </history-search>
       <history-cmd>
-        <entry>%s:Show Column of Items:Visible Item Columns:c</entry>
-        <entry>%s:set_file_attributes:file_attributes:c</entry>
         <entry>%s:view_cost:view_cost_tab:c</entry>
         <entry>%s:view_pricing:view_pricing_tab:c</entry>
         <entry>e</entry>
@@ -5230,6 +5232,8 @@
         <entry>%s:exhibitree_shows:e_events_migration:c</entry>
         <entry>%s:migration_source:destination:c</entry>
         <entry>q</entry>
+        <entry>%s:destination:source</entry>
+        <entry>%s:destination:source:c</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
