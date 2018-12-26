@@ -108,12 +108,12 @@
       <file name="/exhibitree_shows.public.roles [Exhibitree Cloud]" timestamp="1542228228286">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/app/models/database.rb" timestamp="1545860149531">
+      <file name="$USER_HOME$/code/io/io-engage/app/models/database.rb" timestamp="1545862382516">
         <mark key="'" line="14" column="2" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="12" column="51" />
-        <mark key="." line="12" column="0" />
+        <mark key="[" line="5" column="5" />
+        <mark key="]" line="5" column="4" />
+        <mark key="^" line="5" column="4" />
+        <mark key="." line="5" column="4" />
       </file>
       <file name="$USER_HOME$/code/io/io_engage_configuration/instances/developers/shared/app/models/workflows/dreamforce.rb" timestamp="1542436284306">
         <mark key="[" line="35" column="90" />
@@ -901,6 +901,12 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="1" column="1" />
       </file>
+      <file name="$USER_HOME$/code/io/io-engage/lib/exhibitree_migration.rb" timestamp="1545862289126">
+        <mark key="[" line="3" column="11" />
+        <mark key="]" line="3" column="11" />
+        <mark key="^" line="4" column="42" />
+        <mark key="." line="3" column="11" />
+      </file>
       <file name="/e_events_migration.public.events [postgres@localhost]" timestamp="1545297381786">
         <mark key="[" line="0" column="0" />
       </file>
@@ -1070,8 +1076,8 @@
       <register name="a" type="4">
         <text>_w</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICB1c2VybmFtZTogZwogIHBhc3N3b3JkOiAK</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="b" type="4">
         <text>kkjj</text>
@@ -4763,7 +4769,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>['STAGING_DATABASE']</text>
+        <text>s</text>
       </register>
       <register name="n" type="4">
         <text />
