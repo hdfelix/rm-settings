@@ -901,11 +901,10 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="1" column="1" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/lib/exhibitree_migration.rb" timestamp="1545864310800">
-        <mark key="[" line="8" column="45" />
-        <mark key="]" line="10" column="43" />
-        <mark key="^" line="10" column="43" />
-        <mark key="." line="10" column="43" />
+      <file name="$USER_HOME$/code/io/io-engage/lib/exhibitree_migration.rb" timestamp="1545865078813">
+        <mark key="[" line="7" column="55" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="/e_events_migration.public.events [postgres@localhost]" timestamp="1545297381786">
         <mark key="[" line="0" column="0" />
@@ -1077,7 +1076,7 @@
         <text>_w</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">cHV0cyBBY3RpdmVSZWNvcmQ6OkJhc2UuY29ubmVjdGlvbi5jdXJyZW50X2RhdGFiYXNlCg==</text>
+        <text encoding="base64">IyBGZXRjaCBkYXRhIHRvIGltcG9ydApkYXRhWzp3b3JrYmFja19zY2hlZHVsZV9zZXRzXSA9IFdvcmtiYWNrU2NoZWN1bGVTZXQuYWxsCgoK</text>
       </register>
       <register name="b" type="4">
         <text>kkjj</text>
@@ -4781,25 +4780,25 @@
         <text encoding="base64">cHV0cyBBY3RpdmVSZWNvcmQ6OkJhc2UuY29ubmVjdGlvbi5jdXJyZW50X2RhdGFiYXNlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB1c2VybmFtZTogZwogIHBhc3N3b3JkOiAK</text>
+        <text encoding="base64">IyBGZXRjaCBkYXRhIHRvIGltcG9ydApkYXRhWzp3b3JrYmFja19zY2hlZHVsZV9zZXRzXSA9IFdvcmtiYWNrU2NoZWN1bGVTZXQuYWxsCgoK</text>
       </register>
       <register name="q" type="4">
         <text>jdd</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cmVxdWlyZSAncHJ5JwoK</text>
+        <text encoding="base64">CmRldl9jb25uZWN0aW9uID0gRGF0YWJhc2UuZGV2ZWxvcG1lbnQhCnB1dHMgQWN0aXZlUmVjb3JkOjpCYXNlLmNvbm5lY3Rpb24uY3VycmVudF9kYXRhYmFzZQoKcHV0cyAiVXNlcnMgaW4gZGV2IGRiOiAje1VzZXIuYWxsLmNvdW50fSIKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBkZWYgc2VsZi5zdGFnaW5nIQogICAgcmVxdWlyZSAncHJ5Jwo=</text>
+        <text encoding="base64">ICB1c2VybmFtZTogZwogIHBhc3N3b3JkOiAK</text>
       </register>
       <register name="t" type="4">
         <text>jdd</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cmVxdWlyZSAncHJ5Jwo=</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -5200,16 +5199,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBiaW5kaW5nLnByeQo=</text>
+        <text encoding="base64">cmVxdWlyZSAncHJ5JwoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBiaW5kaW5nLnByeQo=</text>
+        <text encoding="base64">ICBkZWYgc2VsZi5zdGFnaW5nIQogICAgcmVxdWlyZSAncHJ5Jwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBlbmQK</text>
+        <text encoding="base64">cmVxdWlyZSAncHJ5Jwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwb3J0OiA1NTAwCg==</text>
+        <text encoding="base64">ICBiaW5kaW5nLnByeQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
