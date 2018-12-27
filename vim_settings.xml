@@ -335,7 +335,7 @@
       <file name="/exhibitree_shows_15.public.roles [postgres@localhost]" timestamp="1542306775924">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1545933447739">
+      <file name="/Ruby Console" timestamp="1545934139643">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="^" line="0" column="5" />
@@ -913,12 +913,12 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="1" column="1" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/lib/exhibitree_migration.rb" timestamp="1545933444153">
+      <file name="$USER_HOME$/code/io/io-engage/lib/exhibitree_migration.rb" timestamp="1545934579985">
         <mark key="'" line="23" column="12" />
-        <mark key="[" line="21" column="14" />
-        <mark key="]" line="22" column="14" />
-        <mark key="." line="22" column="14" />
-        <mark key="^" line="22" column="14" />
+        <mark key="[" line="64" column="32" />
+        <mark key="]" line="64" column="30" />
+        <mark key="." line="64" column="30" />
+        <mark key="^" line="64" column="30" />
       </file>
       <file name="/e_events_migration.public.events [postgres@localhost]" timestamp="1545297381786">
         <mark key="[" line="0" column="0" />
@@ -1087,7 +1087,7 @@
         <text>_w</text>
       </register>
       <register name="&quot;" type="4">
-        <text>&quot;should &quot;</text>
+        <text>event</text>
       </register>
       <register name="b" type="4">
         <text>kkjj</text>
@@ -4779,7 +4779,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;should &quot;</text>
+        <text>event</text>
       </register>
       <register name="n" type="4">
         <text />
