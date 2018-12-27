@@ -843,12 +843,12 @@
       <file name="/exhibitree_shows_18.public.role_types [postgres@localhost]" timestamp="1542731515618">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/spec/lib/exhibitree_migration_spec.rb" timestamp="1545947203353">
+      <file name="$USER_HOME$/code/io/io-engage/spec/lib/exhibitree_migration_spec.rb" timestamp="1545948479049">
         <mark key="'" line="100" column="42" />
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="85" column="0" />
-        <mark key="." line="85" column="0" />
-        <mark key="^" line="87" column="3" />
+        <mark key="[" line="6" column="87" />
+        <mark key="]" line="6" column="97" />
+        <mark key="." line="6" column="97" />
+        <mark key="^" line="6" column="97" />
       </file>
       <file name="/exhibitree_shows_15.public.items_roles [postgres@localhost]" timestamp="1542306510566">
         <mark key="[" line="0" column="0" />
@@ -917,12 +917,12 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="1" column="1" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/lib/exhibitree_migration.rb" timestamp="1545947259265">
+      <file name="$USER_HOME$/code/io/io-engage/lib/exhibitree_migration.rb" timestamp="1545948485617">
         <mark key="'" line="76" column="11" />
-        <mark key="[" line="67" column="5" />
-        <mark key="]" line="67" column="48" />
-        <mark key="." line="67" column="48" />
-        <mark key="^" line="67" column="48" />
+        <mark key="[" line="15" column="92" />
+        <mark key="]" line="15" column="92" />
+        <mark key="." line="15" column="92" />
+        <mark key="^" line="15" column="106" />
       </file>
       <file name="/e_events_migration.public.events [postgres@localhost]" timestamp="1545297381786">
         <mark key="[" line="0" column="0" />
@@ -1090,8 +1090,8 @@
       <register name="a" type="4">
         <text>_w</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>_</text>
       </register>
       <register name="b" type="4">
         <text>kkjj</text>
@@ -4783,7 +4783,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;should &quot;</text>
+        <text>_</text>
       </register>
       <register name="n" type="4">
         <text />
