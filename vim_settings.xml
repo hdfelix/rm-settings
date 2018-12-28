@@ -844,12 +844,12 @@
       <file name="/exhibitree_shows_18.public.role_types [postgres@localhost]" timestamp="1542731515618">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/spec/lib/exhibitree_migration_spec.rb" timestamp="1546021627068">
-        <mark key="'" line="141" column="42" />
-        <mark key="[" line="3" column="30" />
-        <mark key="]" line="3" column="50" />
-        <mark key="." line="3" column="50" />
-        <mark key="^" line="3" column="50" />
+      <file name="$USER_HOME$/code/io/io-engage/spec/lib/exhibitree_migration_spec.rb" timestamp="1546023869727">
+        <mark key="'" line="89" column="26" />
+        <mark key="[" line="100" column="6" />
+        <mark key="]" line="104" column="0" />
+        <mark key="^" line="99" column="5" />
+        <mark key="." line="100" column="0" />
       </file>
       <file name="/exhibitree_shows_15.public.items_roles [postgres@localhost]" timestamp="1542306510566">
         <mark key="[" line="0" column="0" />
@@ -1069,7 +1069,6 @@
       <jump line="31" column="6" filename="$USER_HOME$/code/io/io-engage/spec/lib/exhibitree_migration_spec.rb" />
       <jump line="76" column="11" filename="$USER_HOME$/code/io/io-engage/lib/exhibitree_migration.rb" />
       <jump line="50" column="8" filename="$USER_HOME$/code/io/io-engage/spec/lib/exhibitree_migration_spec.rb" />
-      <jump line="94" column="0" filename="$USER_HOME$/code/io/io-engage/spec/lib/exhibitree_migration_spec.rb" />
       <jump line="87" column="15" filename="$USER_HOME$/code/io/io-engage/spec/lib/exhibitree_migration_spec.rb" />
       <jump line="88" column="42" filename="$USER_HOME$/code/io/io-engage/spec/lib/exhibitree_migration_spec.rb" />
       <jump line="63" column="7" filename="$USER_HOME$/code/io/io-engage/lib/exhibitree_migration.rb" />
@@ -1086,13 +1085,14 @@
       <jump line="119" column="13" filename="$USER_HOME$/code/io/io-engage/lib/exhibitree_migration.rb" />
       <jump line="118" column="13" filename="$USER_HOME$/code/io/io-engage/lib/exhibitree_migration.rb" />
       <jump line="28" column="9" filename="$USER_HOME$/code/io/io-engage/lib/exhibitree_migration.rb" />
+      <jump line="94" column="26" filename="$USER_HOME$/code/io/io-engage/spec/lib/exhibitree_migration_spec.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>_w</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">cmVzb3VyY2VzIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgIyBMb29rIHRocm91Z2ggYWxsIGxvb2t1cCB0YWJsZXMgYW5kIGRlbGV0ZSBhbGwgcm93cyBpbiBlYWNoIHRhYmxlCiAgICAgIChsb29rX3VwX3RhYmxlcykuZWFjaCBkbyB8cmVzb3VyY2V8CiAgICAgICAgT2JqZWN0LmNvbnN0X2dldChyZXNvdXJjZS50b19zLmNsYXNzaWZ5KS5kZWxldGVfYWxsCiAgICAgIGVuZAoK</text>
       </register>
       <register name="b" type="4">
         <text>kkjj</text>
@@ -4784,37 +4784,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmVzb3VyY2VzIA==</text>
+        <text>e_all</text>
       </register>
       <register name="n" type="4">
         <text />
       </register>
       <register name="/" type="4">
-        <text>destroy</text>
+        <text>destroy_all</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgcmVzb3VyY2VzLmVhY2ggZG8gfHJlc291cmNlfAogICAgICAgIGV4cGVjdChtLmRhdGFbcmVzb3VyY2VdKS50byAgbWF0Y2hfYXJyYXkoT2JqZWN0LmNvbnN0X2dldChyZXNvdXJjZS50b19zLmNsYXNzaWZ5KS5zZW5kKDphbGwpLm1hcCgmOmF0dHJpYnV0ZXMpKQogICAgICBlbmQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgIyBMb29rIHRocm91Z2ggYWxsIHJlc291cmNlcyBhbmQgZGVsZXRlIGFsbCByb3dzIGluIGVhY2ggdGFibGUKICAgICAgKGxvb2tfdXBfdGFibGVzKS5lYWNoIGRvIHxyZXNvdXJjZXwKICAgICAgICBPYmplY3QuY29uc3RfZ2V0KHJlc291cmNlLnRvX3MuY2xhc3NpZnkpLmRlbGV0ZV9hbGwKICAgICAgZW5kCgo=</text>
+        <text encoding="base64">ICAgICAgIyBMb29rIHRocm91Z2ggYWxsIGxvb2t1cCB0YWJsZXMgYW5kIGRlbGV0ZSBhbGwgcm93cyBpbiBlYWNoIHRhYmxlCiAgICAgIChsb29rX3VwX3RhYmxlcykuZWFjaCBkbyB8cmVzb3VyY2V8CiAgICAgICAgT2JqZWN0LmNvbnN0X2dldChyZXNvdXJjZS50b19zLmNsYXNzaWZ5KS5kZWxldGVfYWxsCiAgICAgIGVuZAoK</text>
       </register>
       <register name="q" type="4">
         <text>jdd</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgIHVzZXJzCg==</text>
+        <text encoding="base64">ICAgICAgR3JhcGhpY0NhdGVnb3J5LmRlbGV0ZV9hbGwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgIHZlbmRvcgo=</text>
+        <text encoding="base64">ICAgICAgUm9sZVR5cGUuZGVsZXRlX2FsbAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgIHpvbmVzCg==</text>
+        <text encoding="base64">ICAgICAgUm9sZVR5cGUuZGVsZXRlX2FsbAo=</text>
       </register>
       <register name="t" type="4">
         <text>jdd</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgIGFzc2Vzc21lbnRzCg==</text>
+        <text encoding="base64">ICAgICAgUm9sZVR5cGUuZGVsZXRlX2FsbAo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -5215,33 +5215,32 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgUm9sZVR5cGUuZGVsZXRlX2FsbAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgIyBOZWVkIHRvIGRlbGV0ZSBpbiBzcGVjaWZpYyBvcmRlciBvciBnZXQgZXJyb3JzCg==</text>
+        <text encoding="base64">ICAgICAgUm9sZVR5cGUuZGVsZXRkVmQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgIHZlbmRvcgo=</text>
+        <text encoding="base64">ICAgICAgIyBMb29rIHRocm91Z2ggYWxsIGxvb2t1cCB0YWJsZXMgYW5kIGRlbGV0ZSBhbGwgcm93cyBpbiBlYWNoIHRhYmxlCiAgICAgIChsb29rX3VwX3RhYmxlcykuZWFjaCBkbyB8cmVzb3VyY2V8CiAgICAgICAgT2JqZWN0LmNvbnN0X2dldChyZXNvdXJjZS50b19zLmNsYXNzaWZ5KS5kZWxldGVfYWxsCiAgICAgIGVuZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgIHVzZXJzCg==</text>
+        <text encoding="base64">ICAgICAgIyBMb29rIHRocm91Z2ggYWxsIHJlc291cmNlcyBhbmQgZGVsZXRlIGFsbCByb3dzIGluIGVhY2ggdGFibGUKICAgICAgKGxvb2tfdXBfdGFibGVzKS5lYWNoIGRvIHxyZXNvdXJjZXwKICAgICAgICBPYmplY3QuY29uc3RfZ2V0KHJlc291cmNlLnRvX3MuY2xhc3NpZnkpLmRlbGV0ZV9hbGwKICAgICAgZW5kCgo=</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>destroy</last-search>
+      <last-search>destroy_all</last-search>
       <last-offset />
-      <last-pattern>destroy</last-pattern>
-      <last-replace>source</last-replace>
-      <last-substitute>destination</last-substitute>
+      <last-pattern>destroy_all</last-pattern>
+      <last-replace>delete_all</last-replace>
+      <last-substitute>destroy_all</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>thumb</entry>
         <entry>&quot;</entry>
         <entry>e1_non_cloud_dump_for_migration</entry>
         <entry>exhibitree_shows</entry>
@@ -5261,9 +5260,9 @@
         <entry>create_re</entry>
         <entry>assessments</entry>
         <entry>destroy</entry>
+        <entry>destroy_all</entry>
       </history-search>
       <history-cmd>
-        <entry>e</entry>
         <entry>91</entry>
         <entry>13</entry>
         <entry>2</entry>
@@ -5281,8 +5280,9 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>533</entry>
         <entry>89</entry>
-        <entry>w</entry>
         <entry>q</entry>
+        <entry>%s:destroy_all:delete_all</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
