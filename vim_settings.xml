@@ -843,12 +843,12 @@
       <file name="/exhibitree_shows_18.public.role_types [postgres@localhost]" timestamp="1542731515618">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/spec/lib/exhibitree_migration_spec.rb" timestamp="1545961610440">
-        <mark key="'" line="123" column="42" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="13" />
-        <mark key="^" line="86" column="54" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/code/io/io-engage/spec/lib/exhibitree_migration_spec.rb" timestamp="1546021627068">
+        <mark key="'" line="141" column="42" />
+        <mark key="[" line="3" column="30" />
+        <mark key="]" line="3" column="50" />
+        <mark key="." line="3" column="50" />
+        <mark key="^" line="3" column="50" />
       </file>
       <file name="/exhibitree_shows_15.public.items_roles [postgres@localhost]" timestamp="1542306510566">
         <mark key="[" line="0" column="0" />
@@ -1090,8 +1090,8 @@
       <register name="a" type="4">
         <text>_w</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgIHZlbmRvcgo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">cmVzb3VyY2VzIA==</text>
       </register>
       <register name="b" type="4">
         <text>kkjj</text>
@@ -4783,7 +4783,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text encoding="base64">cmVzb3VyY2VzIA==</text>
       </register>
       <register name="n" type="4">
         <text />
@@ -4795,7 +4795,7 @@
         <text encoding="base64">ICAgICAgcmVzb3VyY2VzLmVhY2ggZG8gfHJlc291cmNlfAogICAgICAgIGV4cGVjdChtLmRhdGFbcmVzb3VyY2VdKS50byAgbWF0Y2hfYXJyYXkoT2JqZWN0LmNvbnN0X2dldChyZXNvdXJjZS50b19zLmNsYXNzaWZ5KS5zZW5kKDphbGwpLm1hcCgmOmF0dHJpYnV0ZXMpKQogICAgICBlbmQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgIHZlbmRvcgo=</text>
+        <text encoding="base64">ICAgICAgIyBMb29rIHRocm91Z2ggYWxsIHJlc291cmNlcyBhbmQgZGVsZXRlIGFsbCByb3dzIGluIGVhY2ggdGFibGUKICAgICAgKGxvb2tfdXBfdGFibGVzKS5lYWNoIGRvIHxyZXNvdXJjZXwKICAgICAgICBPYmplY3QuY29uc3RfZ2V0KHJlc291cmNlLnRvX3MuY2xhc3NpZnkpLmRlbGV0ZV9hbGwKICAgICAgZW5kCgo=</text>
       </register>
       <register name="q" type="4">
         <text>jdd</text>
@@ -4804,16 +4804,16 @@
         <text encoding="base64">ICAgICAgIHVzZXJzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgYXNzZXNzbWVudHMK</text>
+        <text encoding="base64">ICAgICAgIHZlbmRvcgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgIHJvbGVfdHlwZXMK</text>
+        <text encoding="base64">ICAgICAgIHpvbmVzCg==</text>
       </register>
       <register name="t" type="4">
         <text>jdd</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIGFzc2Vzc21lbnRzCg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -5214,19 +5214,19 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIE9iamVjdC5jb25zdF9nZXQocmVzb3VyY2UudG9fcy5jbGFzc2lmeSkuc2VuZCg6Y3JlYXRlISwgYXR0cmlidXRlcykK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgZXZlbnRzCg==</text>
+        <text encoding="base64">ICAgICAgIyBOZWVkIHRvIGRlbGV0ZSBpbiBzcGVjaWZpYyBvcmRlciBvciBnZXQgZXJyb3JzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBkYXRhWzp6b25lc10K</text>
+        <text encoding="base64">ICAgICAgIHZlbmRvcgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgIHJvbGVzCg==</text>
+        <text encoding="base64">ICAgICAgIHVzZXJzCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -5262,7 +5262,6 @@
         <entry>destroy</entry>
       </history-search>
       <history-cmd>
-        <entry>%s:view_pricing:view_pricing_tab:c</entry>
         <entry>e</entry>
         <entry>91</entry>
         <entry>13</entry>
@@ -5277,11 +5276,12 @@
         <entry>%s:migration_source:destination:c</entry>
         <entry>%s:destination:source</entry>
         <entry>%s:destination:source:c</entry>
-        <entry>q</entry>
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>533</entry>
+        <entry>89</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
