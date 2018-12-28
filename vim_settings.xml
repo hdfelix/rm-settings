@@ -843,12 +843,11 @@
       <file name="/exhibitree_shows_18.public.role_types [postgres@localhost]" timestamp="1542731515618">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/spec/lib/exhibitree_migration_spec.rb" timestamp="1545948479049">
-        <mark key="'" line="100" column="42" />
-        <mark key="[" line="6" column="87" />
-        <mark key="]" line="6" column="97" />
-        <mark key="." line="6" column="97" />
-        <mark key="^" line="6" column="97" />
+      <file name="$USER_HOME$/code/io/io-engage/spec/lib/exhibitree_migration_spec.rb" timestamp="1545955919871">
+        <mark key="'" line="116" column="42" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="/exhibitree_shows_15.public.items_roles [postgres@localhost]" timestamp="1542306510566">
         <mark key="[" line="0" column="0" />
@@ -917,12 +916,12 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="1" column="1" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/lib/exhibitree_migration.rb" timestamp="1545948485617">
-        <mark key="'" line="76" column="11" />
-        <mark key="[" line="15" column="92" />
-        <mark key="]" line="15" column="92" />
-        <mark key="." line="15" column="92" />
-        <mark key="^" line="15" column="106" />
+      <file name="$USER_HOME$/code/io/io-engage/lib/exhibitree_migration.rb" timestamp="1545956626743">
+        <mark key="'" line="70" column="45" />
+        <mark key="[" line="111" column="0" />
+        <mark key="]" line="111" column="0" />
+        <mark key="." line="111" column="0" />
+        <mark key="^" line="75" column="41" />
       </file>
       <file name="/e_events_migration.public.events [postgres@localhost]" timestamp="1545297381786">
         <mark key="[" line="0" column="0" />
@@ -985,7 +984,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="802" column="6" filename="$USER_HOME$/code/io/io-engage/config/locales/en.yml" />
       <jump line="49" column="27" filename="$USER_HOME$/code/io/io_engage_configuration/instances/developers/hfelix/config/settings.yml" />
       <jump line="78" column="18" filename="$USER_HOME$/code/io/io_engage_configuration/instances/developers/hfelix/config/settings.yml" />
       <jump line="165" column="18" filename="$USER_HOME$/code/io/io_engage_configuration/instances/developers/hfelix/config/settings.yml" />
@@ -1075,7 +1073,6 @@
       <jump line="53" column="11" filename="$USER_HOME$/code/io/io-engage/lib/exhibitree_migration.rb" />
       <jump line="23" column="12" filename="$USER_HOME$/code/io/io-engage/lib/exhibitree_migration.rb" />
       <jump line="21" column="20" filename="$USER_HOME$/code/io/io-engage/spec/lib/exhibitree_migration_spec.rb" />
-      <jump line="70" column="4" filename="$USER_HOME$/code/io/io-engage/lib/exhibitree_migration.rb" />
       <jump line="335" column="0" filename="$USER_HOME$/code/io/io-engage/app/models/item.rb" />
       <jump line="57" column="12" filename="$USER_HOME$/code/io/io-engage/lib/exhibitree_migration.rb" />
       <jump line="31" column="6" filename="$USER_HOME$/code/io/io-engage/spec/lib/exhibitree_migration_spec.rb" />
@@ -1085,13 +1082,15 @@
       <jump line="94" column="0" filename="$USER_HOME$/code/io/io-engage/spec/lib/exhibitree_migration_spec.rb" />
       <jump line="87" column="15" filename="$USER_HOME$/code/io/io-engage/spec/lib/exhibitree_migration_spec.rb" />
       <jump line="88" column="42" filename="$USER_HOME$/code/io/io-engage/spec/lib/exhibitree_migration_spec.rb" />
+      <jump line="63" column="7" filename="$USER_HOME$/code/io/io-engage/lib/exhibitree_migration.rb" />
+      <jump line="70" column="45" filename="$USER_HOME$/code/io/io-engage/lib/exhibitree_migration.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>_w</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>_</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIEBkYXRhWzp3b3JrYmFja19zY2hlZHVsZV9zZXRzXS5lYWNoIGRvIHx3b3JrYmFja19zY2hlZHVsZV9zZXR8CiAgICAgIFdvcmtiYWNrU2NoZWR1bGVTZXQuY3JlYXRlISh3b3JrYmFja19zY2hlZHVsZV9zZXQpCiAgICBlbmQKCg==</text>
       </register>
       <register name="b" type="4">
         <text>kkjj</text>
@@ -4783,7 +4782,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>!</text>
       </register>
       <register name="n" type="4">
         <text />
@@ -4795,25 +4794,25 @@
         <text encoding="base64">ICAgICAgcmVzb3VyY2VzLmVhY2ggZG8gfHJlc291cmNlfAogICAgICAgIGV4cGVjdChtLmRhdGFbcmVzb3VyY2VdKS50byAgbWF0Y2hfYXJyYXkoT2JqZWN0LmNvbnN0X2dldChyZXNvdXJjZS50b19zLmNsYXNzaWZ5KS5zZW5kKDphbGwpLm1hcCgmOmF0dHJpYnV0ZXMpKQogICAgICBlbmQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBkYXRhWzp3b3JrYmFja19zY2hlZHVsZV9zZXRzXS5lYWNoIGRvIHx3b3JrYmFja19zY2hlZHVsZV9zZXR8CiAgICAgIFdvcmtiYWNrU2NoZWR1bGVTZXQuY3JlYXRlISh3b3JrYmFja19zY2hlZHVsZV9zZXQpCiAgICBlbmQKCg==</text>
       </register>
       <register name="q" type="4">
         <text>jdd</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3QobS5kYXRhW3Jlc291cmNlXSkK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgRmllbGRTZXQuZGVzdHJveV9hbGwKICAgICAgU2lkZS5kZXN0cm95X2FsbAogICAgICBGaW5pc2hpbmcuZGVzdHJveV9hbGwKICAgICAgU3Vic3RyYXRlLmRlc3Ryb3lfYWxsCiAgICAgIFJvbGVUeXBlLmRlc3Ryb3lfYWxsCiAgICAgIFVzZXIuZGVzdHJveV9hbGwKICAgICAgRXZlbnQuZGVzdHJveV9hbGwKICAgICAgVmVuZG9yLmRlc3Ryb3lfYWxsCiAgICAgIEFzc2Vzc21lbnQuZGVzdHJveV9hbGwKICAgICAgQXR0YWNobWVudC5kZXN0cm95X2FsbAogICAgICBXb3JrYmFja1NjaGVkdWxlU2V0LmRlc3Ryb3lfYWxsCgo=</text>
+        <text encoding="base64">ICAgICAgIGl0ZW1zVkRWZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgaXRlbXMK</text>
       </register>
       <register name="t" type="4">
         <text>jdd</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgT2JqZWN0LmNvbnN0X2dldChyZXNvdXJjZXNfdG9fZGVsZXRlLnRvX3MuY2xhc3NpZnkpLmRlc3Ryb3lfYWxsCg==</text>
+        <text encoding="base64">ICAgICMgcHV0cyAiVXNlcnMgaW4gZGV2IGRiOiAje1VzZXIuYWxsLmNvdW50Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -5214,16 +5213,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgRmllbGRTZXQuZGVzdHJveV9hbGwKICAgICAgU2lkZS5kZXN0cm95X2FsbAogICAgICBGaW5pc2hpbmcuZGVzdHJveV9hbGwKICAgICAgU3Vic3RyYXRlLmRlc3Ryb3lfYWxsCiAgICAgIFJvbGVUeXBlLmRlc3Ryb3lfYWxsCiAgICAgIFVzZXIuZGVzdHJveV9hbGwKICAgICAgRXZlbnQuZGVzdHJveV9hbGwKICAgICAgVmVuZG9yLmRlc3Ryb3lfYWxsCiAgICAgIEFzc2Vzc21lbnQuZGVzdHJveV9hbGwKICAgICAgQXR0YWNobWVudC5kZXN0cm95X2FsbAogICAgICBXb3JrYmFja1NjaGVkdWxlU2V0LmRlc3Ryb3lfYWxsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgSXRlbS5kZXN0cm95X2FsbAo=</text>
+        <text encoding="base64">ICAgIGRldl9jb25uZWN0aW9uID0gRGF0YWJhc2UuZGV2ZWxvcG1lbnQhCiAgICBSYWlscy5lbnYudGVzdD8gPyBEYXRhYmFzZS50ZXN0ISA6IERhdGFiYXNlLmRldmVsb3BtZW50IQogICAgcHV0cyAiQ3VycmVudCBEQjogI3tBY3RpdmVSZWNvcmQ6OkJhc2UuY29ubmVjdGlvbi5jdXJyZW50X2RhdGFiYXNlfSIKICAgICMgcHV0cyAiVXNlcnMgaW4gZGV2IGRiOiAje1VzZXIuYWxsLmNvdW50CiAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgRmllbGRTZXQuZGVzdHJveV9hbGwKICAgICAgU2lkZS5kZXN0cm95X2FsbAogICAgICBGaW5pc2hpbmcuZGVzdHJveV9hbGwKICAgICAgU3Vic3RyYXRlLmRlc3Ryb3lfYWxsCiAgICAgIFJvbGVUeXBlLmRlc3Ryb3lfYWxsCiAgICAgIFVzZXIuZGVzdHJveV9hbGwKICAgICAgRXZlbnQuZGVzdHJveV9hbGwKICAgICAgSXRlbS5kZXN0cm95X2FsbAogICAgICBWZW5kb3IuZGVzdHJveV9hbGwKICAgICAgQXNzZXNzbWVudC5kZXN0cm95X2FsbAogICAgICBBdHRhY2htZW50LmRlc3Ryb3lfYWxsCiAgICAgIFdvcmtiYWNrU2NoZWR1bGVTZXQuZGVzdHJveV9hbGwK</text>
+        <text encoding="base64">ICAgICMgQ3JlYXRlIHRoZSByZWNvcmRzCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
