@@ -336,11 +336,11 @@
       <file name="/exhibitree_shows_15.public.roles [postgres@localhost]" timestamp="1542306775924">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1546030334952">
+      <file name="/Ruby Console" timestamp="1546031155680">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="1" />
+        <mark key="^" line="0" column="1" />
+        <mark key="." line="0" column="1" />
       </file>
       <file name="$USER_HOME$/code/io/io-engage/spec/models/general_location_spec.rb" timestamp="1544475628354">
         <mark key="[" line="49" column="0" />
@@ -794,6 +794,7 @@
       <file name="/exhibitree_shows.public.job_statuses [postgres@localhost]" timestamp="1542143669797">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/io/io-engage/app/models/copy.rb" timestamp="1546031152813" />
       <file name="$USER_HOME$/code/io/io-engage/app/views/floor_plans/_item_pin_pop_up_content.html.haml" timestamp="1545103948111">
         <mark key="[" line="3" column="15" />
         <mark key="]" line="3" column="15" />
@@ -928,7 +929,7 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="1" column="1" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/lib/exhibitree_migration.rb" timestamp="1546030424737">
+      <file name="$USER_HOME$/code/io/io-engage/lib/exhibitree_migration.rb" timestamp="1546030609685">
         <mark key="'" line="113" column="13" />
         <mark key="[" line="89" column="19" />
         <mark key="]" line="89" column="22" />
