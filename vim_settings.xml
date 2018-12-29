@@ -336,7 +336,7 @@
       <file name="/exhibitree_shows_15.public.roles [postgres@localhost]" timestamp="1542306775924">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1546041537931">
+      <file name="/Ruby Console" timestamp="1546043812468">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -935,11 +935,13 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="1" column="1" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/lib/exhibitree_migration.rb" timestamp="1546041896293">
-        <mark key="'" line="103" column="52" />
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="." line="61" column="0" />
+      <file name="$USER_HOME$/code/io/io-engage/lib/exhibitree_migration.rb" timestamp="1546043868680">
+        <mark key="'" line="146" column="0" />
+        <mark key="j" line="61" column="27" />
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="69" column="0" />
+        <mark key="^" line="60" column="8" />
       </file>
       <file name="/e_events_migration.public.events [postgres@localhost]" timestamp="1545297381786">
         <mark key="[" line="0" column="0" />
@@ -997,8 +999,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="21" filename="$USER_HOME$/code/io/io-engage/lib/tasks/db_migration_source.rake" />
-      <jump line="51" column="20" filename="$USER_HOME$/code/io/io-engage/lib/tasks/db_migration_source.rake" />
       <jump line="64" column="24" filename="$USER_HOME$/code/io/io-engage/lib/tasks/db_migration_source.rake" />
       <jump line="65" column="48" filename="$USER_HOME$/code/io/io-engage/lib/tasks/db_migration_source.rake" />
       <jump line="66" column="56" filename="$USER_HOME$/code/io/io-engage/lib/tasks/db_migration_source.rake" />
@@ -1097,13 +1097,15 @@
       <jump line="68" column="19" filename="$USER_HOME$/code/io/io-engage/app/models/copy.rb" />
       <jump line="23" column="14" filename="$USER_HOME$/code/io/io-engage/app/models/copy.rb" />
       <jump line="98" column="52" filename="$USER_HOME$/code/io/io-engage/lib/exhibitree_migration.rb" />
+      <jump line="71" column="4" filename="$USER_HOME$/code/io/io-engage/lib/exhibitree_migration.rb" />
+      <jump line="146" column="0" filename="$USER_HOME$/code/io/io-engage/lib/exhibitree_migration.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>_w</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICBpdGVtCg==</text>
+        <text encoding="base64">ICAgICAgZW5kCg==</text>
       </register>
       <register name="b" type="4">
         <text>kkjj</text>
@@ -4795,7 +4797,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>_</text>
       </register>
       <register name="n" type="4">
         <text />
@@ -4807,25 +4809,25 @@
         <text encoding="base64">ICAgICAgICAuc2VuZCg6bmV3LCBhdHRyaWJ1dGVzKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICBpdGVtCg==</text>
+        <text encoding="base64">ICAgICAgZW5kCg==</text>
       </register>
       <register name="q" type="4">
         <text>jdd</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICBlbmQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgIHNxbF9rZXlzICsgIiN7a2V5fSIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcmVjb3JkID0gb2JqZWN0LnNlbmQoOm5ldywgYXR0cmlidXRlcykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <text>jdd</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcmVjb3JkLmNsYXNzLmFyZWxfdGFibGUuY3JlYXRlX2luc2VydAogICAgICAgIC50YXAgZG8gfGltfAogICAgICAgICAgaW0uaW5zZXJ0KHJlY29yZC5zZW5kKDphcmVsX2F0dHJpYnV0ZXNfd2l0aF92YWx1ZXNfZm9yX2NyZWF0ZSwgcmVjb3JkLmF0dHJpYnV0ZXNfbmFtZXMpKQogICAgICAgIGVuZAogICAgICAgIC50b19zcWwK</text>
+        <text encoding="base64">ICAgICAgICAgICBpdGVtLmVhY2ggZG8gfGF0dHJpYnV0ZXwK</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -5226,17 +5228,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgIHVzZXJzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICB1c2VyLmRlbGV0ZSgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgZmllbGRfc2V0cwo=</text>
+        <text encoding="base64">ICAgICAgICAgICBpdGVtCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>rs
-         role_types</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgZmllbGRfc2V0cwo=</text>
+        <text encoding="base64">ICAgICAgIHNxbF9rZXlzICsgIiN7a2V5fSIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
