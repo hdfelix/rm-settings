@@ -336,11 +336,11 @@
       <file name="/exhibitree_shows_15.public.roles [postgres@localhost]" timestamp="1542306775924">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1546043812468">
+      <file name="/Ruby Console" timestamp="1546045671633">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="20" />
+        <mark key="^" line="0" column="20" />
+        <mark key="." line="0" column="20" />
       </file>
       <file name="$USER_HOME$/code/io/io-engage/spec/models/general_location_spec.rb" timestamp="1544475628354">
         <mark key="[" line="49" column="0" />
@@ -935,13 +935,13 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="1" column="1" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/lib/exhibitree_migration.rb" timestamp="1546043868680">
+      <file name="$USER_HOME$/code/io/io-engage/lib/exhibitree_migration.rb" timestamp="1546045648424">
         <mark key="'" line="146" column="0" />
         <mark key="j" line="61" column="27" />
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="0" />
-        <mark key="." line="69" column="0" />
-        <mark key="^" line="60" column="8" />
+        <mark key="[" line="61" column="43" />
+        <mark key="]" line="61" column="43" />
+        <mark key="." line="61" column="43" />
+        <mark key="^" line="61" column="40" />
       </file>
       <file name="/e_events_migration.public.events [postgres@localhost]" timestamp="1545297381786">
         <mark key="[" line="0" column="0" />
@@ -1104,8 +1104,13 @@
       <register name="a" type="4">
         <text>_w</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgZW5kCg==</text>
+      <register name="&quot;" type="8">
+        <text>[0]
+[0]
+[0]
+[0]
+[0]
+[0]</text>
       </register>
       <register name="b" type="4">
         <text>kkjj</text>
@@ -4808,26 +4813,41 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAuc2VuZCg6bmV3LCBhdHRyaWJ1dGVzKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZW5kCg==</text>
+      <register name="1" type="8">
+        <text>[0]
+[0]
+[0]
+[0]
+[0]
+[0]</text>
       </register>
       <register name="q" type="4">
         <text>jdd</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICBlbmQK</text>
+      <register name="2" type="8">
+        <text>attribute
+attribute
+attribute
+attribute
+attribute
+attribute</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="8">
+        <text>attribute
+attribute
+attribute
+attribute
+attribute
+attribute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZW5kCg==</text>
       </register>
       <register name="t" type="4">
         <text>jdd</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICBpdGVtLmVhY2ggZG8gfGF0dHJpYnV0ZXwK</text>
+        <text encoding="base64">ICAgICAgICAgICBlbmQK</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -5228,16 +5248,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICB1c2VyLmRlbGV0ZSgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICBpdGVtCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICBpdGVtLmVhY2ggZG8gfGF0dHJpYnV0ZXwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgIHNxbF9rZXlzICsgIiN7a2V5fSIK</text>
+        <text encoding="base64">ICAgICAgICAgICB1c2VyLmRlbGV0ZSgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
