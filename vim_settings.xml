@@ -935,13 +935,13 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="1" column="1" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/lib/exhibitree_migration.rb" timestamp="1546045648424">
-        <mark key="'" line="146" column="0" />
+      <file name="$USER_HOME$/code/io/io-engage/lib/exhibitree_migration.rb" timestamp="1546046220480">
+        <mark key="'" line="110" column="25" />
         <mark key="j" line="61" column="27" />
-        <mark key="[" line="61" column="43" />
-        <mark key="]" line="61" column="43" />
-        <mark key="." line="61" column="43" />
-        <mark key="^" line="61" column="40" />
+        <mark key="[" line="105" column="36" />
+        <mark key="]" line="105" column="64" />
+        <mark key="." line="105" column="64" />
+        <mark key="^" line="105" column="64" />
       </file>
       <file name="/e_events_migration.public.events [postgres@localhost]" timestamp="1545297381786">
         <mark key="[" line="0" column="0" />
@@ -999,7 +999,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="64" column="24" filename="$USER_HOME$/code/io/io-engage/lib/tasks/db_migration_source.rake" />
       <jump line="65" column="48" filename="$USER_HOME$/code/io/io-engage/lib/tasks/db_migration_source.rake" />
       <jump line="66" column="56" filename="$USER_HOME$/code/io/io-engage/lib/tasks/db_migration_source.rake" />
       <jump line="67" column="54" filename="$USER_HOME$/code/io/io-engage/lib/tasks/db_migration_source.rake" />
@@ -1099,18 +1098,14 @@
       <jump line="98" column="52" filename="$USER_HOME$/code/io/io-engage/lib/exhibitree_migration.rb" />
       <jump line="71" column="4" filename="$USER_HOME$/code/io/io-engage/lib/exhibitree_migration.rb" />
       <jump line="146" column="0" filename="$USER_HOME$/code/io/io-engage/lib/exhibitree_migration.rb" />
+      <jump line="110" column="25" filename="$USER_HOME$/code/io/io-engage/lib/exhibitree_migration.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>_w</text>
       </register>
-      <register name="&quot;" type="8">
-        <text>[0]
-[0]
-[0]
-[0]
-[0]
-[0]</text>
+      <register name="&quot;" type="4">
+        <text>.to_s + &quot;'&quot;</text>
       </register>
       <register name="b" type="4">
         <text>kkjj</text>
@@ -4802,7 +4797,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>.to_s + &quot;'&quot;</text>
       </register>
       <register name="n" type="4">
         <text />
