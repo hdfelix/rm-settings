@@ -240,6 +240,12 @@
         <mark key="." line="25" column="16" />
         <mark key="^" line="25" column="16" />
       </file>
+      <file name="$USER_HOME$/code/io/io-engage/app/javascript/packs/bugherd.js" timestamp="1546285413554">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+        <mark key="^" line="26" column="38" />
+      </file>
       <file name="/exhibitree2_production.public.role_types [Exhibitree2-production]" timestamp="1545342265702">
         <mark key="[" line="0" column="0" />
       </file>
@@ -570,12 +576,12 @@
       <file name="/e_events_migration.public.schema_migrations [postgres@localhost]" timestamp="1545259662592">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/config/settings.yml" timestamp="1545859325173">
-        <mark key="'" line="389" column="4" />
-        <mark key="[" line="857" column="17" />
-        <mark key="]" line="858" column="0" />
-        <mark key="^" line="858" column="0" />
-        <mark key="." line="858" column="0" />
+      <file name="$USER_HOME$/code/io/io-engage/config/settings.yml" timestamp="1546283911828">
+        <mark key="'" line="391" column="4" />
+        <mark key="[" line="0" column="17" />
+        <mark key="]" line="2" column="40" />
+        <mark key="^" line="2" column="40" />
+        <mark key="." line="2" column="40" />
       </file>
       <file name="$USER_HOME$/code/io/io-engage/spec/features/delete_general_location_spec.rb" timestamp="1545022687504">
         <mark key="[" line="6" column="38" />
@@ -667,7 +673,7 @@
         <mark key="^" line="0" column="13" />
         <mark key="." line="0" column="13" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/app/controllers/items_controller.rb" timestamp="1546030332128" />
+      <file name="$USER_HOME$/code/io/io-engage/app/controllers/items_controller.rb" timestamp="1546285288443" />
       <file name="/exhibitree_events.public.users [Exhibitree Cloud]" timestamp="1545891305917">
         <mark key="[" line="0" column="0" />
       </file>
@@ -968,6 +974,13 @@
       <file name="/e_events_migration.public.workflows_events [postgres@localhost]" timestamp="1545297671158">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/io/io-engage/app/controllers/application_controller.rb" timestamp="1546285592536">
+        <mark key="'" line="52" column="15" />
+        <mark key="[" line="70" column="33" />
+        <mark key="]" line="70" column="33" />
+        <mark key="." line="70" column="33" />
+        <mark key="^" line="70" column="33" />
+      </file>
       <file name="/e_events_migration.public.clients [postgres@localhost]" timestamp="1545297340914">
         <mark key="[" line="0" column="0" />
       </file>
@@ -1000,8 +1013,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="48" filename="$USER_HOME$/code/io/io-engage/lib/tasks/db_migration_source.rake" />
-      <jump line="66" column="56" filename="$USER_HOME$/code/io/io-engage/lib/tasks/db_migration_source.rake" />
       <jump line="67" column="54" filename="$USER_HOME$/code/io/io-engage/lib/tasks/db_migration_source.rake" />
       <jump line="68" column="65" filename="$USER_HOME$/code/io/io-engage/lib/tasks/db_migration_source.rake" />
       <jump line="11" column="5" filename="$USER_HOME$/code/io/io-engage/config/migration_source_database.yml" />
@@ -1100,13 +1111,15 @@
       <jump line="71" column="4" filename="$USER_HOME$/code/io/io-engage/lib/exhibitree_migration.rb" />
       <jump line="146" column="0" filename="$USER_HOME$/code/io/io-engage/lib/exhibitree_migration.rb" />
       <jump line="110" column="25" filename="$USER_HOME$/code/io/io-engage/lib/exhibitree_migration.rb" />
+      <jump line="23" column="35" filename="$USER_HOME$/code/io/io-engage/app/controllers/application_controller.rb" />
+      <jump line="52" column="15" filename="$USER_HOME$/code/io/io-engage/app/controllers/application_controller.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>_w</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>.to_s + &quot;'&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name="b" type="4">
         <text>kkjj</text>
@@ -4798,7 +4811,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.to_s + &quot;'&quot;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="n" type="4">
         <text />
@@ -4806,44 +4819,34 @@
       <register name="/" type="4">
         <text>original</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAuc2VuZCg6bmV3LCBhdHRyaWJ1dGVzKQo=</text>
+      <register name="0" type="4">
+        <text>nwhkw6f5be820k8js62xew</text>
       </register>
-      <register name="1" type="8">
+      <register name="1" type="2">
+        <text encoding="base64">ICBkZWJ1Z2dlcjsK</text>
+      </register>
+      <register name="q" type="4">
+        <text>jdd</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIEBidWdoZXJkX3Byb2plY3Rfa2V5ID0gU2V0dGluZ3MuZ2V0KCdidWdoZXJkLmFwaV9rZXknKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="t" type="4">
+        <text>jdd</text>
+      </register>
+      <register name="5" type="8">
         <text>[0]
 [0]
 [0]
 [0]
 [0]
 [0]</text>
-      </register>
-      <register name="q" type="4">
-        <text>jdd</text>
-      </register>
-      <register name="2" type="8">
-        <text>attribute
-attribute
-attribute
-attribute
-attribute
-attribute</text>
-      </register>
-      <register name="3" type="8">
-        <text>attribute
-attribute
-attribute
-attribute
-attribute
-attribute</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZW5kCg==</text>
-      </register>
-      <register name="t" type="4">
-        <text>jdd</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICBlbmQK</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -5243,17 +5246,27 @@ attribute</text>
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="8">
+        <text>attribute
+attribute
+attribute
+attribute
+attribute
+attribute</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="8">
+        <text>attribute
+attribute
+attribute
+attribute
+attribute
+attribute</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICBpdGVtLmVhY2ggZG8gfGF0dHJpYnV0ZXwK</text>
+        <text encoding="base64">ICAgICAgZW5kCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICB1c2VyLmRlbGV0ZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICBlbmQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
