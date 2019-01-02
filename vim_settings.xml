@@ -3,97 +3,45 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/developers/dans/config/settings.yml" timestamp="1546291362705">
+        <mark key="'" line="7" column="6" />
+        <mark key="[" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/developers/_sample/config/settings.yml" timestamp="1546448089446">
+        <mark key="'" line="10" column="18" />
+        <mark key="[" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/developers/manim/config/settings.yml" timestamp="1546291456335">
+        <mark key="[" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/code/io/io_engage_configuration/instances/google/production/config/settings.yml" timestamp="1546288550162">
         <mark key="'" line="15" column="19" />
         <mark key="[" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/code/io/io-engage/app/views/layouts/partials/_footer.html.haml" timestamp="1546447741801">
+        <mark key="[" line="6" column="8" />
+        <mark key="]" line="6" column="13" />
+        <mark key="^" line="6" column="13" />
+        <mark key="." line="6" column="13" />
+      </file>
       <file name="$USER_HOME$/code/io/io_engage_configuration/instances/preferred/netapp/config/settings.yml" timestamp="1546288586982">
         <mark key="[" line="1" column="0" />
         <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/io/io-engage/config/database.sample.yml" timestamp="1546288846801">
-        <mark key="'" line="15" column="31" />
-      </file>
-      <file name="$USER_HOME$/code/io/io-engage/app/controllers/graphics_controller.rb" timestamp="1546028099524" />
-      <file name="$USER_HOME$/code/io/io-engage/app/models/database.rb" timestamp="1545868558117">
-        <mark key="'" line="11" column="2" />
-        <mark key="[" line="15" column="15" />
-        <mark key="]" line="15" column="15" />
-        <mark key="^" line="16" column="49" />
-        <mark key="." line="15" column="15" />
-      </file>
-      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/hartmann/production/config/settings.yml" timestamp="1546288566443">
-        <mark key="[" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/developers/_sample/config/settings.yml" timestamp="1546291380093">
-        <mark key="'" line="10" column="18" />
-        <mark key="[" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/io/io-engage/app/javascript/packs/bugherd.js" timestamp="1546287153710">
-        <mark key="'" line="4" column="0" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="26" column="38" />
       </file>
       <file name="$USER_HOME$/code/io/io_engage_configuration/instances/developers/madhumathis/config/settings.yml" timestamp="1546291407397">
         <mark key="'" line="8" column="17" />
         <mark key="[" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/dreamforce/production/config/settings.yml" timestamp="1546288534720">
-        <mark key="'" line="82" column="12" />
-        <mark key="[" line="11" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/io/io-engage/spec/rails_helper.rb" timestamp="1545870308686">
-        <mark key="'" line="98" column="0" />
-        <mark key="[" line="147" column="0" />
-        <mark key="]" line="147" column="0" />
-        <mark key="." line="147" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree_noncloud/production2/config/settings.yml" timestamp="1546288705583">
-        <mark key="'" line="19" column="32" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="2" column="41" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/developers/hfelix/config/settings.yml" timestamp="1546291279737">
-        <mark key="'" line="18" column="15" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="2" column="80" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/developers/dans/config/settings.yml" timestamp="1546291362705">
-        <mark key="'" line="7" column="6" />
+      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/knowledge/production/config/settings.yml" timestamp="1546288574200">
         <mark key="[" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/code/io/io_engage_configuration/instances/developers/ashaik/config/settings.yml" timestamp="1546291371536">
-        <mark key="[" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/shows/config/settings.yml" timestamp="1546288684559">
-        <mark key="'" line="22" column="20" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="2" column="41" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/io/io-engage/config/settings.yml" timestamp="1546288813808">
-        <mark key="'" line="19" column="31" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="2" column="41" />
-        <mark key="." line="2" column="40" />
-        <mark key="^" line="2" column="40" />
-      </file>
-      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/developers/lou/config/settings.yml" timestamp="1546291397480">
-        <mark key="'" line="5" column="20" />
-        <mark key="[" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/developers/manim/config/settings.yml" timestamp="1546291456335">
         <mark key="[" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
@@ -103,30 +51,8 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/trailhead/production/config/settings.yml" timestamp="1546296334107">
-        <mark key="[" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/io/io-engage/app/controllers/items_controller.rb" timestamp="1546285288443" />
-      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/developers/ramesh/config/settings.yml" timestamp="1546291463041">
-        <mark key="'" line="13" column="6" />
-        <mark key="[" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/developers/sakthivelp/config/settings.yml" timestamp="1546291470836">
-        <mark key="'" line="10" column="19" />
-        <mark key="[" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree_noncloud/production/config/settings.yml" timestamp="1546288696617">
-        <mark key="'" line="19" column="29" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="2" column="41" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/io/io-engage/app/views/layouts/partials/_head.html.haml" timestamp="1546282258291" />
       <file name="$USER_HOME$/code/io/io-engage/config/settings.sample.yml" timestamp="1546291265200">
-        <mark key="'" line="26" column="27" />
+        <mark key="'" line="28" column="27" />
         <mark key="[" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/code/io/io_engage_configuration/instances/developers/shelms/config/settings.yml" timestamp="1546291479960">
@@ -140,15 +66,15 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io_engage_configuration/Jenkinsfile.publish" timestamp="1546296672709" />
-      <file name="$USER_HOME$/code/io/io-engage/spec/lib/exhibitree_migration_spec.rb" timestamp="1546035313528">
-        <mark key="'" line="71" column="10" />
-        <mark key="[" line="31" column="27" />
-        <mark key="]" line="33" column="23" />
-        <mark key="." line="33" column="23" />
-        <mark key="^" line="33" column="23" />
+      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/hartmann/production/config/settings.yml" timestamp="1546288566443">
+        <mark key="[" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/knowledge/production/config/settings.yml" timestamp="1546288574200">
+      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/dreamforce/production/config/settings.yml" timestamp="1546288534720">
+        <mark key="'" line="82" column="12" />
+        <mark key="[" line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/trailhead/production/config/settings.yml" timestamp="1546296334107">
         <mark key="[" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
@@ -156,19 +82,66 @@
         <mark key="[" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/config/source_database.yml" timestamp="1545855068165">
-        <mark key="'" line="9" column="11" />
-      </file>
       <file name="$USER_HOME$/code/io/io_engage_configuration/instances/developers/manikandana/config/settings.yml" timestamp="1546291451214">
         <mark key="'" line="9" column="11" />
         <mark key="[" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/app/controllers/application_controller.rb" timestamp="1546289010812">
-        <mark key="[" line="19" column="70" />
-        <mark key="]" line="19" column="70" />
-        <mark key="." line="19" column="70" />
-        <mark key="^" line="19" column="73" />
+      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree_noncloud/production2/config/settings.yml" timestamp="1546288705583">
+        <mark key="'" line="19" column="32" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="2" column="41" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/io/io-engage/spec/rails_helper.rb" timestamp="1545870308686">
+        <mark key="'" line="98" column="0" />
+        <mark key="[" line="147" column="0" />
+        <mark key="]" line="147" column="0" />
+        <mark key="." line="147" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/shows/config/settings.yml" timestamp="1546288684559">
+        <mark key="'" line="22" column="20" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="2" column="41" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/developers/ramesh/config/settings.yml" timestamp="1546291463041">
+        <mark key="'" line="13" column="6" />
+        <mark key="[" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/demo/master/config/settings.yml" timestamp="1546448160114">
+        <mark key="'" line="14" column="7" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="80" />
+      </file>
+      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/developers/sakthivelp/config/settings.yml" timestamp="1546291470836">
+        <mark key="'" line="10" column="19" />
+        <mark key="[" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/demo/production/config/settings.yml" timestamp="1546448167297">
+        <mark key="'" line="15" column="31" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="80" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree_noncloud/production/config/settings.yml" timestamp="1546288696617">
+        <mark key="'" line="19" column="29" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="2" column="41" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/developers/lou/config/settings.yml" timestamp="1546291397480">
+        <mark key="'" line="5" column="20" />
+        <mark key="[" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/developers/hfelix/config/settings.yml" timestamp="1546291279737">
+        <mark key="'" line="18" column="15" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="2" column="80" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/code/io/io_engage_configuration/instances/simplified/workday/config/settings.yml" timestamp="1546288607464">
         <mark key="'" line="71" column="12" />
@@ -177,9 +150,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="36" filename="$USER_HOME$/code/io/io-engage/lib/exhibitree_migration.rb" />
-      <jump line="29" column="4" filename="$USER_HOME$/code/io/io-engage/lib/exhibitree_migration.rb" />
-      <jump line="35" column="3" filename="$USER_HOME$/code/io/io-engage/lib/exhibitree_migration.rb" />
       <jump line="40" column="7" filename="$USER_HOME$/code/io/io-engage/config/database.yml" />
       <jump line="98" column="0" filename="$USER_HOME$/code/io/io-engage/spec/rails_helper.rb" />
       <jump line="33" column="0" filename="$USER_HOME$/code/io/io-engage/spec/lib/exhibitree_migration_spec.rb" />
@@ -277,13 +247,16 @@
       <jump line="11" column="6" filename="$USER_HOME$/code/io/io_engage_configuration/instances/developers/ramesh/config/settings.yml" />
       <jump line="8" column="19" filename="$USER_HOME$/code/io/io_engage_configuration/instances/developers/sakthivelp/config/settings.yml" />
       <jump line="10" column="16" filename="$USER_HOME$/code/io/io_engage_configuration/instances/developers/shelms/config/settings.yml" />
+      <jump line="4" column="6" filename="$USER_HOME$/code/io/io_engage_configuration/instances/demo/master/config/settings.yml" />
+      <jump line="14" column="7" filename="$USER_HOME$/code/io/io_engage_configuration/instances/demo/master/config/settings.yml" />
+      <jump line="13" column="31" filename="$USER_HOME$/code/io/io_engage_configuration/instances/demo/production/config/settings.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>_w</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBidWdoZXJkOgogICAgcHJvamVjdF9rZXk6ICdidnRqNWc1cDI1eXpla3lzdWVzaXpnJyAjICAnSU8gRW5nYWdlIERldicgQnVnaGVyZCBwcm9qZWN0IGtleQo=</text>
+        <text encoding="base64">ICAgIHByb2plY3Rfa2V5OiAnJwo=</text>
       </register>
       <register name="b" type="4">
         <text>kkjj</text>
@@ -3975,7 +3948,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>right</text>
       </register>
       <register name="n" type="4">
         <text />
@@ -3984,28 +3957,28 @@
         <text>workday</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBidWdoZXJkOgogICAgcHJvamVjdF9rZXk6ICdidnRqNWc1cDI1eXpla3lzdWVzaXpnJyAjICAnSU8gRW5nYWdlIERldicgQnVnaGVyZCBwcm9qZWN0IGtleQo=</text>
+        <text encoding="base64">ICAgIHByb2plY3Rfa2V5OiAnYnZ0ajVnNXAyNXl6ZWt5c3Vlc2l6ZycgIyAgJ0lPIEVuZ2FnZSBEZXYnIEJ1Z2hlcmQgcHJvamVjdCBrZXkK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">c2FtcGxlOiAmc2FtcGxlCiAgY2xvdWRmbG93OgogICAgdXNlcm5hbWU6ICdpb192aWV3X2FwaScKICAgIHBhc3N3b3JkOiAnVXF3cEpFbg==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHByb2plY3Rfa2V5OiAnJwo=</text>
       </register>
       <register name="q" type="4">
         <text>jdd</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBidWdoZXJkOgogICAgcHJvamVjdF9rZXk6ICcnCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">c2FtcGxlOiAmc2FtcGxlCiAgY2xvdWRmbG93OgogICAgdXNlcm5hbWU6ICdpb192aWV3X2FwaScKICAgIHBhc3N3b3JkOiAnVXF3cEpFbg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBidWdoZXJkOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <text>jdd</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAvLyA1Z2JleXhoem94bW42eHBldHNlbWZhIC0gZXhoaWJpdHJlZQogIC8vICBud2hrdzZmNWJlODIwazhqczYyeGV3IC0gZ3BqCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -4406,19 +4379,19 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBkZWJ1Z2dlcjsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgYmluZGluZy5wcnkK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBiaW5kaW5nLnByeQo=</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">ICBidWdoZXJkOgo=</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAvLyA1Z2JleXhoem94bW42eHBldHNlbWZhIC0gZXhoaWJpdHJlZQogIC8vICBud2hrdzZmNWJlODIwazhqczYyeGV3IC0gZ3BqCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICBkZWJ1Z2dlcjsK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgYmluZGluZy5wcnkK</text>
+      </register>
       <register name=":" type="4">
-        <text>90</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -4472,8 +4445,8 @@
         <entry>89</entry>
         <entry>q</entry>
         <entry>%s:destroy_all:delete_all</entry>
-        <entry>w</entry>
         <entry>90</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
