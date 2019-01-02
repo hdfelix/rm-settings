@@ -59,6 +59,9 @@
         <mark key="[" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1546469266656">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/code/io/io_engage_configuration/instances/hartmann/production/config/settings.yml" timestamp="1546288566443">
         <mark key="[" line="1" column="0" />
         <mark key="." line="1" column="0" />
@@ -76,12 +79,12 @@
         <mark key="[" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/lib/tasks/exhibitree_migration.rake" timestamp="1546460152433">
-        <mark key="'" line="21" column="14" />
-        <mark key="[" line="6" column="13" />
-        <mark key="]" line="7" column="3" />
-        <mark key="." line="7" column="3" />
-        <mark key="^" line="7" column="3" />
+      <file name="$USER_HOME$/code/io/io-engage/lib/tasks/exhibitree_migration.rake" timestamp="1546468927259">
+        <mark key="'" line="22" column="14" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="116" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="14" column="113" />
       </file>
       <file name="$USER_HOME$/code/io/io_engage_configuration/instances/developers/ramesh/config/settings.yml" timestamp="1546291463041">
         <mark key="'" line="13" column="6" />
@@ -222,8 +225,8 @@
       <register name="a" type="4">
         <text>_w</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICJzc2ggLWkgfi8uc3NoL2lkX3JzYSBnbV9hcHBAaW9fcHJvZCAtQyAtcGdfZHVtcCAtRmMgcG9zdGdyZXNxbDovL2dtX2FwcEBsb2NhbGhvc3Q6NTQzMi9leGhpYml0cmVlMl9wcm9kdWN0aW9uJyIK</text>
       </register>
       <register name="b" type="4">
         <text>kkjj</text>
@@ -3924,28 +3927,28 @@
         <text>Slack</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByb2plY3Rfa2V5OiAnYnZ0ajVnNXAyNXl6ZWt5c3Vlc2l6ZycgIyAgJ0lPIEVuZ2FnZSBEZXYnIEJ1Z2hlcmQgcHJvamVjdCBrZXkK</text>
+        <text encoding="base64">ICAgICJzc2ggLWkgfi8uc3NoL2lkX3JzYSBnbV9hcHBAaW9fcHJvZCAtQyAtcGdfZHVtcCAtRmMgcG9zdGdyZXNxbDovL2dtX2FwcEBsb2NhbGhvc3Q6NTQzMi9leGhpYml0cmVlMl9wcm9kdWN0aW9uJyIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>jdd</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBkZXNjICdGZXRjaCBmcmVzaCBkdScK</text>
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkZXNjICdGZXRjaCBmcmVzaCBkdScK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <text>jdd</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByb2plY3Rfa2V5OiAnJwo=</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -4346,13 +4349,13 @@
         </keys>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgIHByb2plY3Rfa2V5OiAnJwo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICBidWdoZXJkOgogICAgcHJvamVjdF9rZXk6ICcnCg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">c2FtcGxlOiAmc2FtcGxlCiAgY2xvdWRmbG93OgogICAgdXNlcm5hbWU6ICdpb192aWV3X2FwaScKICAgIHBhc3N3b3JkOiAnVXF3cEpFbg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
