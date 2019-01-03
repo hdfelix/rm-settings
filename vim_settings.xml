@@ -3,11 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/developers/_sample/config/settings.yml" timestamp="1546448089446">
-        <mark key="'" line="10" column="18" />
-        <mark key="[" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/code/io/io-engage/app/models/user.rb" timestamp="1546534019106">
         <mark key="'" line="36" column="11" />
       </file>
@@ -62,6 +57,12 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/code/io/io-engage/app/services/e_migration_service.rb" timestamp="1546552767526">
+        <mark key="[" line="1" column="18" />
+        <mark key="]" line="1" column="15" />
+        <mark key="^" line="1" column="15" />
+        <mark key="." line="1" column="15" />
+      </file>
       <file name="$USER_HOME$/code/io/io-engage/lib/exhibitree_migration.rb" timestamp="1546477287410">
         <mark key="'" line="44" column="43" />
         <mark key="[" line="70" column="0" />
@@ -88,6 +89,15 @@
         <mark key="[" line="1" column="0" />
         <mark key="]" line="2" column="41" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/io/io-engage/app/services/e_migration/service.rb" timestamp="1546552589103">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/io/io-engage/app/controllers/application_controller.rb" timestamp="1546289010812">
+        <mark key="[" line="19" column="70" />
+        <mark key="]" line="19" column="70" />
+        <mark key="." line="19" column="70" />
+        <mark key="^" line="19" column="73" />
       </file>
       <file name="$USER_HOME$/code/io/io_engage_configuration/instances/demo/master/config/settings.yml" timestamp="1546448160114">
         <mark key="'" line="14" column="7" />
