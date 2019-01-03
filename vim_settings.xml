@@ -76,12 +76,12 @@
       <file name="$USER_HOME$/code/io/io-engage/config/source_database.yml" timestamp="1545855068165">
         <mark key="'" line="9" column="11" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/lib/tasks/exhibitree_migration.rake" timestamp="1546550143224">
-        <mark key="'" line="43" column="0" />
-        <mark key="[" line="70" column="47" />
-        <mark key="]" line="70" column="46" />
-        <mark key="." line="70" column="46" />
-        <mark key="^" line="70" column="46" />
+      <file name="$USER_HOME$/code/io/io-engage/lib/tasks/exhibitree_migration.rake" timestamp="1546551902988">
+        <mark key="'" line="48" column="0" />
+        <mark key="[" line="71" column="48" />
+        <mark key="]" line="81" column="23" />
+        <mark key="." line="81" column="23" />
+        <mark key="^" line="81" column="23" />
       </file>
       <file name="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree_noncloud/production2/config/settings.yml" timestamp="1546288705583">
         <mark key="'" line="19" column="32" />
@@ -126,7 +126,6 @@
       <file name="$USER_HOME$/code/io/io-engage/app/jobs/notification_scheduler_job.rb" timestamp="1546533838060" />
     </filemarks>
     <jumps>
-      <jump line="29" column="7" filename="$USER_HOME$/code/io/io-engage/spec/lib/exhibitree_migration_spec.rb" />
       <jump line="70" column="8" filename="$USER_HOME$/code/io/io-engage/spec/lib/exhibitree_migration_spec.rb" />
       <jump line="68" column="10" filename="$USER_HOME$/code/io/io-engage/spec/lib/exhibitree_migration_spec.rb" />
       <jump line="20" column="8" filename="$USER_HOME$/code/io/io-engage/app/models/copy.rb" />
@@ -226,13 +225,14 @@
       <jump line="52" column="0" filename="$USER_HOME$/code/io/io-engage/config/database.yml" />
       <jump line="17" column="0" filename="$USER_HOME$/code/io/io-engage/config/database.yml" />
       <jump line="26" column="0" filename="$USER_HOME$/code/io/io-engage/lib/tasks/exhibitree_migration.rake" />
+      <jump line="48" column="0" filename="$USER_HOME$/code/io/io-engage/lib/tasks/exhibitree_migration.rake" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>_w</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="b" type="4">
         <text>kkjj</text>
@@ -3936,7 +3936,7 @@
         <text encoding="base64">ICAjIFN0ZXAgMAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IAogIAogIHByaXZhdGUK</text>
       </register>
       <register name="q" type="4">
         <text>jdd</text>
@@ -3945,10 +3945,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyA0KSBSZXBsYWNlIHRoZSBleGhpYml0cmVlIGV2ZW50cyBkYXRhYmFzZSB3aXRoIHRoZSAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
+        <text encoding="base64">IyA0KSBSZXBsYWNlIHRoZSBleGhpYml0cmVlIGV2ZW50cyBkYXRhYmFzZSB3aXRoIHRoZSAK</text>
       </register>
       <register name="t" type="4">
         <text>jdd</text>
@@ -4355,10 +4355,10 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
