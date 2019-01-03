@@ -22,6 +22,9 @@
       <file name="$USER_HOME$/code/io/io-engage/config/database.sample.yml" timestamp="1546288846801">
         <mark key="'" line="15" column="31" />
       </file>
+      <file name="/e_events_migration_source.public.events [postgres@localhost]" timestamp="1546538086665">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/code/io/io-engage/config/settings.sample.yml" timestamp="1546457194762">
         <mark key="'" line="26" column="27" />
         <mark key="[" line="1" column="0" />
@@ -45,10 +48,10 @@
         <mark key="[" line="70" column="0" />
         <mark key="]" line="70" column="47" />
       </file>
-      <file name="/dummy.sql" timestamp="1546534058787">
+      <file name="/dummy.sql" timestamp="1546538086860">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1546469266656">
+      <file name="/Dummy.txt" timestamp="1546538072086">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/io/io-engage/config/source_database.yml" timestamp="1545855068165">
