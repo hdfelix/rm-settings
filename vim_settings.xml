@@ -57,12 +57,12 @@
       <file name="$USER_HOME$/code/io/io-engage/config/source_database.yml" timestamp="1545855068165">
         <mark key="'" line="9" column="11" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/lib/tasks/exhibitree_migration.rake" timestamp="1546477733660">
-        <mark key="'" line="23" column="27" />
-        <mark key="[" line="40" column="4" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
-        <mark key="^" line="43" column="0" />
+      <file name="$USER_HOME$/code/io/io-engage/lib/tasks/exhibitree_migration.rake" timestamp="1546539204090">
+        <mark key="'" line="45" column="16" />
+        <mark key="[" line="4" column="55" />
+        <mark key="]" line="5" column="78" />
+        <mark key="." line="5" column="78" />
+        <mark key="^" line="5" column="78" />
       </file>
       <file name="$USER_HOME$/code/io/io_engage_configuration/instances/demo/master/config/settings.yml" timestamp="1546448160114">
         <mark key="'" line="14" column="7" />
@@ -89,9 +89,6 @@
       <file name="$USER_HOME$/code/io/io-engage/app/jobs/notification_scheduler_job.rb" timestamp="1546533838060" />
     </filemarks>
     <jumps>
-      <jump line="40" column="0" filename="$USER_HOME$/code/io/io-engage/lib/exhibitree_migration.rb" />
-      <jump line="119" column="13" filename="$USER_HOME$/code/io/io-engage/lib/exhibitree_migration.rb" />
-      <jump line="118" column="13" filename="$USER_HOME$/code/io/io-engage/lib/exhibitree_migration.rb" />
       <jump line="28" column="9" filename="$USER_HOME$/code/io/io-engage/lib/exhibitree_migration.rb" />
       <jump line="94" column="26" filename="$USER_HOME$/code/io/io-engage/spec/lib/exhibitree_migration_spec.rb" />
       <jump line="23" column="9" filename="$USER_HOME$/code/io/io-engage/lib/exhibitree_migration.rb" />
@@ -189,13 +186,16 @@
       <jump line="11" column="8" filename="$USER_HOME$/code/io/io-engage/db/migrate/20170711195432_init_schema.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/code/io/io-engage/app/models/user.rb" />
       <jump line="36" column="11" filename="$USER_HOME$/code/io/io-engage/app/models/user.rb" />
+      <jump line="52" column="20" filename="$USER_HOME$/code/io/io-engage/lib/tasks/exhibitree_migration.rake" />
+      <jump line="9" column="20" filename="$USER_HOME$/code/io/io-engage/lib/tasks/exhibitree_migration.rake" />
+      <jump line="44" column="16" filename="$USER_HOME$/code/io/io-engage/lib/tasks/exhibitree_migration.rake" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>_w</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
+      <register name="&quot;" type="4">
+        <text>io_prod</text>
       </register>
       <register name="b" type="4">
         <text>kkjj</text>
@@ -3887,13 +3887,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>io_prod</text>
       </register>
       <register name="n" type="4">
         <text />
       </register>
       <register name="/" type="4">
-        <text>notification</text>
+        <text>nonprod</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGZ1bGxfcGF0aCA9ICIje2JhY2t1cF9kaXJlY3Rvcnl9LyN7ZHVtcF9maWxlfSIK</text>
@@ -4334,9 +4334,9 @@
       </register>
     </registers>
     <search>
-      <last-search>notification</last-search>
+      <last-search>nonprod</last-search>
       <last-offset />
-      <last-pattern>notification</last-pattern>
+      <last-pattern>nonprod</last-pattern>
       <last-replace>delete_all</last-replace>
       <last-substitute>destroy_all</last-substitute>
       <last-dir>1</last-dir>
@@ -4344,7 +4344,6 @@
     </search>
     <history>
       <history-search>
-        <entry>puts</entry>
         <entry>original</entry>
         <entry>exhibitree</entry>
         <entry>binding</entry>
@@ -4364,6 +4363,7 @@
         <entry>opt_in</entry>
         <entry>users</entry>
         <entry>notification</entry>
+        <entry>nonprod</entry>
       </history-search>
       <history-cmd>
         <entry>13</entry>
