@@ -28,11 +28,11 @@
       <file name="/e_events_migration_source.public.events [postgres@localhost]" timestamp="1546538086665">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/config/database.yml" timestamp="1546628539157">
+      <file name="$USER_HOME$/code/io/io-engage/config/database.yml" timestamp="1546644639177">
         <mark key="'" line="26" column="42" />
-        <mark key="[" line="22" column="30" />
-        <mark key="]" line="22" column="29" />
-        <mark key="." line="22" column="29" />
+        <mark key="[" line="56" column="14" />
+        <mark key="]" line="56" column="14" />
+        <mark key="." line="56" column="14" />
         <mark key="^" line="22" column="29" />
       </file>
       <file name="$USER_HOME$/code/io/io-engage/config/secrets.yml" timestamp="1546566939838">
@@ -60,7 +60,7 @@
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="/e_events_migration.public.users [postgres@localhost]" timestamp="1546533895266">
+      <file name="/e_events_migration.public.users [postgres@localhost]" timestamp="1546643363922">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/events/config/database.yml" timestamp="1546566600508" />
@@ -99,18 +99,18 @@
         <mark key="." line="2" column="18" />
         <mark key="^" line="2" column="18" />
       </file>
-      <file name="/dummy.sql" timestamp="1546633634953">
+      <file name="/dummy.sql" timestamp="1546643364408">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1546628680805">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" timestamp="1546642047730">
-        <mark key="'" line="162" column="14" />
-        <mark key="[" line="192" column="0" />
-        <mark key="]" line="192" column="0" />
-        <mark key="." line="192" column="0" />
-        <mark key="^" line="191" column="119" />
+      <file name="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" timestamp="1546645087565">
+        <mark key="'" line="100" column="42" />
+        <mark key="[" line="13" column="20" />
+        <mark key="]" line="14" column="25" />
+        <mark key="." line="14" column="25" />
+        <mark key="^" line="14" column="25" />
       </file>
       <file name="$USER_HOME$/code/io/io-engage/config/source_database.yml" timestamp="1545855068165">
         <mark key="'" line="9" column="11" />
@@ -145,9 +145,6 @@
       <file name="$USER_HOME$/code/io/io-engage/app/jobs/notification_scheduler_job.rb" timestamp="1546533838060" />
     </filemarks>
     <jumps>
-      <jump line="3" column="22" filename="$USER_HOME$/code/io/io_engage_configuration/instances/developers/manim/config/settings.yml" />
-      <jump line="11" column="6" filename="$USER_HOME$/code/io/io_engage_configuration/instances/developers/ramesh/config/settings.yml" />
-      <jump line="8" column="19" filename="$USER_HOME$/code/io/io_engage_configuration/instances/developers/sakthivelp/config/settings.yml" />
       <jump line="10" column="16" filename="$USER_HOME$/code/io/io_engage_configuration/instances/developers/shelms/config/settings.yml" />
       <jump line="4" column="6" filename="$USER_HOME$/code/io/io_engage_configuration/instances/demo/master/config/settings.yml" />
       <jump line="14" column="7" filename="$USER_HOME$/code/io/io_engage_configuration/instances/demo/master/config/settings.yml" />
@@ -245,13 +242,16 @@
       <jump line="160" column="0" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="183" column="20" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="162" column="14" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
+      <jump line="195" column="14" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
+      <jump line="60" column="6" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
+      <jump line="96" column="42" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>_w</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICMgYXR0cmlidXRlcyA9IGNsb3VkX2RhdGFbcmVzb3VyY2VdLm1hcCB7IHxofCByZXNvdXJjZV9pZHMuaW5jbHVkZT8oaFsnaWQnXSkgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>_</text>
       </register>
       <register name="b" type="4">
         <text>kkjj</text>
@@ -3943,37 +3943,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>_</text>
       </register>
       <register name="n" type="4">
         <text />
       </register>
       <register name="/" type="4">
-        <text>binding</text>
+        <text>create_db</text>
       </register>
       <register name="0" type="4">
         <text>instance_variable_get(&quot;@#{env}_data[#{resource}&quot;)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgYXR0cmlidXRlcyA9IGNsb3VkX2RhdGFbcmVzb3VyY2VdLm1hcCB7IHxofCByZXNvdXJjZV9pZHMuaW5jbHVkZT8oaFsnaWQnXSkgfQo=</text>
+        <text encoding="base64">ICAgICMgVXBkYXRlIHRoZSBkYXRhCiAgICBtZXJnZV9kYXRhCg==</text>
       </register>
       <register name="q" type="4">
         <text>jdd</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRlc3QgPSBpbnN0YW5jZV92YXJpYWJsZV9nZXQoIkAje2Vudn1fZGF0YVsje3Jlc291cmNlfV0iKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBkZWYgbWVyZ2VfZGF0YQogICAgbG9hZF9kYXRhCiAgICBwdXRzICdpbiBtZXJnZV9kYXRhKCknCiAgICAjIExhc3QgY2hlY2tlZDogMDEvMDMgLSBWZXJpZnkgYW55IG90aGVyIGNoYW5nZXMgcHJpb3IgdG8gcnVubmluZyBmb3IgcHJvZHVjdGlvbgoKICAgICMgU2lkZXMgdGFibGUgLSBubyBjaGFuZ2UKCiAgICAjIEZpbmlzaGluZ3MgLSBoYXMgY2hhbmdlcwoKICAgICMgU3Vic3RyYXRlcyAtIGhhcyBjaGFuZ2VzCgogICAgIyAjR3JhcGhpY0NhdGVnb3JpZXMKICAgICMgKiBmaXJzdCAyNyByZWNvcmRzIGlkZW50aWNhbAogICAgIyAqIGNvcHkgbmV3IHJlY29yZHMgaW4gZXZlbnRzIHRvIHN0YWdpbmcgKDI4IGFuZCB1cCkKICAgIHJlc291cmNlID0gJ2dyYXBoaWNfY2F0ZWdvcmllcycKICAgIGtleXMgPSBbJ2lkJywgJ25hbWUnXQogICAgbF9yZXNvdXJjZSA9IGxlZ2FjeV9kYXRhWzpncmFwaGljX2NhdGVnb3JpZXNdCiAgICBjX3Jlc291cmNlID0gY2xvdWRfZGF0YVs6Z3JhcGhpY19jYXRlZ29yaWVzXQogICAgaWRzID0gZ2V0X2tleXMoY29tcGFyZV9yZXNvdXJjZXMobF9yZXNvdXJjZSwgY19yZXNvdXJjZSwga2V5cykpCiAgICBjcmVhdGVfYnkocmVzb3VyY2UsIGVudiwgaWRzKQoKICAgIGJpbmRpbmcucHJ5CiAgICAjICNDbGllbnRzIC0gaGFzIGNoYW5nZXMgKGNhbiB3ZSBpZ25vcmUgdGhlIGNoYW5nZXMgYW5kIGdvIHdpdGggbGVnYWN5IHRhYmxlPykKICAgICMgKiBmaXJzdCA0MCBpZGVudGljYWwKICAgICMgKiA0MSAtIDU2IC0gc2FtZSBjbGllbnRzLCBkaWZmZXJlbnQgaWRzCiAgICAjICogNTcgYW5kIHVwIC0gbmV3OyBjb3B5IG92ZXIgdG8gc3RhZ2luZz8KICAgICMgI0JyYW5kcyAtIFF1aXRlIGRpZmZlcmVudDsgI2NoZWNrIGFsbCB0aGUgZGF0YSoKICAgICMgI1ZlbnVlcyAtIGJhc2ljYWxseSB0aGUgc2FtZSwgYWx0aG91Z2ggbGVnYWN5IGhhcyBzb21lIHRlc3QgdmVudWVzIHRoYXQgbWFrZSB2ZW51ZXMgaGF2ZSBkaWZmIGlkcyB0aGFuIGV2ZW50cwogICAgIwogIGVuZAoK</text>
+        <text encoding="base64">ICAgICMgY3JlYXRlIGNsb3VkIGRiCiAgICBlbnYgPSAnY2xvdWQnCiAgICBkYiA9IEFjdGl2ZVJlY29yZDo6QmFzZS5jb25maWd1cmF0aW9uc1tlbnZdWydkYXRhYmFzZSddCiAgICBmaWxlID0gc2VuZCgiI3tlbnZ9X2R1bXBfZmlsZSIpCiAgICBjcmVhdGVfZGIoZW52LCBkYiwgZmlsZSkKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIERhdGFiYXNlLmRldmVsb3BtZW50IQo=</text>
+        <text encoding="base64">ICAgICMgd2Ugd2lsbCB3b3JrIG9uIGRldmVsb3BtZW50IGRiIHN0YXJ0aW5nIHdpdGggdGhlIGxlZ2FjeSBEQiBhcyBvdXIgYmFzZQo=</text>
       </register>
       <register name="t" type="4">
         <text>jdd</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICMgYXR0cmlidXRlcyA9IGNsb3VkX2RhdGFbcmVzb3VyY2VdLm1hcCB7IHxofCByZXNvdXJjZV9pZHMuaW5jbHVkZT8oaFsnaWQnXSkgfQo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -4374,25 +4374,25 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBkZWYgdGVzdGluZwogICAgCiAgZW5kCg==</text>
+        <text encoding="base64">ICAgIHRlc3QgPSBpbnN0YW5jZV92YXJpYWJsZV9nZXQoIkAje2Vudn1fZGF0YVsje3Jlc291cmNlfV0iKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGtleXMgPSBjbG91ZAo=</text>
+        <text encoding="base64">ICBkZWYgbWVyZ2VfZGF0YQogICAgbG9hZF9kYXRhCiAgICBwdXRzICdpbiBtZXJnZV9kYXRhKCknCiAgICAjIExhc3QgY2hlY2tlZDogMDEvMDMgLSBWZXJpZnkgYW55IG90aGVyIGNoYW5nZXMgcHJpb3IgdG8gcnVubmluZyBmb3IgcHJvZHVjdGlvbgoKICAgICMgU2lkZXMgdGFibGUgLSBubyBjaGFuZ2UKCiAgICAjIEZpbmlzaGluZ3MgLSBoYXMgY2hhbmdlcwoKICAgICMgU3Vic3RyYXRlcyAtIGhhcyBjaGFuZ2VzCgogICAgIyAjR3JhcGhpY0NhdGVnb3JpZXMKICAgICMgKiBmaXJzdCAyNyByZWNvcmRzIGlkZW50aWNhbAogICAgIyAqIGNvcHkgbmV3IHJlY29yZHMgaW4gZXZlbnRzIHRvIHN0YWdpbmcgKDI4IGFuZCB1cCkKICAgIHJlc291cmNlID0gJ2dyYXBoaWNfY2F0ZWdvcmllcycKICAgIGtleXMgPSBbJ2lkJywgJ25hbWUnXQogICAgbF9yZXNvdXJjZSA9IGxlZ2FjeV9kYXRhWzpncmFwaGljX2NhdGVnb3JpZXNdCiAgICBjX3Jlc291cmNlID0gY2xvdWRfZGF0YVs6Z3JhcGhpY19jYXRlZ29yaWVzXQogICAgaWRzID0gZ2V0X2tleXMoY29tcGFyZV9yZXNvdXJjZXMobF9yZXNvdXJjZSwgY19yZXNvdXJjZSwga2V5cykpCiAgICBjcmVhdGVfYnkocmVzb3VyY2UsIGVudiwgaWRzKQoKICAgIGJpbmRpbmcucHJ5CiAgICAjICNDbGllbnRzIC0gaGFzIGNoYW5nZXMgKGNhbiB3ZSBpZ25vcmUgdGhlIGNoYW5nZXMgYW5kIGdvIHdpdGggbGVnYWN5IHRhYmxlPykKICAgICMgKiBmaXJzdCA0MCBpZGVudGljYWwKICAgICMgKiA0MSAtIDU2IC0gc2FtZSBjbGllbnRzLCBkaWZmZXJlbnQgaWRzCiAgICAjICogNTcgYW5kIHVwIC0gbmV3OyBjb3B5IG92ZXIgdG8gc3RhZ2luZz8KICAgICMgI0JyYW5kcyAtIFF1aXRlIGRpZmZlcmVudDsgI2NoZWNrIGFsbCB0aGUgZGF0YSoKICAgICMgI1ZlbnVlcyAtIGJhc2ljYWxseSB0aGUgc2FtZSwgYWx0aG91Z2ggbGVnYWN5IGhhcyBzb21lIHRlc3QgdmVudWVzIHRoYXQgbWFrZSB2ZW51ZXMgaGF2ZSBkaWZmIGlkcyB0aGFuIGV2ZW50cwogICAgIwogIGVuZAoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgIiN7ZW52fV9kYXRhIgo=</text>
+        <text encoding="base64">ICAgIERhdGFiYXNlLmRldmVsb3BtZW50IQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEdyYXBoaWNDYXRlZ29yeQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>binding</last-search>
+      <last-search>create_db</last-search>
       <last-offset />
-      <last-pattern>binding</last-pattern>
+      <last-pattern>create_db</last-pattern>
       <last-replace>delete_all</last-replace>
       <last-substitute>destroy_all</last-substitute>
       <last-dir>1</last-dir>
@@ -4400,7 +4400,6 @@
     </search>
     <history>
       <history-search>
-        <entry>serve_static</entry>
         <entry>static</entry>
         <entry>compressor</entry>
         <entry>digest</entry>
@@ -4420,6 +4419,7 @@
         <entry>onstan</entry>
         <entry>bind</entry>
         <entry>binding</entry>
+        <entry>create_db</entry>
       </history-search>
       <history-cmd>
         <entry>2</entry>
