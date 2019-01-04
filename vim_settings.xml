@@ -3,13 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/io/io-engage/app/javascript/packs/bugherd.js" timestamp="1546287153710">
-        <mark key="'" line="4" column="0" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="26" column="38" />
-      </file>
       <file name="$USER_HOME$/code/io/io-engage/app/models/user.rb" timestamp="1546534019106">
         <mark key="'" line="36" column="11" />
       </file>
@@ -39,20 +32,6 @@
         <mark key="]" line="14" column="7" />
         <mark key="^" line="14" column="7" />
         <mark key="." line="14" column="7" />
-      </file>
-      <file name="$USER_HOME$/code/io/io-engage/config/settings.yml" timestamp="1546288813808">
-        <mark key="'" line="19" column="31" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="2" column="41" />
-        <mark key="." line="2" column="40" />
-        <mark key="^" line="2" column="40" />
-      </file>
-      <file name="$USER_HOME$/code/io/io-engage/spec/lib/exhibitree_migration_spec.rb" timestamp="1546035313528">
-        <mark key="'" line="71" column="10" />
-        <mark key="[" line="31" column="27" />
-        <mark key="]" line="33" column="23" />
-        <mark key="." line="33" column="23" />
-        <mark key="^" line="33" column="23" />
       </file>
       <file name="$USER_HOME$/code/io/io-engage/config/environments/development.rb" timestamp="1546474237725">
         <mark key="'" line="0" column="0" />
@@ -84,12 +63,11 @@
         <mark key="^" line="6" column="13" />
         <mark key="." line="6" column="13" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/app/services/e_migration_service.rb" timestamp="1546567529726">
+      <file name="$USER_HOME$/code/io/io-engage/app/services/e_migration_service.rb" timestamp="1546568424173">
         <mark key="'" line="50" column="0" />
-        <mark key="[" line="12" column="46" />
-        <mark key="]" line="12" column="46" />
-        <mark key="^" line="20" column="14" />
-        <mark key="." line="12" column="46" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="15" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/code/io/io-engage/lib/exhibitree_migration.rb" timestamp="1546477287410">
         <mark key="'" line="44" column="43" />
@@ -119,6 +97,12 @@
         <mark key="'" line="14" column="7" />
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="80" />
+      </file>
+      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/demo/production/config/settings.yml" timestamp="1546448167297">
+        <mark key="'" line="15" column="31" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="80" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/code/io/io-engage/Jenkinsfile.nonprod" timestamp="1546451389954" />
       <file name="$USER_HOME$/code/io/io-engage/config/environments/staging.rb" timestamp="1546474263258">
@@ -239,8 +223,8 @@
       <register name="a" type="4">
         <text>_w</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="b" type="4">
         <text>kkjj</text>
@@ -3944,16 +3928,16 @@
         <text encoding="base64">ICBkZWYgYmFja3VwX2RpcmVjdG9yeShzdWZmaXggPSBuaWwsIGNyZWF0ZTogZmFsc2UpCiAgICBiYWNrdXBfZGlyID0gRmlsZS5qb2luKCpbUmFpbHMucm9vdCwgJ2RiL2JhY2t1cHMnLCBzdWZmaXhdLmNvbXBhY3QpCgogICAgaWYgY3JlYXRlIGFuZCBub3QgRGlyLmV4aXN0cz8oYmFja3VwX2RpcikKICAgICAgcHV0cyAiQ3JlYXRpbmcgI3tiYWNrdXBfZGlyfSAuLiIKICAgICAgRmlsZVV0aWxzLm1rZGlyX3AoYmFja3VwX2RpcikKICAgIGVuZAoKICAgIGJhY2t1cF9kaXIKICBlbmQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="q" type="4">
         <text>jdd</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAjIEZldGNoIGR1bXBzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
+        <text encoding="base64">CiAgICAjIEZldGNoIGR1bXBzCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
@@ -3962,7 +3946,7 @@
         <text>jdd</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -4363,16 +4347,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y2xvdWQ6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBkYl9wd2Q6IEFOIU5HKmJwNTMK</text>
+        <text encoding="base64">Y2xvdWQ6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bGVnYWN5OgogIGRiX3B3ZDogQU4hTkcqYnA1MwoK</text>
+        <text encoding="base64">ICBkYl9wd2Q6IEFOIU5HKmJwNTMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">YmluZGluZy5wcnkK</text>
+        <text encoding="base64">bGVnYWN5OgogIGRiX3B3ZDogQU4hTkcqYnA1MwoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
