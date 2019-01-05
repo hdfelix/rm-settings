@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/code/io/io-engage/app/assets/stylesheets/active_admin.scss" timestamp="1546709309984" />
       <file name="/e_events_migration_legacy.public.items [postgres@localhost]" timestamp="1546632203166">
         <mark key="[" line="0" column="0" />
       </file>
