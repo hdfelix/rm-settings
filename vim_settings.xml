@@ -107,13 +107,13 @@
       <file name="/Dummy.txt" timestamp="1546628680805">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" timestamp="1546936127582">
+      <file name="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" timestamp="1546972588891">
         <mark key="d" line="190" column="17" />
-        <mark key="'" line="254" column="0" />
-        <mark key="[" line="216" column="8" />
-        <mark key="]" line="216" column="9" />
-        <mark key="." line="216" column="9" />
-        <mark key="^" line="216" column="9" />
+        <mark key="'" line="245" column="40" />
+        <mark key="[" line="215" column="44" />
+        <mark key="]" line="216" column="39" />
+        <mark key="." line="216" column="39" />
+        <mark key="^" line="216" column="39" />
       </file>
       <file name="$USER_HOME$/code/io/io-engage/config/source_database.yml" timestamp="1545855068165">
         <mark key="'" line="9" column="11" />
@@ -148,8 +148,6 @@
       <file name="$USER_HOME$/code/io/io-engage/app/jobs/notification_scheduler_job.rb" timestamp="1546533838060" />
     </filemarks>
     <jumps>
-      <jump line="7" column="11" filename="$USER_HOME$/code/io/io-engage/config/environments/legacy.rb" />
-      <jump line="8" column="68" filename="$USER_HOME$/code/io/io-engage/config/environments/legacy.rb" />
       <jump line="29" column="53" filename="$USER_HOME$/code/io/io-engage/config/environments/legacy.rb" />
       <jump line="26" column="42" filename="$USER_HOME$/code/io/io-engage/config/database.yml" />
       <jump line="38" column="0" filename="$USER_HOME$/code/io/io-engage/lib/tasks/exhibitree_migration.rake" />
@@ -248,13 +246,15 @@
       <jump line="21" column="17" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="254" column="0" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="26" column="0" filename="$USER_HOME$/code/io/io-engage/app/assets/javascripts/base/batch_upload.coffee" />
+      <jump line="223" column="6" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
+      <jump line="244" column="40" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>_w</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECgoK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="b" type="4">
         <text>kkjj</text>
@@ -5320,13 +5320,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>:legacy_dump_file,</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="n" type="4">
         <text />
       </register>
       <register name="/" type="4">
-        <text>columns</text>
+        <text>Current</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICMgV3JpdGUgdG8gdGhlIGRldmVsb3BtZW50IGRhdGFiYXNlCiAgICBEYXRhYmFzZS5kZXZlbG9wbWVudCEKICAgICMgYmluZGluZy5wcnkKICAgIGF0dHJpYnV0ZXMgPSBpbnN0YW5jZV92YXJpYWJsZV9nZXQoIkAje2Vudn1fZGF0YSIpW3Jlc291cmNlXS5tYXAgeyB8aHwgaCBpZiByZXNvdXJjZV9pZHMuaW5jbHVkZT8oaFsnaWQnXSkgfS5jb21wYWN0CiAgICBwdXRzICJ0byBjcmVhdGU6ICN7YXR0cmlidXRlc30iCgogICAgb2JqZWN0cyA9IFtdCiAgICBhdHRyaWJ1dGVzLmVhY2ggZG8gfGF0dHJpYnV0ZXwKICAgICAgb2JqZWN0cyA8PAogICAgICAgIE9iamVjdAogICAgICAgIC5jb25zdF9nZXQocmVzb3VyY2UudG9fcy5jbGFzc2lmeSkKICAgICAgICAuc2VuZCg6bmV3LCBhdHRyaWJ1dGUpCiAgICBlbmQK</text>
@@ -5767,9 +5767,9 @@
       </register>
     </registers>
     <search>
-      <last-search>columns</last-search>
+      <last-search>Current</last-search>
       <last-offset />
-      <last-pattern>columns</last-pattern>
+      <last-pattern>Current</last-pattern>
       <last-replace>delete_all</last-replace>
       <last-substitute>destroy_all</last-substitute>
       <last-dir>1</last-dir>
@@ -5777,7 +5777,6 @@
     </search>
     <history>
       <history-search>
-        <entry>staging</entry>
         <entry>with_config</entry>
         <entry encoding="base64">XDxzeXN0ZW1cPg==</entry>
         <entry>disconnect</entry>
@@ -5797,6 +5796,7 @@
         <entry>binding</entry>
         <entry>resources_to_verify</entry>
         <entry>columns</entry>
+        <entry>Current</entry>
       </history-search>
       <history-cmd>
         <entry>2</entry>
