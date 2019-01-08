@@ -92,13 +92,13 @@
       <file name="/Dummy.txt" timestamp="1546628680805">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" timestamp="1546981729370">
-        <mark key="d" line="191" column="17" />
+      <file name="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" timestamp="1546985297949">
+        <mark key="d" line="192" column="17" />
         <mark key="'" line="5" column="0" />
-        <mark key="[" line="227" column="29" />
-        <mark key="]" line="227" column="7" />
-        <mark key="^" line="227" column="7" />
-        <mark key="." line="227" column="7" />
+        <mark key="[" line="232" column="74" />
+        <mark key="]" line="232" column="74" />
+        <mark key="^" line="232" column="73" />
+        <mark key="." line="232" column="74" />
       </file>
       <file name="$USER_HOME$/code/io/io-engage/lib/tasks/exhibitree_migration.rake" timestamp="1546632827375">
         <mark key="'" line="103" column="1" />
@@ -238,8 +238,8 @@
       <register name="a" type="4">
         <text>_w</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBrZXlzID0gWydpZCcsICduYW1lJ10K</text>
+      <register name="&quot;" type="4">
+        <text>2</text>
       </register>
       <register name="b" type="4">
         <text>kkjj</text>
@@ -5305,7 +5305,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>k</text>
+        <text>2</text>
       </register>
       <register name="n" type="4">
         <text />
@@ -5317,25 +5317,25 @@
         <text encoding="base64">ICAgICAgICBrZXlzID0gWydpZCcsICduYW1lJ10K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBrZXlzID0gWydpZCcsICduYW1lJ10K</text>
+        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
       </register>
       <register name="q" type="4">
         <text>jdd</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBrZXlzID0gWydpZCcsICduYW1lJ10K</text>
+        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZW5kCg==</text>
+        <text encoding="base64">ICAgICAgICBrZXlzID0gWydpZCcsICduYW1lJ10K</text>
       </register>
       <register name="t" type="4">
         <text>jdd</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcK</text>
+        <text encoding="base64">ICAgICAgICBrZXlzID0gWydpZCcsICduYW1lJ10K</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -5736,16 +5736,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjbGllbnRfZmluaXNoaW5ncwo=</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjbGllbnRfZmluaXNoaW5ncwo=</text>
+        <text encoding="base64">ICAgICAgZW5kCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjbGllbnRfc3Vic3RyYXRlcwogICAgICAgIGNsaWVudF9maW5pc2hpbmdzCg==</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
+        <text encoding="base64">ICAgICAgICBjbGllbnRfZmluaXNoaW5ncwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
