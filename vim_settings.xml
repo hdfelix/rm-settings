@@ -92,13 +92,13 @@
       <file name="/Dummy.txt" timestamp="1546628680805">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" timestamp="1546985297949">
+      <file name="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" timestamp="1546986401627">
         <mark key="d" line="192" column="17" />
-        <mark key="'" line="5" column="0" />
-        <mark key="[" line="232" column="74" />
-        <mark key="]" line="232" column="74" />
-        <mark key="^" line="232" column="73" />
-        <mark key="." line="232" column="74" />
+        <mark key="'" line="184" column="30" />
+        <mark key="[" line="227" column="71" />
+        <mark key="]" line="226" column="45" />
+        <mark key="^" line="226" column="45" />
+        <mark key="." line="226" column="45" />
       </file>
       <file name="$USER_HOME$/code/io/io-engage/lib/tasks/exhibitree_migration.rake" timestamp="1546632827375">
         <mark key="'" line="103" column="1" />
@@ -133,10 +133,6 @@
       <file name="$USER_HOME$/code/io/io-engage/app/jobs/notification_scheduler_job.rb" timestamp="1546533838060" />
     </filemarks>
     <jumps>
-      <jump line="44" column="0" filename="$USER_HOME$/code/io/io-engage/lib/tasks/exhibitree_migration.rake" />
-      <jump line="30" column="25" filename="$USER_HOME$/code/io/io-engage/lib/tasks/exhibitree_migration.rake" />
-      <jump line="19" column="1" filename="$USER_HOME$/code/io/io-engage/app/models/database.rb" />
-      <jump line="21" column="4" filename="$USER_HOME$/code/io/io-engage/app/services/e_migration_service.rb" />
       <jump line="45" column="30" filename="$USER_HOME$/code/io/io-engage/app/services/e_migration_service.rb" />
       <jump line="27" column="3" filename="$USER_HOME$/code/io/io-engage/app/services/e_migration_service.rb" />
       <jump line="34" column="4" filename="$USER_HOME$/code/io/io-engage/app/services/e_migration_service.rb" />
@@ -233,13 +229,17 @@
       <jump line="104" column="9" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="190" column="0" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="5" column="0" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
+      <jump line="225" column="12" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
+      <jump line="250" column="0" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
+      <jump line="3" column="0" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
+      <jump line="184" column="30" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>_w</text>
       </register>
       <register name="&quot;" type="4">
-        <text>2</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="b" type="4">
         <text>kkjj</text>
@@ -5305,19 +5305,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="n" type="4">
         <text />
       </register>
       <register name="/" type="4">
-        <text>columns</text>
+        <text>difference</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBrZXlzID0gWydpZCcsICduYW1lJ10K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
+        <text encoding="base64">ICAgICAgICAjIEZvbGxvdyBub3RlcyBvbiBub3RlYm9vawo=</text>
       </register>
       <register name="q" type="4">
         <text>jdd</text>
@@ -5326,16 +5326,16 @@
         <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBrZXlzID0gWydpZCcsICduYW1lJ10K</text>
+        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
       </register>
       <register name="t" type="4">
         <text>jdd</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBrZXlzID0gWydpZCcsICduYW1lJ10K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -5736,34 +5736,32 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
+        <text encoding="base64">ICAgICAgICBrZXlzID0gWydpZCcsICduYW1lJ10K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZW5kCg==</text>
+        <text encoding="base64">ICAgICAgICBrZXlzID0gWydpZCcsICduYW1lJ10K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcK</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjbGllbnRfZmluaXNoaW5ncwo=</text>
+        <text encoding="base64">ICAgICAgZW5kCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>%s:diff:delta:c</text>
       </register>
     </registers>
     <search>
-      <last-search>columns</last-search>
+      <last-search>difference</last-search>
       <last-offset />
-      <last-pattern>columns</last-pattern>
-      <last-replace>delete_all</last-replace>
-      <last-substitute>destroy_all</last-substitute>
+      <last-pattern>difference</last-pattern>
+      <last-replace>delta</last-replace>
+      <last-substitute>diff</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzeXN0ZW1cPg==</entry>
-        <entry>disconnect</entry>
         <entry>destroy_all</entry>
         <entry>onstan</entry>
         <entry>bind</entry>
@@ -5782,9 +5780,10 @@
         <entry>Current</entry>
         <entry>look_up_tables</entry>
         <entry>columns</entry>
+        <entry>diff</entry>
+        <entry>difference</entry>
       </history-search>
       <history-cmd>
-        <entry>2</entry>
         <entry encoding="base64">JzwsJz4lczpUaW1lLm5vdzpub3c6Yw==</entry>
         <entry>21</entry>
         <entry>114</entry>
@@ -5804,6 +5803,7 @@
         <entry>q</entry>
         <entry>s</entry>
         <entry>w</entry>
+        <entry>%s:diff:delta:c</entry>
       </history-cmd>
       <history-expr />
       <history-input />
