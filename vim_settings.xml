@@ -106,9 +106,9 @@
       <file name="/Dummy.txt" timestamp="1546628680805">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" timestamp="1546912028969">
+      <file name="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" timestamp="1546930434346">
         <mark key="d" line="190" column="17" />
-        <mark key="'" line="54" column="4" />
+        <mark key="'" line="71" column="27" />
         <mark key="[" line="3" column="59" />
         <mark key="]" line="3" column="59" />
         <mark key="." line="3" column="59" />
@@ -147,7 +147,6 @@
       <file name="$USER_HOME$/code/io/io-engage/app/jobs/notification_scheduler_job.rb" timestamp="1546533838060" />
     </filemarks>
     <jumps>
-      <jump line="52" column="0" filename="$USER_HOME$/code/io/io-engage/config/database.yml" />
       <jump line="17" column="0" filename="$USER_HOME$/code/io/io-engage/config/database.yml" />
       <jump line="26" column="0" filename="$USER_HOME$/code/io/io-engage/lib/tasks/exhibitree_migration.rake" />
       <jump line="48" column="0" filename="$USER_HOME$/code/io/io-engage/lib/tasks/exhibitree_migration.rake" />
@@ -247,6 +246,7 @@
       <jump line="215" column="8" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="216" column="16" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="54" column="4" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
+      <jump line="71" column="27" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5325,7 +5325,7 @@
         <text />
       </register>
       <register name="/" type="4">
-        <text>array_differences</text>
+        <text>pg_restore</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICMgV3JpdGUgdG8gdGhlIGRldmVsb3BtZW50IGRhdGFiYXNlCiAgICBEYXRhYmFzZS5kZXZlbG9wbWVudCEKICAgICMgYmluZGluZy5wcnkKICAgIGF0dHJpYnV0ZXMgPSBpbnN0YW5jZV92YXJpYWJsZV9nZXQoIkAje2Vudn1fZGF0YSIpW3Jlc291cmNlXS5tYXAgeyB8aHwgaCBpZiByZXNvdXJjZV9pZHMuaW5jbHVkZT8oaFsnaWQnXSkgfS5jb21wYWN0CiAgICBwdXRzICJ0byBjcmVhdGU6ICN7YXR0cmlidXRlc30iCgogICAgb2JqZWN0cyA9IFtdCiAgICBhdHRyaWJ1dGVzLmVhY2ggZG8gfGF0dHJpYnV0ZXwKICAgICAgb2JqZWN0cyA8PAogICAgICAgIE9iamVjdAogICAgICAgIC5jb25zdF9nZXQocmVzb3VyY2UudG9fcy5jbGFzc2lmeSkKICAgICAgICAuc2VuZCg6bmV3LCBhdHRyaWJ1dGUpCiAgICBlbmQK</text>
@@ -5766,9 +5766,9 @@
       </register>
     </registers>
     <search>
-      <last-search>array_differences</last-search>
+      <last-search>pg_restore</last-search>
       <last-offset />
-      <last-pattern>array_differences</last-pattern>
+      <last-pattern>pg_restore</last-pattern>
       <last-replace>delete_all</last-replace>
       <last-substitute>destroy_all</last-substitute>
       <last-dir>1</last-dir>
@@ -5776,7 +5776,6 @@
     </search>
     <history>
       <history-search>
-        <entry>nonprod</entry>
         <entry encoding="base64">XDxjaGVja1w+</entry>
         <entry>development</entry>
         <entry>staging</entry>
@@ -5796,6 +5795,7 @@
         <entry>migrate</entry>
         <entry>merge</entry>
         <entry>array_differences</entry>
+        <entry>pg_restore</entry>
       </history-search>
       <history-cmd>
         <entry>2</entry>
