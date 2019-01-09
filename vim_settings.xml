@@ -96,12 +96,12 @@
       <file name="/Dummy.txt" timestamp="1546628680805">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" timestamp="1547067848031">
-        <mark key="'" line="230" column="0" />
-        <mark key="[" line="289" column="29" />
-        <mark key="]" line="287" column="95" />
-        <mark key="." line="287" column="95" />
-        <mark key="^" line="287" column="95" />
+      <file name="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" timestamp="1547069830827">
+        <mark key="'" line="201" column="0" />
+        <mark key="[" line="290" column="84" />
+        <mark key="]" line="291" column="7" />
+        <mark key="^" line="291" column="7" />
+        <mark key="." line="291" column="7" />
       </file>
       <file name="$USER_HOME$/code/io/io-engage/lib/tasks/exhibitree_migration.rake" timestamp="1546632827375">
         <mark key="'" line="103" column="1" />
@@ -137,15 +137,6 @@
       <file name="$USER_HOME$/code/io/io-engage/app/jobs/notification_scheduler_job.rb" timestamp="1546533838060" />
     </filemarks>
     <jumps>
-      <jump line="70" column="7" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
-      <jump line="80" column="7" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
-      <jump line="90" column="7" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
-      <jump line="137" column="6" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
-      <jump line="75" column="0" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
-      <jump line="67" column="0" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
-      <jump line="231" column="11" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
-      <jump line="222" column="0" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
-      <jump line="185" column="15" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="221" column="1" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="252" column="31" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="66" column="19" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
@@ -153,7 +144,6 @@
       <jump line="14" column="25" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="178" column="4" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="180" column="35" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="197" column="12" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="25" column="13" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="211" column="9" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
@@ -170,7 +160,6 @@
       <jump line="71" column="27" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="174" column="19" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="208" column="38" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
-      <jump line="254" column="0" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="26" column="0" filename="$USER_HOME$/code/io/io-engage/app/assets/javascripts/base/batch_upload.coffee" />
       <jump line="223" column="6" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="244" column="40" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
@@ -181,7 +170,6 @@
       <jump line="225" column="12" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="3" column="0" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="184" column="30" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
-      <jump line="201" column="36" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="63" column="4" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="102" column="4" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="149" column="4" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
@@ -191,7 +179,6 @@
       <jump line="249" column="0" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="2" column="0" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="199" column="4" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
-      <jump line="292" column="12" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="21" column="8" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="216" column="37" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="235" column="12" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
@@ -212,8 +199,6 @@
       <jump line="297" column="0" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="22" column="8" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="253" column="25" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
-      <jump line="287" column="5" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
-      <jump line="288" column="52" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="232" column="18" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="256" column="0" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="291" column="0" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
@@ -237,13 +222,28 @@
       <jump line="268" column="8" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="1" column="0" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="230" column="0" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
+      <jump line="322" column="47" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
+      <jump line="357" column="44" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
+      <jump line="23" column="8" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
+      <jump line="42" column="15" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
+      <jump line="287" column="28" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
+      <jump line="288" column="46" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
+      <jump line="183" column="19" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
+      <jump line="195" column="19" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
+      <jump line="220" column="55" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
+      <jump line="254" column="0" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
+      <jump line="286" column="21" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
+      <jump line="271" column="12" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
+      <jump line="292" column="47" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
+      <jump line="201" column="0" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>_w</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>#</text>
       </register>
       <register name="b" type="4">
         <text>kkjj</text>
@@ -5309,37 +5309,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>#</text>
       </register>
       <register name="n" type="4">
         <text />
       </register>
       <register name="/" type="4">
-        <text>substrates</text>
+        <text>binding</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGluc3RhbmNlX2F0dHJpYnV0ZXMgPSByZXNvdXJjZV9zbGljZShpbnN0YW5jZV92YXJpYWJsZV9nZXQoIkAje2Vudn1fZGF0YSIpW3Jlc291cmNlXS5tYXAgeyB8aHwgaCBpZiByZXNvdXJjZV9pZHMuaW5jbHVkZT8oaFsnaWQnXSkgfS5jb21wYWN0LCBrZXlzKQo=</text>
+        <text encoding="base64">ICAgICAgICBpZHMgPSBbMTk0LCAxOTYsIDE5NywgMjAxXQogICAgICAgIGJ1aWxkX29iamVjdHNbcmVzb3VyY2VdWzp1cGRhdGVdID0gdXBkYXRlX2Zyb20oJ2Nsb3VkJywgcmVzb3VyY2UsIGlkcywga2V5cykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnN0YW5jZV9hdHRyaWJ1dGVzID0gYXR0cmlidXRlc19mb3JfdXBkYXRlKCdjbG91ZCcsIHJlc291cmNlLCBpZHMsIGtleXMpCg==</text>
       </register>
       <register name="q" type="4">
         <text>jdd</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
+        <text encoding="base64">ICAgICAgICBidWlsZF9vYmplY3RzW3Jlc291cmNlXSA9IHt9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdXRzICJza2lwcGluZyAnI3tyZXNvdXJjZX0nIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBidWlsZF9vYmplY3RzW3Jlc291cmNlXSA9IHt9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIC5maXJzdFsnbmFtZSddCg==</text>
       </register>
       <register name="t" type="4">
         <text>jdd</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBkZWYgdXBkYXRlX3JlY29yZChlbnYsIHJlc291cmNlLCByZXNvdXJjZV9pZCwga2V5cykKICAgIERhdGFiYXNlLmRldmVsb3BtZW50IQogICAgaW5zdGFuY2VfYXR0cmlidXRlcyA9IGF0dHJpYnV0ZXNfZm9yX3VwZGF0ZShlbnYsIHJlc291cmNlLCByZXNvdXJjZV9pZCwga2V5cykKCiAgZW5kCgo=</text>
+        <text encoding="base64">ICAgICAgICBuYW1lID0K</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -5740,25 +5740,25 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC0gYmluZGluZy5wcnkK</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBkYXRhYmFzZTogZV9taWdyYXRpb24K</text>
+        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQogICAgICAgIGJ1aWxkX29iamVjdHNbcmVzb3VyY2VdWzp1cGRhdGVdLmNvbmNhdCB1cGRhdGVfZnJvbSgnY2xvdWQnLCByZXNvdXJjZSwgdXBkYXRlX2lkcywga2V5cykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBkYXRhYmFzZTogZV9taWdyYXRpb25fdGVzdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>substrates</last-search>
+      <last-search>binding</last-search>
       <last-offset />
-      <last-pattern>substrates</last-pattern>
+      <last-pattern>binding</last-pattern>
       <last-replace>clean_up</last-replace>
       <last-substitute>strip_tabs</last-substitute>
       <last-dir>1</last-dir>
@@ -5766,16 +5766,12 @@
     </search>
     <history>
       <history-search>
-        <entry>resource_slice</entry>
-        <entry>finishings</entry>
         <entry>working wtih</entry>
         <entry>working with</entry>
         <entry>build_object</entry>
         <entry>vendor_vi</entry>
         <entry>vendor_f</entry>
         <entry>compare_resources</entry>
-        <entry>columns</entry>
-        <entry>binding</entry>
         <entry>intance</entry>
         <entry>delete</entry>
         <entry>gsub</entry>
@@ -5785,7 +5781,11 @@
         <entry>vendor_</entry>
         <entry>update_From</entry>
         <entry>update_</entry>
+        <entry>columns</entry>
+        <entry>_from</entry>
         <entry>substrates</entry>
+        <entry>substrate</entry>
+        <entry>binding</entry>
       </history-search>
       <history-cmd>
         <entry>21</entry>
