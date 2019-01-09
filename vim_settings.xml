@@ -96,12 +96,11 @@
       <file name="/Dummy.txt" timestamp="1546628680805">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" timestamp="1547075325361">
-        <mark key="'" line="208" column="0" />
-        <mark key="[" line="310" column="0" />
-        <mark key="]" line="310" column="0" />
-        <mark key="." line="310" column="0" />
-        <mark key="^" line="310" column="42" />
+      <file name="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" timestamp="1547076058281">
+        <mark key="'" line="192" column="60" />
+        <mark key="[" line="309" column="0" />
+        <mark key="]" line="309" column="0" />
+        <mark key="." line="309" column="0" />
       </file>
       <file name="$USER_HOME$/code/io/io-engage/lib/tasks/exhibitree_migration.rake" timestamp="1546632827375">
         <mark key="'" line="103" column="1" />
@@ -200,7 +199,6 @@
       <jump line="256" column="0" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="291" column="0" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="233" column="8" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
-      <jump line="192" column="12" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="242" column="12" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="273" column="27" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="331" column="4" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
@@ -237,13 +235,14 @@
       <jump line="201" column="0" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="215" column="14" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="209" column="0" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
+      <jump line="192" column="60" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>_w</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB1cGRhdGVfYXR0cmlidXRlcyA9IAo=</text>
+        <text encoding="base64">ICAgICAgICBwdXRzICdIaSBIZWN0b3IhJwo=</text>
       </register>
       <register name="b" type="4">
         <text>kkjj</text>
@@ -5315,31 +5314,31 @@
         <text />
       </register>
       <register name="/" type="4">
-        <text>vendor_subs</text>
+        <text>Hector</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBidWlsZF9vYmplY3RzW3Jlc291cmNlXVs6dXBkYXRlXSA9ICB1cGRhdGVfYXR0cmlidXRlcwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB1cGRhdGVfYXR0cmlidXRlcyA9IAo=</text>
+        <text encoding="base64">ICAgICAgICBwdXRzICdIaSBIZWN0b3IhJwo=</text>
       </register>
       <register name="q" type="4">
         <text>jdd</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB1cGRhdGVfYXR0cmlidXRlcyA9IAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
+        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
       </register>
       <register name="t" type="4">
         <text>jdd</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -5740,25 +5739,25 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJlc291cmNlc19pZHMgPSBpbnN0YW5jZV92YXJpYWJsZV9nZXQoIkAje2Vudn1fZGF0YSIpW3Jlc291cmNlXQo=</text>
+        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJlc291cmNlX3NsaWNlKGluc3RhbmNlX3ZhcmlhYmxlX2dldCgiQCN7ZW52fV9kYXRhIilbcmVzb3VyY2VdLm1hcCB7IHxofCBoIGlmIHJlc291cmNlX2lkcy5pbmNsdWRlPyhoWydpZCddKSB9LmNvbXBhY3QsIGtleXMpCg==</text>
+        <text encoding="base64">ICAgIHJlc291cmNlc19pZHMgPSBpbnN0YW5jZV92YXJpYWJsZV9nZXQoIkAje2Vudn1fZGF0YSIpW3Jlc291cmNlXQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBkZWYgYXR0cmlidXRlc19mb3JfdXBkYXRlX2Zyb21fa2V5X2NvbGxlY3Rpb24oZW52LCByZXNvdXJjZSwgcmVzb3VyY2VfaWRzZm9yZWlnbl9rZXksIGtleXMpCg==</text>
+        <text encoding="base64">ICAgIHJlc291cmNlX3NsaWNlKGluc3RhbmNlX3ZhcmlhYmxlX2dldCgiQCN7ZW52fV9kYXRhIilbcmVzb3VyY2VdLm1hcCB7IHxofCBoIGlmIHJlc291cmNlX2lkcy5pbmNsdWRlPyhoWydpZCddKSB9LmNvbXBhY3QsIGtleXMpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+        <text encoding="base64">ICBkZWYgYXR0cmlidXRlc19mb3JfdXBkYXRlX2Zyb21fa2V5X2NvbGxlY3Rpb24oZW52LCByZXNvdXJjZSwgcmVzb3VyY2VfaWRzZm9yZWlnbl9rZXksIGtleXMpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>vendor_subs</last-search>
+      <last-search>Hector</last-search>
       <last-offset />
-      <last-pattern>vendor_subs</last-pattern>
+      <last-pattern>Hector</last-pattern>
       <last-replace>clean_up</last-replace>
       <last-substitute>strip_tabs</last-substitute>
       <last-dir>1</last-dir>
@@ -5766,7 +5765,6 @@
     </search>
     <history>
       <history-search>
-        <entry>working with</entry>
         <entry>build_object</entry>
         <entry>vendor_vi</entry>
         <entry>vendor_f</entry>
@@ -5786,6 +5784,7 @@
         <entry>substrate</entry>
         <entry>binding</entry>
         <entry>vendor_subs</entry>
+        <entry>Hector</entry>
       </history-search>
       <history-cmd>
         <entry>21</entry>
