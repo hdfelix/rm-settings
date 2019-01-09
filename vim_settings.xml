@@ -35,9 +35,6 @@
       </file>
       <file name="$USER_HOME$/code/io/io-engage/config/database.yml" timestamp="1547061826246">
         <mark key="'" line="26" column="42" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="23" />
-        <mark key="." line="20" column="0" />
         <mark key="^" line="55" column="1" />
       </file>
       <file name="$USER_HOME$/code/io/io-engage/config/settings.yml" timestamp="1547061838856">
@@ -5755,7 +5752,7 @@
         <text encoding="base64">Y2xlYW5fbGVnYWN5ID0KY2xlYW5fY2xvdWQgPSA=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -5805,12 +5802,12 @@
         <entry>%s:destroy_all:delete_all</entry>
         <entry>90</entry>
         <entry>qw</entry>
-        <entry>q</entry>
         <entry>s</entry>
         <entry>%s:diff:delta:c</entry>
         <entry>%s:strip_tabs:clean_up:c</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
