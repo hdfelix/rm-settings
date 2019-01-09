@@ -4,11 +4,12 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/code/io/io-engage/app/assets/stylesheets/active_admin.scss" timestamp="1546709309984" />
-      <file name="$USER_HOME$/code/io/io-engage/app/assets/javascripts/base/batch_upload.coffee" timestamp="1546969390505">
+      <file name="$USER_HOME$/code/io/io-engage/app/assets/javascripts/base/batch_upload.coffee" timestamp="1547059776479">
         <mark key="'" line="23" column="0" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+        <mark key="[" line="85" column="35" />
+        <mark key="]" line="87" column="3" />
+        <mark key="." line="87" column="3" />
+        <mark key="^" line="87" column="3" />
       </file>
       <file name="/exhibitree_shows.public.client_graphic_types [Exhibitree Cloud]" timestamp="1546977636732">
         <mark key="[" line="0" column="0" />
@@ -39,12 +40,12 @@
         <mark key="." line="50" column="14" />
         <mark key="^" line="50" column="20" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/config/settings.yml" timestamp="1546627002587">
-        <mark key="'" line="875" column="1" />
-        <mark key="[" line="872" column="17" />
-        <mark key="]" line="873" column="1" />
-        <mark key="." line="873" column="1" />
-        <mark key="^" line="873" column="1" />
+      <file name="$USER_HOME$/code/io/io-engage/config/settings.yml" timestamp="1547060951924">
+        <mark key="'" line="12" column="13" />
+        <mark key="[" line="43" column="2" />
+        <mark key="]" line="43" column="5" />
+        <mark key="." line="43" column="5" />
+        <mark key="^" line="43" column="5" />
       </file>
       <file name="$USER_HOME$/code/io/io-engage/spec/lib/exhibitree_migration_spec.rb" timestamp="1546633038273">
         <mark key="'" line="141" column="52" />
@@ -86,7 +87,7 @@
         <mark key="." line="2" column="18" />
         <mark key="^" line="2" column="18" />
       </file>
-      <file name="/dummy.sql" timestamp="1546980718160">
+      <file name="/dummy.sql" timestamp="1547060165832">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1546628680805">
@@ -132,7 +133,6 @@
       <file name="$USER_HOME$/code/io/io-engage/app/jobs/notification_scheduler_job.rb" timestamp="1546533838060" />
     </filemarks>
     <jumps>
-      <jump line="134" column="12" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="136" column="0" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="160" column="0" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="183" column="20" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
@@ -232,13 +232,14 @@
       <jump line="242" column="12" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="273" column="27" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="331" column="4" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
+      <jump line="12" column="13" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>_w</text>
       </register>
       <register name="&quot;" type="4">
-        <text>'</text>
+        <text>)</text>
       </register>
       <register name="b" type="4">
         <text>kkjj</text>
@@ -5304,13 +5305,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>)</text>
       </register>
       <register name="n" type="4">
         <text />
       </register>
       <register name="/" type="4">
-        <text>gsub</text>
+        <text>mail</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwdXRzICJza2lwcGluZyAnI3tyZXNvdXJjZX0nIgo=</text>
@@ -5751,9 +5752,9 @@
       </register>
     </registers>
     <search>
-      <last-search>gsub</last-search>
+      <last-search>mail</last-search>
       <last-offset />
-      <last-pattern>gsub</last-pattern>
+      <last-pattern>mail</last-pattern>
       <last-replace>clean_up</last-replace>
       <last-substitute>strip_tabs</last-substitute>
       <last-dir>1</last-dir>
@@ -5761,7 +5762,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Current</entry>
         <entry>look_up_tables</entry>
         <entry>diff</entry>
         <entry>difference</entry>
@@ -5781,6 +5781,7 @@
         <entry>intance</entry>
         <entry>delete</entry>
         <entry>gsub</entry>
+        <entry>mail</entry>
       </history-search>
       <history-cmd>
         <entry>21</entry>
