@@ -92,12 +92,12 @@
       <file name="/Dummy.txt" timestamp="1546628680805">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" timestamp="1547001510707">
+      <file name="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" timestamp="1547002309982">
         <mark key="'" line="331" column="4" />
-        <mark key="[" line="316" column="44" />
-        <mark key="]" line="316" column="44" />
-        <mark key="." line="316" column="44" />
-        <mark key="^" line="316" column="37" />
+        <mark key="[" line="316" column="49" />
+        <mark key="]" line="316" column="96" />
+        <mark key="." line="316" column="96" />
+        <mark key="^" line="316" column="96" />
       </file>
       <file name="$USER_HOME$/code/io/io-engage/lib/tasks/exhibitree_migration.rake" timestamp="1546632827375">
         <mark key="'" line="103" column="1" />
