@@ -9,22 +9,16 @@
       <file name="/e_migration_legacy.public.add_ons [postgres@localhost]" timestamp="1547156008644">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/e_migration_legacy.public.graphic_types [postgres@localhost]" timestamp="1547159525733">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/e_events_migration_legacy.public.items [postgres@localhost]" timestamp="1546632203166">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/e_migration_legacy.public.add_on_types [postgres@localhost]" timestamp="1547156910876">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/e_migration_cloud.public.add_on_types [postgres@localhost]" timestamp="1547158724289">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/e_migration_legacy.public.client_graphic_types [postgres@localhost]" timestamp="1547154829649">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/e_migration_legacy.public.clients_graphic_types [postgres@localhost]" timestamp="1547154810166">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/e_migration_cloud.public.add_ons [postgres@localhost]" timestamp="1547156197719">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/e_events_migration.public.settings [postgres@localhost]" timestamp="1546534058588">
@@ -36,32 +30,55 @@
       <file name="/e_events_migration_source.public.events [postgres@localhost]" timestamp="1546538086665">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/e_migration_legacy.public.brands [postgres@localhost]" timestamp="1547158914992">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/e_migration_legacy.public.graphic_categories [postgres@localhost]" timestamp="1547080316577">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/e_migration_cloud.public.brands [postgres@localhost]" timestamp="1547154775922">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/e_migration_legacy.public.vendor_substrates [postgres@localhost]" timestamp="1547159753831">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/e_migration_cloud.public.graphic_types [postgres@localhost]" timestamp="1547159449007">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/e_migration_legacy.public.general_locations [postgres@localhost]" timestamp="1547158758387">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/e_events_migration.public.users [postgres@localhost]" timestamp="1546643363922">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/e_migration_cloud.public.add_on_types [postgres@localhost]" timestamp="1547158724289">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/e_migration_legacy.public.client_graphic_types [postgres@localhost]" timestamp="1547154829649">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/e_migration_cloud.public.add_ons [postgres@localhost]" timestamp="1547156197719">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/exhibitree2_production.public.items [io_prod]" timestamp="1546973366986">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/e_migration_cloud.public.graphic_categories [postgres@localhost]" timestamp="1547080329210">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1547158915099">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/e_migration_legacy.public.brands [postgres@localhost]" timestamp="1547158914992">
+      <file name="/dummy.sql" timestamp="1547159873446">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1547147747055">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" timestamp="1547157164284">
-        <mark key="'" line="261" column="16" />
-        <mark key="[" line="408" column="22" />
-        <mark key="]" line="408" column="22" />
-        <mark key="^" line="408" column="22" />
-        <mark key="." line="408" column="22" />
+      <file name="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" timestamp="1547159921364">
+        <mark key="[" line="364" column="0" />
+        <mark key="]" line="366" column="0" />
+        <mark key="^" line="395" column="22" />
+        <mark key="." line="366" column="0" />
       </file>
-      <file name="/e_migration_legacy.public.graphic_categories [postgres@localhost]" timestamp="1547080316577">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/e_migration_cloud.public.brands [postgres@localhost]" timestamp="1547154775922">
+      <file name="/e_migration.public.graphic_types [postgres@localhost]" timestamp="1547159489911">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/io/io-engage/app/services/e_migration/service.rb" timestamp="1546552589103">
@@ -70,28 +87,16 @@
       <file name="/exhibitree_shows.public.graphic_categories [Exhibitree Cloud]" timestamp="1547079195907">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/e_migration_cloud.public.graphic_types [postgres@localhost]" timestamp="1547083528146">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/e_migration_cloud.public.vendor_graphic_types [postgres@localhost]" timestamp="1547154751513">
+      <file name="/e_migration_cloud.public.vendor_graphic_types [postgres@localhost]" timestamp="1547159709589">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/exhibitree_shows.public.clients_graphic_types [Exhibitree Cloud]" timestamp="1546977632156">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/e_migration_legacy.public.general_locations [postgres@localhost]" timestamp="1547158758387">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/exhibitree_shows.public.items [Exhibitree Cloud]" timestamp="1546980716774">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/e_migration_legacy.public.vendor_graphic_types [postgres@localhost]" timestamp="1547154822822">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/io/io-engage/db/migrate/20180419083501_create_data_migrations.seed_migration.rb" timestamp="1547083491865">
-        <mark key="'" line="14" column="0" />
-      </file>
-      <file name="/e_events_migration.public.users [postgres@localhost]" timestamp="1546643363922">
+      <file name="/e_migration_legacy.public.vendor_graphic_types [postgres@localhost]" timestamp="1547159742727">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/e_migration_cloud.public.clients_graphic_types [postgres@localhost]" timestamp="1547154768887">
@@ -99,10 +104,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="291" column="0" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
-      <jump line="233" column="8" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
-      <jump line="331" column="4" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
-      <jump line="12" column="13" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
       <jump line="49" column="5" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
       <jump line="7" column="0" filename="$USER_HOME$/code/io/io-engage/app/views/devise/partials/_header.html.haml" />
       <jump line="115" column="15" filename="$USER_HOME$/code/io/io-engage/app/assets/javascripts/base/batch_upload.coffee" />
@@ -199,13 +200,17 @@
       <jump line="453" column="6" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="237" column="16" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="260" column="16" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
+      <jump line="45" column="17" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
+      <jump line="61" column="8" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
+      <jump line="367" column="37" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
+      <jump line="369" column="10" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>_w</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>vendor_id</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgIyB3aGVuIDphZGRfb25fdHlwZXMKICAgICAgIyAgIGJ1aWxkX29iamVjdHNbcmVzb3VyY2VdID0ge30KICAgICAgIyAgIGVudiA9ICdjbG91ZCcKICAgICAgIyAgIGJpbmRpbmcucHJ5CiAgICAgICMgICBrZXlzID0gY29sdW1uc19mb3IocmVzb3VyY2UpCiAgICAgICMgICBkZWx0YSA9IGNvbXBhcmVfcmVzb3VyY2VzKHJlc291cmNlLCBrZXlzKQogICAgICAjICAgIyBkZWx0YS5kZWxldGVfaWYgeyB8cnwgWzIsIDddLmluY2x1ZGU/KHJbJ3ZlbmRvcl9pZCddKSB9CiAgICAgICMgICBpZHMgPSBnZXRfa2V5cyhkZWx0YSkKICAgICAgIwogICAgICAjICAgYnVpbGRfb2JqZWN0c1tyZXNvdXJjZV1bOmNyZWF0ZV0gPSBuZXdfZnJvbSgnY2xvdWQnLCByZXNvdXJjZSwgaWRzKQoK</text>
       </register>
       <register name="b" type="4">
         <text>kkjj</text>
@@ -5277,31 +5282,31 @@
         <text />
       </register>
       <register name="/" type="4">
-        <text>compare_re</text>
+        <text>add_ons</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIFJhaWxzLmxvZ2dlci5sZXZlbCA9IDppbmZvCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgIyBiaW5kaW5nLnByeQo=</text>
+        <text encoding="base64">ICAgICAgIyB3aGVuIDphZGRfb25fdHlwZXMKICAgICAgIyAgIGJ1aWxkX29iamVjdHNbcmVzb3VyY2VdID0ge30KICAgICAgIyAgIGVudiA9ICdjbG91ZCcKICAgICAgIyAgIGJpbmRpbmcucHJ5CiAgICAgICMgICBrZXlzID0gY29sdW1uc19mb3IocmVzb3VyY2UpCiAgICAgICMgICBkZWx0YSA9IGNvbXBhcmVfcmVzb3VyY2VzKHJlc291cmNlLCBrZXlzKQogICAgICAjICAgIyBkZWx0YS5kZWxldGVfaWYgeyB8cnwgWzIsIDddLmluY2x1ZGU/KHJbJ3ZlbmRvcl9pZCddKSB9CiAgICAgICMgICBpZHMgPSBnZXRfa2V5cyhkZWx0YSkKICAgICAgIwogICAgICAjICAgYnVpbGRfb2JqZWN0c1tyZXNvdXJjZV1bOmNyZWF0ZV0gPSBuZXdfZnJvbSgnY2xvdWQnLCByZXNvdXJjZSwgaWRzKQoK</text>
       </register>
       <register name="q" type="4">
         <text>jdd</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhdHRyaWJ1dGVzID0gbmV3X2Zyb20oZW52LCByZXNvdXJjZSwgcmVzb3VyY2VfaWRzKQo=</text>
+        <text encoding="base64">ICAgICAgICBhZGRfb25zCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIFtdIGlmIGluc3RhbmNlX3ZhcmlhYmxlX2dldCgiQCN7ZW52fV9kYXRhIilbcmVzb3VyY2VdLmVtcHR5Pwo=</text>
+        <text encoding="base64">ICAgICAgICAjIGFkZF9vbl90eXBlcwo=</text>
       </register>
       <register name="t" type="4">
         <text>jdd</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2ZW5kb3JfZ3JhcGhpY190eXBlcwo=</text>
+        <text encoding="base64">ICAgICAgIyBiaW5kaW5nLnByeQo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -5702,25 +5707,25 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBlbnYgPSAnY2xvdWQnCg==</text>
+        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBrZXkgPSAnc3ViCg==</text>
+        <text encoding="base64">ICAgICAgICBhdHRyaWJ1dGVzID0gbmV3X2Zyb20oZW52LCByZXNvdXJjZSwgcmVzb3VyY2VfaWRzKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgICAgICBlbmQK</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIFtdIGlmIGluc3RhbmNlX3ZhcmlhYmxlX2dldCgiQCN7ZW52fV9kYXRhIilbcmVzb3VyY2VdLmVtcHR5Pwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2ZW5kb3JfZ3JhcGhpY190eXBlcwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>compare_re</last-search>
+      <last-search>add_ons</last-search>
       <last-offset />
-      <last-pattern>compare_re</last-pattern>
+      <last-pattern>add_ons</last-pattern>
       <last-replace>clean_up</last-replace>
       <last-substitute>strip_tabs</last-substitute>
       <last-dir>1</last-dir>
@@ -5745,9 +5750,9 @@
         <entry>load</entry>
         <entry>side_by_side</entry>
         <entry>add</entry>
-        <entry>add_ons</entry>
-        <entry>binding</entry>
         <entry>compare_re</entry>
+        <entry>binding</entry>
+        <entry>add_ons</entry>
       </history-search>
       <history-cmd>
         <entry>21</entry>
