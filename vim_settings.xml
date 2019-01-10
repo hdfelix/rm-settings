@@ -3,13 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/io/io-engage/app/assets/javascripts/base/batch_upload.coffee" timestamp="1547062495860">
-        <mark key="'" line="115" column="15" />
-        <mark key="[" line="48" column="6" />
-        <mark key="]" line="48" column="7" />
-        <mark key="." line="48" column="7" />
-        <mark key="^" line="48" column="7" />
-      </file>
       <file name="/exhibitree_shows.public.client_graphic_types [Exhibitree Cloud]" timestamp="1546977636732">
         <mark key="[" line="0" column="0" />
       </file>
@@ -22,22 +15,8 @@
       <file name="/e_migration_legacy.public.add_on_types [postgres@localhost]" timestamp="1547156910876">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/app/models/database.rb" timestamp="1546561390575">
-        <mark key="'" line="17" column="1" />
+      <file name="/e_migration_cloud.public.add_on_types [postgres@localhost]" timestamp="1547158724289">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="8" column="1" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="/e_migration_cloud.public.add_on_types [postgres@localhost]" timestamp="1547156201002">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/io/io-engage/app/javascript/packs/bugherd.js" timestamp="1546287153710">
-        <mark key="'" line="4" column="0" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="24" column="38" />
       </file>
       <file name="/e_migration_legacy.public.client_graphic_types [postgres@localhost]" timestamp="1547154829649">
         <mark key="[" line="0" column="0" />
@@ -63,35 +42,24 @@
       <file name="/e_migration_cloud.public.graphic_categories [postgres@localhost]" timestamp="1547080329210">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/lib/exhibitree_migration.rb" timestamp="1546633869051">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="39" column="10" />
-        <mark key="." line="2" column="18" />
-        <mark key="^" line="2" column="18" />
+      <file name="/dummy.sql" timestamp="1547158915099">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1547157267653">
+      <file name="/e_migration_legacy.public.brands [postgres@localhost]" timestamp="1547158914992">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1547147747055">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" timestamp="1547157164284">
-        <mark key="'" line="260" column="16" />
-        <mark key="[" line="407" column="22" />
-        <mark key="]" line="407" column="22" />
-        <mark key="^" line="407" column="22" />
-        <mark key="." line="407" column="22" />
+        <mark key="'" line="261" column="16" />
+        <mark key="[" line="408" column="22" />
+        <mark key="]" line="408" column="22" />
+        <mark key="^" line="408" column="22" />
+        <mark key="." line="408" column="22" />
       </file>
       <file name="/e_migration_legacy.public.graphic_categories [postgres@localhost]" timestamp="1547080316577">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/io/io-engage/lib/tasks/exhibitree_migration.rake" timestamp="1546632827375">
-        <mark key="'" line="103" column="1" />
-        <mark key="[" line="17" column="17" />
-        <mark key="]" line="17" column="17" />
-        <mark key="^" line="17" column="17" />
-        <mark key="." line="17" column="17" />
       </file>
       <file name="/e_migration_cloud.public.brands [postgres@localhost]" timestamp="1547154775922">
         <mark key="[" line="0" column="0" />
@@ -111,19 +79,8 @@
       <file name="/exhibitree_shows.public.clients_graphic_types [Exhibitree Cloud]" timestamp="1546977632156">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/config/settings.yml" timestamp="1547061838856">
-        <mark key="'" line="49" column="5" />
-        <mark key="[" line="43" column="2" />
-        <mark key="]" line="43" column="5" />
-        <mark key="." line="43" column="5" />
-        <mark key="^" line="43" column="5" />
-      </file>
-      <file name="$USER_HOME$/code/io/io-engage/spec/lib/exhibitree_migration_spec.rb" timestamp="1546633038273">
-        <mark key="'" line="141" column="52" />
-        <mark key="[" line="0" column="21" />
-        <mark key="]" line="1" column="63" />
-        <mark key="." line="1" column="63" />
-        <mark key="^" line="1" column="63" />
+      <file name="/e_migration_legacy.public.general_locations [postgres@localhost]" timestamp="1547158758387">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/exhibitree_shows.public.items [Exhibitree Cloud]" timestamp="1546980716774">
         <mark key="[" line="0" column="0" />
@@ -136,13 +93,6 @@
       </file>
       <file name="/e_events_migration.public.users [postgres@localhost]" timestamp="1546643363922">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/io/io-engage/config/environments/staging.rb" timestamp="1546474263258">
-        <mark key="'" line="31" column="53" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="1" column="1" />
-        <mark key="." line="3" column="0" />
       </file>
       <file name="/e_migration_cloud.public.clients_graphic_types [postgres@localhost]" timestamp="1547154768887">
         <mark key="[" line="0" column="0" />
