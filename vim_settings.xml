@@ -81,6 +81,9 @@
       <file name="/e_migration_legacy.public.client_graphic_types [postgres@localhost]" timestamp="1547154829649">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/e_migration.public.graphic_categories [postgres@localhost]" timestamp="1547232488062">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/e_migration_cloud.public.add_ons [postgres@localhost]" timestamp="1547156197719">
         <mark key="[" line="0" column="0" />
       </file>
@@ -93,18 +96,18 @@
       <file name="/e_migration_cloud.public.graphic_categories [postgres@localhost]" timestamp="1547080329210">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1547181188040">
+      <file name="/dummy.sql" timestamp="1547232488907">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1547147747055">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" timestamp="1547231710787">
-        <mark key="'" line="78" column="0" />
-        <mark key="[" line="238" column="43" />
-        <mark key="]" line="239" column="18" />
-        <mark key="^" line="239" column="18" />
-        <mark key="." line="239" column="18" />
+      <file name="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" timestamp="1547232683579">
+        <mark key="'" line="300" column="30" />
+        <mark key="[" line="253" column="19" />
+        <mark key="]" line="253" column="42" />
+        <mark key="^" line="253" column="42" />
+        <mark key="." line="253" column="42" />
       </file>
       <file name="/e_migration.public.graphic_types [postgres@localhost]" timestamp="1547159489911">
         <mark key="[" line="0" column="0" />
@@ -156,10 +159,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="145" column="8" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
-      <jump line="60" column="9" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
-      <jump line="120" column="10" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
-      <jump line="230" column="16" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="318" column="12" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="338" column="16" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="41" column="15" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
@@ -256,13 +255,17 @@
       <jump line="29" column="13" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="252" column="17" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="78" column="0" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
+      <jump line="238" column="23" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
+      <jump line="27" column="0" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
+      <jump line="122" column="15" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
+      <jump line="300" column="30" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>_w</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIGJpbmRpbmcucHJ5IGlmIHBhcmFtc1snaWQnXS5uaWw/Cg==</text>
+      <register name="&quot;" type="4">
+        <text>update</text>
       </register>
       <register name="b" type="4">
         <text>kkjj</text>
@@ -5328,16 +5331,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>created</text>
+        <text>update</text>
       </register>
       <register name="n" type="4">
         <text />
       </register>
       <register name="/" type="4">
-        <text>write_</text>
+        <text>vendors</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjcmVhdGVkX29iamVjdHNbcmVzb3VyY2VdWzpjcmVhdGVkXSA9IFtdCg==</text>
+        <text encoding="base64">ICAgICAgICBuZXh0IGlmIGJ1aWxkX29iamVjdHNbcmVzb3VyY2VdWzp1cGRhdGVdLm5pbD8K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgIGJpbmRpbmcucHJ5IGlmIHBhcmFtc1snaWQnXS5uaWw/Cg==</text>
@@ -5775,9 +5778,9 @@
       </register>
     </registers>
     <search>
-      <last-search>write_</last-search>
+      <last-search>vendors</last-search>
       <last-offset />
-      <last-pattern>write_</last-pattern>
+      <last-pattern>vendors</last-pattern>
       <last-replace>clean_up</last-replace>
       <last-substitute>strip_tabs</last-substitute>
       <last-dir>1</last-dir>
@@ -5785,9 +5788,6 @@
     </search>
     <history>
       <history-search>
-        <entry>load_data</entry>
-        <entry>venues</entry>
-        <entry>eents</entry>
         <entry>events</entry>
         <entry>when :brands</entry>
         <entry>client_rushes</entry>
@@ -5805,6 +5805,9 @@
         <entry>new_from</entry>
         <entry>instance_variable_get</entry>
         <entry>write_</entry>
+        <entry>load</entry>
+        <entry>binding.pry</entry>
+        <entry>vendors</entry>
       </history-search>
       <history-cmd>
         <entry>21</entry>
