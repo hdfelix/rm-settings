@@ -73,13 +73,16 @@
         <mark key="." line="1" column="63" />
         <mark key="^" line="1" column="63" />
       </file>
-      <file name="/e_migration_legacy.public.general_locations [postgres@localhost]" timestamp="1547158758387">
+      <file name="/e_migration_legacy.public.general_locations [postgres@localhost]" timestamp="1547172529728">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/e_migration_cloud.public.general_locations [postgres@localhost]" timestamp="1547172513057">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/e_events_migration.public.users [postgres@localhost]" timestamp="1546643363922">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/e_migration_legacy.public.role_types [postgres@localhost]" timestamp="1547169049402">
+      <file name="/e_migration_legacy.public.role_types [postgres@localhost]" timestamp="1547171587003">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/io/io-engage/app/models/database.rb" timestamp="1546561390575">
@@ -111,18 +114,18 @@
         <mark key="." line="2" column="18" />
         <mark key="^" line="2" column="18" />
       </file>
-      <file name="/dummy.sql" timestamp="1547169412771">
+      <file name="/dummy.sql" timestamp="1547172529831">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1547147747055">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" timestamp="1547168626841">
-        <mark key="'" line="7" column="0" />
-        <mark key="[" line="364" column="8" />
-        <mark key="]" line="364" column="8" />
-        <mark key="^" line="364" column="20" />
-        <mark key="." line="364" column="8" />
+      <file name="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" timestamp="1547172697815">
+        <mark key="'" line="79" column="0" />
+        <mark key="[" line="394" column="36" />
+        <mark key="]" line="395" column="7" />
+        <mark key="^" line="395" column="7" />
+        <mark key="." line="395" column="7" />
       </file>
       <file name="$USER_HOME$/code/io/io-engage/lib/tasks/exhibitree_migration.rake" timestamp="1546632827375">
         <mark key="'" line="103" column="1" />
@@ -168,12 +171,11 @@
       <file name="/e_migration_cloud.public.clients_graphic_types [postgres@localhost]" timestamp="1547154768887">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/e_migration_cloud.public.role_types [postgres@localhost]" timestamp="1547164601401">
+      <file name="/e_migration_cloud.public.role_types [postgres@localhost]" timestamp="1547171602457">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="8" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="42" column="15" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="287" column="28" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="288" column="46" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
@@ -273,6 +275,7 @@
       <jump line="29" column="8" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="246" column="12" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="7" column="0" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
+      <jump line="79" column="0" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5351,7 +5354,7 @@
         <text />
       </register>
       <register name="/" type="4">
-        <text>load_data</text>
+        <text>merge_data</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBidWlsZF9vYmplY3RzW3Jlc291cmNlXVs6dXBkYXRlXSA9IHVwZGF0ZV9mcm9tKCdjbG91ZCcsIHJlc291cmNlLCBpZHMsIGtleXMpCg==</text>
@@ -5794,9 +5797,9 @@
       </register>
     </registers>
     <search>
-      <last-search>load_data</last-search>
+      <last-search>merge_data</last-search>
       <last-offset />
-      <last-pattern>load_data</last-pattern>
+      <last-pattern>merge_data</last-pattern>
       <last-replace>clean_up</last-replace>
       <last-substitute>strip_tabs</last-substitute>
       <last-dir>1</last-dir>
@@ -5804,7 +5807,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Hector</entry>
         <entry>skipping</entry>
         <entry>categories</entry>
         <entry>def load_data</entry>
@@ -5824,6 +5826,7 @@
         <entry>role_types</entry>
         <entry>venues</entry>
         <entry>load_data</entry>
+        <entry>merge_data</entry>
       </history-search>
       <history-cmd>
         <entry>21</entry>
