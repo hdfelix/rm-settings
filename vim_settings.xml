@@ -117,6 +117,13 @@
       <file name="/Dummy.txt" timestamp="1547147747055">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" timestamp="1547247945121">
+        <mark key="'" line="70" column="0" />
+        <mark key="[" line="244" column="21" />
+        <mark key="]" line="244" column="21" />
+        <mark key="." line="244" column="21" />
+        <mark key="^" line="255" column="24" />
+      </file>
       <file name="/e_migration.public.graphic_types [postgres@localhost]" timestamp="1547159489911">
         <mark key="[" line="0" column="0" />
       </file>
@@ -167,8 +174,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
-      <jump line="124" column="15" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="125" column="15" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="126" column="15" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="127" column="15" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
@@ -249,7 +254,6 @@
       <jump line="232" column="39" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="263" column="12" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="249" column="20" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
-      <jump line="3" column="0" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="45" column="8" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="229" column="4" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="284" column="43" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
@@ -267,13 +271,16 @@
       <jump line="53" column="8" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="240" column="36" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="253" column="36" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
+      <jump line="279" column="22" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
+      <jump line="3" column="0" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
+      <jump line="70" column="0" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>_w</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
+      <register name="&quot;" type="4">
+        <text>_</text>
       </register>
       <register name="b" type="4">
         <text>kkjj</text>
@@ -5339,16 +5346,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>update</text>
+        <text>_</text>
       </register>
       <register name="n" type="4">
         <text />
       </register>
       <register name="/" type="4">
-        <text>vendor_substrates</text>
+        <text>write</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBuZXh0IGlmIGJ1aWxkX29iamVjdHNbcmVzb3VyY2VdWzp1cGRhdGVdLm5pbD8K</text>
+        <text encoding="base64">ICAgIFJhaWxzLmxvZ2dlci5sZXZlbCA9IDppbmZvCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
@@ -5786,9 +5793,9 @@
       </register>
     </registers>
     <search>
-      <last-search>vendor_substrates</last-search>
+      <last-search>write</last-search>
       <last-offset />
-      <last-pattern>vendor_substrates</last-pattern>
+      <last-pattern>write</last-pattern>
       <last-replace>clean_up</last-replace>
       <last-substitute>strip_tabs</last-substitute>
       <last-dir>1</last-dir>
@@ -5796,8 +5803,6 @@
     </search>
     <history>
       <history-search>
-        <entry>client_rushes</entry>
-        <entry>zones</entry>
         <entry>pg_restore</entry>
         <entry>client_rush</entry>
         <entry>field_sets</entry>
@@ -5816,6 +5821,8 @@
         <entry>vendors</entry>
         <entry>Marshal</entry>
         <entry>vendor_substrates</entry>
+        <entry>logger</entry>
+        <entry>write</entry>
       </history-search>
       <history-cmd>
         <entry>21</entry>
