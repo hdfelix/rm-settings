@@ -99,12 +99,12 @@
       <file name="/Dummy.txt" timestamp="1547147747055">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" timestamp="1547230402081">
-        <mark key="'" line="29" column="13" />
-        <mark key="[" line="252" column="0" />
-        <mark key="]" line="252" column="0" />
-        <mark key="^" line="240" column="7" />
-        <mark key="." line="252" column="0" />
+      <file name="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" timestamp="1547231710787">
+        <mark key="'" line="78" column="0" />
+        <mark key="[" line="238" column="43" />
+        <mark key="]" line="239" column="18" />
+        <mark key="^" line="239" column="18" />
+        <mark key="." line="239" column="18" />
       </file>
       <file name="/e_migration.public.graphic_types [postgres@localhost]" timestamp="1547159489911">
         <mark key="[" line="0" column="0" />
@@ -156,8 +156,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="4" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
-      <jump line="14" column="0" filename="$USER_HOME$/code/io/io-engage/db/migrate/20180419083501_create_data_migrations.seed_migration.rb" />
       <jump line="145" column="8" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="60" column="9" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="120" column="10" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
@@ -256,6 +254,8 @@
       <jump line="284" column="43" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="244" column="9" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="29" column="13" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
+      <jump line="252" column="17" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
+      <jump line="78" column="0" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
