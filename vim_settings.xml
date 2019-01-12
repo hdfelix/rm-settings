@@ -111,18 +111,17 @@
       <file name="/e_migration_cloud.public.graphic_categories [postgres@localhost]" timestamp="1547080329210">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1547255284080">
+      <file name="/dummy.sql" timestamp="1547257170147">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1547147747055">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" timestamp="1547255485223">
-        <mark key="'" line="275" column="55" />
-        <mark key="[" line="367" column="33" />
-        <mark key="]" line="367" column="31" />
-        <mark key="." line="367" column="31" />
-        <mark key="^" line="367" column="31" />
+      <file name="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" timestamp="1547257379148">
+        <mark key="'" line="241" column="6" />
+        <mark key="[" line="276" column="0" />
+        <mark key="]" line="276" column="0" />
+        <mark key="." line="276" column="0" />
       </file>
       <file name="/e_migration.public.graphic_types [postgres@localhost]" timestamp="1547159489911">
         <mark key="[" line="0" column="0" />
@@ -174,11 +173,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="283" column="14" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
-      <jump line="304" column="26" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
-      <jump line="123" column="15" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
-      <jump line="365" column="32" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
-      <jump line="352" column="4" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="363" column="6" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="364" column="6" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="353" column="4" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
@@ -223,7 +217,6 @@
       <jump line="312" column="33" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="36" column="17" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="243" column="12" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
-      <jump line="7" column="0" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="79" column="0" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="392" column="17" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="245" column="0" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
@@ -249,7 +242,6 @@
       <jump line="45" column="8" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="229" column="4" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="284" column="43" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
-      <jump line="244" column="9" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="29" column="13" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="252" column="17" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="78" column="0" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
@@ -263,7 +255,6 @@
       <jump line="240" column="36" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="253" column="36" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="279" column="22" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
-      <jump line="3" column="0" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="70" column="0" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="205" column="0" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="237" column="15" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
@@ -274,13 +265,21 @@
       <jump line="246" column="43" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="257" column="43" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="275" column="55" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
+      <jump line="22" column="8" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
+      <jump line="244" column="0" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
+      <jump line="277" column="4" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
+      <jump line="3" column="0" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
+      <jump line="7" column="39" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
+      <jump line="168" column="36" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
+      <jump line="241" column="6" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>_w</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>_</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="b" type="4">
         <text>kkjj</text>
@@ -3979,37 +3978,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="n" type="4">
         <text />
       </register>
       <register name="/" type="4">
-        <text>substrates</text>
+        <text>tables</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIFJhaWxzLmxvZ2dlci5sZXZlbCA9IDppbmZvCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="q" type="4">
         <text>jdd</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGJpbmRpbmcucHJ5IGlmIHBhcmFtc1snaWQnXS5uaWw/Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdWJzdHJhdGVzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHB1dHMgcGFyYW1zOyBiaW5kaW5nLnByeQo=</text>
+        <text encoding="base64">ICAgICAgICB2ZW5kb3Jfc3Vic3RyYXRlcwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHB1dHMgbzsgYmluZGluZy5wcnkK</text>
+        <text encoding="base64">ICAgICAgICB2ZW5kb3Jfc3Vic3RyYXRlcwo=</text>
       </register>
       <register name="t" type="4">
         <text>jdd</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -4410,25 +4409,25 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgIGJpbmRpbmcucHJ5IGlmIHBhcmFtc1snaWQnXS5uaWw/Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgIyBpbnN0YW5jZV9hdHRyaWJ1dGVzLm1hcCBkbyB8Y3JlYXRlX3BhcmFtc3wKICAgICAgIyAgIE9iamVjdC5jb25zdF9nZXQocmVzb3VyY2UudG9fcy5jbGFzc2lmeSkuc2VuZCh2ZXJiLCBjcmVhdGVfcGFyYW1zKQogICAgICAjIGVuZAo=</text>
+        <text encoding="base64">ICAgICAgICAgIHB1dHMgcGFyYW1zOyBiaW5kaW5nLnByeQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
+        <text encoding="base64">ICAgICAgICAgIHB1dHMgbzsgYmluZGluZy5wcnkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpdGVtc19ncm91cHMK</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>substrates</last-search>
+      <last-search>tables</last-search>
       <last-offset />
-      <last-pattern>substrates</last-pattern>
+      <last-pattern>tables</last-pattern>
       <last-replace>clean_up</last-replace>
       <last-substitute>strip_tabs</last-substitute>
       <last-dir>1</last-dir>
@@ -4436,9 +4435,6 @@
     </search>
     <history>
       <history-search>
-        <entry>field</entry>
-        <entry>translation</entry>
-        <entry>sides</entry>
         <entry>finishings</entry>
         <entry>finishing</entry>
         <entry>merge_data</entry>
@@ -4453,9 +4449,12 @@
         <entry>write</entry>
         <entry>logger</entry>
         <entry>strip_tabs</entry>
-        <entry>vendor_substrates</entry>
-        <entry>write_data</entry>
         <entry>substrates</entry>
+        <entry>vendor_substrates</entry>
+        <entry>graphic_types</entry>
+        <entry>prepare_data</entry>
+        <entry>write_data</entry>
+        <entry>tables</entry>
       </history-search>
       <history-cmd>
         <entry>21</entry>
@@ -4466,7 +4465,6 @@
         <entry>%s:migration_source:destination:c</entry>
         <entry>%s:destination:source</entry>
         <entry>%s:destination:source:c</entry>
-        <entry>wq</entry>
         <entry>533</entry>
         <entry>89</entry>
         <entry>%s:destroy_all:delete_all</entry>
@@ -4478,6 +4476,7 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>s</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
