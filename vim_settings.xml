@@ -120,7 +120,7 @@
       <file name="/e_migration_cloud.public.graphic_categories [postgres@localhost]" timestamp="1547080329210">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1547320629576">
+      <file name="/dummy.sql" timestamp="1547418405641">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1547147747055">
@@ -138,10 +138,10 @@
       <file name="/exhibitree_shows.public.graphic_categories [Exhibitree Cloud]" timestamp="1547079195907">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/e_migration_legacy.public.vendors [postgres@localhost]" timestamp="1547174810114">
+      <file name="/e_migration_legacy.public.vendors [postgres@localhost]" timestamp="1547418405463">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/e_migration_cloud.public.vendors [postgres@localhost]" timestamp="1547174858962">
+      <file name="/e_migration_cloud.public.vendors [postgres@localhost]" timestamp="1547418308669">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/e_migration_cloud.public.vendor_graphic_types [postgres@localhost]" timestamp="1547159709589">
