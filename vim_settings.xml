@@ -75,7 +75,7 @@
       <file name="/e_migration_legacy.public.brands [postgres@localhost]" timestamp="1547175625745">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/config/database.yml" timestamp="1547507314030">
+      <file name="$USER_HOME$/code/io/io-engage/config/database.yml" timestamp="1547508960042">
         <mark key="'" line="51" column="3" />
         <mark key="[" line="49" column="2" />
         <mark key="]" line="49" column="3" />
@@ -127,7 +127,7 @@
       <file name="/e_migration.public.brands [postgres@localhost]" timestamp="1547179123760">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/events/config/database.yml" timestamp="1547501459396" />
+      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/events/config/database.yml" timestamp="1547509453053" />
       <file name="/e_migration_legacy.public.role_types [postgres@localhost]" timestamp="1547171587003">
         <mark key="[" line="0" column="0" />
       </file>
@@ -153,6 +153,7 @@
       <file name="/e_migration_legacy.public.client_graphic_types [postgres@localhost]" timestamp="1547154829649">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/shows/config/database.yml" timestamp="1547509312390" />
       <file name="/e_migration.public.graphic_categories [postgres@localhost]" timestamp="1547232488062">
         <mark key="[" line="0" column="0" />
       </file>
