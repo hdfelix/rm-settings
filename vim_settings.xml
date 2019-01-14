@@ -6,6 +6,13 @@
       <file name="/e_migration.public.field_sets [postgres@localhost]" timestamp="1547179690390">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/io/io-engage/app/assets/javascripts/base/batch_upload.coffee" timestamp="1547062495860">
+        <mark key="'" line="115" column="15" />
+        <mark key="[" line="48" column="6" />
+        <mark key="]" line="48" column="7" />
+        <mark key="." line="48" column="7" />
+        <mark key="^" line="48" column="7" />
+      </file>
       <file name="/exhibitree_shows.public.client_graphic_types [Exhibitree Cloud]" timestamp="1546977636732">
         <mark key="[" line="0" column="0" />
       </file>
@@ -20,6 +27,13 @@
       </file>
       <file name="/e_migration_legacy.public.add_on_types [postgres@localhost]" timestamp="1547156910876">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/io/io-engage/app/javascript/packs/bugherd.js" timestamp="1546287153710">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="24" column="38" />
       </file>
       <file name="/e_migration.public.roles [postgres@localhost]" timestamp="1547179132596">
         <mark key="[" line="0" column="0" />
@@ -73,6 +87,20 @@
       <file name="/e_migration.public.sides [postgres@localhost]" timestamp="1547179917847">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/io/io-engage/config/settings.yml" timestamp="1547501291268">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="43" column="2" />
+        <mark key="]" line="43" column="5" />
+        <mark key="." line="43" column="5" />
+        <mark key="^" line="43" column="5" />
+      </file>
+      <file name="$USER_HOME$/code/io/io-engage/spec/lib/exhibitree_migration_spec.rb" timestamp="1546633038273">
+        <mark key="'" line="141" column="52" />
+        <mark key="[" line="0" column="21" />
+        <mark key="]" line="1" column="63" />
+        <mark key="." line="1" column="63" />
+        <mark key="^" line="1" column="63" />
+      </file>
       <file name="/e_migration_legacy.public.general_locations [postgres@localhost]" timestamp="1547172529728">
         <mark key="[" line="0" column="0" />
       </file>
@@ -94,6 +122,13 @@
       </file>
       <file name="/e_migration_cloud.public.vendor_substrates [postgres@localhost]" timestamp="1547234245934">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/io/io-engage/app/models/database.rb" timestamp="1546561390575">
+        <mark key="'" line="17" column="1" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="8" column="1" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/e_migration_cloud.public.add_on_types [postgres@localhost]" timestamp="1547158724289">
         <mark key="[" line="0" column="0" />
@@ -134,6 +169,13 @@
       <file name="/e_migration_cloud.public.graphic_categories [postgres@localhost]" timestamp="1547080329210">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/io/io-engage/lib/exhibitree_migration.rb" timestamp="1546633869051">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="39" column="10" />
+        <mark key="." line="2" column="18" />
+        <mark key="^" line="2" column="18" />
+      </file>
       <file name="/dummy.sql" timestamp="1547451910666">
         <mark key="[" line="0" column="0" />
       </file>
@@ -149,6 +191,13 @@
         <mark key="]" line="380" column="22" />
         <mark key="." line="380" column="23" />
         <mark key="^" line="380" column="22" />
+      </file>
+      <file name="$USER_HOME$/code/io/io-engage/lib/tasks/exhibitree_migration.rake" timestamp="1546632827375">
+        <mark key="'" line="103" column="1" />
+        <mark key="[" line="17" column="17" />
+        <mark key="]" line="17" column="17" />
+        <mark key="^" line="17" column="17" />
+        <mark key="." line="17" column="17" />
       </file>
       <file name="/e_migration.public.graphic_types [postgres@localhost]" timestamp="1547159489911">
         <mark key="[" line="0" column="0" />
@@ -199,6 +248,13 @@
       <file name="/exhibitree2_production.public.layout_files [io_prod]" timestamp="1547165819116">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/io/io-engage/config/environments/staging.rb" timestamp="1546474263258">
+        <mark key="'" line="31" column="53" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="1" column="1" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="/e_migration_cloud.public.clients_graphic_types [postgres@localhost]" timestamp="1547154768887">
         <mark key="[" line="0" column="0" />
       </file>
@@ -207,7 +263,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="40" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="5" column="42" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="6" column="28" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="14" column="11" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
@@ -307,6 +362,7 @@
       <jump line="241" column="24" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="253" column="24" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="257" column="24" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
+      <jump line="1" column="0" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
