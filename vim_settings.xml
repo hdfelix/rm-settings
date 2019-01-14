@@ -109,6 +109,9 @@
       <file name="/e_migration_cloud.public.substrates [postgres@localhost]" timestamp="1547239270191">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/e_migration.public.vendors [postgres@localhost]" timestamp="1547448423998">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/e_migration_cloud.public.add_ons [postgres@localhost]" timestamp="1547156197719">
         <mark key="[" line="0" column="0" />
       </file>
@@ -130,7 +133,7 @@
       <file name="/e_migration_cloud.public.graphic_categories [postgres@localhost]" timestamp="1547080329210">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1547446302269">
+      <file name="/dummy.sql" timestamp="1547448424202">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1547147747055">
