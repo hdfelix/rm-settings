@@ -42,6 +42,12 @@
       <file name="/e_migration_cloud.public.roles [postgres@localhost]" timestamp="1547320504968">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/developers/hfelix/config/database.yml" timestamp="1547431220936">
+        <mark key="[" line="7" column="30" />
+        <mark key="]" line="7" column="29" />
+        <mark key="." line="7" column="29" />
+        <mark key="^" line="7" column="29" />
+      </file>
       <file name="/e_events_migration_source.public.events [postgres@localhost]" timestamp="1546538086665">
         <mark key="[" line="0" column="0" />
       </file>
@@ -161,6 +167,13 @@
       <file name="/e_migration.public.role_types [postgres@localhost]" timestamp="1547179344562">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/io/io-engage/db/migrate/20190113050000_create_grid_item_watches.rb" timestamp="1547430729213">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="2" column="58" />
+        <mark key="]" line="2" column="48" />
+        <mark key="^" line="2" column="48" />
+        <mark key="." line="2" column="48" />
+      </file>
       <file name="/e_migration.public.permissions [postgres@localhost]" timestamp="1547179414284">
         <mark key="[" line="0" column="0" />
       </file>
@@ -184,8 +197,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="8" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
-      <jump line="367" column="37" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="369" column="10" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="295" column="0" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="373" column="24" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
@@ -284,13 +295,15 @@
       <jump line="230" column="10" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="241" column="6" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="253" column="6" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
+      <jump line="10" column="0" filename="$USER_HOME$/code/io/io-engage/db/migrate/20190113050000_create_grid_item_watches.rb" />
+      <jump line="12" column="0" filename="$USER_HOME$/code/io/io-engage/db/migrate/20190113050000_create_grid_item_watches.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>_w</text>
       </register>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="4">
         <text>kkjj</text>
@@ -4000,26 +4013,26 @@
       <register name="0" type="2">
         <text encoding="base64">ICBkZWYgZGJfc2V0dXAKICAgIGRiX3NldHVwX2ZvcignY2xvdWQnKQogICAgZGJfc2V0dXBfZm9yKCdsZWdhY3knKQoKICAgICMgc2V0IHVwIGRldmVsb3BtZW50IGRiICh3ZSB3aWxsIHdvcmsgb24gZGV2ZWxvcG1lbnQgZGIgc3RhcnRpbmcgd2l0aCB0aGUgbGVnYWN5IERCIGFzIG91ciBiYXNlKQogICAgZGJfc2V0dXBfZm9yKCdkZXZlbG9wbWVudCcpCiAgZW5kCgogIGRlZiBkYl9zZXR1cF9mb3IoZW52KQogICAgZGIgPSBBY3RpdmVSZWNvcmQ6OkJhc2UuY29uZmlndXJhdGlvbnNbZW52XVsnZGF0YWJhc2UnXQogICAgZHVtcF9maWxlID0gc2VuZCgiI3tlbnZ9X2R1bXBfZmlsZSIpCiAgICBpZiBkYXRhYmFzZV9leGlzdHM/KGVudikKICAgICAgcmVzZXRfZGIoZW52LCBkYiwgZHVtcF9maWxlKQogICAgZWxzZQogICAgICBjcmVhdGVfZGIoZW52LCBkYiwgZHVtcF9maWxlKQogICAgZW5kCiAgZW5kCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICBkZWYgZGJfc2V0dXAKICAgIGRiX3NldHVwX2ZvcignY2xvdWQnKQogICAgZGJfc2V0dXBfZm9yKCdsZWdhY3knKQoKICAgICMgc2V0IHVwIGRldmVsb3BtZW50IGRiICh3ZSB3aWxsIHdvcmsgb24gZGV2ZWxvcG1lbnQgZGIgc3RhcnRpbmcgd2l0aCB0aGUgbGVnYWN5IERCIGFzIG91ciBiYXNlKQogICAgZGJfc2V0dXBfZm9yKCdkZXZlbG9wbWVudCcpCiAgZW5kCgo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>jdd</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkZWYgZGJfc2V0dXAKICAgIGRiX3NldHVwX2ZvcignY2xvdWQnKQogICAgZGJfc2V0dXBfZm9yKCdsZWdhY3knKQoKICAgICMgc2V0IHVwIGRldmVsb3BtZW50IGRiICh3ZSB3aWxsIHdvcmsgb24gZGV2ZWxvcG1lbnQgZGIgc3RhcnRpbmcgd2l0aCB0aGUgbGVnYWN5IERCIGFzIG91ciBiYXNlKQogICAgZGJfc2V0dXBfZm9yKCdkZXZlbG9wbWVudCcpCiAgZW5kCgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBlbmQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBlbmQK</text>
       </register>
       <register name="t" type="4">
         <text>jdd</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -4420,16 +4433,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgY3JlYXRlIGNsb3VkIGRiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgY3JlYXRlIGxlZ2FjeSBkYgo=</text>
+        <text encoding="base64">ICAgICMgY3JlYXRlIGNsb3VkIGRiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGVudiA9ICdkZXZlbG9wbWVudCcK</text>
+        <text encoding="base64">ICAgICMgY3JlYXRlIGxlZ2FjeSBkYgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRldmVsb3BtZW50X2RiID0gQWN0aXZlUmVjb3JkOjpCYXNlLmNvbmZpZ3VyYXRpb25zW2Vudl1bJ2RhdGFiYXNlJ10KICAgIGlmIGRhdGFiYXNlX2V4aXN0cz8oZW52KQogICAgICByZXNldF9kYihlbnYsIGRldmVsb3BtZW50X2RiLCBsZWdhY3lfZHVtcF9maWxlKQogICAgZWxzZQogICAgICBjcmVhdGVfZGIoZW52LCBkZXZlbG9wbWVudF9kYiwgbGVnYWN5X2R1bXBfZmlsZSkKICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgIGVudiA9ICdkZXZlbG9wbWVudCcK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -4482,11 +4495,11 @@
         <entry>%s:diff:delta:c</entry>
         <entry>%s:strip_tabs:clean_up:c</entry>
         <entry>q</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>s</entry>
         <entry>wq</entry>
         <entry>%s:written_objects:results:c</entry>
         <entry>%s:results:created_objects:c</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
