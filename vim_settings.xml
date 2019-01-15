@@ -75,7 +75,7 @@
       <file name="/e_migration_legacy.public.brands [postgres@localhost]" timestamp="1547175625745">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/config/database.yml" timestamp="1547508960042">
+      <file name="$USER_HOME$/code/io/io-engage/config/database.yml" timestamp="1547510840114">
         <mark key="'" line="51" column="3" />
         <mark key="[" line="49" column="2" />
         <mark key="]" line="49" column="3" />
@@ -241,7 +241,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/io/io-engage/db/migrate/20190113050000_create_grid_item_watches.rb" timestamp="1547430729213">
-        <mark key="'" line="10" column="0" />
+        <mark key="'" line="12" column="0" />
       </file>
       <file name="/e_migration.public.permissions [postgres@localhost]" timestamp="1547179414284">
         <mark key="[" line="0" column="0" />
