@@ -200,12 +200,12 @@
       <file name="/e_migration.public.zones [postgres@localhost]" timestamp="1547445170687">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" timestamp="1547590577363">
-        <mark key="'" line="546" column="4" />
-        <mark key="[" line="522" column="113" />
-        <mark key="]" line="524" column="0" />
-        <mark key="." line="524" column="0" />
-        <mark key="^" line="524" column="0" />
+      <file name="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" timestamp="1547592307113">
+        <mark key="'" line="100" column="0" />
+        <mark key="[" line="546" column="0" />
+        <mark key="]" line="546" column="0" />
+        <mark key="." line="546" column="0" />
+        <mark key="^" line="522" column="9" />
       </file>
       <file name="$USER_HOME$/code/io/io-engage/lib/tasks/exhibitree_migration.rake" timestamp="1546632827375">
         <mark key="'" line="103" column="1" />
@@ -274,8 +274,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="23" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
-      <jump line="39" column="19" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="38" column="8" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="87" column="6" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="256" column="87" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
@@ -374,13 +372,15 @@
       <jump line="527" column="0" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="517" column="81" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="529" column="4" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
+      <jump line="518" column="0" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
+      <jump line="100" column="0" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>_w</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">cmF3U0VMRUNUIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5IGlmIGNyZWF0ZWRfb2JqZWN0W3NlYXJjaF9rZXldID09ICcyMDQnCg==</text>
       </register>
       <register name="b" type="4">
         <text>kkjj</text>
@@ -4079,7 +4079,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmF3U0VMRUNUIA==</text>
+        <text>d</text>
       </register>
       <register name="n" type="4">
         <text />
@@ -4091,25 +4091,25 @@
         <text encoding="base64">ICAgICAgcGVybWlzc2lvbi5uaWw/ID8gbmlsIDogKFJhaWxzLmxvZ2dlci5pbmZvICJVcGRhdGluZyAje3VwZGF0ZV9rZXl9IGZvciAje2NyZWF0ZWRbc2VhcmNoX2tleV19IHRvIG5ldyBpZDoiKQogICAgICBSYWlscy5sb2dnZXIuaW5mbyBwZXJtaXNzaW9uIAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJlZmVyZW5jZV9yZXNvdXJjZSA9IDpyb2xlX3R5cGVzCiAgICB0YXJnZXRfcmVzb3VyY2UgPSA6cGVybWlzc2lvbnMKICAgIHNlYXJjaF9rZXkgPSAnbmFtZScKICAgIHVwZGF0ZV9rZXkgPSAncm9sZV90eXBlX2lkJwoK</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5IGlmIGNyZWF0ZWRfb2JqZWN0W3NlYXJjaF9rZXldID09ICcyMDQnCg==</text>
       </register>
       <register name="q" type="4">
         <text>jdd</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjcmVhdGVfYXJyYXkgPSBbXQo=</text>
+        <text encoding="base64">ICAgIEFjdGl2ZVJlY29yZDo6QmFzZS5jb25uZWN0aW9uLmV4ZWN1dGUoInNldHZhbChwZ19nZXRfc2VyaWFsX3NlcXVlbmNlKCd0YmwnLCAndGJsX2lkJyksIG1heCh0YmxfaWQpKSBGUk9NIHRibDsiKWBgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
+        <text encoding="base64">ICAgIHJlZmVyZW5jZV9yZXNvdXJjZSA9IDpyb2xlX3R5cGVzCiAgICB0YXJnZXRfcmVzb3VyY2UgPSA6cGVybWlzc2lvbnMKICAgIHNlYXJjaF9rZXkgPSAnbmFtZScKICAgIHVwZGF0ZV9rZXkgPSAncm9sZV90eXBlX2lkJwoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
+        <text encoding="base64">ICAgICAgICBjcmVhdGVfYXJyYXkgPSBbXQo=</text>
       </register>
       <register name="t" type="4">
         <text>jdd</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
+        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -4510,16 +4510,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcGVybWlzc2lvbi5uaWw/ID8gbmlsIDogKFJhaWxzLmxvZ2dlci5pbmZvICJVcGRhdGluZyAje3VwZGF0ZV9rZXl9IGZvciAje2NyZWF0ZWRbc2VhcmNoX2tleV19IHRvIG5ldyBpZDoiKQogICAgICBSYWlscy5sb2dnZXIuaW5mbyBwZXJtaXNzaW9uCg==</text>
+        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcGVybWlzc2lvbiA9IHVwZGF0ZV9hZnRlcl9taWdyYXRpb24ocmVmZXJlbmNlX3Jlc291cmNlLCB0YXJnZXRfcmVzb3VyY2UsIGNyZWF0ZWQsICduYW1lJywgJ3JvbGVfdHlwZV9pZCcpCg==</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG0ubG9hZF9kYXRhCiAgICBtLnByZXBhcmVfZGF0YQogICAgbQo=</text>
+        <text encoding="base64">ICAgICAgcGVybWlzc2lvbi5uaWw/ID8gbmlsIDogKFJhaWxzLmxvZ2dlci5pbmZvICJVcGRhdGluZyAje3VwZGF0ZV9rZXl9IGZvciAje2NyZWF0ZWRbc2VhcmNoX2tleV19IHRvIG5ldyBpZDoiKQogICAgICBSYWlscy5sb2dnZXIuaW5mbyBwZXJtaXNzaW9uCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcGVybWlzc2lvbiA9IHVwZGF0ZV9hZnRlcl9taWdyYXRpb24ocmVmZXJlbmNlX3Jlc291cmNlLCB0YXJnZXRfcmVzb3VyY2UsIGNyZWF0ZWQsICduYW1lJywgJ3JvbGVfdHlwZV9pZCcpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
