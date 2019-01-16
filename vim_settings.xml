@@ -203,12 +203,12 @@
       <file name="/e_migration.public.zones [postgres@localhost]" timestamp="1547445170687">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" timestamp="1547660679045">
-        <mark key="'" line="476" column="35" />
-        <mark key="[" line="557" column="37" />
-        <mark key="]" line="557" column="67" />
-        <mark key="." line="557" column="67" />
-        <mark key="^" line="557" column="67" />
+      <file name="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" timestamp="1547663174377">
+        <mark key="'" line="568" column="94" />
+        <mark key="[" line="76" column="44" />
+        <mark key="]" line="76" column="44" />
+        <mark key="^" line="76" column="43" />
+        <mark key="." line="76" column="44" />
       </file>
       <file name="$USER_HOME$/code/io/io-engage/lib/tasks/exhibitree_migration.rake" timestamp="1546632827375">
         <mark key="'" line="103" column="1" />
@@ -277,11 +277,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="266" column="4" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
-      <jump line="276" column="17" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
-      <jump line="125" column="0" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
-      <jump line="217" column="19" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
-      <jump line="73" column="5" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="13" column="0" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="240" column="16" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="12" column="46" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
@@ -359,8 +354,6 @@
       <jump line="465" column="26" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="486" column="26" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="511" column="47" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
-      <jump line="548" column="14" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
-      <jump line="549" column="25" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="188" column="35" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="451" column="46" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="3" column="0" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
@@ -377,6 +370,13 @@
       <jump line="493" column="37" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="507" column="18" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="476" column="35" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
+      <jump line="549" column="0" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
+      <jump line="513" column="25" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
+      <jump line="536" column="19" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
+      <jump line="548" column="6" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
+      <jump line="537" column="4" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
+      <jump line="545" column="65" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
+      <jump line="561" column="94" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5742,7 +5742,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>d</text>
+        <text>a</text>
       </register>
       <register name="b" type="4">
         <text>kkjj</text>
@@ -9441,16 +9441,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>a</text>
       </register>
       <register name="n" type="4">
         <text />
       </register>
       <register name="/" type="4">
-        <text>update_key</text>
+        <text>run</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIFJhaWxzLmxvZ2dlci5pbmZvICJXcml0aW5nIGRhdGEuLi4iCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgZW5kCg==</text>
@@ -9888,20 +9888,16 @@
       </register>
     </registers>
     <search>
-      <last-search>update_key</last-search>
+      <last-search>run</last-search>
       <last-offset />
-      <last-pattern>update_key</last-pattern>
-      <last-replace>get_first_row_by_value</last-replace>
-      <last-substitute>get_row_by_value</last-substitute>
+      <last-pattern>run</last-pattern>
+      <last-replace>update_foreign_keys</last-replace>
+      <last-substitute>update_reference_ids</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>load_data_for</entry>
-        <entry>development</entry>
-        <entry>delete</entry>
-        <entry>bidning</entry>
         <entry>zone</entry>
         <entry>vendors</entry>
         <entry>cache</entry>
@@ -9918,10 +9914,12 @@
         <entry>permisisons</entry>
         <entry>permissions</entry>
         <entry>update_key</entry>
+        <entry>update_after_migration</entry>
+        <entry>update_reference_ids</entry>
+        <entry>update_foreign_keys</entry>
+        <entry>run</entry>
       </history-search>
       <history-cmd>
-        <entry>%s:exhibitree_shows:e_events_migration:c</entry>
-        <entry>%s:migration_source:destination:c</entry>
         <entry>%s:destination:source</entry>
         <entry>%s:destination:source:c</entry>
         <entry>533</entry>
@@ -9939,6 +9937,8 @@
         <entry>q</entry>
         <entry>500</entry>
         <entry>%s:get_row_by_value:get_first_row_by_value:c</entry>
+        <entry>%s:update_after_migration:update_reference_ids:c</entry>
+        <entry>%s:update_reference_ids:update_foreign_keys:c</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
