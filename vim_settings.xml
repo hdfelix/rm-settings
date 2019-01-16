@@ -203,8 +203,8 @@
       <file name="/e_migration.public.zones [postgres@localhost]" timestamp="1547445170687">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" timestamp="1547658500720">
-        <mark key="'" line="504" column="18" />
+      <file name="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" timestamp="1547660679045">
+        <mark key="'" line="476" column="35" />
         <mark key="[" line="557" column="37" />
         <mark key="]" line="557" column="67" />
         <mark key="." line="557" column="67" />
@@ -277,7 +277,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="0" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="266" column="4" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="276" column="17" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="125" column="0" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
@@ -377,6 +376,7 @@
       <jump line="62" column="8" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="493" column="37" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="507" column="18" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
+      <jump line="476" column="35" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -9447,7 +9447,7 @@
         <text />
       </register>
       <register name="/" type="4">
-        <text>permissions</text>
+        <text>update_key</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IA==</text>
@@ -9888,9 +9888,9 @@
       </register>
     </registers>
     <search>
-      <last-search>permissions</last-search>
+      <last-search>update_key</last-search>
       <last-offset />
-      <last-pattern>permissions</last-pattern>
+      <last-pattern>update_key</last-pattern>
       <last-replace>get_first_row_by_value</last-replace>
       <last-substitute>get_row_by_value</last-substitute>
       <last-dir>1</last-dir>
@@ -9898,7 +9898,6 @@
     </search>
     <history>
       <history-search>
-        <entry>prepare_data</entry>
         <entry>load_data_for</entry>
         <entry>development</entry>
         <entry>delete</entry>
@@ -9918,6 +9917,7 @@
         <entry>when :role_types</entry>
         <entry>permisisons</entry>
         <entry>permissions</entry>
+        <entry>update_key</entry>
       </history-search>
       <history-cmd>
         <entry>%s:exhibitree_shows:e_events_migration:c</entry>
