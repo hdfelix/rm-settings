@@ -206,8 +206,8 @@
       <file name="/e_migration.public.zones [postgres@localhost]" timestamp="1547445170687">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" timestamp="1547671414959">
-        <mark key="'" line="252" column="0" />
+      <file name="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" timestamp="1547673409970">
+        <mark key="'" line="255" column="6" />
         <mark key="[" line="568" column="0" />
         <mark key="]" line="568" column="0" />
         <mark key="." line="568" column="0" />
@@ -279,9 +279,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="347" column="14" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
-      <jump line="10" column="0" filename="$USER_HOME$/code/io/io-engage/db/migrate/20190113050000_create_grid_item_watches.rb" />
-      <jump line="12" column="0" filename="$USER_HOME$/code/io/io-engage/db/migrate/20190113050000_create_grid_item_watches.rb" />
       <jump line="172" column="11" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="229" column="16" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="56" column="8" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
@@ -379,6 +376,9 @@
       <jump line="560" column="0" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="564" column="0" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="252" column="0" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
+      <jump line="659" column="0" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
+      <jump line="76" column="4" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
+      <jump line="255" column="6" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -9449,7 +9449,7 @@
         <text />
       </register>
       <register name="/" type="4">
-        <text>binding.pry</text>
+        <text>post</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIFJhaWxzLmxvZ2dlci5pbmZvICJXcml0aW5nIGRhdGEuLi4iCg==</text>
@@ -9890,9 +9890,9 @@
       </register>
     </registers>
     <search>
-      <last-search>binding.pry</last-search>
+      <last-search>post</last-search>
       <last-offset />
-      <last-pattern>binding.pry</last-pattern>
+      <last-pattern>post</last-pattern>
       <last-replace>update_foreign_keys</last-replace>
       <last-substitute>update_reference_ids</last-substitute>
       <last-dir>1</last-dir>
@@ -9900,7 +9900,6 @@
     </search>
     <history>
       <history-search>
-        <entry>get_first_row_by_value</entry>
         <entry>get_rows_by_value</entry>
         <entry>when :role_types</entry>
         <entry>permisisons</entry>
@@ -9912,7 +9911,6 @@
         <entry>run</entry>
         <entry>inverse</entry>
         <entry>Updating</entry>
-        <entry>write_data</entry>
         <entry>write</entry>
         <entry>binding</entry>
         <entry>write_object</entry>
@@ -9920,6 +9918,8 @@
         <entry>role_types</entry>
         <entry>write_</entry>
         <entry>binding.pry</entry>
+        <entry>write_data</entry>
+        <entry>post</entry>
       </history-search>
       <history-cmd>
         <entry>%s:destination:source</entry>
