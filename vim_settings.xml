@@ -206,11 +206,12 @@
       <file name="/e_migration.public.zones [postgres@localhost]" timestamp="1547445170687">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" timestamp="1547673409970">
-        <mark key="'" line="255" column="6" />
-        <mark key="[" line="568" column="0" />
-        <mark key="]" line="568" column="0" />
-        <mark key="." line="568" column="0" />
+      <file name="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" timestamp="1547674457072">
+        <mark key="'" line="565" column="0" />
+        <mark key="[" line="530" column="51" />
+        <mark key="]" line="531" column="41" />
+        <mark key="." line="531" column="41" />
+        <mark key="^" line="531" column="41" />
       </file>
       <file name="$USER_HOME$/code/io/io-engage/lib/tasks/exhibitree_migration.rake" timestamp="1546632827375">
         <mark key="'" line="103" column="1" />
@@ -279,7 +280,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="172" column="11" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="229" column="16" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="56" column="8" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="42" column="0" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
@@ -347,16 +347,13 @@
       <jump line="548" column="6" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="537" column="4" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="545" column="65" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
-      <jump line="561" column="94" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="10" column="0" filename="$USER_HOME$/code/io/io-engage/app/admin/zone.rb" />
       <jump line="149" column="0" filename="$USER_HOME$/code/io/io-engage/app/admin/zone.rb" />
       <jump line="425" column="32" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="527" column="6" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
-      <jump line="570" column="62" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="273" column="23" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="521" column="27" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="565" column="25" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
-      <jump line="279" column="13" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="445" column="12" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="528" column="23" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="553" column="4" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
@@ -379,6 +376,10 @@
       <jump line="659" column="0" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="76" column="4" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="255" column="6" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
+      <jump line="557" column="0" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
+      <jump line="570" column="23" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
+      <jump line="279" column="23" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
+      <jump line="561" column="0" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5743,8 +5744,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>]</text>
       </register>
       <register name="b" type="4">
         <text>kkjj</text>
@@ -9443,37 +9444,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dW5sZXNzIA==</text>
+        <text>]</text>
       </register>
       <register name="n" type="4">
         <text />
       </register>
       <register name="/" type="4">
-        <text>post</text>
+        <text>logger_call</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFJhaWxzLmxvZ2dlci5pbmZvICJXcml0aW5nIGRhdGEuLi4iCg==</text>
+        <text encoding="base64">ICAgICAgICBSYWlscy5sb2dnZXIuaW5mbyAiVXBkYXRpbmcgc3Vic3RyYXRlX2lkIGZvciAje2NyZWF0ZWRbJ25hbWUnXX0gdG8gbmV3IGlkOiIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBSYWlscy5sb2dnZXIuaW5mbyAiVXBkYXRpbmcgc3Vic3RyYXRlX2lkIGZvciAje2NyZWF0ZWRbJ25hbWUnXX0gdG8gbmV3IGlkOiIK</text>
       </register>
       <register name="q" type="4">
         <text>jdd</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgICAgICBQZXJtaXNzaW9uCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgT2JqZWN0LmNyZWF0ZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkgaWYgcGFyYW1zLmRpZygnbmFtZScpID09ICdPYnNlcnZlcicK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="t" type="4">
         <text>jdd</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeSBpZiByZXNvdXJjZSA9PSA6cm9sZV90eXBlcwo=</text>
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -9874,25 +9875,25 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkgaWYgY3JlYXRlZF9vYmplY3RbJ2lkJ10ubmlsPyB8fCByZXNvdXJjZV9hdHRyaWJ1dGUubmlsPwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5IGlmIG9sZF92YWx1ZS5uaWw/Cg==</text>
+        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkgaWYgcGFyYW1zLmRpZygnbmFtZScpID09ICdPYnNlcnZlcicK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBiaW5kaW5nX3ByeSBpZiByZXNvdXJjZSA9PSA6cm9sZV90eXBlcwo=</text>
+        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeSBpZiByZXNvdXJjZSA9PSA6cm9sZV90eXBlcwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkgaWYgY3JlYXRlZF9vYmplY3RbJ2lkJ10ubmlsPyB8fCByZXNvdXJjZV9hdHRyaWJ1dGUubmlsPwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>post</last-search>
+      <last-search>logger_call</last-search>
       <last-offset />
-      <last-pattern>post</last-pattern>
+      <last-pattern>logger_call</last-pattern>
       <last-replace>update_foreign_keys</last-replace>
       <last-substitute>update_reference_ids</last-substitute>
       <last-dir>1</last-dir>
@@ -9900,7 +9901,6 @@
     </search>
     <history>
       <history-search>
-        <entry>get_rows_by_value</entry>
         <entry>when :role_types</entry>
         <entry>permisisons</entry>
         <entry>permissions</entry>
@@ -9910,7 +9910,6 @@
         <entry>update_foreign_keys</entry>
         <entry>run</entry>
         <entry>inverse</entry>
-        <entry>Updating</entry>
         <entry>write</entry>
         <entry>binding</entry>
         <entry>write_object</entry>
@@ -9920,6 +9919,8 @@
         <entry>binding.pry</entry>
         <entry>write_data</entry>
         <entry>post</entry>
+        <entry>Updating</entry>
+        <entry>logger_call</entry>
       </history-search>
       <history-cmd>
         <entry>%s:destination:source</entry>
