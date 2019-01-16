@@ -200,9 +200,12 @@
       <file name="/e_migration.public.zones [postgres@localhost]" timestamp="1547445170687">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" timestamp="1547598737472">
-        <mark key="." line="364" column="128" />
-        <mark key="^" line="364" column="128" />
+      <file name="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" timestamp="1547601000353">
+        <mark key="'" line="188" column="35" />
+        <mark key="[" line="483" column="23" />
+        <mark key="]" line="484" column="18" />
+        <mark key="." line="484" column="18" />
+        <mark key="^" line="484" column="18" />
       </file>
       <file name="$USER_HOME$/code/io/io-engage/lib/tasks/exhibitree_migration.rake" timestamp="1546632827375">
         <mark key="'" line="103" column="1" />
@@ -271,7 +274,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="261" column="36" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="368" column="15" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="251" column="6" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="67" column="0" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
@@ -371,6 +373,7 @@
       <jump line="511" column="47" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="548" column="14" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="549" column="25" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
+      <jump line="188" column="35" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4082,7 +4085,7 @@
         <text />
       </register>
       <register name="/" type="4">
-        <text>get_rows_by_value</text>
+        <text>permissions</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IA==</text>
@@ -4523,9 +4526,9 @@
       </register>
     </registers>
     <search>
-      <last-search>get_rows_by_value</last-search>
+      <last-search>permissions</last-search>
       <last-offset />
-      <last-pattern>get_rows_by_value</last-pattern>
+      <last-pattern>permissions</last-pattern>
       <last-replace>get_first_row_by_value</last-replace>
       <last-substitute>get_row_by_value</last-substitute>
       <last-dir>1</last-dir>
@@ -4533,7 +4536,6 @@
     </search>
     <history>
       <history-search>
-        <entry>resultes</entry>
         <entry>results</entry>
         <entry>field_sets</entry>
         <entry>prepare_data</entry>
@@ -4553,6 +4555,7 @@
         <entry>get_row_by_value</entry>
         <entry>get_first_row_by_value</entry>
         <entry>get_rows_by_value</entry>
+        <entry>permissions</entry>
       </history-search>
       <history-cmd>
         <entry>%s:exhibitree_shows:e_events_migration:c</entry>
