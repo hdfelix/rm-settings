@@ -212,12 +212,12 @@
       <file name="/e_migration.public.zones [postgres@localhost]" timestamp="1547445170687">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" timestamp="1547760724553">
+      <file name="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" timestamp="1547761523334">
         <mark key="'" line="106" column="4" />
-        <mark key="[" line="578" column="107" />
-        <mark key="]" line="579" column="19" />
-        <mark key="." line="579" column="19" />
-        <mark key="^" line="579" column="19" />
+        <mark key="[" line="560" column="0" />
+        <mark key="]" line="560" column="52" />
+        <mark key="." line="560" column="0" />
+        <mark key="^" line="581" column="19" />
       </file>
       <file name="$USER_HOME$/code/io/io-engage/lib/tasks/exhibitree_migration.rake" timestamp="1546632827375">
         <mark key="'" line="103" column="1" />
@@ -5750,8 +5750,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">UmVzZXR0aW5nIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkgaWYgdGFyZ2V0X3Jlc291cmNlID09IDpwZXJtaXNzaW9ucwo=</text>
       </register>
       <register name="b" type="4">
         <text>kkjj</text>
@@ -9459,7 +9459,7 @@
         <text>db_setup_for</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgUmFpbHMubG9nZ2VyLmluZm8gIlJlc2V0dGluZyB0aGUgI3tkYn0gZGF0YWJhc2UiCg==</text>
+        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkgaWYgdGFyZ2V0X3Jlc291cmNlID09IDpwZXJtaXNzaW9ucwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGJpbmRpbmcucHJ5IGlmIHJlc291cmNlID09IDpwZXJtaXNzaW9ucwo=</text>
