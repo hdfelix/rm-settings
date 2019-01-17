@@ -92,6 +92,12 @@
       <file name="/e_migration_cloud.public.brands [postgres@localhost]" timestamp="1547175609828">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/io/io-engage/config/secrets.yml" timestamp="1547749042865">
+        <mark key="[" line="23" column="147" />
+        <mark key="]" line="24" column="1" />
+        <mark key="." line="24" column="1" />
+        <mark key="^" line="24" column="1" />
+      </file>
       <file name="/e_migration_legacy.public.vendor_substrates [postgres@localhost]" timestamp="1547234009367">
         <mark key="[" line="0" column="0" />
       </file>
@@ -5745,7 +5751,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>vendor_substrate</text>
+        <text>test</text>
       </register>
       <register name="b" type="4">
         <text>kkjj</text>
@@ -9444,7 +9450,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>vendor_substrate</text>
+        <text>test</text>
       </register>
       <register name="n" type="4">
         <text />
@@ -9453,7 +9459,7 @@
         <text>permissions</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXNjdWUgQWN0aXZlUmVjb3JkOjpSZWNvcmROb3RVbmlxdWUgPT4gZQogICAgICAgICAgcmVzb3VyY2VzX3RvX3ZlcmlmeSA8PCB7IHZlbmRvcl9zdWJzdHJhdGU6IHZlbmRvcl9zdWJzdHJhdGUsIGVycm9yOiBlIH0KICAgICAgICBlbmQK</text>
+        <text encoding="base64">dGVzdDoKICBzZWNyZXRfa2V5X2Jhc2U6IGE0MjBhZDE3NjU4MDQyZmRjNzBjMThiNjcyMDE0ZmY0NDA4ZDUzMDQwZWE3ZjVkYWI4YTIzNDk2OTI2Y2ZjOTk5N2VlYjBiYmE3YWViOTgwNGQxMzJmZDFkMGU4ZWJkODA1ZmMyZmZmOWM4NmYyNDVlZmJkODI1MjMwMTM0NTBlCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
