@@ -212,12 +212,12 @@
       <file name="/e_migration.public.zones [postgres@localhost]" timestamp="1547445170687">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" timestamp="1547759447534">
+      <file name="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" timestamp="1547760724553">
         <mark key="'" line="106" column="4" />
-        <mark key="[" line="583" column="59" />
-        <mark key="]" line="583" column="40" />
-        <mark key="." line="583" column="40" />
-        <mark key="^" line="583" column="40" />
+        <mark key="[" line="578" column="107" />
+        <mark key="]" line="579" column="19" />
+        <mark key="." line="579" column="19" />
+        <mark key="^" line="579" column="19" />
       </file>
       <file name="$USER_HOME$/code/io/io-engage/lib/tasks/exhibitree_migration.rake" timestamp="1546632827375">
         <mark key="'" line="103" column="1" />
