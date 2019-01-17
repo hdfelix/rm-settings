@@ -206,8 +206,12 @@
       <file name="/e_migration.public.zones [postgres@localhost]" timestamp="1547445170687">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" timestamp="1547679682112">
-        <mark key="'" line="532" column="8" />
+      <file name="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" timestamp="1547743171641">
+        <mark key="'" line="596" column="94" />
+        <mark key="[" line="556" column="60" />
+        <mark key="]" line="557" column="16" />
+        <mark key="^" line="557" column="16" />
+        <mark key="." line="557" column="16" />
       </file>
       <file name="$USER_HOME$/code/io/io-engage/lib/tasks/exhibitree_migration.rake" timestamp="1546632827375">
         <mark key="'" line="103" column="1" />
@@ -276,9 +280,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="257" column="24" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
-      <jump line="1" column="0" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
-      <jump line="16" column="0" filename="$USER_HOME$/code/io/io-engage/config/settings.sample.yml" />
       <jump line="43" column="11" filename="$USER_HOME$/code/io/io-engage/config/database.yml" />
       <jump line="51" column="3" filename="$USER_HOME$/code/io/io-engage/config/database.yml" />
       <jump line="177" column="0" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
@@ -342,7 +343,6 @@
       <jump line="527" column="6" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="273" column="23" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="521" column="27" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
-      <jump line="565" column="25" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="445" column="12" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="528" column="23" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="553" column="4" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
@@ -365,7 +365,6 @@
       <jump line="76" column="4" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="255" column="6" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="557" column="0" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
-      <jump line="570" column="23" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="279" column="23" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="561" column="0" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="555" column="7" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
@@ -376,6 +375,11 @@
       <jump line="67" column="8" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="204" column="69" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="532" column="8" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
+      <jump line="562" column="12" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
+      <jump line="565" column="24" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
+      <jump line="570" column="11" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
+      <jump line="580" column="65" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
+      <jump line="596" column="94" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -9446,7 +9450,7 @@
         <text />
       </register>
       <register name="/" type="4">
-        <text>begin</text>
+        <text>run</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICByZXNjdWUgQWN0aXZlUmVjb3JkOjpSZWNvcmROb3RVbmlxdWUgPT4gZQogICAgICAgICAgcmVzb3VyY2VzX3RvX3ZlcmlmeSA8PCB7IHZlbmRvcl9zdWJzdHJhdGU6IHZlbmRvcl9zdWJzdHJhdGUsIGVycm9yOiBlIH0KICAgICAgICBlbmQK</text>
@@ -9887,9 +9891,9 @@
       </register>
     </registers>
     <search>
-      <last-search>begin</last-search>
+      <last-search>run</last-search>
       <last-offset />
-      <last-pattern>begin</last-pattern>
+      <last-pattern>run</last-pattern>
       <last-replace>update_foreign_keys</last-replace>
       <last-substitute>update_reference_ids</last-substitute>
       <last-dir>1</last-dir>
@@ -9897,9 +9901,6 @@
     </search>
     <history>
       <history-search>
-        <entry>update_reference_ids</entry>
-        <entry>update_foreign_keys</entry>
-        <entry>run</entry>
         <entry>inverse</entry>
         <entry>write</entry>
         <entry>binding</entry>
@@ -9917,6 +9918,9 @@
         <entry>being</entry>
         <entry>bdgin</entry>
         <entry>begin</entry>
+        <entry>permissions</entry>
+        <entry>urn</entry>
+        <entry>run</entry>
       </history-search>
       <history-cmd>
         <entry>%s:destination:source:c</entry>
