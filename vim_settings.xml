@@ -206,8 +206,8 @@
       <file name="/e_migration.public.zones [postgres@localhost]" timestamp="1547445170687">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" timestamp="1547747190160">
-        <mark key="'" line="596" column="94" />
+      <file name="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" timestamp="1547748197303">
+        <mark key="'" line="148" column="8" />
         <mark key="[" line="83" column="4" />
         <mark key="]" line="83" column="26" />
         <mark key="^" line="83" column="26" />
@@ -280,7 +280,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="11" filename="$USER_HOME$/code/io/io-engage/config/database.yml" />
       <jump line="51" column="3" filename="$USER_HOME$/code/io/io-engage/config/database.yml" />
       <jump line="177" column="0" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="41" column="0" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
@@ -380,6 +379,7 @@
       <jump line="570" column="11" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="580" column="65" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="596" column="94" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
+      <jump line="148" column="8" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -9450,7 +9450,7 @@
         <text />
       </register>
       <register name="/" type="4">
-        <text>run</text>
+        <text>permissions</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICByZXNjdWUgQWN0aXZlUmVjb3JkOjpSZWNvcmROb3RVbmlxdWUgPT4gZQogICAgICAgICAgcmVzb3VyY2VzX3RvX3ZlcmlmeSA8PCB7IHZlbmRvcl9zdWJzdHJhdGU6IHZlbmRvcl9zdWJzdHJhdGUsIGVycm9yOiBlIH0KICAgICAgICBlbmQK</text>
@@ -9891,9 +9891,9 @@
       </register>
     </registers>
     <search>
-      <last-search>run</last-search>
+      <last-search>permissions</last-search>
       <last-offset />
-      <last-pattern>run</last-pattern>
+      <last-pattern>permissions</last-pattern>
       <last-replace>update_foreign_keys</last-replace>
       <last-substitute>update_reference_ids</last-substitute>
       <last-dir>1</last-dir>
@@ -9918,9 +9918,9 @@
         <entry>being</entry>
         <entry>bdgin</entry>
         <entry>begin</entry>
-        <entry>permissions</entry>
         <entry>urn</entry>
         <entry>run</entry>
+        <entry>permissions</entry>
       </history-search>
       <history-cmd>
         <entry>%s:destination:source:c</entry>
