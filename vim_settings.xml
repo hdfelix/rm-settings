@@ -212,12 +212,12 @@
       <file name="/e_migration.public.zones [postgres@localhost]" timestamp="1547445170687">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" timestamp="1547748197303">
-        <mark key="'" line="148" column="8" />
-        <mark key="[" line="83" column="4" />
-        <mark key="]" line="83" column="26" />
-        <mark key="^" line="83" column="26" />
-        <mark key="." line="83" column="26" />
+      <file name="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" timestamp="1547750033261">
+        <mark key="'" line="269" column="22" />
+        <mark key="[" line="441" column="22" />
+        <mark key="]" line="442" column="18" />
+        <mark key="^" line="442" column="18" />
+        <mark key="." line="442" column="18" />
       </file>
       <file name="$USER_HOME$/code/io/io-engage/lib/tasks/exhibitree_migration.rake" timestamp="1546632827375">
         <mark key="'" line="103" column="1" />
@@ -286,9 +286,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="3" filename="$USER_HOME$/code/io/io-engage/config/database.yml" />
-      <jump line="177" column="0" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
-      <jump line="41" column="0" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="181" column="26" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="492" column="48" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="26" column="8" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
@@ -361,7 +358,6 @@
       <jump line="280" column="6" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="432" column="31" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="74" column="4" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
-      <jump line="269" column="0" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="503" column="0" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="560" column="0" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="564" column="0" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
@@ -386,6 +382,10 @@
       <jump line="580" column="65" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="596" column="94" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="148" column="8" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
+      <jump line="416" column="29" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
+      <jump line="2" column="0" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
+      <jump line="48" column="8" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
+      <jump line="269" column="22" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -9456,7 +9456,7 @@
         <text />
       </register>
       <register name="/" type="4">
-        <text>permissions</text>
+        <text>role_types</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">dGVzdDoKICBzZWNyZXRfa2V5X2Jhc2U6IGE0MjBhZDE3NjU4MDQyZmRjNzBjMThiNjcyMDE0ZmY0NDA4ZDUzMDQwZWE3ZjVkYWI4YTIzNDk2OTI2Y2ZjOTk5N2VlYjBiYmE3YWViOTgwNGQxMzJmZDFkMGU4ZWJkODA1ZmMyZmZmOWM4NmYyNDVlZmJkODI1MjMwMTM0NTBlCg==</text>
@@ -9897,9 +9897,9 @@
       </register>
     </registers>
     <search>
-      <last-search>permissions</last-search>
+      <last-search>role_types</last-search>
       <last-offset />
-      <last-pattern>permissions</last-pattern>
+      <last-pattern>role_types</last-pattern>
       <last-replace>update_foreign_keys</last-replace>
       <last-substitute>update_reference_ids</last-substitute>
       <last-dir>1</last-dir>
@@ -9912,7 +9912,6 @@
         <entry>binding</entry>
         <entry>write_object</entry>
         <entry>update_</entry>
-        <entry>role_types</entry>
         <entry>write_</entry>
         <entry>binding.pry</entry>
         <entry>write_data</entry>
@@ -9927,6 +9926,7 @@
         <entry>urn</entry>
         <entry>run</entry>
         <entry>permissions</entry>
+        <entry>role_types</entry>
       </history-search>
       <history-cmd>
         <entry>%s:destination:source:c</entry>
