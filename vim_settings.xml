@@ -28,12 +28,12 @@
       <file name="/e_migration_legacy.public.add_on_types [postgres@localhost]" timestamp="1547156910876">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/app/javascript/packs/bugherd.js" timestamp="1546287153710">
-        <mark key="'" line="4" column="0" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="24" column="38" />
+      <file name="$USER_HOME$/code/io/io-engage/app/javascript/packs/bugherd.js" timestamp="1547774438725">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="23" column="29" />
+        <mark key="]" line="23" column="37" />
+        <mark key="^" line="23" column="37" />
+        <mark key="." line="23" column="37" />
       </file>
       <file name="/e_migration.public.roles [postgres@localhost]" timestamp="1547179132596">
         <mark key="[" line="0" column="0" />
@@ -93,10 +93,10 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/io/io-engage/config/secrets.yml" timestamp="1547749042865">
-        <mark key="[" line="23" column="147" />
-        <mark key="]" line="24" column="1" />
-        <mark key="." line="24" column="1" />
-        <mark key="^" line="24" column="1" />
+        <mark key="[" line="16" column="147" />
+        <mark key="]" line="17" column="1" />
+        <mark key="." line="17" column="1" />
+        <mark key="^" line="17" column="1" />
       </file>
       <file name="/e_migration_legacy.public.vendor_substrates [postgres@localhost]" timestamp="1547234009367">
         <mark key="[" line="0" column="0" />
@@ -107,12 +107,12 @@
       <file name="/e_migration.public.sides [postgres@localhost]" timestamp="1547179917847">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/config/settings.yml" timestamp="1547501291268">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="43" column="2" />
-        <mark key="]" line="43" column="5" />
-        <mark key="." line="43" column="5" />
-        <mark key="^" line="43" column="5" />
+      <file name="$USER_HOME$/code/io/io-engage/config/settings.yml" timestamp="1547773835613">
+        <mark key="'" line="128" column="5" />
+        <mark key="[" line="234" column="0" />
+        <mark key="]" line="235" column="43" />
+        <mark key="." line="767" column="0" />
+        <mark key="^" line="650" column="12" />
       </file>
       <file name="$USER_HOME$/code/io/io-engage/spec/lib/exhibitree_migration_spec.rb" timestamp="1546633038273">
         <mark key="'" line="141" column="52" />
@@ -238,6 +238,13 @@
       <file name="/e_migration_legacy.public.vendors [postgres@localhost]" timestamp="1547418405463">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/io/io-engage/app/controllers/application_controller.rb" timestamp="1547774644653">
+        <mark key="'" line="19" column="37" />
+        <mark key="[" line="73" column="7" />
+        <mark key="]" line="73" column="12" />
+        <mark key="." line="73" column="12" />
+        <mark key="^" line="73" column="12" />
+      </file>
       <file name="/e_migration_cloud.public.vendors [postgres@localhost]" timestamp="1547418308669">
         <mark key="[" line="0" column="0" />
       </file>
@@ -289,28 +296,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="518" column="0" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
-      <jump line="100" column="0" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
-      <jump line="568" column="31" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
-      <jump line="365" column="49" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
-      <jump line="370" column="12" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
-      <jump line="409" column="18" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
-      <jump line="417" column="18" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
-      <jump line="466" column="18" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
-      <jump line="487" column="18" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
-      <jump line="556" column="14" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
-      <jump line="579" column="6" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
-      <jump line="364" column="18" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
-      <jump line="379" column="18" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
-      <jump line="464" column="26" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
-      <jump line="465" column="26" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
-      <jump line="486" column="26" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
-      <jump line="511" column="47" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
-      <jump line="188" column="35" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
-      <jump line="451" column="46" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
-      <jump line="3" column="0" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
-      <jump line="508" column="9" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="519" column="6" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="525" column="0" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="533" column="23" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
@@ -389,6 +374,28 @@
       <jump line="569" column="12" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="584" column="6" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="589" column="8" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
+      <jump line="884" column="0" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
+      <jump line="903" column="0" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
+      <jump line="3" column="0" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
+      <jump line="25" column="33" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
+      <jump line="230" column="13" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
+      <jump line="387" column="20" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
+      <jump line="226" column="0" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
+      <jump line="234" column="15" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
+      <jump line="827" column="22" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
+      <jump line="5" column="36" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
+      <jump line="47" column="28" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
+      <jump line="4" column="26" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
+      <jump line="51" column="27" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
+      <jump line="7" column="0" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
+      <jump line="233" column="17" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
+      <jump line="390" column="11" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
+      <jump line="128" column="5" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
+      <jump line="22" column="22" filename="$USER_HOME$/code/io/io-engage/app/javascript/packs/bugherd.js" />
+      <jump line="32" column="0" filename="$USER_HOME$/code/io/io-engage/app/javascript/packs/bugherd.js" />
+      <jump line="5" column="0" filename="$USER_HOME$/code/io/io-engage/app/javascript/packs/bugherd.js" />
+      <jump line="6" column="0" filename="$USER_HOME$/code/io/io-engage/app/controllers/application_controller.rb" />
+      <jump line="19" column="37" filename="$USER_HOME$/code/io/io-engage/app/controllers/application_controller.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5753,8 +5760,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICMgdGFyZ2V0X3Jvd3MgPSBbXQo=</text>
+      <register name="&quot;" type="4">
+        <text>(</text>
       </register>
       <register name="b" type="4">
         <text>kkjj</text>
@@ -9453,37 +9460,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>(</text>
       </register>
       <register name="n" type="4">
         <text />
       </register>
       <register name="/" type="4">
-        <text>binding.pry</text>
+        <text>bugherd</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGFycmF5Lm1hcCB7IHxyb3d8IHJvdyBpZiByb3dba2V5XSA9PSB2YWx1ZSB9LmNvbXBhY3QK</text>
+        <text encoding="base64">ICAgIGRvbWFpbjogJ2V4aGliaXRyZWUuY2xvdWQvZXZlbnRzJwogICAgZnJvbV9lbWFpbDogJ25vLXJlcGx5QGV4aGliaXRyZWUuY2xvdWQnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgdGFyZ2V0X3Jvd3MgPSBbXQo=</text>
+        <text encoding="base64">ICAgIGdvbi5wdXNoKGJ1Z2hlcmRfZG9tYWluOiBTZXR0aW5ncy5nZXQoJ2J1Z2hlcmQuZG9tYWluJykpCg==</text>
       </register>
       <register name="q" type="4">
         <text>jdd</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+        <text encoding="base64">cAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkgaWYgdGFyZ2V0X3Jlc291cmNlID09IDpwZXJtaXNzaW9ucwo=</text>
+        <text encoding="base64">ICAgIHByb2plY3Rfa2V5Ogo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByb2plY3Rfa2V5OiAnYnZ0ajVnNXAyNXl6ZWt5c3Vlc2l6ZycK</text>
       </register>
       <register name="t" type="4">
         <text>jdd</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgYXJyYXkubWFwIHsgfHJvd3wgcm93fQo=</text>
+        <text encoding="base64">ICAgICMgdGFyZ2V0X3Jvd3MgPSBbXQo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -9884,25 +9891,25 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5IGlmIHJlc291cmNlID09IDpwZXJtaXNzaW9ucwo=</text>
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
+        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkgaWYgdGFyZ2V0X3Jlc291cmNlID09IDpwZXJtaXNzaW9ucwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkgaWYgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
+        <text encoding="base64">ICAgYXJyYXkubWFwIHsgfHJvd3wgcm93fQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>binding.pry</last-search>
+      <last-search>bugherd</last-search>
       <last-offset />
-      <last-pattern>binding.pry</last-pattern>
+      <last-pattern>bugherd</last-pattern>
       <last-replace>update_foreign_keys</last-replace>
       <last-substitute>update_reference_ids</last-substitute>
       <last-dir>1</last-dir>
@@ -9910,12 +9917,6 @@
     </search>
     <history>
       <history-search>
-        <entry>write_object</entry>
-        <entry>update_</entry>
-        <entry>write_</entry>
-        <entry>write_data</entry>
-        <entry>post</entry>
-        <entry>Updating</entry>
         <entry>logger_call</entry>
         <entry>attributes_for_update</entry>
         <entry>substart</entry>
@@ -9930,6 +9931,12 @@
         <entry>net</entry>
         <entry>next</entry>
         <entry>binding.pry</entry>
+        <entry>exhibitree</entry>
+        <entry>exhibitree.cloud</entry>
+        <entry>dreamforce</entry>
+        <entry>io-view.net</entry>
+        <entry>no-reply</entry>
+        <entry>bugherd</entry>
       </history-search>
       <history-cmd>
         <entry>%s:destination:source:c</entry>
