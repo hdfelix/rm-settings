@@ -30,7 +30,8 @@
         <mark key="." line="3" column="20" />
         <mark key="^" line="3" column="20" />
       </file>
-      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/shows/config/settings.yml" timestamp="1547777111310">
+      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/shows/config/settings.yml" timestamp="1547833095103">
+        <mark key="'" line="43" column="44" />
         <mark key="[" line="3" column="0" />
         <mark key="]" line="5" column="43" />
         <mark key="." line="3" column="19" />
@@ -229,8 +230,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="279" column="23" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
-      <jump line="555" column="7" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="224" column="26" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="232" column="6" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="558" column="15" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
@@ -329,6 +328,8 @@
       <jump line="14" column="19" filename="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree_noncloud/production/config/settings.yml" />
       <jump line="13" column="6" filename="$USER_HOME$/code/io/io_engage_configuration/instances/demo/master/config/settings.yml" />
       <jump line="19" column="11" filename="$USER_HOME$/code/io/io_engage_configuration/instances/demo/production/config/settings.yml" />
+      <jump line="19" column="33" filename="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/shows/config/settings.yml" />
+      <jump line="43" column="44" filename="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/shows/config/settings.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -9399,7 +9400,7 @@
         <text />
       </register>
       <register name="/" type="4">
-        <text>pusher</text>
+        <text>slug</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGluc3RhbmNlOiAnRXhoaWJpdHJlZScKICAgIGRvbWFpbjogJ2lvLXZpZXcubmV0JwogICAgZnJvbV9lbWFpbDogJ25vLXJlcGx5QGlvLXZpZXcubmV0Jwo=</text>
@@ -9840,9 +9841,9 @@
       </register>
     </registers>
     <search>
-      <last-search>pusher</last-search>
+      <last-search>slug</last-search>
       <last-offset />
-      <last-pattern>pusher</last-pattern>
+      <last-pattern>slug</last-pattern>
       <last-replace>update_foreign_keys</last-replace>
       <last-substitute>update_reference_ids</last-substitute>
       <last-dir>1</last-dir>
@@ -9850,7 +9851,6 @@
     </search>
     <history>
       <history-search>
-        <entry>bdgin</entry>
         <entry>begin</entry>
         <entry>urn</entry>
         <entry>run</entry>
@@ -9870,6 +9870,7 @@
         <entry>exhibitree</entry>
         <entry>usher</entry>
         <entry>pusher</entry>
+        <entry>slug</entry>
       </history-search>
       <history-cmd>
         <entry>%s:destination:source:c</entry>
