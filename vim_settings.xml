@@ -84,12 +84,12 @@
         <mark key="." line="3" column="20" />
         <mark key="^" line="3" column="20" />
       </file>
-      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/demo/master/config/settings.yml" timestamp="1547778792331">
+      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/demo/master/config/settings.yml" timestamp="1547850027044">
         <mark key="'" line="16" column="6" />
-        <mark key="[" line="3" column="15" />
-        <mark key="]" line="3" column="23" />
-        <mark key="." line="3" column="23" />
-        <mark key="^" line="3" column="23" />
+        <mark key="[" line="131" column="21" />
+        <mark key="]" line="131" column="29" />
+        <mark key="." line="131" column="29" />
+        <mark key="^" line="131" column="29" />
       </file>
       <file name="$USER_HOME$/code/io/io_engage_configuration/instances/developers/sakthivelp/config/settings.yml" timestamp="1547776954668">
         <mark key="[" line="3" column="0" />
@@ -144,12 +144,12 @@
         <mark key="^" line="49" column="3" />
         <mark key="." line="49" column="3" />
       </file>
-      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/dreamforce/production/config/settings.yml" timestamp="1547777052885">
-        <mark key="'" line="18" column="0" />
-        <mark key="[" line="13" column="15" />
-        <mark key="]" line="13" column="16" />
-        <mark key="." line="13" column="16" />
-        <mark key="^" line="15" column="34" />
+      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/dreamforce/production/config/settings.yml" timestamp="1547850233476">
+        <mark key="'" line="11" column="9" />
+        <mark key="[" line="136" column="29" />
+        <mark key="]" line="136" column="29" />
+        <mark key="." line="136" column="29" />
+        <mark key="^" line="136" column="29" />
       </file>
       <file name="$USER_HOME$/code/io/io-engage/spec/lib/exhibitree_migration_spec.rb" timestamp="1546633038273">
         <mark key="'" line="141" column="52" />
@@ -174,11 +174,12 @@
         <mark key="." line="2" column="18" />
         <mark key="^" line="2" column="18" />
       </file>
-      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/preferred/rodanandfields/config/settings.yml" timestamp="1547777396281">
-        <mark key="[" line="4" column="13" />
-        <mark key="]" line="4" column="26" />
-        <mark key="." line="4" column="26" />
-        <mark key="^" line="4" column="26" />
+      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/preferred/rodanandfields/config/settings.yml" timestamp="1547849753970">
+        <mark key="'" line="27" column="18" />
+        <mark key="[" line="115" column="23" />
+        <mark key="]" line="115" column="25" />
+        <mark key="." line="115" column="25" />
+        <mark key="^" line="115" column="25" />
       </file>
       <file name="$USER_HOME$/code/io/io-engage/lib/tasks/exhibitree_migration.rake" timestamp="1546632827375">
         <mark key="'" line="103" column="1" />
@@ -206,12 +207,12 @@
         <mark key="." line="72" column="63" />
         <mark key="^" line="72" column="63" />
       </file>
-      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/events/config/settings.yml" timestamp="1547777085904">
-        <mark key="'" line="17" column="11" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="5" column="43" />
-        <mark key="." line="4" column="29" />
-        <mark key="^" line="4" column="35" />
+      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/events/config/settings.yml" timestamp="1547850060704">
+        <mark key="'" line="15" column="20" />
+        <mark key="[" line="52" column="26" />
+        <mark key="]" line="52" column="28" />
+        <mark key="." line="52" column="28" />
+        <mark key="^" line="52" column="28" />
       </file>
       <file name="$USER_HOME$/code/io/io_engage_configuration/instances/demo/production/config/settings.yml" timestamp="1547778851867">
         <mark key="'" line="22" column="11" />
@@ -234,9 +235,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="224" column="26" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
-      <jump line="232" column="6" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
-      <jump line="558" column="15" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="531" column="29" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="67" column="8" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="204" column="69" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
@@ -334,6 +332,9 @@
       <jump line="19" column="11" filename="$USER_HOME$/code/io/io_engage_configuration/instances/demo/production/config/settings.yml" />
       <jump line="19" column="33" filename="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/shows/config/settings.yml" />
       <jump line="43" column="44" filename="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/shows/config/settings.yml" />
+      <jump line="27" column="18" filename="$USER_HOME$/code/io/io_engage_configuration/instances/preferred/rodanandfields/config/settings.yml" />
+      <jump line="15" column="20" filename="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/events/config/settings.yml" />
+      <jump line="11" column="9" filename="$USER_HOME$/code/io/io_engage_configuration/instances/dreamforce/production/config/settings.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5699,7 +5700,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>Exhibitree</text>
+        <text>e</text>
       </register>
       <register name="b" type="4">
         <text>kkjj</text>
@@ -9398,13 +9399,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Exhibitree</text>
+        <text>e</text>
       </register>
       <register name="n" type="4">
         <text />
       </register>
       <register name="/" type="4">
-        <text>slug</text>
+        <text>redis</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGluc3RhbmNlOiAnRXhoaWJpdHJlZScKICAgIGRvbWFpbjogJ2lvLXZpZXcubmV0JwogICAgZnJvbV9lbWFpbDogJ25vLXJlcGx5QGlvLXZpZXcubmV0Jwo=</text>
@@ -9845,9 +9846,9 @@
       </register>
     </registers>
     <search>
-      <last-search>slug</last-search>
+      <last-search>redis</last-search>
       <last-offset />
-      <last-pattern>slug</last-pattern>
+      <last-pattern>redis</last-pattern>
       <last-replace>update_foreign_keys</last-replace>
       <last-substitute>update_reference_ids</last-substitute>
       <last-dir>1</last-dir>
@@ -9855,7 +9856,6 @@
     </search>
     <history>
       <history-search>
-        <entry>begin</entry>
         <entry>urn</entry>
         <entry>run</entry>
         <entry>role_types</entry>
@@ -9875,6 +9875,7 @@
         <entry>usher</entry>
         <entry>pusher</entry>
         <entry>slug</entry>
+        <entry>redis</entry>
       </history-search>
       <history-cmd>
         <entry>%s:destination:source:c</entry>
