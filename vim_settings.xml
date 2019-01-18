@@ -28,12 +28,12 @@
       <file name="/e_migration_legacy.public.add_on_types [postgres@localhost]" timestamp="1547156910876">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/app/javascript/packs/bugherd.js" timestamp="1547774438725">
-        <mark key="'" line="5" column="0" />
-        <mark key="[" line="23" column="29" />
-        <mark key="]" line="23" column="37" />
-        <mark key="^" line="23" column="37" />
-        <mark key="." line="23" column="37" />
+      <file name="$USER_HOME$/code/io/io-engage/app/javascript/packs/bugherd.js" timestamp="1547775743818">
+        <mark key="'" line="22" column="1" />
+        <mark key="[" line="25" column="12" />
+        <mark key="]" line="25" column="13" />
+        <mark key="^" line="25" column="7" />
+        <mark key="." line="25" column="13" />
       </file>
       <file name="/e_migration.public.roles [postgres@localhost]" timestamp="1547179132596">
         <mark key="[" line="0" column="0" />
@@ -65,8 +65,8 @@
       <file name="/e_events_migration_source.public.events [postgres@localhost]" timestamp="1546538086665">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/config/settings.sample.yml" timestamp="1547502201130">
-        <mark key="'" line="16" column="0" />
+      <file name="$USER_HOME$/code/io/io-engage/config/settings.sample.yml" timestamp="1547775802614">
+        <mark key="'" line="9" column="19" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -296,7 +296,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="519" column="6" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="525" column="0" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="533" column="23" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="63" column="6" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
@@ -391,11 +390,12 @@
       <jump line="233" column="17" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
       <jump line="390" column="11" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
       <jump line="128" column="5" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
-      <jump line="22" column="22" filename="$USER_HOME$/code/io/io-engage/app/javascript/packs/bugherd.js" />
       <jump line="32" column="0" filename="$USER_HOME$/code/io/io-engage/app/javascript/packs/bugherd.js" />
       <jump line="5" column="0" filename="$USER_HOME$/code/io/io-engage/app/javascript/packs/bugherd.js" />
       <jump line="6" column="0" filename="$USER_HOME$/code/io/io-engage/app/controllers/application_controller.rb" />
       <jump line="19" column="37" filename="$USER_HOME$/code/io/io-engage/app/controllers/application_controller.rb" />
+      <jump line="22" column="1" filename="$USER_HOME$/code/io/io-engage/app/javascript/packs/bugherd.js" />
+      <jump line="9" column="19" filename="$USER_HOME$/code/io/io-engage/config/settings.sample.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -9466,7 +9466,7 @@
         <text />
       </register>
       <register name="/" type="4">
-        <text>bugherd</text>
+        <text>pusher</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRvbWFpbjogJ2V4aGliaXRyZWUuY2xvdWQvZXZlbnRzJwogICAgZnJvbV9lbWFpbDogJ25vLXJlcGx5QGV4aGliaXRyZWUuY2xvdWQnCg==</text>
@@ -9907,9 +9907,9 @@
       </register>
     </registers>
     <search>
-      <last-search>bugherd</last-search>
+      <last-search>pusher</last-search>
       <last-offset />
-      <last-pattern>bugherd</last-pattern>
+      <last-pattern>pusher</last-pattern>
       <last-replace>update_foreign_keys</last-replace>
       <last-substitute>update_reference_ids</last-substitute>
       <last-dir>1</last-dir>
@@ -9917,7 +9917,6 @@
     </search>
     <history>
       <history-search>
-        <entry>logger_call</entry>
         <entry>attributes_for_update</entry>
         <entry>substart</entry>
         <entry>being</entry>
@@ -9937,6 +9936,7 @@
         <entry>io-view.net</entry>
         <entry>no-reply</entry>
         <entry>bugherd</entry>
+        <entry>pusher</entry>
       </history-search>
       <history-cmd>
         <entry>%s:destination:source:c</entry>
