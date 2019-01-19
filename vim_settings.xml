@@ -207,12 +207,12 @@
         <mark key="." line="72" column="63" />
         <mark key="^" line="72" column="63" />
       </file>
-      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/events/config/settings.yml" timestamp="1547850060704">
-        <mark key="'" line="12" column="20" />
-        <mark key="[" line="49" column="26" />
-        <mark key="]" line="49" column="28" />
-        <mark key="." line="49" column="28" />
-        <mark key="^" line="49" column="28" />
+      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/events/config/settings.yml" timestamp="1547857305734">
+        <mark key="'" line="188" column="2" />
+        <mark key="[" line="42" column="21" />
+        <mark key="]" line="42" column="21" />
+        <mark key="." line="42" column="21" />
+        <mark key="^" line="42" column="21" />
       </file>
       <file name="$USER_HOME$/code/io/io_engage_configuration/instances/demo/production/config/settings.yml" timestamp="1547851598497">
         <mark key="'" line="15" column="19" />
@@ -235,9 +235,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="204" column="69" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
-      <jump line="532" column="8" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
-      <jump line="562" column="12" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="565" column="24" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="596" column="94" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="148" column="8" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
@@ -335,6 +332,9 @@
       <jump line="11" column="9" filename="$USER_HOME$/code/io/io_engage_configuration/instances/dreamforce/production/config/settings.yml" />
       <jump line="15" column="19" filename="$USER_HOME$/code/io/io_engage_configuration/instances/demo/production/config/settings.yml" />
       <jump line="69" column="16" filename="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/shows/config/settings.yml" />
+      <jump line="46" column="18" filename="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/events/config/settings.yml" />
+      <jump line="6" column="15" filename="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/events/config/settings.yml" />
+      <jump line="188" column="2" filename="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/events/config/settings.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -9856,7 +9856,6 @@
     </search>
     <history>
       <history-search>
-        <entry>urn</entry>
         <entry>run</entry>
         <entry>role_types</entry>
         <entry>permissions</entry>
@@ -9875,6 +9874,7 @@
         <entry>usher</entry>
         <entry>pusher</entry>
         <entry>slug</entry>
+        <entry>io-engage-prod</entry>
         <entry>redis</entry>
       </history-search>
       <history-cmd>
