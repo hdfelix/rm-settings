@@ -222,12 +222,15 @@
         <mark key="." line="4" column="19" />
         <mark key="^" line="4" column="19" />
       </file>
+      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/test/config/settings.yml" timestamp="1548189527269">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="63" column="43" />
+        <mark key="]" line="63" column="46" />
+        <mark key="." line="63" column="46" />
+        <mark key="^" line="63" column="46" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="442" column="0" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
-      <jump line="501" column="91" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
-      <jump line="530" column="17" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
-      <jump line="566" column="10" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="618" column="0" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="102" column="4" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
       <jump line="103" column="4" filename="$USER_HOME$/code/io/io-engage/lib/e_migration_service.rb" />
@@ -324,6 +327,10 @@
       <jump line="97" column="38" filename="$USER_HOME$/code/io/io_engage_configuration/instances/dreamforce/production/config/settings.yml" />
       <jump line="141" column="16" filename="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/shows/config/settings.yml" />
       <jump line="157" column="0" filename="$USER_HOME$/code/io/io-engage/app/models/workflows/common.rb" />
+      <jump line="2" column="0" filename="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/test/config/settings.yml" />
+      <jump line="163" column="2" filename="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/test/config/settings.yml" />
+      <jump line="164" column="4" filename="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/test/config/settings.yml" />
+      <jump line="3" column="0" filename="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/test/config/settings.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5688,8 +5695,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG5vdGlmaWNhdGlvbl9xdWV1ZTogJ25vdGlmaWNhdGlvbl9xdWV1ZQo=</text>
+      <register name="&quot;" type="4">
+        <text>r</text>
       </register>
       <register name="b" type="4">
         <text>kkjj</text>
@@ -9388,13 +9395,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>r</text>
       </register>
       <register name="n" type="4">
         <text />
       </register>
       <register name="/" type="4">
-        <text>redis</text>
+        <text>s3</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGluc3RhbmNlOiAnRXhoaWJpdHJlZScKICAgIGRvbWFpbjogJ2lvLXZpZXcubmV0JwogICAgZnJvbV9lbWFpbDogJ25vLXJlcGx5QGlvLXZpZXcubmV0Jwo=</text>
@@ -9835,9 +9842,9 @@
       </register>
     </registers>
     <search>
-      <last-search>redis</last-search>
+      <last-search>s3</last-search>
       <last-offset />
-      <last-pattern>redis</last-pattern>
+      <last-pattern>s3</last-pattern>
       <last-replace>update_foreign_keys</last-replace>
       <last-substitute>update_reference_ids</last-substitute>
       <last-dir>1</last-dir>
@@ -9845,7 +9852,6 @@
     </search>
     <history>
       <history-search>
-        <entry>db_setup_for</entry>
         <entry>net</entry>
         <entry>next</entry>
         <entry>binding.pry</entry>
@@ -9865,6 +9871,7 @@
         <entry>resque</entry>
         <entry>slug_report</entry>
         <entry>redis</entry>
+        <entry>s3</entry>
       </history-search>
       <history-cmd>
         <entry>%s:destination:source:c</entry>
