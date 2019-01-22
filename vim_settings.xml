@@ -39,13 +39,6 @@
         <mark key="." line="4" column="19" />
         <mark key="^" line="4" column="19" />
       </file>
-      <file name="$USER_HOME$/code/io/io-engage/app/javascript/packs/bugherd.js" timestamp="1547777628294">
-        <mark key="'" line="22" column="1" />
-        <mark key="[" line="25" column="24" />
-        <mark key="]" line="25" column="31" />
-        <mark key="^" line="25" column="31" />
-        <mark key="." line="25" column="31" />
-      </file>
       <file name="$USER_HOME$/code/io/io_engage_configuration/instances/preferred/netapp/config/settings.yml" timestamp="1547777453855">
         <mark key="[" line="2" column="41" />
         <mark key="]" line="5" column="35" />
@@ -73,11 +66,7 @@
         <mark key="^" line="3" column="20" />
       </file>
       <file name="$USER_HOME$/code/io/io-engage/config/settings.sample.yml" timestamp="1547777657831">
-        <mark key="'" line="20" column="20" />
-        <mark key="[" line="5" column="26" />
-        <mark key="]" line="5" column="41" />
-        <mark key="^" line="5" column="41" />
-        <mark key="." line="5" column="41" />
+        <mark key="'" line="15" column="20" />
       </file>
       <file name="$USER_HOME$/code/io/io-engage/lib/exhibitree_migration.rb" timestamp="1546633869051">
         <mark key="'" line="3" column="0" />
@@ -141,13 +130,6 @@
         <mark key="]" line="5" column="38" />
         <mark key="." line="5" column="36" />
         <mark key="^" line="5" column="36" />
-      </file>
-      <file name="$USER_HOME$/code/io/io-engage/app/controllers/application_controller.rb" timestamp="1547776637465">
-        <mark key="'" line="19" column="37" />
-        <mark key="[" line="72" column="63" />
-        <mark key="]" line="72" column="63" />
-        <mark key="." line="72" column="63" />
-        <mark key="^" line="72" column="63" />
       </file>
       <file name="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/shows/config/settings.yml" timestamp="1548182978539">
         <mark key="'" line="141" column="16" />
