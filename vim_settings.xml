@@ -176,6 +176,12 @@
         <mark key="." line="137" column="17" />
         <mark key="^" line="15" column="41" />
       </file>
+      <file name="$USER_HOME$/code/io/io-engage/config/settings.yml" timestamp="1548272188472">
+        <mark key="'" line="29" column="30" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="4" column="38" />
+        <mark key="." line="351" column="0" />
+      </file>
       <file name="$USER_HOME$/code/io/io-engage/spec/lib/exhibitree_migration_spec.rb" timestamp="1546633038273">
         <mark key="'" line="141" column="52" />
         <mark key="[" line="0" column="21" />
@@ -197,12 +203,12 @@
         <mark key="^" line="1" column="1" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/developers/hfelix/config/settings.yml" timestamp="1548201377647">
-        <mark key="'" line="48" column="20" />
-        <mark key="[" line="64" column="39" />
-        <mark key="]" line="64" column="71" />
-        <mark key="." line="64" column="71" />
-        <mark key="^" line="64" column="71" />
+      <file name="$USER_HOME$/code/io/io_engage_configuration/instances/developers/hfelix/config/settings.yml" timestamp="1548272228535">
+        <mark key="'" line="79" column="21" />
+        <mark key="[" line="4" column="26" />
+        <mark key="]" line="4" column="41" />
+        <mark key="^" line="4" column="41" />
+        <mark key="." line="4" column="41" />
       </file>
       <file name="$USER_HOME$/code/io/io_engage_configuration/instances/exhibitree/test/config/settings.yml" timestamp="1548201460234">
         <mark key="'" line="73" column="39" />
@@ -213,7 +219,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="230" column="13" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
       <jump line="387" column="20" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
       <jump line="226" column="0" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
       <jump line="827" column="22" filename="$USER_HOME$/code/io/io-engage/config/settings.yml" />
@@ -313,6 +318,7 @@
       <jump line="3" column="0" filename="$USER_HOME$/code/io/io_engage_configuration/instances/developers/sakthivelp/config/settings.yml" />
       <jump line="1" column="0" filename="$USER_HOME$/code/io/io_engage_configuration/instances/developers/shelms/config/settings.yml" />
       <jump line="15" column="28" filename="$USER_HOME$/code/io/io_engage_configuration/instances/developers/_sample/config/settings.yml" />
+      <jump line="77" column="21" filename="$USER_HOME$/code/io/io_engage_configuration/instances/developers/hfelix/config/settings.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5677,8 +5683,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJlcG9ydF9rZXk6ICdzbHVnX3JlcG9ydF90ZW1wbGF0ZXMvc2x1Zy5qYXNwZXInCg==</text>
+      <register name="&quot;" type="4">
+        <text>t</text>
       </register>
       <register name="b" type="4">
         <text>kkjj</text>
@@ -9377,7 +9383,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>jasper</text>
+        <text>t</text>
       </register>
       <register name="n" type="4">
         <text />
@@ -9386,10 +9392,10 @@
         <text>report_key</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJlcG9ydF9rZXk6ICdzbHVnX3JlcG9ydF90ZW1wbGF0ZXMvc2x1Z19yZXBvcnQudGxmJwo=</text>
+        <text encoding="base64">ICBidWdoZXJkOgogICAgcHJvamVjdF9rZXk6ICdidnRqNWc1cDI1eXpla3lzdWVzaXpnJwogICAgZG9tYWluOiAnaW8tdmlldy5uZXQnCiAgICBmcm9tX2VtYWlsOiAnbm8tcmVwbHlAaW8tdmlldy5uZXQnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJlcG9ydF9rZXk6ICdzbHVnX3JlcG9ydF90ZW1wbGF0ZXMvc2x1Zy5qYXNwZXInCg==</text>
+        <text encoding="base64">ICBidWdoZXJkOgogICAgcHJvamVjdF9rZXk6ICdidnRqNWc1cDI1eXpla3lzdWVzaXpnJwo=</text>
       </register>
       <register name="q" type="4">
         <text>jdd</text>
@@ -9398,7 +9404,7 @@
         <text encoding="base64">ICAgIHJlcG9ydF9rZXk6ICdzbHVnX3JlcG9ydF90ZW1wbGF0ZXMvc2x1Zy5qYXNwZXInCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJlcG9ydF9rZXk6ICdzbHVnX3JlcG9ydF90ZW1wbGF0ZXMvc2FtcGxlLmphc3BlcicK</text>
+        <text encoding="base64">ICAgIHJlcG9ydF9rZXk6ICdzbHVnX3JlcG9ydF90ZW1wbGF0ZXMvc2x1Zy5qYXNwZXInCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgIHJlcG9ydF9rZXk6ICdzbHVnX3JlcG9ydF90ZW1wbGF0ZXMvc2FtcGxlLmphc3BlcicK</text>
@@ -9817,7 +9823,7 @@
         <text encoding="base64">ICAgIHJlcG9ydF9rZXk6ICdzbHVnX3JlcG9ydF90ZW1wbGF0ZXMvc2FtcGxlLmphc3BlcicK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJlcG9ydF9rZXk6ICdzbHVnX3JlcG9ydF90ZW1wbGF0ZXMvZGVmYXVsdC5qYXNwZXInCg==</text>
+        <text encoding="base64">ICAgIHJlcG9ydF9rZXk6ICdzbHVnX3JlcG9ydF90ZW1wbGF0ZXMvc2FtcGxlLmphc3BlcicK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
